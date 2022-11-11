@@ -12,7 +12,7 @@ import aiohttp
 from dateutil.parser import parse as dtparse
 from lxml.html import document_fromstring, fragment_fromstring, tostring
 from lxml.html.builder import OL, LI
-from reolinkfw import get_info, INFO_KEYS
+from reolinkfw import get_info
 from waybackpy import WaybackMachineCDXServerAPI
 
 WAYBACK_MAX_CONN = 20
@@ -72,35 +72,6 @@ def make_changes(changes):
                 items[-1].append(OL(*subitems, type='a'))
                 subitems = []  # Reset.
     return tostring(OL(*items)).decode()
-
-
-def collapsed(firmwares, key_comp, key_collapse):
-    """Collapse firmwares that have the same key_comp on their key_collapse key.
-    
-    This is not generic and only applies to the cases that have been observed.
-    """
-    res = []
-    values = {fw[key_comp].lower() for fw in firmwares}
-    for v in values:
-        same = [fw for fw in firmwares if fw[key_comp].lower() == v]
-        live = [fw for fw in same if fw["source"] == "live"]
-        arv2 = [fw for fw in same if fw["source"] == "archives_v2"]
-        collapsed_list = [fw[key_collapse] for fw in same]
-        if len(same) == 1:
-            res.append({**same[0], key_collapse: collapsed_list})
-        elif len(live) == 1:
-            res.append({**live[0], key_collapse: collapsed_list})
-        elif len(arv2) == 1:
-            res.append({**arv2[0], key_collapse: collapsed_list})
-        elif len(arv2) == len(same):
-            fw = sorted(same, key=itemgetter("archive_url"))[-1]
-            res.append({**fw, key_collapse: collapsed_list})
-        elif dicts_same_items(*same, keys=["url", "firmware_id", "source"], ignore_keys=True):
-            res.append({**same[0], key_collapse: collapsed_list})
-        else:  # This should never be reached.
-            for s in same:
-                res.append({**s, key_collapse: [s[key_collapse]]})
-    return res
 
 
 def make_title(device):
@@ -500,17 +471,6 @@ async def update_live_info():
     firmwares = load_firmwares()
     with open("README.md", 'w', encoding="utf8") as f:
         f.write(make_readme(firmwares))
-
-
-def dicts_same_items(*dicts, keys, ignore_keys=False):
-    """A dict with a key of value None is the same as a dict without the key."""
-    if ignore_keys:
-        keys = {key for d in dicts for key in d if key not in keys}
-    return all(fw1.get(key) == fw2.get(key) for fw1, fw2 in itertools.pairwise(dicts) for key in keys)
-
-
-def same_firmware(*firmwares):
-    return dicts_same_items(*firmwares, keys=INFO_KEYS)
 
 
 async def add_firmwares_manually():
