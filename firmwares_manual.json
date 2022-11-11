@@ -1,0 +1,493 @@
+[
+  {
+    "source_urls": [
+      "https://community.reolink.com/topic/3830/updated-night-mode-issue-solved-beta-test-rlc-823a-rlc-523wa-beta-firmware-with-new-tracking-strategy/5",
+      "https://drive.google.com/drive/folders/1jwsTrEvpSqXXWf8r4g6oC6Q41n5vvEzb"
+    ],
+    "source": "manual",
+    "sha256_pak": "933cc0713a393a7e20ed9abda7c8e314bf37c1f9c52ead8f35f717af16042fe5"
+  },
+  {
+    "source_urls": [
+      "https://community.reolink.com/topic/3577/new-version-of-the-firmware-download-center-available/9"
+    ],
+    "source": "manual",
+    "sha256_pak": "38ba7e6a6494b8cf03fead0aeafbd59ee17f26e0e8dc8bbf59f3c2780bfc4747"
+  },
+  {
+    "source_urls": [
+      "https://github.com/fwestenberg/reolink_dev/issues/86#issuecomment-850187682"
+    ],
+    "source": "manual",
+    "sha256_pak": "d2f92c677dc7f6ff7c0c411ee7aa30718e1b79e08a80b4b21fc8e9d086831bc9"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolink/comments/endw89/rln8410e_firmware_question_upgrade/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "26aede881695a745dd614b7dd62caa1f070f947fd3fe70e1eb2ff2b86e641d05"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/k6u5me/c2_pro_eol_less_than_2_years_no_more_firmware/giej4k9/",
+      "https://www.reddit.com/r/reolinkcam/comments/kfs32v/comment/gtwsd7x/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "a5e87372e7cd317cc55a07dea162d2444ff04e1605e37afcf00ddf592241f771"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/k4cym7/c1_pro_firmware_question/",
+      "https://www.reddit.com/r/reolinkcam/comments/k6u5me/c2_pro_eol_less_than_2_years_no_more_firmware/giej4k9/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "836081696062945e988db94c93298d8958ed693a1bf9c37baa32f7fd97e323b0"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/hb9iass/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "15b5083eaccf809d073af8e35425b4604e23f2f75a86439244df8dd26da0819a"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/hb9iass/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "94f63ee614ed143ed86da578a0e701bc17468849445015d219b1465fad514acb"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/",
+      "https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb"
+    ],
+    "source": "reddit",
+    "sha256_pak": "72073340a1c286061ebce2c1908bc7b47a12cd85dfef57b7e7704be031991ab7"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/",
+      "https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb"
+    ],
+    "source": "reddit",
+    "sha256_pak": "d3ebc270570d6c1c45bc1eba16e0060a86ac15f34a13d5fbdfa0178e4ccb629a"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/",
+      "https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb"
+    ],
+    "source": "reddit",
+    "sha256_pak": "e2c216c310699ca5897923348f0531db8c1a385a7de9d985b581385c5fa9e149"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/",
+      "https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb"
+    ],
+    "source": "reddit",
+    "sha256_pak": "a418b114ca1b9b965f478029daa6be03a9ae71a9f4ddbb727b07e233a6b23ace"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/",
+      "https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb"
+    ],
+    "source": "reddit",
+    "sha256_pak": "03dcf2d4dab3c90ed6aabc8b28260506c1abdb2f9afbea2603315923a678f023"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ti9o8u/image_upside_down_after_firmware_upgrade_rlc820a/i1hh2qf/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1yji2/client_v872_update_changed_to_save_the_stream/",
+      "https://www.reddit.com/r/reolinkcam/comments/vtakeh/where_is_old_firmware_for_rlc810a820a/ifhg6l7/",
+      "https://community.reolink.com/topic/3267/client-v8-7-2-update-changed-to-save-the-clear-stream-mode-setting"
+    ],
+    "source": "reddit+manual",
+    "sha256_pak": "3c08d27973fb2d0280e59819931a43ac36cc2e2f3ce08d37407bd6df203cc5e1"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ti9o8u/image_upside_down_after_firmware_upgrade_rlc820a/i1hh2qf/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1yji2/client_v872_update_changed_to_save_the_stream/",
+      "https://www.reddit.com/r/reolinkcam/comments/visjrg/does_anyone_have_the_link_to_old_firmwares_for/idf44s0/",
+      "https://community.reolink.com/topic/3267/client-v8-7-2-update-changed-to-save-the-clear-stream-mode-setting"
+    ],
+    "source": "reddit+manual",
+    "sha256_pak": "c27bdf49ae2f22945ec5ec959a07a1bb0f5e3f1e05ca611e4bddac3afa24c7bd"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ti9o8u/image_upside_down_after_firmware_upgrade_rlc820a/i1hh2qf/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1yji2/client_v872_update_changed_to_save_the_stream/",
+      "https://community.reolink.com/topic/3267/client-v8-7-2-update-changed-to-save-the-clear-stream-mode-setting"
+    ],
+    "source": "reddit+manual",
+    "sha256_pak": "34016e49d01142092d07200ec4cfe4848940dbd9af493f822ac47cb23c764de9"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/",
+      "https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4"
+    ],
+    "source": "reddit",
+    "sha256_pak": "d806be590cd2178afdd2689e8620cf63e0d2bb313c090217ecc82087001b692b"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/",
+      "https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4"
+    ],
+    "source": "reddit",
+    "sha256_pak": "b0b1d8909cd014d958214ee701375dd02724df1dd9f25aa738de7d68010faa92"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/",
+      "https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4"
+    ],
+    "source": "reddit",
+    "sha256_pak": "8a649203a801964d2bf7f97e5d22b6ca94763af043777255ca5554035968a58f"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "f2e12c1918a6557d3844316af382d9ff46840422b3a055e287595ae73fcaff08"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "ac18e0561b79b3c11cfb1e8524fca0c245bdd40c08fad6dbafd21601d61c8d44"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "863e49736d8bdcad82697ec29c4a511dde4e8607003064fc9f78e3ae77485a5d"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "8def0ce994423793c1cd3a189f3ea4b8516ce285aec1bb51c6100933560a1048"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "99b515310706044e0ba3ec4694e7e11e1aabe744d144528a25a3e861f7ead3ab"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "ba37d31da6971d0309e0394de7d0d93a058025449f97b3d7f39b8264682c1115"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "e3da68f4776caf44993a55d6c82457aead3431f8be2674526fdbbd872f585933"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "c9696702be5d1b316968e1e6c25d59d3fe1709931ad456c6e5aaf3f6907d642b"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/",
+      "https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "8d11d297f6902deeaa24fc50c8e67b8d2f2675d76b67de5c4d57d30f64bc793e"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/tgax4i/rlc823a_rlc523wa_beta_firmware_pan_tilt/",
+      "https://www.reddit.com/r/reolinkcam/comments/tm0ud7/continuous_updatefollow_up_of_the_rlc823a/",
+      "https://community.reolink.com/topic/3116/rlc-823a-rlc-523wa-beta-firmware-pan-tilt-auto-tracking-optimization-updated-guard-point-issue-solved"
+    ],
+    "source": "reddit+manual",
+    "changelog": [
+      "Check the sources for details"
+    ],
+    "beta": true,
+    "sha256_pak": "7656f05b7d05744c2bc3cf299999c6a852d8e9a7648d7e14c2b2eb37bb497046"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/tgax4i/rlc823a_rlc523wa_beta_firmware_pan_tilt/",
+      "https://www.reddit.com/r/reolinkcam/comments/tm0ud7/continuous_updatefollow_up_of_the_rlc823a/",
+      "https://community.reolink.com/topic/3116/rlc-823a-rlc-523wa-beta-firmware-pan-tilt-auto-tracking-optimization-updated-guard-point-issue-solved"
+    ],
+    "source": "reddit+manual",
+    "changelog": [
+      "Check the sources for details"
+    ],
+    "beta": true,
+    "sha256_pak": "c57ec4f056f521039b11787c0c2a764bdb46b820325a55f1e15b39e5f242ae97"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/",
+      "https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "I-frame beta test. Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "e24db7e660a45ce0160bbc00b6f534f6d133fdb83561a1d2512c8a233d4c672f"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/",
+      "https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "I-frame beta test. Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "1929afe7e9cbf776ec69337a6c3f5d9f835519f8b1a89ef211471461544cace8"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/",
+      "https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G",
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/",
+      "https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "I-frame beta test. Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "d68f1b491307dd6cedbf03a16f04bdb26d7069ddf7c9532a4d77f7ce494739e8"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/",
+      "https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "I-frame beta test. Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "a5c0cb8770fdea677b2600d60d5d6fa81dce2573afae5792aa04f95177d0858d"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/",
+      "https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "I-frame beta test. Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "d0cf06ab940c51e5cbbc1d00d3757b26442010b4263610afcb342d508d3ff41d"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/",
+      "https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "I-frame beta test. Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "4cab5b9f7a2c638b2c06325d67a1b50843ab3d228150b1c095b0b92a4dfba6e7"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/",
+      "https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G",
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/",
+      "https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/",
+      "https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4"
+    ],
+    "source": "reddit",
+    "changelog": [
+      "I-frame beta test. Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "149ad3702002ce9b5d2cb8e7a8deda11caa0003d116fa74e306348cd0e9b216f"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/wj9kxw/rlc823a_rlc523wa_beta_firmware_night_mode_issue/",
+      "https://community.reolink.com/topic/3903/rlc-823a-rlc-523wa-beta-firmware-night-mode-issue-solved-and-auto-tracking-optimization",
+      "https://drive.google.com/drive/folders/1QbwfJn7ik0AHFWKnM67umGWT5XWVea-d"
+    ],
+    "source": "reddit+manual",
+    "changelog": [
+      "Solved the issue that the image got purple after switching between day and night modes.",
+      "Solved the issue that the IR didn't work after switching between day and night modes.",
+      "Optimized auto-tracking."
+    ],
+    "note": "Check the sources for details",
+    "beta": true,
+    "sha256_pak": "98e56af6d1a63bde257d9fa33f098a4cc3dba7461eb5dffccc4590fecf094439"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/wj9kxw/rlc823a_rlc523wa_beta_firmware_night_mode_issue/",
+      "https://community.reolink.com/topic/3903/rlc-823a-rlc-523wa-beta-firmware-night-mode-issue-solved-and-auto-tracking-optimization",
+      "https://drive.google.com/drive/folders/1QbwfJn7ik0AHFWKnM67umGWT5XWVea-d"
+    ],
+    "source": "reddit+manual",
+    "changelog": [
+      "Solved the issue that the image got purple after switching between day and night modes.",
+      "Solved the issue that the IR didn't work after switching between day and night modes.",
+      "Optimized auto-tracking."
+    ],
+    "note": "Check the sources for details",
+    "beta": true,
+    "sha256_pak": "29e3cf3402275a57d19caf9e1ccc5f14f532d18bcec281d9957760d90a4ba6cf"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/xe2pwk/rlc823a_rlc523wa_new_tracking_beta_firmware_and/",
+      "https://community.reolink.com/topic/4092/rlc-823a-rlc-523wa-new-tracking-beta-firmware-and-new-tracking-features-plan",
+      "https://drive.google.com/drive/folders/17l4qXHhWpnTgHkbthQhvmx1Q9wa8_O4e"
+    ],
+    "source": "reddit+manual",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "3e7521fea971e36954d0261de9f80eaeba2080e96fea944bfc10d71bfaa0b31c"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/xe2pwk/rlc823a_rlc523wa_new_tracking_beta_firmware_and/",
+      "https://community.reolink.com/topic/4092/rlc-823a-rlc-523wa-new-tracking-beta-firmware-and-new-tracking-features-plan",
+      "https://drive.google.com/drive/folders/17l4qXHhWpnTgHkbthQhvmx1Q9wa8_O4e"
+    ],
+    "source": "reddit+manual",
+    "changelog": [
+      "Check the source for details"
+    ],
+    "beta": true,
+    "sha256_pak": "f1a26640b6fc7868c33741b23ad091bf786b89d24aa2df50be9c98b2045e1075"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/k4cym7/c1_pro_firmware_question/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "6217ded4ef8f87dbcc123ae5d8afcb206ba35ec819d6fb95296a40bc7373786a"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolink/comments/sly78j/rlc410w_black_4mp_firmware_upgrade_issues/hw0wt1o/",
+      "https://www.reddit.com/r/reolink/comments/wdo326/firmware_upgrade_for_rlc410w/iijdj0r/",
+      "https://community.reolink.com/topic/2627/warning-of-firmware-upgrade-of-the-rlc410w/7"
+    ],
+    "source": "reddit+manual",
+    "sha256_pak": "8c0842a08df3ec55b035a68bdbbf3ee44078ed21b5178ea7ab4ca71e0d5711c2"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/wnk1c6/rlc811a_after_firmware_update_no_zoomfocus_control/il9spko/",
+      "https://www.reddit.com/r/reolinkcam/comments/xs1cjo/811a_latest_firmware/ite0rez/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "6c819a3721302c5df129f985886799f7a557c988dfaca39ed6f7c4f4e29f7b30"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/xa2dk1/rlc823a_firmware_update_broke_ptz_help/invhlnr/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "685243cd9dc1b63be993d49567f62409b29441079cb8d083d3f80c1cdc2ceb4a"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/xpb5jy/firmware_update_520a_fail/iqc2hqf/",
+      "https://www.reddit.com/r/reolinkcam/comments/xq2bh6/how_long_has_the_rlc520a_v2_been_available/iqq99u0/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "d266b9d48358012b2d94f4c577d7495461af49e5dcc40f2e7094af7369907425"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolink/comments/wdo326/firmware_upgrade_for_rlc410w/"
+    ],
+    "source": "reddit",
+    "sha256_pak": "4146b533d7fdece0d8f0264924e8d8a28b2680611098f0746664a2427cfae13c"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/y5awnz/firmware_for_rlc510a_v2/",
+      "https://community.reolink.com/topic/3501/no-firmware-for-my-new-rlc-510a-cameras/4"
+    ],
+    "source": "reddit+manual",
+    "sha256_pak": "3e183c92ee39abcaa155b57f8a6e43d4ec19de4cd5e6839c4adcd103cdeebf13"
+  }
+]

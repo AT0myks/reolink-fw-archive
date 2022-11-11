@@ -1,0 +1,2796 @@
+[
+  {
+    "model": "RLC-520",
+    "version": "v3.0.0.136_20121112",
+    "hw_ver": "IPC_515B16M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect.",
+      "Optimized network transmission.",
+      "Solved the problem that the DHCP hostname is eth0 on the router.",
+      "Solved the problem that there is no email interval in the email setting on the web.",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachments.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725210604/https://support.reolink.com/hc/en-us/articles/900004067066-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-515B16M5M-",
+    "sha256_pak": "eef1317f79126b69d67d05f8630e90f45c9e9a3be8c4aa4cdbe7b40c7409e0b2",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420-5MP",
+    "version": "v3.0.0.136_20121101",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "bda696c9cf38c96ee709042772eeafa43ea488d13e8f19ee79d73da4b825783b",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D500",
+    "version": "v3.0.0.136_20120915",
+    "hw_ver": "IPC_515B8M5M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "88dd481e87d471d91d12a740afdcf0e1a2f26764c0c2c9b535661605c6798746",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D500",
+    "version": "v3.0.0.183_21012815",
+    "hw_ver": "IPC_515B8M5M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "2c95202efcf55af35e97bab10805189cf864b91514b13ee05c161b5dce188f3f",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v3.0.0.123_21031206",
+    "hw_ver": "H3MB18",
+    "display_time": "2021-03-21",
+    "changelog": [
+      "Optimized UI interaction",
+      "Optimized email test error codes and copywriting",
+      "Solved HDD SMART display error",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210801111909/https://support.reolink.com/hc/en-us/articles/900006218883-21st-Mar-2021-Firmware-for-Reolink-RLN8-410-H3MB18-or-N2MB02-and-RLN16-410-H3MB18-",
+    "sha256_pak": "fffe0694922eb5bbdd361f64b2e8ada1dbadb414c950526145ecc2d9641af0b1",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W",
+    "version": "v2.0.0.354_19031112",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "c998ff9da4acc6f11627c9ed159cbfaee21fa4080ff07b21a687b992ec36a379",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W",
+    "version": "v2.0.0.448_19061404",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2019-06-14",
+    "changelog": [
+      "Fixed the issue where the WiFi can't reconnect after rebooting.",
+      "Fixed the issue where the sound becomes smaller after frequently switching the audio.",
+      "Add the smart home feature (Google Home).",
+      "Optimize the breathing effect.",
+      "Fixed the drop issue where RTSP previewing.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Add power LED control function to C1 Pro.",
+      "Add manually trigger and automatic voice alarm function to C1 Pro."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805171119/https://support.reolink.com/hc/en-us/articles/360025688034-06-14-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "6940c12324a11ff5b544f040b7e621a41b8dba0b8168cb34a5332544291fb346",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN4-210W",
+    "version": "v2.0.0.4529_1615_18090804100",
+    "hw_ver": null,
+    "display_time": "2018-08-11",
+    "changelog": [],
+    "archive_url": "https://web.archive.org/web/20210724050558/https://support.reolink.com/hc/en-us/articles/360012551153-08-11-2018-Firmware-for-Reolink-NVRs",
+    "sha256_pak": "7d903f69116a4e64cb4b33ed2d6ea56c4820abe6ef5acad64bcbe62014ddab8e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511",
+    "version": "v3.0.0.136_20121103",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20201218101824/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "4119f53856c197320b0a39880d48a5782fba579f606321f43435219d3aa51ffb",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422/RLC-422-5MP",
+    "version": "v2.0.0.1441_19032109",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "5c60766fd465bc5f3aacd0b5a0b3a8cd8713d975b96274ffc7232b0c1eaf645a",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B500",
+    "version": "v3.0.0.183_21012814",
+    "hw_ver": "IPC_5158M5M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "dc9878f1a373a8d625ae5d906e27d7247057bf039910db95bf06630d800aa541",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422",
+    "version": "v3.0.0.65_20071400",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "04dbf811786d9a427e5336f113efdd13866b104294c64208a57b41fbd7043d9d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511",
+    "version": "v3.0.0.142_20121803",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "bc9d39ae4f251995e9c35587f8cead94de1bc8d4aad8f7bf96eba612ac1812c8",
+    "source": "archives_v2"
+  },
+  {
+    "model": "C2 Pro",
+    "version": "v2.0.0.654_20040908",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-04-09",
+    "changelog": [
+      "Extended the max password length of Email, FTP, and DDNS to 128 digits.",
+      "Updated the max cruise time to 300 seconds."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803033747/https://support.reolink.com/hc/en-us/articles/900000854106-04-09-2020-Firmware-for-Reolink-Auto-focus-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "03fb41ea013233b0f47fba7c0acdd04bff13517acc4b419b839ed0cc627d9a34",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420",
+    "version": "v2.0.0.1441_19032100",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "0388e8f090ecccb27423c3b6c6db31cd87f506e31c3e1dc3df913609ecec019e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v2.0.0.4509_1606_18081108100",
+    "hw_ver": null,
+    "display_time": "2018-08-11",
+    "changelog": [],
+    "archive_url": "https://web.archive.org/web/20210724050558/https://support.reolink.com/hc/en-us/articles/360012551153-08-11-2018-Firmware-for-Reolink-NVRs",
+    "sha256_pak": "1f98361c19ef911c6253a7869fc9fc6afa357a2a902897e963f67258d809fedc",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420-5MP",
+    "version": "v2.0.0.354_19031101",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "e28865fe004e0c682210875477fc1f12cfe062422cd9fb74ffacc273f084c219",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v2.0.0.4679_1708_19082308100",
+    "hw_ver": "RLN8-410",
+    "display_time": "2019-08-23",
+    "changelog": [
+      "Add the function of creating subdirectories by date in FTP.",
+      "Add the function that the DDNS server address can be set.",
+      "Add the function that IPC can control the IR LED when connecting to the NVR.",
+      "Move the language settings page forward in the process of Wizard Setup.",
+      "Remove configuration import function.",
+      "The username has to consist of 3~31 numbers, letters, and underscores.",
+      "Add a 7+1 polling mechanism in the LiveView interface.",
+      "Add Russian and German language options.",
+      "The password of the admin supports input spaces.",
+      "Fixed the download timeout failure in web Client.",
+      "Improved the clip function in web Client.",
+      "Optimize the NVR interface display."
+    ],
+    "archive_url": "https://web.archive.org/web/20210726185430/https://support.reolink.com/hc/en-us/articles/360034504874-08-23-2019-Firmware-for-Reolink-RLN8-410-and-RLN16-410-Only-for-NVR-with-UID-95270000XXXXXXXX-",
+    "sha256_pak": "880f8e3347abf4046a4b2e0188201ce9eb15c49459742695c865d859390fc7c0",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v2.0.0.4509_1606_18081116100",
+    "hw_ver": null,
+    "display_time": "2018-08-11",
+    "changelog": [],
+    "archive_url": "https://web.archive.org/web/20210724050558/https://support.reolink.com/hc/en-us/articles/360012551153-08-11-2018-Firmware-for-Reolink-NVRs",
+    "sha256_pak": "5f80104189069b4464cd08035a4b9e51dd26e39cfb7758c3d5d0ce7e2d4fbfad",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511",
+    "version": "v3.0.0.65_20071003",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "0594b023fb79cc5105d5cb4c7b6d0f2daaebab54608d9ee7f3c693ba7a2671f4",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422",
+    "version": "v2.0.0.477_19071502",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "2cdec668b5bee1d63268b1d71a169f84de90c8a35dc64b921747ae2086337892",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v3.0.0.59_20081248",
+    "hw_ver": "H3MB18",
+    "display_time": "2020-08-12",
+    "changelog": [
+      "Adopt new UI and new interaction methods",
+      "Support upgrading automatically online function (via Reolink APP)",
+      "Optimize system performance"
+    ],
+    "archive_url": "https://web.archive.org/web/20201011161357/https://support.reolink.com/hc/en-us/articles/900002407106-08-12-2020-Firmware-for-Reolink-RLN8-410-and-RLN16-410-H3MB18-",
+    "sha256_pak": "48f9918bdd78db0a371ef81f9396c5af357a84f4801aa11116d197b057cb08fb",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D500",
+    "version": "v3.0.0.136_20120915",
+    "hw_ver": "IPC_5158M5M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "404ec727a712cf6c2842bde136b3911bc16256af1b869d01c3d63a00cdde46ba",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-423S/RLC-423S-5MP",
+    "version": "v2.0.0.1441_19032112",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "b8e608a51d5f1fbad1752c08a0dddb3ab8408b2eb70b6b12c9f41d6eaad0b697",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-520",
+    "version": "v3.0.0.65_20071012",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "46b606aa74a26668333c190bf6a44b035ed491cac6f65ea8dce8f808c6fd151c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-520",
+    "version": "v3.0.0.116_20103112",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "83a8a4da2ec1468e2a2d992f869cc416883e1c6d2d8fd650bc1c5bc16173660e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-423",
+    "version": "v2.0.0.489_19072600",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "7b267306209ac4375ec6a33fdd49adf2f36c49a4f947237e02ac4029e46c0be2",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Zoom",
+    "version": "v3.0.0.65_20071008",
+    "hw_ver": "IPC_515SD6",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Added multiple languages for the voice prompt when scanning the QR code to set up the camera.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed the bug when connecting the camera in different Vlan via Reolink app/client.",
+      "Fixed the bug that FTP upload file failed."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805182235/https://support.reolink.com/hc/en-us/articles/900001850003-07-10-2020-Firmware-for-E1-Zoom-IPC-515SD6-",
+    "sha256_pak": "4a8d01fa0af021eadd42ae227b9d11928cc4a44c6c857281235d7b5d8de48f27",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D400",
+    "version": "v3.0.0.183_21012801",
+    "hw_ver": "IPC_5128M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "d2d4095ebe08c6cb2127e4f2cbbaf94484be2a265800bb1accafd60b5d9c42d6",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-423",
+    "version": "v3.0.0.146_20122309",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-23",
+    "changelog": [
+      "Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function.",
+      "Optimized network transmission.",
+      "Optimized P2P connection.",
+      "Solved the problem that FTP recording doesn't have a pre-recorded function.",
+      "Solved the problem of an email test with an empty password and some mail sending bugs.",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when it's connected to WiFi.",
+      "Solved the problem that the DHCP hostname is eth0 on the router.",
+      "Solved the problem that there is no email interval in the email setting on the web.",
+      "Solved the problem of copywriting in the received email when only pictures are configured as an email attachment.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616145748/https://support.reolink.com/hc/en-us/articles/900004031146-12-23-2020-Firmware-for-RLC-423-IPC-51516M5M-",
+    "sha256_pak": "6cedf7bb418d0195100018bc613bad6845269add789b8c4f45848dd6027b19fa",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422W",
+    "version": "v3.0.0.136_20121106",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "cf9d33025d8c2832df2d023e1e9b2180b7f0afdf4d60a0ef681f7af9eaa0afce",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422W",
+    "version": "v2.0.0.654_20040907",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-04-09",
+    "changelog": [
+      "Extended the max password length of Email, FTP, and DDNS to 128 digits.",
+      "Updated the max cruise time to 300 seconds."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803033747/https://support.reolink.com/hc/en-us/articles/900000854106-04-09-2020-Firmware-for-Reolink-Auto-focus-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "b4723711953600d18980054c69a2684bf3d8b5b746851e1821df806947ef100a",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-520",
+    "version": "v3.0.0.116_20103112",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the problem of MD alerts when switching between day and night modes and also the false caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20201117103744/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-?utm_source=facebook&utm_medium=fbpost&utm_campaign=post",
+    "sha256_pak": "83a8a4da2ec1468e2a2d992f869cc416883e1c6d2d8fd650bc1c5bc16173660e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511W",
+    "version": "v2.0.0.477_19071501",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "39b3c40739c80720530a09eba1c7556e7514655ac4cba2c57cf67576370f0a40",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422",
+    "version": "v3.0.0.116_20103105",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "4719399a6e50d9dcc7a306ec503af87593d68ff1479409c5973aaf0ccfef2f69",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-411WS/RLC-411WS-5MP",
+    "version": "v2.0.0.1441_19032108",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "e1c7759957dcf4cdb0bfea76a688d1ed75352c4bb479ba4c05372e4143f45d1f",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410-5MP",
+    "version": "v2.0.0.354_19031100",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "bb360e1a33376e636af65bb458728325fa8a8ee70832d93a649d9c10696a5e0c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D500",
+    "version": "v3.0.0.136_20120915",
+    "hw_ver": "IPC_515B8M5M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "88dd481e87d471d91d12a740afdcf0e1a2f26764c0c2c9b535661605c6798746",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v3.0.0.59_20081247",
+    "hw_ver": "H3MB18",
+    "display_time": "2020-08-12",
+    "changelog": [
+      "Adopt new UI and new interaction methods",
+      "Support upgrading automatically online function (via Reolink APP)",
+      "Optimize system performance"
+    ],
+    "archive_url": "https://web.archive.org/web/20201011161357/https://support.reolink.com/hc/en-us/articles/900002407106-08-12-2020-Firmware-for-Reolink-RLN8-410-and-RLN16-410-H3MB18-",
+    "sha256_pak": "73dcc6aa2e613a1add09caf09a6146d06508562f3839693a343fb99b9af8eaeb",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422W",
+    "version": "v2.0.0.477_19071503",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "e6a6720def01f625e8303ac8819026fd7a2fddb3803b07d36655e6d8568e1a28",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W",
+    "version": "v3.0.0.121_20111902",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-11-19",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20201128103126/https://support.reolink.com/hc/en-us/articles/900004648143-11-19-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "fd4a778a8cf1589b9f08e13ea7e113407d18e68b86f724814b7fdb079f458794",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422W",
+    "version": "v3.0.0.65_20071401",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "ba8978acd209e13f1fdaa972e7233dde6207b406936ac48ada08a1a8006555d0",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 ZOOM",
+    "version": "v3.0.0.247_21040708",
+    "hw_ver": "IPC_515SD6",
+    "display_time": "2021-04-07",
+    "changelog": [
+      "Solved the problem that the camera switches back and forth between day and night mode in some specific scenarios.",
+      "Solved the problem that the camera cannot connect to WIFI with some specific channels.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210728224903/https://support.reolink.com/hc/en-us/articles/900005622046-7th-April-2021-Firmware-for-E1-Zoom-IPC-515SD6-and-IPC-515BSD6-",
+    "sha256_pak": "2aa14a20a313dc151798eab8150946c536f7b0a4ed914af162d4622d2ab5e988",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422",
+    "version": "v3.0.0.136_20121105",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "f98c8f5bd16c7d1c95df940c03e4ca6801f52779bfc7c32b526db4a3e13e972d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-522",
+    "version": "v3.0.0.116_20103111",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "b29236b9bedfd5054a08248d457246ee387e7bdc831eb0f9852e51dc59433e78",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v2.0.0.4679_1708_19082316100",
+    "hw_ver": "RLN16-410",
+    "display_time": "2019-08-23",
+    "changelog": [
+      "Add the function of creating subdirectories by date in FTP.",
+      "Add the function that the DDNS server address can be set.",
+      "Add the function that IPC can control the IR LED when connecting to the NVR.",
+      "Move the language settings page forward in the process of Wizard Setup.",
+      "Remove configuration import function.",
+      "The username has to consist of 3~31 numbers, letters, and underscores.",
+      "Add a 7+1 polling mechanism in the LiveView interface.",
+      "Add Russian and German language options.",
+      "The password of the admin supports input spaces.",
+      "Fixed the download timeout failure in web Client.",
+      "Improved the clip function in web Client.",
+      "Optimize the NVR interface display."
+    ],
+    "archive_url": "https://web.archive.org/web/20210726185430/https://support.reolink.com/hc/en-us/articles/360034504874-08-23-2019-Firmware-for-Reolink-RLN8-410-and-RLN16-410-Only-for-NVR-with-UID-95270000XXXXXXXX-",
+    "sha256_pak": "94486c2a9dae4a3b831971b79f5c9a9df93dbbe1a9b7637c71fc8522cd796d38",
+    "source": "archives_v2"
+  },
+  {
+    "model": "C1 Pro",
+    "version": "v2.0.0.1441_19032105",
+    "hw_ver": "IPC_3816MPT",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "de1196259007cfb0196b1534b2ee93eca9f7eeb633c907c2913fc989a0c4416e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511W",
+    "version": "v3.0.0.142_20121804",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "6df6769349d0cffc082e4f23d9f57f79209bbadc81eeda799580e344fd5fd433",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN4-410",
+    "version": "v2.0.0.271_20092800",
+    "hw_ver": "H3MB17",
+    "display_time": "2020-09-28",
+    "changelog": [
+      "Improved the overall performance of the network and enhance communication reliability",
+      "Solved the problem that P2P connection is lost occasionally during long time connection, and the NVR needs to be restarted to restore the connection",
+      "Optimized system performance and fixed some other bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805123857/https://support.reolink.com/hc/en-us/articles/900002938243-09-28-2020-Firmware-for-Reolink-RLN8-410-E-RLN4-410-and-RLN16-410",
+    "sha256_pak": "9bc200e3334b2a50f842408532642df2856a63dbab209aef2c1d7135847058d8",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410",
+    "version": "v3.0.0.136_20121100",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Optimized day and night switching effect",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103719/https://support.reolink.com/hc/en-us/articles/900004648143-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "cef97b10c603b0d5c96136d3d3dcebb03de05e687f1fd77071eea182df6f2307",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W-5MP",
+    "version": "v2.0.0.354_19031102",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "d782acfd586b7849c33eba751bfebe71560555617dd0f244da61ac3e9f1e3539",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Pro",
+    "version": "v3.0.0.42_20062904",
+    "hw_ver": "IPC_513SD5",
+    "display_time": "2020-06-29",
+    "changelog": [
+      "Added multiple languages for the voice prompt when scanning the QR code to set up the camera.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed the bug when connecting the camera in different Vlan via Reolink app/client."
+    ],
+    "archive_url": "https://web.archive.org/web/20200926093027/https://support.reolink.com/hc/en-us/articles/900001664643-06-29-2020-Firmware-for-E1-IPC-517SD5-and-E1-Pro-513SD5-",
+    "sha256_pak": "0e0118a003bd9f3f2b9816c3a7032a6d5fce61ac31af2c103d08d284224e2105",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D400",
+    "version": "v2.0.0.16_20041561",
+    "hw_ver": "IPC_5128M/IPC_5174M",
+    "display_time": "2020-04-15",
+    "changelog": [
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-",
+    "sha256_pak": "ed39b44380204973172512ee8622a6b45b435d7bc33e6fb0752a7572ab8534d8",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D400",
+    "version": "v2.0.0.16_20041551",
+    "hw_ver": "IPC_5128M/IPC_5174M",
+    "display_time": "2020-04-15",
+    "changelog": [
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-",
+    "sha256_pak": "7131a3773ff0257553278f96f0943ce00835be9d6fd82f6ee28da0daf700d0c7",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511W",
+    "version": "v3.0.0.65_20071004",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "48bc717d0ad32ab88f683bd61b765ffd6bd64ff5071ae0a2eac9fab2e07435e3",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B500",
+    "version": "v3.0.0.136_20120914",
+    "hw_ver": "IPC_5158M5M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "2bdc4d8d01f39241dfe8709bcdff18174420a9197ef2ea5ca7f8ebb678c6ad4d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v2.0.0.269_20042901",
+    "hw_ver": "RLN8-410-E",
+    "display_time": "2020-04-29",
+    "changelog": [
+      "Fixed the bug of the HDD showing 0GB or not formatted error.",
+      "Fixed the bug that the camera frame rate cannot be configured with 25 fps.",
+      "Added the self-verification mechanism under the new firmware upgrade process to avoid upgraded the wrong firmware version.",
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance and fixed some other bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805123029/https://support.reolink.com/hc/en-us/articles/900000976886-04-29-2020-Firmware-for-Reolink-RLN8-410-RLN8-410-E-and-RLN4",
+    "sha256_pak": "6bc293f88d2918ed4df416aee8d1e4f64c3fcfb6fc31cc34de9fe7aa01c0c22d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511W",
+    "version": "v3.0.0.116_20103104",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "9326e20d322b5f96161deaf315ae81f3821dac4541f914073fb76a4353ed4619",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W-5MP",
+    "version": "v3.0.0.136_20121102",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "201bf2e54112b25b57eea21581fae5c440e8a00771055fe96b44536c1d3a62f1",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511",
+    "version": "v2.0.0.477_19071500",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "6166471fb2e906408b3399a768f5dd6b395df3b7c918730b25354cd6502ca2fa",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410-E",
+    "version": "v2.0.0.274_20120701",
+    "hw_ver": "H3MB16",
+    "display_time": "2020-12-07",
+    "changelog": [
+      "Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.",
+      "Solved the problem that Reolink App failed to obtain the PTZ configuration on some IPC.",
+      "Fixed the wrong subject of the reminder email when the hard disk is full."
+    ],
+    "archive_url": "https://web.archive.org/web/20210728201554/https://support.reolink.com/hc/en-us/articles/900003949986-12-07-2020-Firmware-for-Reolink-RLN4-RLN8-410-RLN8-410-E-and-RLN16-410-H3MB02-",
+    "sha256_pak": "c26671fdcac7b7b7f14de8caf16c882db888818279224b4456f717b3785aa288",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-522",
+    "version": "v3.0.0.136_20121111",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "2904f8bdf712532b490a77dbf82597910bea2877e90f327d5f6acea6ceb011dc",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410",
+    "version": "v3.0.0.121_20111900",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-11-19",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20201128103126/https://support.reolink.com/hc/en-us/articles/900004648143-11-19-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "c89e93897e4f204b6e008708dc321d34c79ac58daa1116585e6c9a1c3faba69a",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410WS",
+    "version": "v2.0.0.1441_19032103",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "2ff1871731a16c727a7bb17f851795e8780cd29ba9b89344d07f9d685bb26030",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v3.0.0.123_21031205",
+    "hw_ver": "H3MB18 or N2MB02",
+    "display_time": "2021-03-21",
+    "changelog": [
+      "Optimized UI interaction",
+      "Optimized email test error codes and copywriting",
+      "Solved HDD SMART display error",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210801111909/https://support.reolink.com/hc/en-us/articles/900006218883-21st-Mar-2021-Firmware-for-Reolink-RLN8-410-H3MB18-or-N2MB02-and-RLN16-410-H3MB18-",
+    "sha256_pak": "59aacfea36d7c70ee9231e689f47876bcc5520799e6a07a50fa9e6634f9a70ab",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-520A",
+    "version": "v3.0.0.124_20112600",
+    "hw_ver": "IPC_523128M5MP",
+    "display_time": "2020-11-26",
+    "changelog": [
+      "Solved the problem that common users cannot turn on push notifications.",
+      "Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.",
+      "Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.",
+      "Solved H265 freezing issue on Blue Iris.",
+      "MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.",
+      "Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.",
+      "Solved the flickering problem when set to the lowest exposure value (50Hz)."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-",
+    "sha256_pak": "393e28cf5050f70bd9d463d36a43d1b9345d46e2243c5bab47306aa344beae4c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D420",
+    "version": "v2.0.0.16_20041562",
+    "hw_ver": "IPC_5128M",
+    "display_time": "2020-04-15",
+    "changelog": [
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-",
+    "sha256_pak": "c8f6ce7c050f3a3539e501b88ddcdd28678f10585ef4242b68c8d3ef0566c868",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v2.0.0.268_20042502",
+    "hw_ver": "H3MB18",
+    "display_time": "2020-04-25",
+    "changelog": [
+      "Fixed the bug that the camera frame rate cannot be configured with 25 fps.",
+      "Optimized the system performance of the NVR system.",
+      "Fixed some other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20200809001138/https://support.reolink.com/hc/en-us/articles/900000937423-04-25-2020-Firmware-for-Reolink-RLN16-410-H3MB18-",
+    "sha256_pak": "ed8ce979f324327851cc9d7e1cdb0f2af24534273a0e5f0f89b1aa3941b49008",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W-5MP",
+    "version": "v3.0.0.136_20121102",
+    "hw_ver": "IPC_515B16M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect.",
+      "Optimized network transmission.",
+      "Solved the problem that the DHCP hostname is eth0 on the router.",
+      "Solved the problem that there is no email interval in the email setting on the web.",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachments.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725210604/https://support.reolink.com/hc/en-us/articles/900004067066-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-515B16M5M-",
+    "sha256_pak": "e22710548fa25bf0159314a90be92fb1fe71e2184760f7e32df83e933e766f92",
+    "source": "archives_v2"
+  },
+  {
+    "model": "C2",
+    "version": "v2.0.0.1441_19032104",
+    "hw_ver": "IPC_3816MPT",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "11b942e2c2d050778bb5345753593fb36b580010e8b54753e1c85dff6aaf107b",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420",
+    "version": "v3.0.0.121_20111901",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-11-19",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20201128103126/https://support.reolink.com/hc/en-us/articles/900004648143-11-19-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "f50b78db83f12e1c1703b0d578f4b7574fdc4d193dee0456b500b40c702f4a62",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D420",
+    "version": "v3.0.0.183_21012802",
+    "hw_ver": "IPC_5128M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "2aebe062c9247a4c255648116061c56905d8359e1840f200d84bc6a608daceeb",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B800",
+    "version": "v3.0.0.183_21012800",
+    "hw_ver": "IPC_5158MP8M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "78ad5cb247ad69ef02d253a5a4683e9608818b500370dddda6bcf93fa19e8973",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-1210A",
+    "version": "v3.0.0.160_21011304",
+    "hw_ver": "IPC_523128M12MP",
+    "display_time": "2021-01-13",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solve the problem that online upgrading may fail sometimes.",
+      "Added a new web terminal that supports the HTML5 player."
+    ],
+    "archive_url": "https://web.archive.org/web/20210204074215/https://support.reolink.com/hc/en-us/articles/900005240343-01-13-2021-Firmware-for-RLC-1210A-and-RLC-1220A",
+    "sha256_pak": "d7ba855037a4c70aea33780b866a409e3d05538eeaad78eab83efbf3862afdd7",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1",
+    "version": "v3.0.0.42_20062900",
+    "hw_ver": "IPC_517SD5",
+    "display_time": "2020-06-29",
+    "changelog": [
+      "Added multiple languages for the voice prompt when scanning the QR code to set up the camera.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed the bug when connecting the camera in different Vlan via Reolink app/client."
+    ],
+    "archive_url": "https://web.archive.org/web/20200926093027/https://support.reolink.com/hc/en-us/articles/900001664643-06-29-2020-Firmware-for-E1-IPC-517SD5-and-E1-Pro-513SD5-",
+    "sha256_pak": "d156b8d958a4f7ac840350b8ff0df0cdeb0b1c01a5d2cd16a1f42eb0c3e3bc31",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D800",
+    "version": "v3.0.0.136_20120901",
+    "hw_ver": "IPC_5158MP8M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "e0e10f4df0b66c1e4d2ebfabc3289d60621cff8453567814e706d79c9d8c2efb",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W-5MP",
+    "version": "v2.0.0.448_19061409",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "be87d5b1f7d0a04752a062dad658276b91634ed9df3d361c638785aea27c5aad",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511",
+    "version": "v3.0.0.116_20103103",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "3c0149449fb899369b38220479efe4b2de4741fee1d83ed28076a62f40706ed0",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 ZOOM",
+    "version": "v3.0.0.247_21040708",
+    "hw_ver": "IPC_515BSD6",
+    "display_time": "2021-04-07",
+    "changelog": [
+      "Solved the problem that the camera switches back and forth between day and night mode in some specific scenarios.",
+      "Solved the problem that the camera cannot connect to WIFI with some specific channels.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210728224903/https://support.reolink.com/hc/en-us/articles/900005622046-7th-April-2021-Firmware-for-E1-Zoom-IPC-515SD6-and-IPC-515BSD6-",
+    "sha256_pak": "296baba1ef8e22e052848183d5abb9854924adfde936000abeece3a11ff28948",
+    "source": "archives_v2"
+  },
+  {
+    "model": "Reolink Lumus",
+    "version": "v2.0.0.687_20102800",
+    "hw_ver": "IPC_325C7",
+    "display_time": "2020-10-28",
+    "changelog": [
+      "Added multiple languages for the voice prompt when scanning the QR code to set up the camera",
+      "Added Normal recording schedule",
+      "Optimized motion detection performance to reduce false alarms",
+      "Fixed some other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725025557/https://support.reolink.com/hc/en-us/articles/900002618206-10-28-2020-Firmware-for-Reolink-Lumus-IPC-325C7-",
+    "sha256_pak": "0dfeb537e4f71dcc2a8fc40abcf603a121593d5dd0e02828ea53e2f850b146c9",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W",
+    "version": "v3.0.0.65_20071002",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128232515/https://support.reolink.com/hc/en-us/articles/900001840826-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "eb9293fd631377ada7cc7129d81049c4e52665c95e46cda49e49541417572af9",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B800",
+    "version": "v2.0.0.17_20042200",
+    "hw_ver": "IPC_5158MP8M",
+    "display_time": "2020-04-22",
+    "changelog": [
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance."
+    ],
+    "archive_url": "https://web.archive.org/web/20210726205241/https://support.reolink.com/hc/en-us/articles/900000744606-04-22-2020-Firmware-for-B800-D800-IPC-5158MP8M-",
+    "sha256_pak": "66b14830d8e88b8b3b597567ee9ad5b85e4c930f710cf90e4de5ef79ad3b3580",
+    "source": "archives_v2"
+  },
+  {
+    "model": "Reolink Lumus",
+    "version": "v2.0.0.680_20082500",
+    "hw_ver": "IPC_325C7",
+    "display_time": "2020-08-25",
+    "changelog": [
+      "Added multiple languages for the voice prompt when scanning the QR code to set up the camera",
+      "Added Normal recording schedule",
+      "Optimized motion detection performance to reduce false alarms",
+      "Fixed some other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20200919133639/https://support.reolink.com/hc/en-us/articles/900002618206-08-25-2020-Firmware-for-Reolink-Lumus-IPC-325C7-",
+    "sha256_pak": "1c52b3fc73c91b9b6c26c81a51b304d74bb91a5e9ad02aab10f4420016796400",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Pro",
+    "version": "v3.0.0.116_20110204",
+    "hw_ver": "IPC_513SD5",
+    "display_time": "2020-11-02",
+    "changelog": [
+      "Fixed the problem that the email test fails when the email password is blank.",
+      "Optimized cloud transmission performance.",
+      "Optimized the network transmission protocol.",
+      "Solved the problem that you cannot use VLAN to access the camera after setting a static IP when the camera is connected by WiFi.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210121082446/https://support.reolink.com/hc/en-us/articles/900004231023-11-02-2020-Firmware-for-E1-Pro-513SD5-",
+    "sha256_pak": "2adb2f2583759a39745e3c4abe635a335bb3c90d24e59b2483e28580353d70cd",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422W-5MP",
+    "version": "v2.0.0.354_19031106",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "24486f42d6c32246a87b34173c26a0d1aa4de95bafdcb2a7bc003739246ad6fe",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v2.0.0.4725_1724_20120700",
+    "hw_ver": "H3MB02",
+    "display_time": "2020-12-07",
+    "changelog": [
+      "Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.",
+      "Solved the problem that Reolink App failed to obtain the PTZ configuration on some IPC.",
+      "Fixed the wrong subject of the reminder email when the hard disk is full."
+    ],
+    "archive_url": "https://web.archive.org/web/20210728201554/https://support.reolink.com/hc/en-us/articles/900003949986-12-07-2020-Firmware-for-Reolink-RLN4-RLN8-410-RLN8-410-E-and-RLN16-410-H3MB02-",
+    "sha256_pak": "31a834474bf28f53099bd43eefffd69964f81b26529838ae1dddfbbbac3f3b6c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511W",
+    "version": "v3.0.0.136_20121104",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20201218101824/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "5ad3e209691083e30e57601fe3e68e4ff5e83447f3cd0f9efe1cf89eaca64b83",
+    "source": "archives_v2"
+  },
+  {
+    "model": "Reolink Lumus",
+    "version": "v2.0.0.642_20030600",
+    "hw_ver": "IPC_325C7",
+    "display_time": "2020-03-06",
+    "changelog": [
+      "Optimized WiFi connection ability",
+      "Optimized the Day&Night mode feature.",
+      "Lowered down the volume of the speaker when setting up the camera.",
+      "Fixed the bug of camera auto-reboot when sending the email alert."
+    ],
+    "archive_url": "https://web.archive.org/web/20200804203639/https://support.reolink.com/hc/en-us/articles/900000312623-03-06-2020-Firmware-for-Reolink-Lumus-IPC-325C7-",
+    "sha256_pak": "0a87d26f20fb7d51b4e90d37c00351f8076e10d619320907da9efa843a6e64ad",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420-5MP",
+    "version": "v3.0.0.65_20071001",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "35113ee52147125874eb8549b3d58d18b36bc132380354a0cda527e4bb60644f",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D800",
+    "version": "v2.0.0.17_20042201",
+    "hw_ver": "IPC_5158MP8M",
+    "display_time": "2020-04-22",
+    "changelog": [
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance."
+    ],
+    "archive_url": "https://web.archive.org/web/20210726205241/https://support.reolink.com/hc/en-us/articles/900000744606-04-22-2020-Firmware-for-B800-D800-IPC-5158MP8M-",
+    "sha256_pak": "15ecc101e08d513698447d72314b2ca9f39ca7b036263ef0a86e2ccf1c36b494",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410",
+    "version": "v2.0.0.354_19031110",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "a132c167871e7816bbfd61ee0d8c977e4119992d6eea9a0e7f04525ab2d678f0",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-1210A",
+    "version": "v3.0.0.177_21012104",
+    "hw_ver": "IPC_523128M12MP",
+    "display_time": "2021-01-21",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solve the problem that online upgrading may fail sometimes.",
+      "Added a new web terminal that supports the HTML5 player."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805172232/https://support.reolink.com/hc/en-us/articles/900005240343-21st-Jan-2021-Firmware-for-RLC-1210A-and-RLC-1220A",
+    "sha256_pak": "c776a0bff8a49fd0e9a3df24d58c0cc954a04927c113aabc49ac83f8c42e2ea7",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511",
+    "version": "v2.0.0.654_20040904",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-04-09",
+    "changelog": [
+      "Extended the max password length of Email, FTP, and DDNS to 128 digits.",
+      "Updated the max cruise time to 300 seconds."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803033747/https://support.reolink.com/hc/en-us/articles/900000854106-04-09-2020-Firmware-for-Reolink-Auto-focus-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "82f22a90dfd29a12cf9a5b1d736ce1b332052af0bb2052549f43bd782e0339bb",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D400",
+    "version": "v3.0.0.136_20120901",
+    "hw_ver": "IPC_5128M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "0bbbc048e0ed578afcbf0527fb2b2aff8e334cc7c5001440ae7145de5aa66684",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-810A",
+    "version": "v3.0.0.160_21010803",
+    "hw_ver": "IPC_523128M8MP",
+    "display_time": "2021-01-12",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210801104604/https://support.reolink.com/hc/en-us/articles/900004125186-01-12-2021-Firmware-for-RLC-520A-RLC-510A-RLC-820A-RLC-810A",
+    "sha256_pak": "23ef0a9a67fc293b65452fb34b75284d24d71c0487fe3a7f3b2b9b3cd28a0e31",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D400",
+    "version": "v3.0.0.183_21012801",
+    "hw_ver": "IPC_5174MP8M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "3095588132f988d16ca212f7677ba057eec20693af54d3ec6a7cf5320fd35dba",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B800",
+    "version": "v3.0.0.136_20120900",
+    "hw_ver": "IPC_5158MP8M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "78a05ef0d769a98872a65d3f761388451f79500aed532d736ac8fe3a28b69443",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-810A",
+    "version": "v3.0.0.124_20112603",
+    "hw_ver": "IPC_523128M8MP",
+    "display_time": "2020-11-26",
+    "changelog": [
+      "Solved the problem that common users cannot turn on push notifications.",
+      "Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.",
+      "Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.",
+      "Solved H265 freezing issue on Blue Iris.",
+      "MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.",
+      "Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.",
+      "Solved the flickering problem when set to the lowest exposure value (50Hz)."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-",
+    "sha256_pak": "c51a9cf3b3a510605dedd82807855a757c2269fe26364be5e6bfc3863e34a014",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420",
+    "version": "v2.0.0.448_19061403",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2019-06-14",
+    "changelog": [
+      "Fixed the issue where the WiFi can't reconnect after rebooting.",
+      "Fixed the issue where the sound becomes smaller after frequently switching the audio.",
+      "Add the smart home feature (Google Home).",
+      "Optimize the breathing effect.",
+      "Fixed the drop issue where RTSP previewing.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Add power LED control function to C1 Pro.",
+      "Add manually trigger and automatic voice alarm function to C1 Pro."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805171119/https://support.reolink.com/hc/en-us/articles/360025688034-06-14-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "dbf26efa192b511ec36f87ca43fe692fc29e7d9e43077da3b597959e92cea22c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D500",
+    "version": "v3.0.0.183_21012815",
+    "hw_ver": "IPC_5158M5M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "d2c809a33cd0921d2118eee15abd21158e3dafe1b9ead0a11bb28d641ec55c5c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422",
+    "version": "v2.0.0.654_20040906",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-04-09",
+    "changelog": [
+      "Extended the max password length of Email, FTP, and DDNS to 128 digits.",
+      "Updated the max cruise time to 300 seconds."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803033747/https://support.reolink.com/hc/en-us/articles/900000854106-04-09-2020-Firmware-for-Reolink-Auto-focus-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "9810be8f4d33b48aa7f3836b7d07ed55ee38d8bb49a61fe151429ac021e45f5e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Outdoor",
+    "version": "v3.0.0.197_21022706",
+    "hw_ver": "IPC_523SD8",
+    "display_time": "2021-02-27",
+    "changelog": [
+      "Solved the problem that some APP versions are not compatible with the automatic tracking function and the spotlight function.",
+      "Optimized the auto tracking function.",
+      "Optimized the PTZ function.",
+      "Optimized Person and Vehicle Detection."
+    ],
+    "archive_url": "https://web.archive.org/web/20210613000536/https://support.reolink.com/hc/en-us/articles/900005803523-27th-Feb-2021-Firmware-for-E1-Outdoor-IPC-523SD8-",
+    "sha256_pak": "e32be7742d2a1eb48e9ed8798675ca5f73143cf4a44f6d861bf3b68f43d029e5",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-423WS/RLC-423WS-5MP",
+    "version": "v2.0.0.1441_19032113",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "389e763a84ef1b21cd56dd4e053c22e8a9243ab1f15ada5c743e6c070657b0b8",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420-5MP",
+    "version": "v3.0.0.116_20103101",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "e08df115f59584ed1f063b467b7494601ebf680f48c583f92c81bf3f2f385cf9",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-1220A",
+    "version": "v3.0.0.177_21012105",
+    "hw_ver": "IPC_523128M12MP",
+    "display_time": "2021-01-21",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solve the problem that online upgrading may fail sometimes.",
+      "Added a new web terminal that supports the HTML5 player."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805172232/https://support.reolink.com/hc/en-us/articles/900005240343-21st-Jan-2021-Firmware-for-RLC-1210A-and-RLC-1220A",
+    "sha256_pak": "5f23e654747e1ded2394327d543c223c39e6362b2e4f6a7552f01f5a80425502",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D400",
+    "version": "v3.0.0.136_20121001",
+    "hw_ver": "IPC_5174MP8M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "bbd19acd890c8a0e9fab821804cc756f9416032f9819edfed3cd992c3046771a",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B500",
+    "version": "v3.0.0.136_20120914",
+    "hw_ver": "IPC_515B8M5M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "7a45e3594185ec4f6283157195d2ffe7957123b6d40aa37acf2a92c69f167d86",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B400",
+    "version": "v2.0.0.16_20041560",
+    "hw_ver": "IPC_5128M/IPC_5174M",
+    "display_time": "2020-04-15",
+    "changelog": [
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-",
+    "sha256_pak": "831f5e0b9f8d3cf1e13c38833c02e8acb51f15707757de33efdd7b17afc6216e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B400",
+    "version": "v2.0.0.16_20041550",
+    "hw_ver": "IPC_5128M/IPC_5174M",
+    "display_time": "2020-04-15",
+    "changelog": [
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-",
+    "sha256_pak": "bc03e96fd15470fc06c038356eccc7821496158a521b90bbc07e105956093e31",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-411/RLC-411-5MP",
+    "version": "v2.0.0.1441_19032106",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "9c0928718252c17426f1ffad5374d2109f1eabb40d899e7c890d8f8302d406a8",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-810A",
+    "version": "v3.0.0.177_21012103",
+    "hw_ver": "IPC_523128M8MP",
+    "display_time": "2021-01-21",
+    "changelog": [
+      "Corrected the text in an alert email",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via Reolink client.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210612235120/https://support.reolink.com/hc/en-us/articles/900004600266-21st-Jan-2021-Firmware-for-RLC-820A-RLC-810A",
+    "sha256_pak": "52b9dbc0d8513201f50d6369f75c8829f2f1e5f1a3682e03f9f7a03c5992ed81",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v2.0.0.4725_1724_20120700",
+    "hw_ver": "H3MB02",
+    "display_time": "2020-12-07",
+    "changelog": [
+      "Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.",
+      "Solved the problem that Reolink App failed to obtain the PTZ configuration on some IPC.",
+      "Fixed the wrong subject of the reminder email when the hard disk is full."
+    ],
+    "archive_url": "https://web.archive.org/web/20210728201554/https://support.reolink.com/hc/en-us/articles/900003949986-12-07-2020-Firmware-for-Reolink-RLN4-RLN8-410-RLN8-410-E-and-RLN16-410-H3MB02-",
+    "sha256_pak": "beb5e9d89dda83fca71d55719f36e5a41b92861776aed8184fe17448dd38d984",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-510A",
+    "version": "v3.0.0.160_21010802",
+    "hw_ver": "IPC_523128M5MP",
+    "display_time": "2021-01-12",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210801104604/https://support.reolink.com/hc/en-us/articles/900004125186-01-12-2021-Firmware-for-RLC-520A-RLC-510A-RLC-820A-RLC-810A",
+    "sha256_pak": "f5158185a7c49785dd8978b23e463ced61dfc1e97ded0832ba9f0475bb1602c0",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D800",
+    "version": "v3.0.0.183_21012801",
+    "hw_ver": "IPC_5158MP8M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "5855910708f8e07aba48604c7bebe1aea8970b2f58850afdab34aa5753f8b9d1",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Pro",
+    "version": "v3.0.0.102_20091604",
+    "hw_ver": "IPC_513SD5",
+    "display_time": "2020-09-16",
+    "changelog": [
+      "Optimized the day and night mode switching function",
+      "Added the preset feature",
+      "Fixed the problem that the email-test failed with the empty email password",
+      "Optimize network delay when previewing the camera",
+      "Fixed some known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20201023210911/https://support.reolink.com/hc/en-us/articles/900002595986-09-16-2020-Firmware-for-E1-Pro-513SD5-",
+    "sha256_pak": "3dbed414f5a10cbef8f22823b2e1783642a953353607a53a1c88c66476def2d3",
+    "source": "archives_v2"
+  },
+  {
+    "model": "Reolink Lumus",
+    "version": "v2.0.0.684_20091500",
+    "hw_ver": "IPC_325C7",
+    "display_time": "2020-09-15",
+    "changelog": [
+      "Added multiple languages for the voice prompt when scanning the QR code to set up the camera",
+      "Added Normal recording schedule",
+      "Optimized motion detection performance to reduce false alarms",
+      "Fixed some other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201021192944/https://support.reolink.com/hc/en-us/articles/900002618206-09-15-2020-Firmware-for-Reolink-Lumus-IPC-325C7-",
+    "sha256_pak": "93014f80e8e2b49c08476893e8ce6722742d25f3926c353d4c90dadbe861eba9",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-520A",
+    "version": "v3.0.0.160_21010800",
+    "hw_ver": "IPC_523128M5MP",
+    "display_time": "2021-01-12",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210801104604/https://support.reolink.com/hc/en-us/articles/900004125186-01-12-2021-Firmware-for-RLC-520A-RLC-510A-RLC-820A-RLC-810A",
+    "sha256_pak": "a01cc0daedf6fcb0d47950b93dbb29721a08d67508a30de11287d26b4f26f525",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410-E",
+    "version": "v2.0.0.271_20092801",
+    "hw_ver": "H3MB16",
+    "display_time": "2020-09-28",
+    "changelog": [
+      "Improved the overall performance of the network and enhance communication reliability",
+      "Solved the problem that P2P connection is lost occasionally during long time connection, and the NVR needs to be restarted to restore the connection",
+      "Optimized system performance and fixed some other bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805123857/https://support.reolink.com/hc/en-us/articles/900002938243-09-28-2020-Firmware-for-Reolink-RLN8-410-E-RLN4-410-and-RLN16-410",
+    "sha256_pak": "0f5118c5717b23acc23b0d01e38795c0d782705a8927e1d4181856598f657341",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-820A",
+    "version": "v3.0.0.124_20112601",
+    "hw_ver": "IPC_523128M8MP",
+    "display_time": "2020-11-26",
+    "changelog": [
+      "Solved the problem that common users cannot turn on push notifications.",
+      "Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.",
+      "Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.",
+      "Solved H265 freezing issue on Blue Iris.",
+      "MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.",
+      "Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.",
+      "Solved the flickering problem when set to the lowest exposure value (50Hz)."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-",
+    "sha256_pak": "713e76cd903e158210300df33d71ec2b1056c40d9c4960260e6d33a0a4020c46",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-423/RLC-423-5MP",
+    "version": "v2.0.0.1441_19032111",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "8684bc096aa621a378053b9cc7e32f13a888da2cebb3a97482e60ff4e4440e2b",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511",
+    "version": "v2.0.0.354_19031103",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "59943df22a31c50cd977f0a3fa09becb3463cd73a61661f4f45ab4a0530ffc7d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511W",
+    "version": "v2.0.0.354_19031104",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "833535341fefd0e2f3f2dcc5c9509055abfb27980eedc403b564e15c2aedf3ee",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410",
+    "version": "v3.0.0.65_20071000",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128232515/https://support.reolink.com/hc/en-us/articles/900001840826-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "4f9dd597d1377e80c48f3f4f43ff153e8b72eafbdffad6a74da6ae23cc8c1d17",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B400",
+    "version": "v3.0.0.136_20121000",
+    "hw_ver": "IPC_5174MP8M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "e065bd83276b6d9310cc0c243d059bcf8453071d0abec4f5878f46df4aef348c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420-5MP",
+    "version": "v3.0.0.136_20121101",
+    "hw_ver": "IPC_515B16M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect.",
+      "Optimized network transmission.",
+      "Solved the problem that the DHCP hostname is eth0 on the router.",
+      "Solved the problem that there is no email interval in the email setting on the web.",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachments.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725210604/https://support.reolink.com/hc/en-us/articles/900004067066-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-515B16M5M-",
+    "sha256_pak": "b941b21b67ee3dddef1c47356fd1379b5c01a1fc77b2a6585d5e8762f52e957d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 ZOOM",
+    "version": "v3.0.0.136_20121108",
+    "hw_ver": "IPC_515SD6",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added preset function.",
+      "Optimized network transmission protocol.",
+      "Optimized day and night switching effect.",
+      "Solved the problem that FTP recording doesn't have a pre-recorded function.",
+      "Solved the problem of an email test with an empty password.",
+      "Optimized Cloud Storage function.",
+      "Solved the problem that the DHCP hostname is eth0 on the router.",
+      "Solved the problem of copywriting in the received email when only pictures are configured as an email attachment.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805181808/https://support.reolink.com/hc/en-us/articles/900003979146-12-11-2020-Firmware-for-E1-Zoom-IPC-515SD6-and-IPC-515BSD6-",
+    "sha256_pak": "980c22707a3b719473cb6e5c4ad596bbcc6589c4c0997fed9d80d2aa32410aed",
+    "source": "archives_v2"
+  },
+  {
+    "model": "C2-Pro",
+    "version": "v2.0.0.477_19071504",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "fa1fa448d159fe1ac584f8da192e62227b9aa3be7b9982de4d4cd6ad760772d0",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 ZOOM",
+    "version": "v3.0.0.136_20121108",
+    "hw_ver": "IPC_515BSD6",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added preset function.",
+      "Optimized network transmission protocol.",
+      "Optimized day and night switching effect.",
+      "Solved the problem that FTP recording doesn't have a pre-recorded function.",
+      "Solved the problem of an email test with an empty password.",
+      "Optimized Cloud Storage function.",
+      "Solved the problem that the DHCP hostname is eth0 on the router.",
+      "Solved the problem of copywriting in the received email when only pictures are configured as an email attachment.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805181808/https://support.reolink.com/hc/en-us/articles/900003979146-12-11-2020-Firmware-for-E1-Zoom-IPC-515SD6-and-IPC-515BSD6-",
+    "sha256_pak": "8cf28bffffff9cbba536fd308653e94090334508ee8f3f353185a20bd4cdb06e",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410",
+    "version": "v2.0.0.1441_19032101",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "cf92becbdeb6eb0ecb812acdb5685313a5a3406be241e80ac197225723398179",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B400",
+    "version": "v3.0.0.136_20120900",
+    "hw_ver": "IPC_5128M",
+    "display_time": "2020-12-09",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800",
+    "sha256_pak": "93af9e81d66fc0f02ecbffd2963fb6aff25b645cab6552ad2e01bab12318c10c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v3.0.0.118_21020446",
+    "hw_ver": "H3MB18 or N2MB02",
+    "display_time": "2021-02-06",
+    "changelog": [
+      "Solve the problem that the IPC probably cannot connect to NVR after powering off and restarting NVR."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803030929/https://support.reolink.com/hc/en-us/articles/900004388326-6th-Feb-2021-Firmware-for-Reolink-RLN8-410-and-RLN16-410-H3MB18-",
+    "sha256_pak": "9dd1494d4418b7f20d35811d57ca594549561f52aad656d17c38cbcd90a4e651",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v3.0.0.82_20102145",
+    "hw_ver": "H3MB18",
+    "display_time": "2020-10-21",
+    "changelog": [
+      "Added function that can support 12MP cameras",
+      "Added a new web terminal that supports HTML5 player, which mainly solves the problem when FLASH expires",
+      "Newly added Smart Playback function (fast playback with continuous recording, normal speed playback with motion events).",
+      "Added the help prompt message when the email configuration is wrong",
+      "Solved the problem that NVR keeps restarting under special network environment in Beta version",
+      "Solved the problem when connecting PTZ cameras or setting preset points in the Beta version",
+      "Solved the problem that the old version cameras failed to obtain configuration information in the Beta version",
+      "Solved the problem of probabilistic AI recording without pre-recording",
+      "Solved the problem that the alarm is triggered for a short time (about 1 second) and the recording is not recorded probabilistically",
+      "Solved the problem of UI interaction and display errors",
+      "Fulfilled the suggestions and needs of users",
+      "Fixed other known bugs and optimized performance"
+    ],
+    "archive_url": "https://web.archive.org/web/20210129185403/https://support.reolink.com/hc/en-us/articles/900003335926-10-21-2020-Firmware-for-Reolink-RLN8-410-and-RLN16-410-H3MB18-",
+    "sha256_pak": "a34944ef18a3ba8ec12d872a0f166d90a1e9f4601f51a1f94fcb2100e6ad58aa",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v2.0.0.4712_1722_20092900",
+    "hw_ver": "H3MB02/H3MB06",
+    "display_time": "2020-09-28",
+    "changelog": [
+      "Improved the overall performance of the network and enhance communication reliability",
+      "Solved the problem that P2P connection is lost occasionally during long time connection, and the NVR needs to be restarted to restore the connection",
+      "Optimized system performance and fixed some other bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805123857/https://support.reolink.com/hc/en-us/articles/900002938243-09-28-2020-Firmware-for-Reolink-RLN8-410-E-RLN4-410-and-RLN16-410",
+    "sha256_pak": "ab0483378f2e2f1ee232608de7e84fc38f26c9fec07a549deed66386de5027cd",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN8-410",
+    "version": "v3.0.0.82_20102144",
+    "hw_ver": "H3MB18 or N2MB02",
+    "display_time": "2020-10-21",
+    "changelog": [
+      "Added function that can support 12MP cameras",
+      "Added a new web terminal that supports HTML5 player, which mainly solves the problem when FLASH expires",
+      "Newly added Smart Playback function (fast playback with continuous recording, normal speed playback with motion events).",
+      "Added the help prompt message when the email configuration is wrong",
+      "Solved the problem that NVR keeps restarting under special network environment in Beta version",
+      "Solved the problem when connecting PTZ cameras or setting preset points in the Beta version",
+      "Solved the problem that the old version cameras failed to obtain configuration information in the Beta version",
+      "Solved the problem of probabilistic AI recording without pre-recording",
+      "Solved the problem that the alarm is triggered for a short time (about 1 second) and the recording is not recorded probabilistically",
+      "Solved the problem of UI interaction and display errors",
+      "Fulfilled the suggestions and needs of users",
+      "Fixed other known bugs and optimized performance"
+    ],
+    "archive_url": "https://web.archive.org/web/20210129185403/https://support.reolink.com/hc/en-us/articles/900003335926-10-21-2020-Firmware-for-Reolink-RLN8-410-and-RLN16-410-H3MB18-",
+    "sha256_pak": "71ebda1ae2a6c676426344bf6a8f6f73c4cbb24eb3382c693743ddbab2e049a3",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410-5MP",
+    "version": "v3.0.0.65_20071000",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "80d34d4bf853d57f0a5a227fde37cefd17b25f06ad1537ea244e2d4a88b6ef69",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-520",
+    "version": "v3.0.0.136_20121112",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "072d43b1969f540c76b92a24463bf11236ca6a55415ca5497c14c1ea70add664",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W",
+    "version": "v3.0.0.136_20121102",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Optimized day and night switching effect",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103719/https://support.reolink.com/hc/en-us/articles/900004648143-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "420ea68d96ffcecce610711d452676ca68fd29d49ea1eedc48d6feeec0ad1598",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410-5MP",
+    "version": "v3.0.0.136_20121100",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect",
+      "Optimized network transmission protocol to improve network security",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803044124/https://support.reolink.com/hc/en-us/articles/900004823943-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "28807f175605154adb2c364ca60411e15dc7b69e9bf61b56f802d196ab40e828",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410-5MP",
+    "version": "v2.0.0.448_19061407",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "ae0356ecaa2c2812a1044c15d259cb5267dafb308c149e405b906157f044d301",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420-5MP",
+    "version": "v2.0.0.448_19061408",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-07-15",
+    "changelog": [
+      "Add the smart home feature (Google Home).",
+      "Fixed AF learning table compatibility issues.",
+      "Improved P2P connectivity.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Modified the AF library and optimize the AF focus.",
+      "Optimize noise problems of PTZ audio.",
+      "Add power LED control function to C2 Pro.",
+      "Add manually trigger and automatic voice alarm function to C2 Pro.",
+      "Fixed the issue where the WiFi can't reconnect after rebooting."
+    ],
+    "archive_url": "https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "b22156a5fd9c2ff54e1333cc11f1eb0363378867a9cdd6537c1d2c555b2b7c07",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-820A",
+    "version": "v3.0.0.177_21012101",
+    "hw_ver": "IPC_523128M8MP",
+    "display_time": "2021-01-21",
+    "changelog": [
+      "Corrected the text in an alert email",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via Reolink client.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210612235120/https://support.reolink.com/hc/en-us/articles/900004600266-21st-Jan-2021-Firmware-for-RLC-820A-RLC-810A",
+    "sha256_pak": "f32aeca7b92a40e0024868fb1963e7d61e5d7f689701cd6542daff54b36392b9",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420",
+    "version": "v2.0.0.354_19031111",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "c42f3351c4d7b08491502763182e59321187df363b8bffe2b958891dee5d6151",
+    "source": "archives_v2"
+  },
+  {
+    "model": "C1-Pro",
+    "version": "v2.0.0.448_19061405",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2019-06-14",
+    "changelog": [
+      "Fixed the issue where the WiFi can't reconnect after rebooting.",
+      "Fixed the issue where the sound becomes smaller after frequently switching the audio.",
+      "Add the smart home feature (Google Home).",
+      "Optimize the breathing effect.",
+      "Fixed the drop issue where RTSP previewing.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Add power LED control function to C1 Pro.",
+      "Add manually trigger and automatic voice alarm function to C1 Pro."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805171119/https://support.reolink.com/hc/en-us/articles/360025688034-06-14-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "9ff031492035355b012568fa6038dd6e1ac035723d3b5c4d1056d56df12d546a",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B500",
+    "version": "v3.0.0.183_21012814",
+    "hw_ver": "IPC_515B8M5M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "52b8898f3fb567b4461f03b0d2aed44e62b985247c7925b80ed331b00d1e2517",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422W/RLC-422W-5MP",
+    "version": "v2.0.0.1441_19032110",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "12eb5a62b26810a158c32731267cfe6b996f21c3d8ebf51cd2fe2c48ab16e3a8",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410-5MP",
+    "version": "v3.0.0.116_20103100",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "7355a391cafbfeb6cb5945ce12be6d10d1edb2956b5f04f7b8f556f35337399d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1",
+    "version": "v3.0.0.115_20102200",
+    "hw_ver": "IPC_517SD5",
+    "display_time": "2020-10-22",
+    "changelog": [
+      "Added the preset feature.",
+      "Fixed the problem that the email test fails when the email password is blank.",
+      "Optimized cloud transmission performance.",
+      "Optimized the network transmission protocol.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210613002541/https://support.reolink.com/hc/en-us/articles/900003304546-10-22-2020-Firmware-for-Reolink-E1-517SD5-",
+    "sha256_pak": "542b998827ec1fbd893c12aa511126e4463dcb02e7090f37f3b627712e82e075",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422W",
+    "version": "v3.0.0.116_20103106",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "1b578d8345e0baa66f72eeccd86601f9f012d0ada5df8a6ffd240433f75de61d",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-522",
+    "version": "v3.0.0.65_20071011",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "cffa6bbef6f9af090e79faf21dbbcbd9dca26c7aecf5ff0bac365f41e0f27518",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B400",
+    "version": "v3.0.0.183_21012800",
+    "hw_ver": "IPC_5128M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "906359a46350a91ea0413040b7d813ed1b76afd1df3963963adb922590348dcf",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v2.0.0.4700_1719_20022616100",
+    "hw_ver": "H3MB02",
+    "display_time": "2020-02-26",
+    "changelog": [
+      "Unified the version of the NVRs that have the UID number beginning with XCP and 9527.",
+      "Updated the file managing system (fixing the bug of the HDD showing 0GB)",
+      "Updated the max patrol time of the RLC-423 PTZ dome camera to 300 seconds.",
+      "Fixed the bug of FTP uploading not following the size set.",
+      "Updated the web version and fixed some bugs on the web browser access.",
+      "Fixed the bug of the stutter in live view and playback (mainly due to camera's complex scene).",
+      "Fixed some other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210620010534/https://support.reolink.com/hc/en-us/articles/900000296143-02-26-2020-Firmware-for-Reolink-RLN16-410-H3MB02-",
+    "sha256_pak": "89fc54ec3b64b624932bdc636834452661628c64e248f75f91f66daf60702adc",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN16-410",
+    "version": "v3.0.0.118_21020447",
+    "hw_ver": "H3MB18",
+    "display_time": "2021-02-06",
+    "changelog": [
+      "Solve the problem that the IPC probably cannot connect to NVR after powering off and restarting NVR."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803030929/https://support.reolink.com/hc/en-us/articles/900004388326-6th-Feb-2021-Firmware-for-Reolink-RLN8-410-and-RLN16-410-H3MB18-",
+    "sha256_pak": "efc420cf86f9ee6e8c0e15cf3340110efc5f588944c040cf5b32f2c9d4fb99dd",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-422-5MP",
+    "version": "v2.0.0.354_19031105",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2019-03-11",
+    "changelog": [
+      "Add the 30 FPS under the NTSC Standard.",
+      "Fix the bugs on the FTP for some servers.",
+      "Fix the bug on the WiFi connection.",
+      "Fix other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-",
+    "sha256_pak": "0161389f7fd851f609d3e972aaa554df8825955fec9301710694bdef78888856",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Pro",
+    "version": "v3.0.0.183_21012804",
+    "hw_ver": "IPC_513SD5",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Fixed the problem that the email test fails when the email password is blank.",
+      "Optimized cloud transmission performance.",
+      "Optimized the network transmission protocol.",
+      "Solved the problem that you cannot use VLAN to access the camera after setting a static IP when the camera is connected by WiFi.",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210801112229/https://support.reolink.com/hc/en-us/articles/900004231023-28-01-2021-Firmware-for-E1-Pro-513SD5-",
+    "sha256_pak": "e45e09417c9c4869225fbdbdb8e3cafdf1d4e0e2e2d99dc2698b4cac4e4361a8",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-411S/RLC-411S-5MP",
+    "version": "v2.0.0.1441_19032107",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "94696dfe329dd2908213c38fe5f7ca01a59c8c026289bf1f1ea09cf9bf501bbb",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-511W",
+    "version": "v2.0.0.654_20040905",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-04-09",
+    "changelog": [
+      "Extended the max password length of Email, FTP, and DDNS to 128 digits.",
+      "Updated the max cruise time to 300 seconds."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803033747/https://support.reolink.com/hc/en-us/articles/900000854106-04-09-2020-Firmware-for-Reolink-Auto-focus-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "2f588ab3fb774f7df83ee5c5f93868671638cb3df14b3b5ec9d43095b532f75b",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-522",
+    "version": "v2.0.0.654_20040912",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-04-09",
+    "changelog": [
+      "Extended the max password length of Email, FTP, and DDNS to 128 digits.",
+      "Updated the max cruise time to 300 seconds."
+    ],
+    "archive_url": "https://web.archive.org/web/20210803033747/https://support.reolink.com/hc/en-us/articles/900000854106-04-09-2020-Firmware-for-Reolink-Auto-focus-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "829015d0b092276fffd8302703d323e3c0c6f0b336f144c8ac9bae593e98ff07",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN4",
+    "version": "v2.0.0.269_20042900",
+    "hw_ver": "RLN4",
+    "display_time": "2020-04-29",
+    "changelog": [
+      "Fixed the bug of the HDD showing 0GB or not formatted error.",
+      "Fixed the bug that the camera frame rate cannot be configured with 25 fps.",
+      "Added the self-verification mechanism under the new firmware upgrade process to avoid upgraded the wrong firmware version.",
+      "Fixed the freezing issue under the complex environment of live view and playback.",
+      "Optimized system performance and fixed some other bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805123029/https://support.reolink.com/hc/en-us/articles/900000976886-04-29-2020-Firmware-for-Reolink-RLN8-410-RLN8-410-E-and-RLN4",
+    "sha256_pak": "00f72cce7ba985e24ee67e4ce5208c0573b00288ae2ba9ea596c24860f9dab8c",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLN4",
+    "version": "v2.0.0.274_20120700",
+    "hw_ver": "H3MB17",
+    "display_time": "2020-12-07",
+    "changelog": [
+      "Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.",
+      "Solved the problem that Reolink App failed to obtain the PTZ configuration on some IPC.",
+      "Fixed the wrong subject of the reminder email when the hard disk is full."
+    ],
+    "archive_url": "https://web.archive.org/web/20210728201554/https://support.reolink.com/hc/en-us/articles/900003949986-12-07-2020-Firmware-for-Reolink-RLN4-RLN8-410-RLN8-410-E-and-RLN16-410-H3MB02-",
+    "sha256_pak": "1d72611656fc692eff127d7ecc4926250d39401bef77d3e68daf74cc4fa023a2",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Pro",
+    "version": "v3.0.0.93_20090400",
+    "hw_ver": "IPC_513SD5",
+    "display_time": "2020-09-04",
+    "changelog": [
+      "Optimized the day and night mode switching function",
+      "Added the preset feature",
+      "Fixed the problem that the email-test failed with the empty email password",
+      "Optimize network delay when previewing the camera",
+      "Fixed the bug that FTP uploading may fail sometimes",
+      "Fixed some known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20200919120514/https://support.reolink.com/hc/en-us/articles/900002595986-09-04-2020-Firmware-for-E1-Pro-513SD5-",
+    "sha256_pak": "9cfa61bbd3f1d4fa9b9a5f85217a97e6fc50947289c82594d4b29af273217761",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420",
+    "version": "v3.0.0.65_20071001",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128232515/https://support.reolink.com/hc/en-us/articles/900001840826-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "c1352db959711d15c81de5e2f3fb165f37fa14861b27f8c64ca2e740ae4a38d0",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410-5MP",
+    "version": "v3.0.0.136_20121100",
+    "hw_ver": "IPC_515B16M5M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Optimized day and night switching effect.",
+      "Optimized network transmission.",
+      "Solved the problem that the DHCP hostname is eth0 on the router.",
+      "Solved the problem that there is no email interval in the email setting on the web.",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachments.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725210604/https://support.reolink.com/hc/en-us/articles/900004067066-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-515B16M5M-",
+    "sha256_pak": "8d3dfbbedc95ea6e2ab81a8566b335d1bd62facc1a0c3ea5086872709d7df4f1",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-420",
+    "version": "v3.0.0.136_20121101",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2020-12-11",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Optimized day and night switching effect",
+      "Solved the problem that the DHCP hostname is eth0 on the router",
+      "Solved the problem that there is no email interval in the email setting on the web",
+      "Solved the problem of copywriting in the received email when only pictures are configured as email attachment",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103719/https://support.reolink.com/hc/en-us/articles/900004648143-12-11-2020-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "b0009b865c4a0a13b74c68e4bd7928f48c0c82cb5500f4c0741dc7bb9128d220",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-1220A",
+    "version": "v3.0.0.160_21011305",
+    "hw_ver": "IPC_523128M12MP",
+    "display_time": "2021-01-13",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solve the problem that online upgrading may fail sometimes.",
+      "Added a new web terminal that supports the HTML5 player."
+    ],
+    "archive_url": "https://web.archive.org/web/20210204074215/https://support.reolink.com/hc/en-us/articles/900005240343-01-13-2021-Firmware-for-RLC-1210A-and-RLC-1220A",
+    "sha256_pak": "0e863ff73bfb353354a75a19c84c531ea96282b5ffbd521bd6b6e9a9b2451b96",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W-5MP",
+    "version": "v3.0.0.65_20071002",
+    "hw_ver": "IPC_51516M",
+    "display_time": "2020-07-10",
+    "changelog": [
+      "Fixed the bug that FTP upload file failed.",
+      "Added the thumbnail function-Reolink APP will display the image of each motion event during playback.",
+      "Fixed other bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201128230059/https://support.reolink.com/hc/en-us/articles/900001840706-07-10-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M-",
+    "sha256_pak": "52cf4f42af97330637f353bf2f7b271528646019cbe0636c8f3ec435118b864a",
+    "source": "archives_v2"
+  },
+  {
+    "model": "E1 Pro",
+    "version": "v3.0.0.115_20102204",
+    "hw_ver": "IPC_513SD5",
+    "display_time": "2020-10-22",
+    "changelog": [
+      "Fixed the problem that the email test fails when the email password is blank.",
+      "Optimized cloud transmission performance.",
+      "Optimized the network transmission protocol.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20201101042158/https://support.reolink.com/hc/en-us/articles/900004231023-10-22-2020-Firmware-for-E1-Pro-513SD5-",
+    "sha256_pak": "2d5446d45f4513b26fd7c5bc5da610913d83866384337a952d3035069aff22c7",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410S",
+    "version": "v2.0.0.1441_19032102",
+    "hw_ver": "IPC_3816M",
+    "display_time": "2019-03-21",
+    "changelog": [
+      "Fixed security flaws."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-",
+    "sha256_pak": "ac75fb07dfa4da8af26bf40730e65acac4eadfa92d87f3c671823a5d8aac22d5",
+    "source": "archives_v2"
+  },
+  {
+    "model": "D420",
+    "version": "v3.0.0.183_21012802",
+    "hw_ver": "IPC_5174MP8M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "8b1375c794f1ab2b7419c413d8cf85755de15767288c8f8233fe4ff162376b70",
+    "source": "archives_v2"
+  },
+  {
+    "model": "B400",
+    "version": "v3.0.0.183_21012800",
+    "hw_ver": "IPC_5174MP8M",
+    "display_time": "2021-01-28",
+    "changelog": [
+      "Optimize the effect of the day and night switch.",
+      "Optimize network transmission.",
+      "Optimize the alert caused by the Day and Night switching.",
+      "When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).",
+      "Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.",
+      "Fixed some known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800",
+    "sha256_pak": "267e2f2429ac0038be2517db2817be82da1ae0b14ffb1a1bfa8e312c49fb60ba",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-820A",
+    "version": "v3.0.0.160_21010801",
+    "hw_ver": "IPC_523128M8MP",
+    "display_time": "2021-01-12",
+    "changelog": [
+      "Corrected the text in the alert email.",
+      "Solved the problem that the MD status of API URL always displaying as triggered.",
+      "Solved the problem that failed to download videos via the Reolink client.",
+      "Solved other known bugs."
+    ],
+    "archive_url": "https://web.archive.org/web/20210801104604/https://support.reolink.com/hc/en-us/articles/900004125186-01-12-2021-Firmware-for-RLC-520A-RLC-510A-RLC-820A-RLC-810A",
+    "sha256_pak": "1296b63f5e8dae352c5bdeb3a5332316644dda47e98a7b6ddb7d318b241379be",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410W-5MP",
+    "version": "v3.0.0.116_20103102",
+    "hw_ver": "IPC_51516M5M",
+    "display_time": "2020-10-31",
+    "changelog": [
+      "Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.",
+      "Added the SD card 7*24 hours recording function",
+      "Optimized network transmission protocol to improve network security",
+      "Optimized P2P connection",
+      "Solved the problem that FTP recording doesn't have pre-recorded function",
+      "Solved the problem of email test with an empty password and some mail sending bugs",
+      "Solved the problem that FTP test failed and unable to upload pictures under Linux system",
+      "Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi",
+      "Solved the false alert issue which is caused when using PTZ function.",
+      "Solved other known bugs"
+    ],
+    "archive_url": "https://web.archive.org/web/20210803040404/https://support.reolink.com/hc/en-us/articles/900004398063-10-31-2020-Firmware-for-Reolink-IP-Cameras-IPC-51516M5M-",
+    "sha256_pak": "751a8ece209f389317a5c478d72cec01112ef400de0d9f9e48c2861ae4ef4db2",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-410",
+    "version": "v2.0.0.448_19061402",
+    "hw_ver": "IPC_51316M",
+    "display_time": "2019-06-14",
+    "changelog": [
+      "Fixed the issue where the WiFi can't reconnect after rebooting.",
+      "Fixed the issue where the sound becomes smaller after frequently switching the audio.",
+      "Add the smart home feature (Google Home).",
+      "Optimize the breathing effect.",
+      "Fixed the drop issue where RTSP previewing.",
+      "Fixed the IR-cut switching failure problem on part of cameras.",
+      "Add power LED control function to C1 Pro.",
+      "Add manually trigger and automatic voice alarm function to C1 Pro."
+    ],
+    "archive_url": "https://web.archive.org/web/20210805171119/https://support.reolink.com/hc/en-us/articles/360025688034-06-14-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-",
+    "sha256_pak": "e8eaa64a9d6872f99dfc6b2a2e4bebe36cbbe4cdc2e707eace7b7069366cc4d6",
+    "source": "archives_v2"
+  },
+  {
+    "model": "RLC-510A",
+    "version": "v3.0.0.124_20112602",
+    "hw_ver": "IPC_523128M5MP",
+    "display_time": "2020-11-26",
+    "changelog": [
+      "Solved the problem that common users cannot turn on push notifications.",
+      "Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.",
+      "Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.",
+      "Solved H265 freezing issue on Blue Iris.",
+      "MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.",
+      "Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.",
+      "Solved the flickering problem when set to the lowest exposure value (50Hz)."
+    ],
+    "archive_url": "https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-",
+    "sha256_pak": "0ec223eeea27314624d4662cbefa75816b69289fb4dfb8a3990448fe63f4a3b8",
+    "source": "archives_v2"
+  }
+]

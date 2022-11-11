@@ -1,0 +1,993 @@
+[
+  {
+    "id": 171,
+    "title": "Reolink Duo PoE",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/09/100416541631247414.8092.png",
+    "productUrl": "https://reolink.com/product/reolink-duo-poe/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 289,
+        "title": "IPC_528B174MP"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Reolink Duo WiFi",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/09/100410331631247033.8797.png",
+    "productUrl": "https://reolink.com/product/reolink-duo-wifi-v1/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 290,
+        "title": "IPC_528B174MP"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Reolink Duo 2 WiFi",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/09/100410331631247033.8797.png",
+    "productUrl": "https://reolink.com/product/reolink-duo-wifi/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 288,
+        "title": "IPC_529B17B8MP"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Reolink Duo 2 POE",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/09/100416541631247414.8092.png",
+    "productUrl": "https://reolink.com/product/reolink-duo-poe/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 287,
+        "title": "IPC_529B17B8MP"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "title": "RLN36",
+    "type": "NVR",
+    "productImg": "https://reolink.com/wp-content/uploads/2022/04/180832461650270766.9435.png",
+    "productUrl": "https://reolink.com/product/rln36/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 286,
+        "title": "N5MB01"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "title": "D500",
+    "type": "Add-ons",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 268,
+        "title": "IPC_5158M5M"
+      },
+      {
+        "id": 267,
+        "title": "IPC_515B8M5M"
+      }
+    ],
+    "discontinued": true
+  },
+  {
+    "id": 94,
+    "title": "RLC-410W",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210755201642751720.2811.png",
+    "productUrl": "https://reolink.com/product/rlc-410w/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 260,
+        "title": "IPC_30K128M4MP"
+      },
+      {
+        "id": 277,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 133,
+        "title": "IPC_515B16M5M"
+      },
+      {
+        "id": 100033,
+        "title": "IPC_51316M"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "title": "RLC-510WA",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/rlc-510wa-400.png?v=1614674123709",
+    "productUrl": "https://reolink.com/product/rlc-510wa/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 273,
+        "title": "IPC_523128M5MP"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "title": "D800",
+    "type": "Add-ons",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/130955131642067713.6912.png",
+    "productUrl": "https://reolink.com/product/d800/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 272,
+        "title": "IPC_5158MP8M"
+      }
+    ],
+    "discontinued": "RLC-820A"
+  },
+  {
+    "id": 160,
+    "title": "B500",
+    "type": "Add-ons",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 266,
+        "title": "IPC_5158M5M"
+      },
+      {
+        "id": 265,
+        "title": "IPC_515B8M5M"
+      }
+    ],
+    "discontinued": true
+  },
+  {
+    "id": 158,
+    "title": "B400",
+    "type": "Add-ons",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-410-5MP.png",
+    "productUrl": "https://reolink.com/product/b400/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 270,
+        "title": "IPC_5128M"
+      },
+      {
+        "id": 100037,
+        "title": "IPC_5174MP8M"
+      }
+    ],
+    "discontinued": "RLC-510A"
+  },
+  {
+    "id": 159,
+    "title": "D400",
+    "type": "Add-ons",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/05/rlc-420-340.png",
+    "productUrl": "https://reolink.com/product/d400/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 281,
+        "title": "IPC_5128M"
+      },
+      {
+        "id": 100038,
+        "title": "IPC_5174MP8M"
+      }
+    ],
+    "discontinued": "RLC-520A"
+  },
+  {
+    "id": 157,
+    "title": "B800",
+    "type": "Add-ons",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2019/02/b800-400.png",
+    "productUrl": "https://reolink.com/product/b800/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 271,
+        "title": "IPC_5158MP8M"
+      }
+    ],
+    "discontinued": "RLC-810A"
+  },
+  {
+    "id": 51,
+    "title": "RLN16-410 (NVR)",
+    "type": "NVR",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2017/11/rln16-410.png",
+    "productUrl": "https://reolink.com/product/rln16-410/?attribute_pa_version=rln16-410",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 196,
+        "title": "H3MB18 "
+      },
+      {
+        "id": 285,
+        "title": "N6MB01"
+      },
+      {
+        "id": 100044,
+        "title": "H3MB02"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "RLC-510A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2020/07/rlc-510a-340.png",
+    "productUrl": "https://reolink.com/product/rlc-510a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 220,
+        "title": "IPC_523128M5MP"
+      },
+      {
+        "id": 100000,
+        "title": "IPC_523128M5MP_V2"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "RLC-520A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/12/200329491639970989.7717.png",
+    "productUrl": "https://reolink.com/product/rlc-520a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 6,
+        "title": "IPC_523128M5MP"
+      },
+      {
+        "id": 100001,
+        "title": "IPC_523128M5MP_V2"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "RLC-810A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2020/07/rlc-810a-340.png",
+    "productUrl": "https://reolink.com/product/rlc-810a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 9,
+        "title": "IPC_523128M8MP"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "RLC-820A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/07/310158421627696722.9425.png",
+    "productUrl": "https://reolink.com/product/rlc-820a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 18,
+        "title": "IPC_523128M8MP"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "RLN8-410 (NVR)",
+    "type": "NVR",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rln8-16-410.png",
+    "productUrl": "https://reolink.com/product/rln8-410/?attribute_pa_version=rln8-410",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 231,
+        "title": "N2MB02 or H3MB18"
+      },
+      {
+        "id": 208,
+        "title": "N3MB01"
+      },
+      {
+        "id": 100043,
+        "title": "H3MB02"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "RLC-410",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-410-5MP.png",
+    "productUrl": "https://reolink.com/product/rlc-410/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 130,
+        "title": "IPC-515B16M5M"
+      },
+      {
+        "id": 79,
+        "title": "IPC_51316M"
+      },
+      {
+        "id": 82,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 100019,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-510A"
+  },
+  {
+    "id": 55,
+    "title": "RLC-420",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-420.png",
+    "productUrl": "https://reolink.com/product/rlc-420/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 85,
+        "title": "IPC_51316M"
+      },
+      {
+        "id": 91,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 141,
+        "title": "IPC_515B16M5M"
+      },
+      {
+        "id": 100009,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-520A"
+  },
+  {
+    "id": 58,
+    "title": "RLC-422",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-422.png",
+    "productUrl": "https://reolink.com/product/rlc-422/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 88,
+        "title": "IPC-51516M"
+      },
+      {
+        "id": 100012,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-822A"
+  },
+  {
+    "id": 62,
+    "title": "RLC-520",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/04/180839551650271195.8689.png",
+    "productUrl": "https://reolink.com/product/rlc-520/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 95,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 138,
+        "title": "IPC_515B16M5M"
+      }
+    ],
+    "discontinued": "RLC-520A"
+  },
+  {
+    "id": 65,
+    "title": "RLC-522",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2020/02/rlc-522-340.png",
+    "productUrl": "https://reolink.com/product/rlc-522/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 98,
+        "title": "IPC_51516M5M"
+      }
+    ],
+    "discontinued": "RLC-822A"
+  },
+  {
+    "id": 69,
+    "title": "RLC-511W",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-511w.png",
+    "productUrl": "https://reolink.com/product/rlc-511w/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 102,
+        "title": "IPC_51516M5M"
+      }
+    ],
+    "discontinued": "RLC-511WA"
+  },
+  {
+    "id": 72,
+    "title": "RLC-422W",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-422w.png",
+    "productUrl": "https://reolink.com/product/rlc-422w/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 105,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 100017,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-511W"
+  },
+  {
+    "id": 73,
+    "title": "RLC-511",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-511.png",
+    "productUrl": "https://reolink.com/product/rlc-511/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 106,
+        "title": "IPC_51516M5M"
+      }
+    ],
+    "discontinued": "RLC-811A"
+  },
+  {
+    "id": 76,
+    "title": "E1",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png",
+    "productUrl": "https://reolink.com/product/e1/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 109,
+        "title": "IPC_517SD5"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "E1 Pro",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png",
+    "productUrl": "https://reolink.com/product/e1-pro/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 114,
+        "title": "IPC_513SD5"
+      },
+      {
+        "id": 232,
+        "title": "IPC_515SD5"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "E1 Zoom",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2019/10/e1-zoom-400.png",
+    "productUrl": "https://reolink.com/product/e1-zoom/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 127,
+        "title": "IPC_515BSD6"
+      },
+      {
+        "id": 205,
+        "title": "IPC_515SD6"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "RLC-423",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-423.png",
+    "productUrl": "https://reolink.com/product/rlc-423/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 144,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 100018,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-823A"
+  },
+  {
+    "id": 111,
+    "title": "RLC-1210A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/07/050242471625452967.3365.png",
+    "productUrl": "https://reolink.com/product/rlc-1210a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 175,
+        "title": "IPC_523128M12MP"
+      }
+    ],
+    "discontinued": "RLC-810A"
+  },
+  {
+    "id": 114,
+    "title": "RLC-1220A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/07/310158421627696722.9425.png",
+    "productUrl": "https://reolink.com/product/rlc-1220a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 178,
+        "title": "IPC_523128M12MP"
+      }
+    ],
+    "discontinued": "RLC-820A"
+  },
+  {
+    "id": 120,
+    "title": "RLC-822A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2020/12/rlc-822a-400.png?v=1612231155490",
+    "productUrl": "https://reolink.com/product/rlc-822a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 197,
+        "title": "IPC_523128M8MP"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "RLC-511WA",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/050711201614928280.545.png",
+    "productUrl": "https://reolink.com/product/rlc-511wa/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 214,
+        "title": "IPC_523128M5MP"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "RLC-811A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/050713171614928397.8822.png",
+    "productUrl": "https://reolink.com/product/rlc-811a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 217,
+        "title": "IPC_523128M8MP"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "RLC-812A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/07/230838461627029526.281.png",
+    "productUrl": "https://reolink.com/product/rlc-812a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 239,
+        "title": "IPC_523B188MP"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "title": "RLC-824A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/08/050939301628156370.5693.png",
+    "productUrl": "https://reolink.com/product/rlc-824a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 242,
+        "title": "IPC_523D88MP"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "RLC-842A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/09/021016231630577783.2975.png",
+    "productUrl": "https://reolink.com/product/rlc-842a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 245,
+        "title": "IPC_523D98MP"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "title": "RLC-542WA",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/09/030134011630632841.2152.png",
+    "productUrl": "https://reolink.com/product/rlc-542wa/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 248,
+        "title": "IPC_523D95MP"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "title": "RLC-823A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/05/200630021621492202.9127.png",
+    "productUrl": "https://reolink.com/product/rlc-823a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 251,
+        "title": "IPC_523128M8MP"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "title": "RLC-523WA",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/08/110250321628650232.2949.png",
+    "productUrl": "https://reolink.com/product/rlc-523wa/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 254,
+        "title": "IPC_523128M5MP"
+      }
+    ]
+  },
+  {
+    "id": 100005,
+    "title": "C2-Pro",
+    "productUrl": "https://reolink.com/product/c2-pro/",
+    "hardwareVersions": [
+      {
+        "id": 100006,
+        "title": "IPC_51516M5M"
+      }
+    ],
+    "discontinued": "E1 Zoom"
+  },
+  {
+    "id": 100007,
+    "title": "RLC-423WS",
+    "productUrl": "https://reolink.com/product/rlc-423ws/",
+    "hardwareVersions": [
+      {
+        "id": 100008,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-523WA"
+  },
+  {
+    "id": 100010,
+    "title": "RLC-411",
+    "productUrl": "https://reolink.com/product/rlc-411/",
+    "hardwareVersions": [
+      {
+        "id": 100011,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-510A"
+  },
+  {
+    "id": 100013,
+    "title": "RLC-410S",
+    "productUrl": "https://reolink.com/product/rlc-410s/",
+    "hardwareVersions": [
+      {
+        "id": 100014,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-410"
+  },
+  {
+    "id": 100015,
+    "title": "RLC-411WS",
+    "productUrl": "https://reolink.com/product/rlc-411ws/",
+    "hardwareVersions": [
+      {
+        "id": 100016,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-511W"
+  },
+  {
+    "id": 100020,
+    "title": "RLC-411S",
+    "productUrl": "https://reolink.com/product/rlc-411s/",
+    "hardwareVersions": [
+      {
+        "id": 100021,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-510A"
+  },
+  {
+    "id": 100022,
+    "title": "RLC-423S",
+    "productUrl": "https://reolink.com/product/rlc-423s/",
+    "hardwareVersions": [
+      {
+        "id": 100023,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-823A"
+  },
+  {
+    "id": 100024,
+    "title": "RLC-410WS",
+    "productUrl": "https://reolink.com/product/rlc-410ws/",
+    "hardwareVersions": [
+      {
+        "id": 100025,
+        "title": "IPC_3816M"
+      }
+    ],
+    "discontinued": "RLC-510WA/410W"
+  },
+  {
+    "id": 100026,
+    "title": "C1-Pro",
+    "productUrl": "https://reolink.com/product/c1-pro/",
+    "hardwareVersions": [
+      {
+        "id": 100027,
+        "title": "IPC_3816MPT"
+      },
+      {
+        "id": 100032,
+        "title": "IPC_51316M"
+      }
+    ],
+    "discontinued": "E1 Pro"
+  },
+  {
+    "id": 100028,
+    "title": "C2",
+    "productUrl": "https://reolink.com/product/c2-series/",
+    "hardwareVersions": [
+      {
+        "id": 100029,
+        "title": "IPC_3816MPT"
+      }
+    ],
+    "discontinued": "E1 Pro"
+  },
+  {
+    "id": 100030,
+    "title": "C1",
+    "productUrl": "https://reolink.com/product/c1/",
+    "hardwareVersions": [
+      {
+        "id": 100031,
+        "title": "IPC_36S16MHSM"
+      }
+    ],
+    "discontinued": "E1 Pro"
+  },
+  {
+    "id": 100034,
+    "title": "D420",
+    "hardwareVersions": [
+      {
+        "id": 100035,
+        "title": "IPC_5128M"
+      },
+      {
+        "id": 100036,
+        "title": "IPC_5174MP8M"
+      }
+    ],
+    "discontinued": true
+  },
+  {
+    "id": 100039,
+    "title": "E1 Outdoor",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/050715191614928519.1298.png",
+    "productUrl": "https://reolink.com/product/e1-outdoor/",
+    "hardwareVersions": [
+      {
+        "id": 100040,
+        "title": "IPC_523SD8"
+      }
+    ]
+  },
+  {
+    "id": 100004,
+    "title": "RLN4-410",
+    "type": "NVR",
+    "hardwareVersions": [
+      {
+        "id": 100041,
+        "title": "H3MB02"
+      },
+      {
+        "id": 100042,
+        "title": "H3MB17"
+      }
+    ],
+    "discontinued": true
+  },
+  {
+    "id": 100045,
+    "title": "RLN4-210W",
+    "type": "NVR",
+    "hardwareVersions": [
+      {
+        "id": 100046,
+        "title": "H2MB11"
+      },
+      {
+        "id": 100047,
+        "title": "H2MB09"
+      }
+    ],
+    "discontinued": true
+  },
+  {
+    "id": 100048,
+    "title": "RLC-210W",
+    "hardwareVersions": [
+      {
+        "id": 100049,
+        "title": "IPC_36S16M"
+      },
+      {
+        "id": 100050,
+        "title": "IPC_35S8M"
+      }
+    ],
+    "discontinued": "RLC-510WA/410W"
+  },
+  {
+    "id": 100051,
+    "title": "RLC-210",
+    "hardwareVersions": [
+      {
+        "id": 100052,
+        "title": "IPC_36S16M"
+      }
+    ],
+    "discontinued": true
+  },
+  {
+    "id": 100053,
+    "title": "RLN8-410-E",
+    "type": "NVR",
+    "hardwareVersions": [
+      {
+        "id": 100054,
+        "title": "H3MB16"
+      }
+    ]
+  },
+  {
+    "id": 100055,
+    "title": "Reolink Lumus",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2020/01/reolink-lumus-340.png",
+    "productUrl": "https://reolink.com/product/reolink-lumus/",
+    "hardwareVersions": [
+      {
+        "id": 100056,
+        "title": "IPC_325C7"
+      }
+    ]
+  }
+]

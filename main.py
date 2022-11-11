@@ -1,31 +1,55 @@
 #!/usr/bin/env python3
 
 import asyncio
+import itertools
 import json
-import random
 import re
 from datetime import date, datetime
+from operator import itemgetter
 from zoneinfo import ZoneInfo
 
 import aiohttp
 from dateutil.parser import parse as dtparse
 from lxml.html import document_fromstring, fragment_fromstring, tostring
 from lxml.html.builder import OL, LI
-from reolinkfw import get_info
+from reolinkfw import get_info, INFO_KEYS
 from waybackpy import WaybackMachineCDXServerAPI
 
 WAYBACK_MAX_CONN = 20
+FILE_DEVICES = "devices.json"
+FILE_PAKINFO = "pak_info.json"
+FILE_FW_LIVE = "firmwares_live.json"
+FILE_FW_MANL = "firmwares_manual.json"
+FILE_FW_ARV2 = "firmwares_archives_support.json"
 
 
-async def get_one(session, url, type_):
+async def get_one(session, url, type_="text"):
     async with session.get(url) as resp:
         return await (resp.json() if type_ == "json" else resp.text())
 
 
-async def get_all(urls, type_, limit_per_host=0):
+async def get_all(urls, type_="text", limit_per_host=0):
     conn = aiohttp.TCPConnector(limit_per_host=limit_per_host)
     async with aiohttp.ClientSession(connector=conn) as session:
         return await asyncio.gather(*[get_one(session, url, type_) for url in urls])
+
+
+def load_devices():
+    with open(FILE_DEVICES, 'r', encoding="utf8") as f:
+        return json.load(f)
+
+
+def load_firmwares():
+    # live must be first because its information takes precedence. 
+    with (open(FILE_FW_LIVE, 'r', encoding="utf8") as live,
+            open(FILE_FW_ARV2, 'r', encoding="utf8") as arv2,
+            open(FILE_FW_MANL, 'r', encoding="utf8") as man):
+        return json.load(live) + json.load(arv2) + json.load(man)
+
+
+def load_pak_info():
+    with open(FILE_PAKINFO, 'r', encoding="utf8") as f:
+        return json.load(f)
 
 
 def md_link(label, url):
@@ -33,6 +57,10 @@ def md_link(label, url):
 
 
 def make_changes(changes):
+    if not changes:
+        return ''
+    elif len(changes) == 1:
+        return changes[0]
     items = []
     subitems = []
     for idx, i in enumerate(changes):
@@ -46,33 +74,91 @@ def make_changes(changes):
     return tostring(OL(*items)).decode()
 
 
+def collapsed(firmwares, key_comp, key_collapse):
+    """Collapse firmwares that have the same key_comp on their key_collapse key.
+    
+    This is not generic and only applies to the cases that have been observed.
+    """
+    res = []
+    values = {fw[key_comp].lower() for fw in firmwares}
+    for v in values:
+        same = [fw for fw in firmwares if fw[key_comp].lower() == v]
+        live = [fw for fw in same if fw["source"] == "live"]
+        arv2 = [fw for fw in same if fw["source"] == "archives_v2"]
+        collapsed_list = [fw[key_collapse] for fw in same]
+        if len(same) == 1:
+            res.append({**same[0], key_collapse: collapsed_list})
+        elif len(live) == 1:
+            res.append({**live[0], key_collapse: collapsed_list})
+        elif len(arv2) == 1:
+            res.append({**arv2[0], key_collapse: collapsed_list})
+        elif len(arv2) == len(same):
+            fw = sorted(same, key=itemgetter("archive_url"))[-1]
+            res.append({**fw, key_collapse: collapsed_list})
+        elif dicts_same_items(*same, keys=["url", "firmware_id", "source"], ignore_keys=True):
+            res.append({**same[0], key_collapse: collapsed_list})
+        else:  # This should never be reached.
+            for s in same:
+                res.append({**s, key_collapse: [s[key_collapse]]})
+    return res
+
+
+def make_title(device):
+    title = device["title"].removesuffix(" (NVR)")
+    if (type_ := device.get("type", "IPC")) != "IPC":
+        title += f" ({type_})"
+    if device.get("discontinued"):
+        title += " *"
+    return title
+
+
+def parse_build_date(build_date):
+    return date(2000 + int(build_date[:2]), int(build_date[2:4]), int(build_date[4:]))
+
+
 def make_readme(firmwares):
+    pak_info = load_pak_info()
+    def sort(tup):
+        return tup[1]["info"]["build_date"]
     text = ''
-    models = sorted(set(fw["model"] for fw in firmwares))
-    for model in models:
-        text += "<details>\n  <summary>" + model + "</summary>\n"
-        model_fw = [fw for fw in firmwares if fw["model"] == model]
-        hw_vers = sorted(set(fw["hw_ver"] for fw in model_fw))
-        for hv in hw_vers:
-            text += "\n  ### " + hv + "\n"
+    devices = sorted(load_devices(), key=itemgetter("title"))
+    for model in devices:
+        text += "<details>\n  <summary>" + make_title(model) + "</summary>\n"
+        if prodimg := model.get("productImg"):
+            text += f'\n<img srcset="{prodimg} 3x">\n'
+        if produrl := model.get("productUrl"):
+            text += '\n' + md_link("Product page", produrl) + '\n'
+        for hv in model["hardwareVersions"]:
+            text += "\n  ### " + hv["title"] + "\n"
             text += "Version | Date | Changes | Notes\n"
             text += "--- | --- | --- | ---\n"
-            for fw in (f for f in model_fw if f["hw_ver"] == hv): #sort by date
-                if "filename" in fw:
-                    dl_url = fw["url"] + '?download_name=' + fw["filename"]
-                else:
-                    dl_url = fw["url"]
-                version = md_link(fw["version"], dl_url)
-                if isinstance(fw["display_time"], str):
-                    dt = datetime.fromisoformat(fw["display_time"]).date()
-                else:
-                    dt = fw["display_time"].date()
+            for sha, pi in sorted(((k, v) for k, v in pak_info.items() if v["model_id"] == model["id"] and v["hw_ver_id"] == hv["id"] if not v["info"].get("error")), key=sort, reverse=True):
+                fws = [fw for fw in firmwares if fw["sha256_pak"] == sha]
+                # If a firmware appears both in live and archivesv2, the live instance
+                # will appear first in the list and therefore be the one selected.
+                fw = fws[0] if fws else {}
+                info = pi["info"]
+                links = []
+                for url in sorted(pi["download"]):
+                    dl_url = url
+                    if "filename" in fw and "wp-content" in url:
+                        dl_url += "?download_name=" + fw["filename"]
+                    ver = info["firmware_version_prefix"] + '.' + info["version_file"]
+                    links.append(md_link(ver, dl_url))
+                version = "<br />".join(links)
+                dt = parse_build_date(info["build_date"])
                 date_str = str(dt).replace('-', chr(0x2011))
-                if "changelog" in fw:
-                    new = make_changes(fw["changelog"]) if len(fw["changelog"]) > 1 else fw["changelog"][0]
+                new = make_changes(fw.get("changelog"))
+                if "archive_url" in fw:
+                    notes = md_link("Archive", fw["archive_url"])
                 else:
-                    new = ''
-                notes = fw.get("note", '').replace("\n", '')
+                    notes = fw.get("note", '').replace("\n", "<br />")
+                    # notes = fw.get("note", '').replace("\n", '')
+                    # if fw.get("beta"):
+                    #     notes += "<br />" + "WARNING: this is a beta firmware"
+                    # if sources := fw.get("source_urls"):
+                    #     for nb, url in enumerate(sources, start=1):
+                    #         notes += ' ' + md_link(f"Source {nb}", url)
                 text += " | ".join((version, date_str, new, notes)) + '\n'
         text += "\n</details>\n\n"
     return text
@@ -92,11 +178,11 @@ def parse_changes(text):
     text = sanitize(text)
     text = text.removeprefix("<p>").removesuffix("</p>")
     text = text.removeprefix("<P>").removesuffix("</P>")
-    return re.split("\s*</?[pP]>\s*<[pP]>|\s*<br />\s*", text)
+    return re.split("\s*</?[pP]>\s*<[pP]>\s*|\s*<br />\s*", text)
 
 
 def parse_timestamps(display_time, updated_at):
-    """For v3."""
+    """For live firmwares."""
     dt = display_time / 1000
     sh = ZoneInfo("Asia/Shanghai")
     tz = sh if datetime.fromtimestamp(dt, sh).hour == 0 else ZoneInfo("UTC")
@@ -130,16 +216,16 @@ async def from_live_website():
 
 async def get_archives_v1_firmware_links(limit_per_host=WAYBACK_MAX_CONN):
     """Return a list of unique firmware download links."""
-    cdx = WaybackMachineCDXServerAPI("https://reolink.com/firmware", filters=["statuscode:200"])
-    snapshots = (snap.archive_url for snap in cdx.snapshots())  # set()?
+    cdx = WaybackMachineCDXServerAPI("reolink.com", filters=["statuscode:200", "original:.*/firmware/.*", "mimetype:text/html"], match_type="host")
+    snapshots = (snap.archive_url for snap in cdx.snapshots())
     links = []
-    for response in await get_all(snapshots, "text", limit_per_host):
+    for response in await get_all(snapshots, limit_per_host=limit_per_host):
         doc = document_fromstring(response)
         for a in doc.iter("a"):
             href = a.get("href")
             if href is not None and ".zip" in href:
                 link = "http" + href.split("http")[-1]
-                if link not in links:  # Keep order, don't use set.
+                if link not in links:  # Keep order, don't use a set.
                     links.append(link)
     return links
 
@@ -157,25 +243,25 @@ def parse_old_support_page_changes(text):
 
 async def get_and_parse_old_support_page(session, url):
     """For https://support.reolink.com/hc/en-us/articles/ pages."""
-    html = await get_one(session, url, "text")
+    html = await get_one(session, url)
     doc = document_fromstring(html)
     main = doc.find("./body/main")
-    firmwares = []
     title = doc.find("./head/title").text
     # Could also use date in link or in firmware.
     dt = dtparse(title.split("Firmware")[0]).date()
     for body in main.find_class("article-body"):
         if new := parse_old_support_page_changes(body.text_content()):
             break
+    firmwares = []
     for table in main.findall(".//table"):
         for tr in table.iter("tr"):
-            if len(tr) == 3:
+            if len(tr) == 2:
+                model, firmware = tr
+                hardware = None
+            elif len(tr) == 3:
                 model, firmware, hardware = tr
             elif len(tr) == 4:
                 model, firmware, _, hardware = tr
-            elif len(tr) == 2:
-                model, firmware = tr
-                hardware = None
             if "model" in model.text_content().lower():
                 continue  # Ignore table header.
             a = firmware.find(".//a")  # xpath because some pages have the <a> under a span, and also multiple <a>s with different links????
@@ -200,30 +286,8 @@ async def from_support_archives(limit_per_host=WAYBACK_MAX_CONN):
     return [fw for firmwares in lists for fw in firmwares]
 
 
-async def get_firmwares_from_archives_v1(limit_per_host=WAYBACK_MAX_CONN):
-    urls = await get_archives_v1_firmware_links(limit_per_host)
-    return await asyncio.gather(*[get_info(url) for url in urls])
-
-
-def merge_devices(live, old):
-    """Modify live in-place and return it."""
-    for olddev in old:
-        if olddev["id"] >= 10**5:
-            live.append(olddev)
-        else:
-            for livedev in live:
-                if livedev["id"] == olddev["id"]:
-                    livedev["hardwareVersions"].extend(olddev["hardwareVersions"])
-                    break
-    return live
-
-
-def parse_build_date(build_date):
-    return date(2000 + int(build_date[:2]), int(build_date[2:4]), int(build_date[4:]))
-
-
 def clean_model(model):
-    return model.removesuffix("-5MP").removesuffix(" (NVR)").lower()
+    return model.removesuffix("-5MP").removesuffix(" (NVR)").replace(' ', '-').lower()
 
 
 def clean_hw_ver(hw_ver):
@@ -238,76 +302,229 @@ def get_model_id(devices, model):
 
 
 def get_hw_ver_id(devices, model_id, hw_ver_names):
-    for dev in devices:
-        if dev["id"] == model_id:
-            for hw_ver in dev["hardwareVersions"]:
-                for name in hw_ver["title"].split(" or "):
-                    clean = clean_hw_ver(name)
-                    if any(clean == clean_hw_ver(name) for name in hw_ver_names):
-                        return hw_ver["id"]
+    if (idx := get_item_index(devices, "id", model_id)) is None:
+        return None
+    hw_vers = devices[idx]["hardwareVersions"]
+    # Try exact match first.
+    for hw_ver in hw_vers:
+        for name in hw_ver["title"].split(" or "):
+            clean = clean_hw_ver(name)
+            if any(clean_hw_ver(name) == clean for name in hw_ver_names):
+                return hw_ver["id"]
+    # Then substring.
+    for hw_ver in hw_vers:
+        for name in hw_ver["title"].split(" or "):
+            clean = clean_hw_ver(name)
+            if any(clean_hw_ver(name).startswith(clean) for name in hw_ver_names):
+                return hw_ver["id"]
     return None
 
 
-# def get_hw_ver_name(devices, model_id, hw_ver_id):
-#     for dev in devices:
-#         if dev["id"] == model_id:
-#             for hw_ver in dev["hardwareVersions"]:
-#                 if hw_ver_id == hw_ver["id"]:
-#                     return hw_ver["title"]
-#     return None
+def match(pak_info):
+    if "error" in pak_info:
+        return None, None
+    devices = load_devices()
+    model_id = get_model_id(devices, pak_info["display_type_info"])
+    keys = ("board_type", "detail_machine_type", "board_name")
+    hw_names = set(pak_info[key] for key in keys)
+    hw_ver_id = get_hw_ver_id(devices, model_id, hw_names)
+    return model_id, hw_ver_id
 
 
-def random_firmware_id():
-    return random.randrange(10**6, 10**7)
+def update_ids(pak_info, old_model_id, old_hw_id, new_model_id, new_hw_id):
+    if (old_model_id, old_hw_id) == (None, None):
+        return
+    for key in pak_info:
+        if pak_info[key]["model_id"] == old_model_id and old_model_id is not None:
+            pak_info[key]["model_id"] = new_model_id
+        if pak_info[key]["hw_ver_id"] == old_hw_id and old_hw_id is not None:
+            pak_info[key]["hw_ver_id"] = new_hw_id
 
 
-def longest_string(*strings):
-    res = ''
-    for s in set(strings):
-        if len(s) > len(res):
-            res = s
-    return res
+def add_pak_info(pak_info, model_id=None, hw_ver_id=None):
+    pak_infos = load_pak_info()
+    if model_id is None or hw_ver_id is None:  # They should always be both None or not.
+        model_id, hw_ver_id = match(pak_info)
+    else:
+        # This code is only reached in case of a live firmware (both ids are present).
+        # In case a device/hw version was previously manually added and then
+        # matched for at least one pak file, update it/them with the "official" ids.
+        old_model_id, old_hw_ver_id = match(pak_info)
+        update_ids(pak_infos, old_model_id, old_hw_ver_id, model_id, hw_ver_id)
+    copy = pak_info.copy()
+    sha = copy.pop("sha256")
+    url = copy.pop("url")
+    if sha in pak_infos:
+        if url not in pak_infos[sha]["download"]:
+            pak_infos[sha]["download"].append(url)
+    else:
+        pak_infos[sha] = {
+            "info": copy,
+            "download": [url],
+            "model_id": model_id,
+            "hw_ver_id": hw_ver_id
+        }
+    with open(FILE_PAKINFO, 'w', encoding="utf8") as f:
+        json.dump(pak_infos, f, indent=2)
 
 
-def match_and_correct(firmware, devices):
-    """Modifies firmware in-place. get_info must have been called."""
-    if firmware.get("firmware_id") is None:
-        firmware["firmware_id"] = random_firmware_id()
-    if firmware.get("model_id") is None:
-        dti = firmware["display_type_info"]
-        # names = set((dti, firmware.get("model", dti)))
-        name = longest_string(*dti.split('/'), *firmware.get("model", dti).split('/'))
-        firmware["model_id"] = get_model_id(devices, name)
-    model_id = firmware["model_id"]
-    if firmware.get("hw_ver_id") is None:
-        keys = ("board_type", "detail_machine_type", "board_name", "hw_ver")
-        hw_names = set(firmware.get(key) for key in keys if firmware.get(key))
-        firmware["hw_ver_id"] = get_hw_ver_id(devices, model_id, hw_names)
-    if firmware.get("display_time") is None:
-        firmware["display_time"] = parse_build_date(firmware["build_date"])
-    # if firmware.get("hw_ver") is None:
-    #     firmware["hw_ver"] = get_hw_ver_name(devices, model_id, firmware["hw_ver_id"])
-    if 'v' not in firmware.get("version", '').lower():
-        prefix = firmware["firmware_version_prefix"]
-        firmware["version"] = prefix + '.' + firmware["version_file"]
+def add_and_clean(pak_infos, dicts=[], source=None):
+    """Add new firmware info to FILE_PAKINFO and return cleaned up firmwares."""
+    firmwares = []
+    for fw, infos in itertools.zip_longest(dicts, pak_infos, fillvalue={}):
+        fw.pop("url", None)
+        model_id = fw.pop("model_id", None)
+        hw_ver_id = fw.pop("hw_ver_id", None)
+        for info in infos:
+            if "sha256" in info:
+                add_pak_info(info, model_id, hw_ver_id)
+                firmwares.append({**fw, "sha256_pak": info["sha256"], "source": source})
+            else:
+                firmwares.append({**fw, **info, "source": source})
+    return firmwares
 
 
 def keep_most_recent(firmwares):
     """Return a list containing only the most recent snapshot for each unique firmware file link."""
     urls = {fw["url"] for fw in firmwares}
-    return [sorted((fw for fw in firmwares if fw["url"] == url), key=lambda fw: fw["archive_url"])[-1] for url in urls]
+    return [sorted((fw for fw in firmwares if fw["url"] == url), key=itemgetter("archive_url"))[-1] for url in urls]
 
 
-async def generate_support_archives_firmwares(limit_per_host=WAYBACK_MAX_CONN):
+async def add_archives_v1_firmwares(limit_per_host=WAYBACK_MAX_CONN):
+    urls = await get_archives_v1_firmware_links(limit_per_host)
+    pak_infos = await asyncio.gather(*[get_info(url) for url in urls])
+    add_and_clean(pak_infos)
+
+
+async def create_support_archives_firmwares(limit_per_host=WAYBACK_MAX_CONN):
     firmwares = await from_support_archives(limit_per_host=limit_per_host)
     filtered = keep_most_recent(firmwares)
-    with (open("devices_live.json", 'r', encoding="utf8") as live,
-            open("devices_old.json", 'r', encoding="utf8") as old):
-        devices = merge_devices(json.load(live), json.load(old))
-    info =  await asyncio.gather(*[get_info(fw["url"]) for fw in filtered])
-    with_info = [{**a, **b} for a, b in zip(filtered, info)]
-    for f in with_info:
-        if "error" not in f:
-            match_and_correct(f, devices)
-    with open("firmwares_old_support.json", 'w', encoding="utf8") as f:
-        json.dump(with_info, f, indent=2, default=str)
+    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in filtered])
+    clean_fws = add_and_clean(pak_infos, filtered, "archives_v2")
+    with open(FILE_FW_ARV2, 'w', encoding="utf8") as f:
+        json.dump(clean_fws, f, indent=2, default=str)
+
+
+async def create_live_devices_and_firmwares():
+    devices, firmwares = await from_live_website()
+    with open(FILE_DEVICES, 'w', encoding="utf8") as f:
+        json.dump(devices, f, indent=2)
+    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in firmwares])
+    clean_fws = add_and_clean(pak_infos, firmwares, "live")
+    with open(FILE_FW_LIVE, 'w', encoding="utf8") as f:
+        json.dump(clean_fws, f, indent=2, default=str)
+
+
+async def add_archives_v3_firmwares():
+    existingurls = {url for val in load_pak_info().values() for url in val["download"]}
+    prefixes = [
+        "https://reolink.com/firmware/",
+        "https://cdn.reolink.com/files/firmware/",
+        "https://home-cdn.reolink.us/files/firmware/",
+        "https://home-cdn.reolink.us/wp-content/uploads/",
+        "https://s3.amazonaws.com/reolink-storage/website/firmware/",
+        "https://reolink-storage.s3.amazonaws.com/website/firmware/"
+    ]
+    urls = set()
+    for prefix in prefixes:
+        cdx = WaybackMachineCDXServerAPI(prefix + '*', filters=["original:.*\.zip"])
+        for snap in cdx.snapshots():
+            url = snap.original.replace("%2F", '/').split('?')[0]
+            if url not in existingurls:
+                urls.add(url)
+    pak_infos = await asyncio.gather(*[get_info(url) for url in urls])
+    # The errors here are ZIPs that don't contain any PAKs (PDFs...).
+    add_and_clean([pi for pi in pak_infos if "error" not in pi[0]])
+
+
+def get_item_index(items, key, value):
+    """Return the index of the first item in items that has this value for this key.
+    
+    The key must exist in each item. Return None if no match is found.
+    """
+    for idx, item in enumerate(items):
+        if item[key] == value:
+            return idx
+    return None
+
+
+def merge_dicts(old, new):
+    """Update old with data from new. Modify old in-place.
+    
+    This is not 100% generic and is mostly intended to be used in this project.
+    """
+    for key, val in new.items():
+        if key in ("url", "model_id", "hw_ver_id"):  # For live firmware merging.
+            continue
+        if old.get(key) != val:
+            if key in ("productImg", "productUrl"):  # For device merging.
+                if val:  # Avoid replacing manually set value by an empty live value.
+                    old[key] = val
+            elif isinstance(val, dict):
+                if not isinstance(old.get(key), dict):
+                    old[key] = {}
+                merge_dicts(old[key], val)
+            elif isinstance(val, list):
+                if not isinstance(old.get(key), list):
+                    old[key] = []
+                merge_lists(old[key], val)
+            else:
+                old[key] = val
+
+
+def merge_lists(old, new, key="title"):
+    """Modify old in-place. Non generic."""
+    for item in new:
+        if item in old:
+            continue
+        elif isinstance(item, dict) and (idx := get_item_index(old, key, item[key])) is not None:
+            merge_dicts(old[idx], item)
+        else:
+            old.append(item)
+
+
+async def update_live_info():
+    devices_new, firmwares_new = await from_live_website()
+    devices_old = load_devices()
+    with open(FILE_FW_LIVE, 'r', encoding="utf8") as fw:
+        firmwares_old = json.load(fw)
+    old_len = len(firmwares_old)  # The new firmwares will start at the end of the list.
+    merge_lists(devices_old, devices_new)  # Hoping the titles don't change.
+    merge_lists(firmwares_old, firmwares_new, "firmware_id")
+    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in firmwares_old[old_len:]])
+    firmwares_old[old_len:] = add_and_clean(pak_infos, firmwares_old[old_len:], "live")
+    with open(FILE_DEVICES, 'w', encoding="utf8") as f:
+        json.dump(devices_old, f, indent=2)
+    with open(FILE_FW_LIVE, 'w', encoding="utf8") as f:
+        json.dump(firmwares_old, f, indent=2, default=str)
+    firmwares = load_firmwares()
+    with open("README.md", 'w', encoding="utf8") as f:
+        f.write(make_readme(firmwares))
+
+
+def dicts_same_items(*dicts, keys, ignore_keys=False):
+    """A dict with a key of value None is the same as a dict without the key."""
+    if ignore_keys:
+        keys = {key for d in dicts for key in d if key not in keys}
+    return all(fw1.get(key) == fw2.get(key) for fw1, fw2 in itertools.pairwise(dicts) for key in keys)
+
+
+def same_firmware(*firmwares):
+    return dicts_same_items(*firmwares, keys=INFO_KEYS)
+
+
+async def add_firmwares_manually():
+    """If a new device/hw ver is involved, it must be added manually first."""
+    with open(FILE_FW_MANL, 'r', encoding="utf8") as f:
+        firmwares = json.load(f)
+    new = []
+    while firmwares and "url" in firmwares[-1]:
+        new.append(firmwares.pop())
+    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in new])
+    firmwares.extend(add_and_clean(pak_infos, new, "manual"))
+    with open(FILE_FW_MANL, 'w', encoding="utf8") as f:
+        json.dump(firmwares, f, indent=2)
+
+
+if __name__ == "__main__":
+    asyncio.run(update_live_info())
