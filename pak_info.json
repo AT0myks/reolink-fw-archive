@@ -815,8 +815,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200928firmware+/RLN4-410-20092800.zip"
     ],
-    "model_id": null,
-    "hw_ver_id": null
+    "model_id": 100004,
+    "hw_ver_id": 100042
   },
   "cef97b10c603b0d5c96136d3d3dcebb03de05e687f1fd77071eea182df6f2307": {
     "info": {
@@ -2695,8 +2695,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200429firmware/RLN4_042900.zip"
     ],
-    "model_id": null,
-    "hw_ver_id": null
+    "model_id": 100004,
+    "hw_ver_id": 100042
   },
   "1d72611656fc692eff127d7ecc4926250d39401bef77d3e68daf74cc4fa023a2": {
     "info": {
@@ -2712,8 +2712,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20201220firmware/RLN4-410_20201220.zip"
     ],
-    "model_id": null,
-    "hw_ver_id": null
+    "model_id": 100004,
+    "hw_ver_id": 100042
   },
   "9cfa61bbd3f1d4fa9b9a5f85217a97e6fc50947289c82594d4b29af273217761": {
     "info": {
