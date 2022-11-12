@@ -6030,5 +6030,22 @@
     ],
     "model_id": 151,
     "hw_ver_id": 251
+  },
+  "bf1c49ea81eb7e4da2171ff14bc6bfa032f1033478b0e9f92dfe09d0fef53464": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_51516M5M",
+      "board_name": "IPC_51516M5M",
+      "build_date": "210915",
+      "display_type_info": "RLC-420-5MP",
+      "detail_machine_type": "IPC_51516M5M",
+      "type": "IPC",
+      "version_file": "589_21091583"
+    },
+    "download": [
+      "https://reolink.zendesk.com/attachments/token/HkpMqwJfjdnSOxAmn5pm6w9rZ/?name=IPC_51516M5M.589_21091583.RLC-420-5MP.SC5035.5MP.REOLINK.pak"
+    ],
+    "model_id": 55,
+    "hw_ver_id": 91
   }
 }

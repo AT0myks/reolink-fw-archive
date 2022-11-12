@@ -489,5 +489,27 @@
     ],
     "source": "reddit+manual",
     "sha256_pak": "3e183c92ee39abcaa155b57f8a6e43d4ec19de4cd5e6839c4adcd103cdeebf13"
+  },
+  {
+    "changelog": [
+      "1.Adds prompt to choose the suitable video stream type based on your network (except Reolink battery powered IP cameras).",
+      "2.The default stream types for 4MP and 2MP IP camera video preview are Balanced and Fluent respectively (except Reolink battery powered IP cameras).",
+      "3.Fixes some other bugs."
+    ],
+    "source_urls": [
+      "https://reolink.com/wp-content/uploads/2017/09/cant-upgrade-camera.docx"
+    ],
+    "sha256_pak": "21c0d328dffd2b585438a20e0b4189e52f62aa782f655c97cc3e186a5ea1d4f9",
+    "source": "manual"
+  },
+  {
+    "changelog": [
+      "Update LIVE555 to v2020.08.12 to fix the stale TCP session bug."
+    ],
+    "source_urls": [
+      "https://github.com/scottlamb/retina/issues/17#issuecomment-921178057"
+    ],
+    "sha256_pak": "bf1c49ea81eb7e4da2171ff14bc6bfa032f1033478b0e9f92dfe09d0fef53464",
+    "source": "manual"
   }
 ]
