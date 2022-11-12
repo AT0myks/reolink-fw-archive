@@ -468,9 +468,6 @@ async def update_live_info():
         json.dump(devices_old, f, indent=2)
     with open(FILE_FW_LIVE, 'w', encoding="utf8") as f:
         json.dump(firmwares_old, f, indent=2, default=str)
-    firmwares = load_firmwares()
-    with open("README.md", 'w', encoding="utf8") as f:
-        f.write(make_readme(firmwares))
 
 
 async def add_firmwares_manually():
@@ -486,5 +483,28 @@ async def add_firmwares_manually():
         json.dump(firmwares, f, indent=2)
 
 
+def write_readme():
+    with open("README.md", 'w', encoding="utf8") as f:
+        f.write(make_readme(load_firmwares()))
+
+
 if __name__ == "__main__":
-    asyncio.run(update_live_info())
+    import argparse
+
+    def add():
+        asyncio.run(add_firmwares_manually())
+        write_readme()
+
+    def update():
+        asyncio.run(update_live_info())
+        write_readme()
+
+    parser = argparse.ArgumentParser()
+    subparsers = parser.add_subparsers(required=True, title="commands")
+    parser_a = subparsers.add_parser("add", help=f"add firmwares that have been manually appended to {FILE_FW_MANL!r}")
+    parser_a.set_defaults(func=add)
+    parser_u = subparsers.add_parser("update", help="get new firmwares from Reolink and update all files")
+    parser_u.set_defaults(func=update)
+
+    args = parser.parse_args()
+    args.func()
