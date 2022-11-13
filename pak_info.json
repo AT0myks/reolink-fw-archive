@@ -6047,5 +6047,39 @@
     ],
     "model_id": 55,
     "hw_ver_id": 91
+  },
+  "bf578db11ea8f33fa4c878673c9222e55b32604232882adedb67767cb464149b": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "N3MB01",
+      "board_name": "N3MB01",
+      "build_date": "220728",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "198_22072853"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/07/291255561659099356.2154.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 208
+  },
+  "6afe8ae6a4645332675b421baa66982549d9142295280a49172e59cb48ed4c66": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "H3MB18",
+      "board_name": "H3MB18",
+      "build_date": "220728",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "198_22072813"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/07/291257301659099450.3337.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 196
   }
 }
