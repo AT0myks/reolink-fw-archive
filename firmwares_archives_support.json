@@ -1,7 +1,7 @@
 [
   {
     "model": "RLC-520",
-    "version": "v3.0.0.136_20121112",
+    "version": "20121112",
     "hw_ver": "IPC_515B16M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -18,7 +18,7 @@
   },
   {
     "model": "RLC-420-5MP",
-    "version": "v3.0.0.136_20121101",
+    "version": "20121101",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -35,7 +35,7 @@
   },
   {
     "model": "D500",
-    "version": "v3.0.0.136_20120915",
+    "version": "21012815",
     "hw_ver": "IPC_515B8M5M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -52,7 +52,7 @@
   },
   {
     "model": "D500",
-    "version": "v3.0.0.183_21012815",
+    "version": "21012815",
     "hw_ver": "IPC_515B8M5M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -69,7 +69,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v3.0.0.123_21031206",
+    "version": "21031206",
     "hw_ver": "H3MB18",
     "display_time": "2021-03-21",
     "changelog": [
@@ -84,7 +84,7 @@
   },
   {
     "model": "RLC-410W",
-    "version": "v2.0.0.354_19031112",
+    "version": "354_19031112",
     "hw_ver": "IPC_51316M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -99,7 +99,7 @@
   },
   {
     "model": "RLC-410W",
-    "version": "v2.0.0.448_19061404",
+    "version": "448_19061404",
     "hw_ver": "IPC_51316M",
     "display_time": "2019-06-14",
     "changelog": [
@@ -118,7 +118,7 @@
   },
   {
     "model": "RLN4-210W",
-    "version": "v2.0.0.4529_1615_18090804100",
+    "version": "N180908",
     "hw_ver": null,
     "display_time": "2018-08-11",
     "changelog": [],
@@ -128,7 +128,7 @@
   },
   {
     "model": "RLC-511",
-    "version": "v3.0.0.136_20121103",
+    "version": "20121103",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -145,7 +145,7 @@
   },
   {
     "model": "RLC-422/RLC-422-5MP",
-    "version": "v2.0.0.1441_19032109",
+    "version": "1441_19032109",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -157,7 +157,7 @@
   },
   {
     "model": "B500",
-    "version": "v3.0.0.183_21012814",
+    "version": "21012814",
     "hw_ver": "IPC_5158M5M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -174,7 +174,7 @@
   },
   {
     "model": "RLC-422",
-    "version": "v3.0.0.65_20071400",
+    "version": "65_20071400",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -188,7 +188,7 @@
   },
   {
     "model": "RLC-511",
-    "version": "v3.0.0.142_20121803",
+    "version": "20121803",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -205,7 +205,7 @@
   },
   {
     "model": "C2 Pro",
-    "version": "v2.0.0.654_20040908",
+    "version": "654_20040908",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-04-09",
     "changelog": [
@@ -218,7 +218,7 @@
   },
   {
     "model": "RLC-420",
-    "version": "v2.0.0.1441_19032100",
+    "version": "1441_19032100",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -230,7 +230,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v2.0.0.4509_1606_18081108100",
+    "version": "N180811",
     "hw_ver": null,
     "display_time": "2018-08-11",
     "changelog": [],
@@ -240,7 +240,7 @@
   },
   {
     "model": "RLC-420-5MP",
-    "version": "v2.0.0.354_19031101",
+    "version": "354_19031101",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -255,7 +255,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v2.0.0.4679_1708_19082308100",
+    "version": "0823",
     "hw_ver": "RLN8-410",
     "display_time": "2019-08-23",
     "changelog": [
@@ -278,7 +278,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v2.0.0.4509_1606_18081116100",
+    "version": "N180811",
     "hw_ver": null,
     "display_time": "2018-08-11",
     "changelog": [],
@@ -288,7 +288,7 @@
   },
   {
     "model": "RLC-511",
-    "version": "v3.0.0.65_20071003",
+    "version": "65_20071003",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -302,7 +302,7 @@
   },
   {
     "model": "RLC-422",
-    "version": "v2.0.0.477_19071502",
+    "version": "477_19071502",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -322,7 +322,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v3.0.0.59_20081248",
+    "version": "081248",
     "hw_ver": "H3MB18",
     "display_time": "2020-08-12",
     "changelog": [
@@ -336,7 +336,7 @@
   },
   {
     "model": "D500",
-    "version": "v3.0.0.136_20120915",
+    "version": "20120915",
     "hw_ver": "IPC_5158M5M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -352,7 +352,7 @@
   },
   {
     "model": "RLC-423S/RLC-423S-5MP",
-    "version": "v2.0.0.1441_19032112",
+    "version": "1441_19032112",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -364,7 +364,7 @@
   },
   {
     "model": "RLC-520",
-    "version": "v3.0.0.65_20071012",
+    "version": "65_20071012",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -378,7 +378,7 @@
   },
   {
     "model": "RLC-520",
-    "version": "v3.0.0.116_20103112",
+    "version": "20103112",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -399,7 +399,7 @@
   },
   {
     "model": "RLC-423",
-    "version": "v2.0.0.489_19072600",
+    "version": "489_19072600",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -419,7 +419,7 @@
   },
   {
     "model": "E1 Zoom",
-    "version": "v3.0.0.65_20071008",
+    "version": "65_20071008",
     "hw_ver": "IPC_515SD6",
     "display_time": "2020-07-10",
     "changelog": [
@@ -434,7 +434,7 @@
   },
   {
     "model": "D400",
-    "version": "v3.0.0.183_21012801",
+    "version": "21012801",
     "hw_ver": "IPC_5128M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -451,7 +451,7 @@
   },
   {
     "model": "RLC-423",
-    "version": "v3.0.0.146_20122309",
+    "version": "20122309",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-23",
     "changelog": [
@@ -473,7 +473,7 @@
   },
   {
     "model": "RLC-422W",
-    "version": "v3.0.0.136_20121106",
+    "version": "20121106",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -490,7 +490,7 @@
   },
   {
     "model": "RLC-422W",
-    "version": "v2.0.0.654_20040907",
+    "version": "654_20040907",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-04-09",
     "changelog": [
@@ -503,7 +503,7 @@
   },
   {
     "model": "RLC-520",
-    "version": "v3.0.0.116_20103112",
+    "version": "20103103",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -524,7 +524,7 @@
   },
   {
     "model": "RLC-511W",
-    "version": "v2.0.0.477_19071501",
+    "version": "477_19071501",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -544,7 +544,7 @@
   },
   {
     "model": "RLC-422",
-    "version": "v3.0.0.116_20103105",
+    "version": "20103105",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -565,7 +565,7 @@
   },
   {
     "model": "RLC-411WS/RLC-411WS-5MP",
-    "version": "v2.0.0.1441_19032108",
+    "version": "1441_19032108",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -577,7 +577,7 @@
   },
   {
     "model": "RLC-410-5MP",
-    "version": "v2.0.0.354_19031100",
+    "version": "354_19031100",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -592,7 +592,7 @@
   },
   {
     "model": "D500",
-    "version": "v3.0.0.136_20120915",
+    "version": "20120915",
     "hw_ver": "IPC_515B8M5M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -608,7 +608,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v3.0.0.59_20081247",
+    "version": "081247",
     "hw_ver": "H3MB18",
     "display_time": "2020-08-12",
     "changelog": [
@@ -622,7 +622,7 @@
   },
   {
     "model": "RLC-422W",
-    "version": "v2.0.0.477_19071503",
+    "version": "477_19071503",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -642,7 +642,7 @@
   },
   {
     "model": "RLC-410W",
-    "version": "v3.0.0.121_20111902",
+    "version": "20111902",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-11-19",
     "changelog": [
@@ -663,7 +663,7 @@
   },
   {
     "model": "RLC-422W",
-    "version": "v3.0.0.65_20071401",
+    "version": "65_20071401",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -677,7 +677,7 @@
   },
   {
     "model": "E1 ZOOM",
-    "version": "v3.0.0.247_21040708",
+    "version": "21040708",
     "hw_ver": "IPC_515SD6",
     "display_time": "2021-04-07",
     "changelog": [
@@ -691,7 +691,7 @@
   },
   {
     "model": "RLC-422",
-    "version": "v3.0.0.136_20121105",
+    "version": "20121105",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -708,7 +708,7 @@
   },
   {
     "model": "RLC-522",
-    "version": "v3.0.0.116_20103111",
+    "version": "20103111",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -729,7 +729,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v2.0.0.4679_1708_19082316100",
+    "version": "0823",
     "hw_ver": "RLN16-410",
     "display_time": "2019-08-23",
     "changelog": [
@@ -752,7 +752,7 @@
   },
   {
     "model": "C1 Pro",
-    "version": "v2.0.0.1441_19032105",
+    "version": "1441_19032105",
     "hw_ver": "IPC_3816MPT",
     "display_time": "2019-03-21",
     "changelog": [
@@ -764,7 +764,7 @@
   },
   {
     "model": "RLC-511W",
-    "version": "v3.0.0.142_20121804",
+    "version": "20121804",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -781,7 +781,7 @@
   },
   {
     "model": "RLN4-410",
-    "version": "v2.0.0.271_20092800",
+    "version": "20092800",
     "hw_ver": "H3MB17",
     "display_time": "2020-09-28",
     "changelog": [
@@ -795,7 +795,7 @@
   },
   {
     "model": "RLC-410",
-    "version": "v3.0.0.136_20121100",
+    "version": "20121100",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -820,7 +820,7 @@
   },
   {
     "model": "RLC-410W-5MP",
-    "version": "v2.0.0.354_19031102",
+    "version": "354_19031102",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -835,7 +835,7 @@
   },
   {
     "model": "E1 Pro",
-    "version": "v3.0.0.42_20062904",
+    "version": "42_20062904",
     "hw_ver": "IPC_513SD5",
     "display_time": "2020-06-29",
     "changelog": [
@@ -849,7 +849,7 @@
   },
   {
     "model": "D400",
-    "version": "v2.0.0.16_20041561",
+    "version": "16_20041561",
     "hw_ver": "IPC_5128M/IPC_5174M",
     "display_time": "2020-04-15",
     "changelog": [
@@ -862,7 +862,7 @@
   },
   {
     "model": "D400",
-    "version": "v2.0.0.16_20041551",
+    "version": "16_20041561",
     "hw_ver": "IPC_5128M/IPC_5174M",
     "display_time": "2020-04-15",
     "changelog": [
@@ -875,7 +875,7 @@
   },
   {
     "model": "RLC-511W",
-    "version": "v3.0.0.65_20071004",
+    "version": "65_20071004",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -889,7 +889,7 @@
   },
   {
     "model": "B500",
-    "version": "v3.0.0.136_20120914",
+    "version": "20120914",
     "hw_ver": "IPC_5158M5M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -905,7 +905,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v2.0.0.269_20042901",
+    "version": "042901",
     "hw_ver": "RLN8-410-E",
     "display_time": "2020-04-29",
     "changelog": [
@@ -921,7 +921,7 @@
   },
   {
     "model": "RLC-511W",
-    "version": "v3.0.0.116_20103104",
+    "version": "20103104",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -942,7 +942,7 @@
   },
   {
     "model": "RLC-410W-5MP",
-    "version": "v3.0.0.136_20121102",
+    "version": "20121102",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -959,7 +959,7 @@
   },
   {
     "model": "RLC-511",
-    "version": "v2.0.0.477_19071500",
+    "version": "477_19071500",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -979,7 +979,7 @@
   },
   {
     "model": "RLN8-410-E",
-    "version": "v2.0.0.274_20120701",
+    "version": "20120701",
     "hw_ver": "H3MB16",
     "display_time": "2020-12-07",
     "changelog": [
@@ -993,7 +993,7 @@
   },
   {
     "model": "RLC-522",
-    "version": "v3.0.0.136_20121111",
+    "version": "20121111",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -1010,7 +1010,7 @@
   },
   {
     "model": "RLC-410",
-    "version": "v3.0.0.121_20111900",
+    "version": "20111900",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-11-19",
     "changelog": [
@@ -1031,7 +1031,7 @@
   },
   {
     "model": "RLC-410WS",
-    "version": "v2.0.0.1441_19032103",
+    "version": "1441_19032103",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -1043,7 +1043,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v3.0.0.123_21031205",
+    "version": "21031205",
     "hw_ver": "H3MB18 or N2MB02",
     "display_time": "2021-03-21",
     "changelog": [
@@ -1058,7 +1058,7 @@
   },
   {
     "model": "RLC-520A",
-    "version": "v3.0.0.124_20112600",
+    "version": "20112600",
     "hw_ver": "IPC_523128M5MP",
     "display_time": "2020-11-26",
     "changelog": [
@@ -1076,7 +1076,7 @@
   },
   {
     "model": "D420",
-    "version": "v2.0.0.16_20041562",
+    "version": "16_20041562",
     "hw_ver": "IPC_5128M",
     "display_time": "2020-04-15",
     "changelog": [
@@ -1089,7 +1089,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v2.0.0.268_20042502",
+    "version": "0425",
     "hw_ver": "H3MB18",
     "display_time": "2020-04-25",
     "changelog": [
@@ -1103,7 +1103,7 @@
   },
   {
     "model": "RLC-410W-5MP",
-    "version": "v3.0.0.136_20121102",
+    "version": "20121102",
     "hw_ver": "IPC_515B16M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -1120,7 +1120,7 @@
   },
   {
     "model": "C2",
-    "version": "v2.0.0.1441_19032104",
+    "version": "1441_19032104",
     "hw_ver": "IPC_3816MPT",
     "display_time": "2019-03-21",
     "changelog": [
@@ -1132,7 +1132,7 @@
   },
   {
     "model": "RLC-420",
-    "version": "v3.0.0.121_20111901",
+    "version": "20111901",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-11-19",
     "changelog": [
@@ -1153,7 +1153,7 @@
   },
   {
     "model": "D420",
-    "version": "v3.0.0.183_21012802",
+    "version": "21012802",
     "hw_ver": "IPC_5128M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -1170,7 +1170,7 @@
   },
   {
     "model": "B800",
-    "version": "v3.0.0.183_21012800",
+    "version": "21012800",
     "hw_ver": "IPC_5158MP8M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -1187,7 +1187,7 @@
   },
   {
     "model": "RLC-1210A",
-    "version": "v3.0.0.160_21011304",
+    "version": "21011304",
     "hw_ver": "IPC_523128M12MP",
     "display_time": "2021-01-13",
     "changelog": [
@@ -1203,7 +1203,7 @@
   },
   {
     "model": "E1",
-    "version": "v3.0.0.42_20062900",
+    "version": "42_20062900",
     "hw_ver": "IPC_517SD5",
     "display_time": "2020-06-29",
     "changelog": [
@@ -1217,7 +1217,7 @@
   },
   {
     "model": "D800",
-    "version": "v3.0.0.136_20120901",
+    "version": "20120901",
     "hw_ver": "IPC_5158MP8M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -1233,7 +1233,7 @@
   },
   {
     "model": "RLC-410W-5MP",
-    "version": "v2.0.0.448_19061409",
+    "version": "448_19061409",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -1253,7 +1253,7 @@
   },
   {
     "model": "RLC-511",
-    "version": "v3.0.0.116_20103103",
+    "version": "20103103",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -1274,7 +1274,7 @@
   },
   {
     "model": "E1 ZOOM",
-    "version": "v3.0.0.247_21040708",
+    "version": "21040708",
     "hw_ver": "IPC_515BSD6",
     "display_time": "2021-04-07",
     "changelog": [
@@ -1288,7 +1288,7 @@
   },
   {
     "model": "Reolink Lumus",
-    "version": "v2.0.0.687_20102800",
+    "version": "20102800",
     "hw_ver": "IPC_325C7",
     "display_time": "2020-10-28",
     "changelog": [
@@ -1303,7 +1303,7 @@
   },
   {
     "model": "RLC-410W",
-    "version": "v3.0.0.65_20071002",
+    "version": "65_20071002",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -1317,7 +1317,7 @@
   },
   {
     "model": "B800",
-    "version": "v2.0.0.17_20042200",
+    "version": "17_20042200",
     "hw_ver": "IPC_5158MP8M",
     "display_time": "2020-04-22",
     "changelog": [
@@ -1330,7 +1330,7 @@
   },
   {
     "model": "Reolink Lumus",
-    "version": "v2.0.0.680_20082500",
+    "version": "20082500",
     "hw_ver": "IPC_325C7",
     "display_time": "2020-08-25",
     "changelog": [
@@ -1345,7 +1345,7 @@
   },
   {
     "model": "E1 Pro",
-    "version": "v3.0.0.116_20110204",
+    "version": "20110204",
     "hw_ver": "IPC_513SD5",
     "display_time": "2020-11-02",
     "changelog": [
@@ -1361,7 +1361,7 @@
   },
   {
     "model": "RLC-422W-5MP",
-    "version": "v2.0.0.354_19031106",
+    "version": "354_19031106",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -1376,7 +1376,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v2.0.0.4725_1724_20120700",
+    "version": "20120700",
     "hw_ver": "H3MB02",
     "display_time": "2020-12-07",
     "changelog": [
@@ -1390,7 +1390,7 @@
   },
   {
     "model": "RLC-511W",
-    "version": "v3.0.0.136_20121104",
+    "version": "20121104",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -1407,7 +1407,7 @@
   },
   {
     "model": "Reolink Lumus",
-    "version": "v2.0.0.642_20030600",
+    "version": "200306",
     "hw_ver": "IPC_325C7",
     "display_time": "2020-03-06",
     "changelog": [
@@ -1422,7 +1422,7 @@
   },
   {
     "model": "RLC-420-5MP",
-    "version": "v3.0.0.65_20071001",
+    "version": "65_20071001",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -1436,7 +1436,7 @@
   },
   {
     "model": "D800",
-    "version": "v2.0.0.17_20042201",
+    "version": "17_20042200",
     "hw_ver": "IPC_5158MP8M",
     "display_time": "2020-04-22",
     "changelog": [
@@ -1449,7 +1449,7 @@
   },
   {
     "model": "RLC-410",
-    "version": "v2.0.0.354_19031110",
+    "version": "354_19031110",
     "hw_ver": "IPC_51316M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -1464,7 +1464,7 @@
   },
   {
     "model": "RLC-1210A",
-    "version": "v3.0.0.177_21012104",
+    "version": "21012104",
     "hw_ver": "IPC_523128M12MP",
     "display_time": "2021-01-21",
     "changelog": [
@@ -1480,7 +1480,7 @@
   },
   {
     "model": "RLC-511",
-    "version": "v2.0.0.654_20040904",
+    "version": "654_20040904",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-04-09",
     "changelog": [
@@ -1493,7 +1493,7 @@
   },
   {
     "model": "D400",
-    "version": "v3.0.0.136_20120901",
+    "version": "20120901",
     "hw_ver": "IPC_5128M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -1509,7 +1509,7 @@
   },
   {
     "model": "RLC-810A",
-    "version": "v3.0.0.160_21010803",
+    "version": "21010803",
     "hw_ver": "IPC_523128M8MP",
     "display_time": "2021-01-12",
     "changelog": [
@@ -1524,7 +1524,7 @@
   },
   {
     "model": "D400",
-    "version": "v3.0.0.183_21012801",
+    "version": "21012801",
     "hw_ver": "IPC_5174MP8M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -1541,7 +1541,7 @@
   },
   {
     "model": "B800",
-    "version": "v3.0.0.136_20120900",
+    "version": "20120900",
     "hw_ver": "IPC_5158MP8M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -1557,7 +1557,7 @@
   },
   {
     "model": "RLC-810A",
-    "version": "v3.0.0.124_20112603",
+    "version": "20112603",
     "hw_ver": "IPC_523128M8MP",
     "display_time": "2020-11-26",
     "changelog": [
@@ -1575,7 +1575,7 @@
   },
   {
     "model": "RLC-420",
-    "version": "v2.0.0.448_19061403",
+    "version": "448_19061403",
     "hw_ver": "IPC_51316M",
     "display_time": "2019-06-14",
     "changelog": [
@@ -1594,7 +1594,7 @@
   },
   {
     "model": "D500",
-    "version": "v3.0.0.183_21012815",
+    "version": "21012815",
     "hw_ver": "IPC_5158M5M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -1611,7 +1611,7 @@
   },
   {
     "model": "RLC-422",
-    "version": "v2.0.0.654_20040906",
+    "version": "654_20040906",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-04-09",
     "changelog": [
@@ -1624,7 +1624,7 @@
   },
   {
     "model": "E1 Outdoor",
-    "version": "v3.0.0.197_21022706",
+    "version": "2021022706",
     "hw_ver": "IPC_523SD8",
     "display_time": "2021-02-27",
     "changelog": [
@@ -1639,7 +1639,7 @@
   },
   {
     "model": "RLC-423WS/RLC-423WS-5MP",
-    "version": "v2.0.0.1441_19032113",
+    "version": "1441_19032113",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -1651,7 +1651,7 @@
   },
   {
     "model": "RLC-420-5MP",
-    "version": "v3.0.0.116_20103101",
+    "version": "20103101",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -1672,7 +1672,7 @@
   },
   {
     "model": "RLC-1220A",
-    "version": "v3.0.0.177_21012105",
+    "version": "21012105",
     "hw_ver": "IPC_523128M12MP",
     "display_time": "2021-01-21",
     "changelog": [
@@ -1688,7 +1688,7 @@
   },
   {
     "model": "D400",
-    "version": "v3.0.0.136_20121001",
+    "version": "20121001",
     "hw_ver": "IPC_5174MP8M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -1704,7 +1704,7 @@
   },
   {
     "model": "B500",
-    "version": "v3.0.0.136_20120914",
+    "version": "20120914",
     "hw_ver": "IPC_515B8M5M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -1720,7 +1720,7 @@
   },
   {
     "model": "B400",
-    "version": "v2.0.0.16_20041560",
+    "version": "16_20041560",
     "hw_ver": "IPC_5128M/IPC_5174M",
     "display_time": "2020-04-15",
     "changelog": [
@@ -1733,7 +1733,7 @@
   },
   {
     "model": "B400",
-    "version": "v2.0.0.16_20041550",
+    "version": "16_20041560",
     "hw_ver": "IPC_5128M/IPC_5174M",
     "display_time": "2020-04-15",
     "changelog": [
@@ -1746,7 +1746,7 @@
   },
   {
     "model": "RLC-411/RLC-411-5MP",
-    "version": "v2.0.0.1441_19032106",
+    "version": "1441_19032106",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -1758,7 +1758,7 @@
   },
   {
     "model": "RLC-810A",
-    "version": "v3.0.0.177_21012103",
+    "version": "21012103",
     "hw_ver": "IPC_523128M8MP",
     "display_time": "2021-01-21",
     "changelog": [
@@ -1773,7 +1773,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v2.0.0.4725_1724_20120700",
+    "version": "20120700",
     "hw_ver": "H3MB02",
     "display_time": "2020-12-07",
     "changelog": [
@@ -1787,7 +1787,7 @@
   },
   {
     "model": "RLC-510A",
-    "version": "v3.0.0.160_21010802",
+    "version": "21010802",
     "hw_ver": "IPC_523128M5MP",
     "display_time": "2021-01-12",
     "changelog": [
@@ -1802,7 +1802,7 @@
   },
   {
     "model": "D800",
-    "version": "v3.0.0.183_21012801",
+    "version": "21012801",
     "hw_ver": "IPC_5158MP8M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -1819,7 +1819,7 @@
   },
   {
     "model": "E1 Pro",
-    "version": "v3.0.0.102_20091604",
+    "version": "20091604",
     "hw_ver": "IPC_513SD5",
     "display_time": "2020-09-16",
     "changelog": [
@@ -1835,7 +1835,7 @@
   },
   {
     "model": "Reolink Lumus",
-    "version": "v2.0.0.684_20091500",
+    "version": "20091500",
     "hw_ver": "IPC_325C7",
     "display_time": "2020-09-15",
     "changelog": [
@@ -1850,7 +1850,7 @@
   },
   {
     "model": "RLC-520A",
-    "version": "v3.0.0.160_21010800",
+    "version": "21010800",
     "hw_ver": "IPC_523128M5MP",
     "display_time": "2021-01-12",
     "changelog": [
@@ -1865,7 +1865,7 @@
   },
   {
     "model": "RLN8-410-E",
-    "version": "v2.0.0.271_20092801",
+    "version": "20092801",
     "hw_ver": "H3MB16",
     "display_time": "2020-09-28",
     "changelog": [
@@ -1879,7 +1879,7 @@
   },
   {
     "model": "RLC-820A",
-    "version": "v3.0.0.124_20112601",
+    "version": "20112601",
     "hw_ver": "IPC_523128M8MP",
     "display_time": "2020-11-26",
     "changelog": [
@@ -1897,7 +1897,7 @@
   },
   {
     "model": "RLC-423/RLC-423-5MP",
-    "version": "v2.0.0.1441_19032111",
+    "version": "1441_19032111",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -1909,7 +1909,7 @@
   },
   {
     "model": "RLC-511",
-    "version": "v2.0.0.354_19031103",
+    "version": "354_19031103",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -1924,7 +1924,7 @@
   },
   {
     "model": "RLC-511W",
-    "version": "v2.0.0.354_19031104",
+    "version": "354_19031104",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -1939,7 +1939,7 @@
   },
   {
     "model": "RLC-410",
-    "version": "v3.0.0.65_20071000",
+    "version": "65_20071000",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -1953,7 +1953,7 @@
   },
   {
     "model": "B400",
-    "version": "v3.0.0.136_20121000",
+    "version": "20121000",
     "hw_ver": "IPC_5174MP8M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -1969,7 +1969,7 @@
   },
   {
     "model": "RLC-420-5MP",
-    "version": "v3.0.0.136_20121101",
+    "version": "20121101",
     "hw_ver": "IPC_515B16M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -1986,7 +1986,7 @@
   },
   {
     "model": "E1 ZOOM",
-    "version": "v3.0.0.136_20121108",
+    "version": "20121108",
     "hw_ver": "IPC_515SD6",
     "display_time": "2020-12-11",
     "changelog": [
@@ -2007,7 +2007,7 @@
   },
   {
     "model": "C2-Pro",
-    "version": "v2.0.0.477_19071504",
+    "version": "477_19071504",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -2027,7 +2027,7 @@
   },
   {
     "model": "E1 ZOOM",
-    "version": "v3.0.0.136_20121108",
+    "version": "20121108",
     "hw_ver": "IPC_515BSD6",
     "display_time": "2020-12-11",
     "changelog": [
@@ -2048,7 +2048,7 @@
   },
   {
     "model": "RLC-410",
-    "version": "v2.0.0.1441_19032101",
+    "version": "1441_19032101",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -2060,7 +2060,7 @@
   },
   {
     "model": "B400",
-    "version": "v3.0.0.136_20120900",
+    "version": "20120900",
     "hw_ver": "IPC_5128M",
     "display_time": "2020-12-09",
     "changelog": [
@@ -2076,7 +2076,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v3.0.0.118_21020446",
+    "version": "2021020446",
     "hw_ver": "H3MB18 or N2MB02",
     "display_time": "2021-02-06",
     "changelog": [
@@ -2088,7 +2088,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v3.0.0.82_20102145",
+    "version": "20102145",
     "hw_ver": "H3MB18",
     "display_time": "2020-10-21",
     "changelog": [
@@ -2111,7 +2111,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v2.0.0.4712_1722_20092900",
+    "version": "20092900",
     "hw_ver": "H3MB02/H3MB06",
     "display_time": "2020-09-28",
     "changelog": [
@@ -2125,7 +2125,7 @@
   },
   {
     "model": "RLN8-410",
-    "version": "v3.0.0.82_20102144",
+    "version": "20102144",
     "hw_ver": "H3MB18 or N2MB02",
     "display_time": "2020-10-21",
     "changelog": [
@@ -2148,7 +2148,7 @@
   },
   {
     "model": "RLC-410-5MP",
-    "version": "v3.0.0.65_20071000",
+    "version": "65_20071000",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -2162,7 +2162,7 @@
   },
   {
     "model": "RLC-520",
-    "version": "v3.0.0.136_20121112",
+    "version": "20121112",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -2179,7 +2179,7 @@
   },
   {
     "model": "RLC-410W",
-    "version": "v3.0.0.136_20121102",
+    "version": "20121102",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -2204,7 +2204,7 @@
   },
   {
     "model": "RLC-410-5MP",
-    "version": "v3.0.0.136_20121100",
+    "version": "20121100",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -2221,7 +2221,7 @@
   },
   {
     "model": "RLC-410-5MP",
-    "version": "v2.0.0.448_19061407",
+    "version": "448_19061407",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -2241,7 +2241,7 @@
   },
   {
     "model": "RLC-420-5MP",
-    "version": "v2.0.0.448_19061408",
+    "version": "448_19061408",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-07-15",
     "changelog": [
@@ -2261,7 +2261,7 @@
   },
   {
     "model": "RLC-820A",
-    "version": "v3.0.0.177_21012101",
+    "version": "21012101",
     "hw_ver": "IPC_523128M8MP",
     "display_time": "2021-01-21",
     "changelog": [
@@ -2276,7 +2276,7 @@
   },
   {
     "model": "RLC-420",
-    "version": "v2.0.0.354_19031111",
+    "version": "354_19031111",
     "hw_ver": "IPC_51316M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -2291,7 +2291,7 @@
   },
   {
     "model": "C1-Pro",
-    "version": "v2.0.0.448_19061405",
+    "version": "448_19061405",
     "hw_ver": "IPC_51316M",
     "display_time": "2019-06-14",
     "changelog": [
@@ -2310,7 +2310,7 @@
   },
   {
     "model": "B500",
-    "version": "v3.0.0.183_21012814",
+    "version": "21012814",
     "hw_ver": "IPC_515B8M5M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -2327,7 +2327,7 @@
   },
   {
     "model": "RLC-422W/RLC-422W-5MP",
-    "version": "v2.0.0.1441_19032110",
+    "version": "1441_19032110",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -2339,7 +2339,7 @@
   },
   {
     "model": "RLC-410-5MP",
-    "version": "v3.0.0.116_20103100",
+    "version": "20103100",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -2360,7 +2360,7 @@
   },
   {
     "model": "E1",
-    "version": "v3.0.0.115_20102200",
+    "version": "20102200",
     "hw_ver": "IPC_517SD5",
     "display_time": "2020-10-22",
     "changelog": [
@@ -2376,7 +2376,7 @@
   },
   {
     "model": "RLC-422W",
-    "version": "v3.0.0.116_20103106",
+    "version": "20103106",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -2397,7 +2397,7 @@
   },
   {
     "model": "RLC-522",
-    "version": "v3.0.0.65_20071011",
+    "version": "65_20071011",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -2411,7 +2411,7 @@
   },
   {
     "model": "B400",
-    "version": "v3.0.0.183_21012800",
+    "version": "21012800",
     "hw_ver": "IPC_5128M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -2428,7 +2428,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v2.0.0.4700_1719_20022616100",
+    "version": "200226",
     "hw_ver": "H3MB02",
     "display_time": "2020-02-26",
     "changelog": [
@@ -2446,7 +2446,7 @@
   },
   {
     "model": "RLN16-410",
-    "version": "v3.0.0.118_21020447",
+    "version": "2021020447",
     "hw_ver": "H3MB18",
     "display_time": "2021-02-06",
     "changelog": [
@@ -2458,7 +2458,7 @@
   },
   {
     "model": "RLC-422-5MP",
-    "version": "v2.0.0.354_19031105",
+    "version": "354_19031105",
     "hw_ver": "IPC_51516M",
     "display_time": "2019-03-11",
     "changelog": [
@@ -2473,7 +2473,7 @@
   },
   {
     "model": "E1 Pro",
-    "version": "v3.0.0.183_21012804",
+    "version": "21012804",
     "hw_ver": "IPC_513SD5",
     "display_time": "2021-01-28",
     "changelog": [
@@ -2490,7 +2490,7 @@
   },
   {
     "model": "RLC-411S/RLC-411S-5MP",
-    "version": "v2.0.0.1441_19032107",
+    "version": "1441_19032107",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -2502,7 +2502,7 @@
   },
   {
     "model": "RLC-511W",
-    "version": "v2.0.0.654_20040905",
+    "version": "654_20040905",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-04-09",
     "changelog": [
@@ -2515,7 +2515,7 @@
   },
   {
     "model": "RLC-522",
-    "version": "v2.0.0.654_20040912",
+    "version": "654_20040912",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-04-09",
     "changelog": [
@@ -2528,7 +2528,7 @@
   },
   {
     "model": "RLN4",
-    "version": "v2.0.0.269_20042900",
+    "version": "042900",
     "hw_ver": "RLN4",
     "display_time": "2020-04-29",
     "changelog": [
@@ -2544,7 +2544,7 @@
   },
   {
     "model": "RLN4",
-    "version": "v2.0.0.274_20120700",
+    "version": "20120700",
     "hw_ver": "H3MB17",
     "display_time": "2020-12-07",
     "changelog": [
@@ -2558,7 +2558,7 @@
   },
   {
     "model": "E1 Pro",
-    "version": "v3.0.0.93_20090400",
+    "version": "93_20090400",
     "hw_ver": "IPC_513SD5",
     "display_time": "2020-09-04",
     "changelog": [
@@ -2575,7 +2575,7 @@
   },
   {
     "model": "RLC-420",
-    "version": "v3.0.0.65_20071001",
+    "version": "65_20071001",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -2589,7 +2589,7 @@
   },
   {
     "model": "RLC-410-5MP",
-    "version": "v3.0.0.136_20121100",
+    "version": "20121100",
     "hw_ver": "IPC_515B16M5M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -2606,7 +2606,7 @@
   },
   {
     "model": "RLC-420",
-    "version": "v3.0.0.136_20121101",
+    "version": "20121101",
     "hw_ver": "IPC_51316M",
     "display_time": "2020-12-11",
     "changelog": [
@@ -2631,7 +2631,7 @@
   },
   {
     "model": "RLC-1220A",
-    "version": "v3.0.0.160_21011305",
+    "version": "21011305",
     "hw_ver": "IPC_523128M12MP",
     "display_time": "2021-01-13",
     "changelog": [
@@ -2647,7 +2647,7 @@
   },
   {
     "model": "RLC-410W-5MP",
-    "version": "v3.0.0.65_20071002",
+    "version": "65_20071002",
     "hw_ver": "IPC_51516M",
     "display_time": "2020-07-10",
     "changelog": [
@@ -2661,7 +2661,7 @@
   },
   {
     "model": "E1 Pro",
-    "version": "v3.0.0.115_20102204",
+    "version": "20102204",
     "hw_ver": "IPC_513SD5",
     "display_time": "2020-10-22",
     "changelog": [
@@ -2676,7 +2676,7 @@
   },
   {
     "model": "RLC-410S",
-    "version": "v2.0.0.1441_19032102",
+    "version": "1441_19032102",
     "hw_ver": "IPC_3816M",
     "display_time": "2019-03-21",
     "changelog": [
@@ -2688,7 +2688,7 @@
   },
   {
     "model": "D420",
-    "version": "v3.0.0.183_21012802",
+    "version": "21012802",
     "hw_ver": "IPC_5174MP8M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -2705,7 +2705,7 @@
   },
   {
     "model": "B400",
-    "version": "v3.0.0.183_21012800",
+    "version": "21012800",
     "hw_ver": "IPC_5174MP8M",
     "display_time": "2021-01-28",
     "changelog": [
@@ -2722,7 +2722,7 @@
   },
   {
     "model": "RLC-820A",
-    "version": "v3.0.0.160_21010801",
+    "version": "21010801",
     "hw_ver": "IPC_523128M8MP",
     "display_time": "2021-01-12",
     "changelog": [
@@ -2737,7 +2737,7 @@
   },
   {
     "model": "RLC-410W-5MP",
-    "version": "v3.0.0.116_20103102",
+    "version": "20103102",
     "hw_ver": "IPC_51516M5M",
     "display_time": "2020-10-31",
     "changelog": [
@@ -2758,7 +2758,7 @@
   },
   {
     "model": "RLC-410",
-    "version": "v2.0.0.448_19061402",
+    "version": "448_19061402",
     "hw_ver": "IPC_51316M",
     "display_time": "2019-06-14",
     "changelog": [
@@ -2777,7 +2777,7 @@
   },
   {
     "model": "RLC-510A",
-    "version": "v3.0.0.124_20112602",
+    "version": "20112602",
     "hw_ver": "IPC_523128M5MP",
     "display_time": "2020-11-26",
     "changelog": [
