@@ -1,7 +1,7 @@
 <details>
   <summary>B400 (Add-ons) *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-410-5MP.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-410-5MP.png" width="150">
 
 [Product page](https://reolink.com/product/b400/)
 
@@ -41,7 +41,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>B800 (Add-ons) *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2019/02/b800-400.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2019/02/b800-400.png" width="150">
 
 [Product page](https://reolink.com/product/b800/)
 
@@ -126,7 +126,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>D400 (Add-ons) *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/05/rlc-420-340.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/05/rlc-420-340.png" width="150">
 
 [Product page](https://reolink.com/product/d400/)
 
@@ -182,7 +182,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>D800 (Add-ons) *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2022/01/130955131642067713.6912.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2022/01/130955131642067713.6912.png" width="150">
 
 [Product page](https://reolink.com/product/d800/)
 
@@ -198,7 +198,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>E1</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png" width="150">
 
 [Product page](https://reolink.com/product/e1/)
 
@@ -214,7 +214,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>E1 Outdoor</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/03/050715191614928519.1298.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/03/050715191614928519.1298.png" width="150">
 
 [Product page](https://reolink.com/product/e1-outdoor/)
 
@@ -228,7 +228,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>E1 Pro</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png" width="150">
 
 [Product page](https://reolink.com/product/e1-pro/)
 
@@ -256,7 +256,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>E1 Zoom</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2019/10/e1-zoom-400.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2019/10/e1-zoom-400.png" width="150">
 
 [Product page](https://reolink.com/product/e1-zoom/)
 
@@ -283,7 +283,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-1210A *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/07/050242471625452967.3365.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/07/050242471625452967.3365.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-1210a/)
 
@@ -300,7 +300,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-1220A *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/07/310158421627696722.9425.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/07/310158421627696722.9425.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-1220a/)
 
@@ -342,7 +342,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-410 *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-410-5MP.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-410-5MP.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-410/)
 
@@ -405,7 +405,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-410W</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2022/01/210755201642751720.2811.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2022/01/210755201642751720.2811.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-410w/)
 
@@ -512,7 +512,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-420 *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-420.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-420.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-420/)
 
@@ -557,7 +557,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-422 *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-422.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-422.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-422/)
 
@@ -586,7 +586,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-422W *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-422w.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-422w.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-422w/)
 
@@ -613,7 +613,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-423 *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-423.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-423.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-423/)
 
@@ -668,7 +668,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-510A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2020/07/rlc-510a-340.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2020/07/rlc-510a-340.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-510a/)
 
@@ -691,7 +691,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-510WA</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/rlc-510wa-400.png?v=1614674123709 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/rlc-510wa-400.png?v=1614674123709" width="150">
 
 [Product page](https://reolink.com/product/rlc-510wa/)
 
@@ -706,7 +706,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-511 *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-511.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-511.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-511/)
 
@@ -726,7 +726,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-511W *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-511w.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-511w.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-511w/)
 
@@ -746,7 +746,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-511WA</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/03/050711201614928280.545.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/03/050711201614928280.545.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-511wa/)
 
@@ -760,7 +760,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-520 *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2022/04/180839551650271195.8689.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2022/04/180839551650271195.8689.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-520/)
 
@@ -783,7 +783,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-520A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/12/200329491639970989.7717.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/12/200329491639970989.7717.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-520a/)
 
@@ -806,7 +806,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-522 *</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2020/02/rlc-522-340.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2020/02/rlc-522-340.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-522/)
 
@@ -823,7 +823,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-523WA</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/08/110250321628650232.2949.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/08/110250321628650232.2949.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-523wa/)
 
@@ -841,7 +841,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-542WA</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/09/030134011630632841.2152.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/030134011630632841.2152.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-542wa/)
 
@@ -855,7 +855,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-810A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2020/07/rlc-810a-340.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2020/07/rlc-810a-340.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-810a/)
 
@@ -875,7 +875,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-811A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/03/050713171614928397.8822.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/03/050713171614928397.8822.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-811a/)
 
@@ -895,7 +895,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-812A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/07/230838461627029526.281.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/07/230838461627029526.281.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-812a/)
 
@@ -909,7 +909,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-820A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/07/310158421627696722.9425.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/07/310158421627696722.9425.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-820a/)
 
@@ -931,7 +931,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-822A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2020/12/rlc-822a-400.png?v=1612231155490 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2020/12/rlc-822a-400.png?v=1612231155490" width="150">
 
 [Product page](https://reolink.com/product/rlc-822a/)
 
@@ -947,7 +947,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-823A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/05/200630021621492202.9127.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/05/200630021621492202.9127.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-823a/)
 
@@ -967,7 +967,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-824A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/08/050939301628156370.5693.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/08/050939301628156370.5693.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-824a/)
 
@@ -981,7 +981,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLC-842A</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/09/021016231630577783.2975.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/021016231630577783.2975.png" width="150">
 
 [Product page](https://reolink.com/product/rlc-842a/)
 
@@ -995,7 +995,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLN16-410 (NVR)</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2017/11/rln16-410.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2017/11/rln16-410.png" width="150">
 
 [Product page](https://reolink.com/product/rln16-410/?attribute_pa_version=rln16-410)
 
@@ -1035,7 +1035,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLN36 (NVR)</summary>
 
-<img srcset="https://reolink.com/wp-content/uploads/2022/04/180832461650270766.9435.png 3x">
+<img src="https://reolink.com/wp-content/uploads/2022/04/180832461650270766.9435.png" width="150">
 
 [Product page](https://reolink.com/product/rln36/)
 
@@ -1084,7 +1084,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>RLN8-410 (NVR)</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rln8-16-410.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rln8-16-410.png" width="150">
 
 [Product page](https://reolink.com/product/rln8-410/?attribute_pa_version=rln8-410)
 
@@ -1137,7 +1137,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>Reolink Duo 2 POE</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100416541631247414.8092.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100416541631247414.8092.png" width="150">
 
 [Product page](https://reolink.com/product/reolink-duo-poe/)
 
@@ -1151,7 +1151,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>Reolink Duo 2 WiFi</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100410331631247033.8797.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100410331631247033.8797.png" width="150">
 
 [Product page](https://reolink.com/product/reolink-duo-wifi/)
 
@@ -1165,7 +1165,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>Reolink Duo PoE</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100416541631247414.8092.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100416541631247414.8092.png" width="150">
 
 [Product page](https://reolink.com/product/reolink-duo-poe/)
 
@@ -1179,7 +1179,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>Reolink Duo WiFi</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100410331631247033.8797.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100410331631247033.8797.png" width="150">
 
 [Product page](https://reolink.com/product/reolink-duo-wifi-v1/)
 
@@ -1193,7 +1193,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>Reolink Lumus</summary>
 
-<img srcset="https://home-cdn.reolink.us/wp-content/assets/2020/01/reolink-lumus-340.png 3x">
+<img src="https://home-cdn.reolink.us/wp-content/assets/2020/01/reolink-lumus-340.png" width="150">
 
 [Product page](https://reolink.com/product/reolink-lumus/)
 

@@ -96,7 +96,7 @@ def make_readme(firmwares):
     for model in devices:
         text += "<details>\n  <summary>" + make_title(model) + "</summary>\n"
         if prodimg := model.get("productImg"):
-            text += f'\n<img srcset="{prodimg} 3x">\n'
+            text += f'\n<img src="{prodimg}" width="150">\n'
         if produrl := model.get("productUrl"):
             text += '\n' + md_link("Product page", produrl) + '\n'
         for hv in model["hardwareVersions"]:
