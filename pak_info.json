@@ -5586,7 +5586,8 @@
       "https://drive.google.com/uc?id=1QPhxZadDX_HN-qUAYXdnyMAdA5QJ_YAW&confirm=t"
     ],
     "model_id": 52,
-    "hw_ver_id": 130
+    "hw_ver_id": 130,
+    "beta": true
   },
   "149ad3702002ce9b5d2cb8e7a8deda11caa0003d116fa74e306348cd0e9b216f": {
     "info": {
@@ -5604,7 +5605,8 @@
       "https://drive.google.com/uc?id=1yghPki0FwNI8n51QDBiOuFYZy7LllArZ&confirm=t"
     ],
     "model_id": 62,
-    "hw_ver_id": 95
+    "hw_ver_id": 95,
+    "beta": true
   },
   "d806be590cd2178afdd2689e8620cf63e0d2bb313c090217ecc82087001b692b": {
     "info": {
@@ -5672,7 +5674,8 @@
       "https://drive.google.com/uc?id=1V2djJmvlPl_U-YZLOAQaMytn74EE7Ad_&confirm=t"
     ],
     "model_id": 1,
-    "hw_ver_id": 220
+    "hw_ver_id": 220,
+    "beta": true
   },
   "ac18e0561b79b3c11cfb1e8524fca0c245bdd40c08fad6dbafd21601d61c8d44": {
     "info": {
@@ -5689,7 +5692,8 @@
       "https://drive.google.com/uc?id=1YIf7hTGX1rHQPYLr1Ct-fALh_0SKNYbw&confirm=t"
     ],
     "model_id": 163,
-    "hw_ver_id": 273
+    "hw_ver_id": 273,
+    "beta": true
   },
   "863e49736d8bdcad82697ec29c4a511dde4e8607003064fc9f78e3ae77485a5d": {
     "info": {
@@ -5706,7 +5710,8 @@
       "https://drive.google.com/uc?id=1U3uioO-z3cLfqPKy0eK_vWDavrZuAI6a&confirm=t"
     ],
     "model_id": 6,
-    "hw_ver_id": 6
+    "hw_ver_id": 6,
+    "beta": true
   },
   "8def0ce994423793c1cd3a189f3ea4b8516ce285aec1bb51c6100933560a1048": {
     "info": {
@@ -5723,7 +5728,8 @@
       "https://drive.google.com/uc?id=1C6hA0m8QlVuXenm7vyO5TtkhZzjD1uMs&confirm=t"
     ],
     "model_id": 154,
-    "hw_ver_id": 254
+    "hw_ver_id": 254,
+    "beta": true
   },
   "99b515310706044e0ba3ec4694e7e11e1aabe744d144528a25a3e861f7ead3ab": {
     "info": {
@@ -5740,7 +5746,8 @@
       "https://drive.google.com/uc?id=1TrHuNZC4Vk0DSc8oRa7nvP8XpA7INnL9&confirm=t"
     ],
     "model_id": 9,
-    "hw_ver_id": 9
+    "hw_ver_id": 9,
+    "beta": true
   },
   "ba37d31da6971d0309e0394de7d0d93a058025449f97b3d7f39b8264682c1115": {
     "info": {
@@ -5757,7 +5764,8 @@
       "https://drive.google.com/uc?id=12q_sIyYAm_uY8nGpSrOK9HKeJhwS2NPU&confirm=t"
     ],
     "model_id": 136,
-    "hw_ver_id": 217
+    "hw_ver_id": 217,
+    "beta": true
   },
   "e3da68f4776caf44993a55d6c82457aead3431f8be2674526fdbbd872f585933": {
     "info": {
@@ -5774,7 +5782,8 @@
       "https://drive.google.com/uc?id=1f6NlVsCOpGHY04Vf-OuN4ZYHesf4-Dut&confirm=t"
     ],
     "model_id": 18,
-    "hw_ver_id": 18
+    "hw_ver_id": 18,
+    "beta": true
   },
   "c9696702be5d1b316968e1e6c25d59d3fe1709931ad456c6e5aaf3f6907d642b": {
     "info": {
@@ -5791,7 +5800,8 @@
       "https://drive.google.com/uc?id=1b06v0rxvlDwjsI4EG4YyJdNoVJEwdjEa&confirm=t"
     ],
     "model_id": 120,
-    "hw_ver_id": 197
+    "hw_ver_id": 197,
+    "beta": true
   },
   "8d11d297f6902deeaa24fc50c8e67b8d2f2675d76b67de5c4d57d30f64bc793e": {
     "info": {
@@ -5808,7 +5818,8 @@
       "https://drive.google.com/uc?id=1FEB_upO0eVlOSKTEI68ufIm1HwhZOO7X&confirm=t"
     ],
     "model_id": 151,
-    "hw_ver_id": 251
+    "hw_ver_id": 251,
+    "beta": true
   },
   "7656f05b7d05744c2bc3cf299999c6a852d8e9a7648d7e14c2b2eb37bb497046": {
     "info": {
@@ -5825,7 +5836,8 @@
       "https://drive.google.com/uc?id=1yzP4iT5DMvKGJHHjmDuMk3_MDrIc4Zmv&confirm=t"
     ],
     "model_id": 154,
-    "hw_ver_id": 254
+    "hw_ver_id": 254,
+    "beta": true
   },
   "c57ec4f056f521039b11787c0c2a764bdb46b820325a55f1e15b39e5f242ae97": {
     "info": {
@@ -5842,7 +5854,8 @@
       "https://drive.google.com/uc?id=18e9JfVLO5jQ_JclcOMgKvrLfimDtd0ZG&confirm=t"
     ],
     "model_id": 151,
-    "hw_ver_id": 251
+    "hw_ver_id": 251,
+    "beta": true
   },
   "e24db7e660a45ce0160bbc00b6f534f6d133fdb83561a1d2512c8a233d4c672f": {
     "info": {
@@ -5859,7 +5872,8 @@
       "https://drive.google.com/uc?id=1OxQCm36F1QbiDukz-NLZX8i6CloN8C7-&confirm=t"
     ],
     "model_id": 81,
-    "hw_ver_id": 114
+    "hw_ver_id": 114,
+    "beta": true
   },
   "1929afe7e9cbf776ec69337a6c3f5d9f835519f8b1a89ef211471461544cace8": {
     "info": {
@@ -5876,7 +5890,8 @@
       "https://drive.google.com/uc?id=19mWhnq5P506J2vzFSupzz74CEu_TwpdR&confirm=t"
     ],
     "model_id": 52,
-    "hw_ver_id": 82
+    "hw_ver_id": 82,
+    "beta": true
   },
   "d266b9d48358012b2d94f4c577d7495461af49e5dcc40f2e7094af7369907425": {
     "info": {
@@ -5927,7 +5942,8 @@
       "https://drive.google.com/uc?id=1_6tuBVb9yMyKmBdbNvcdfi0jg6N2QXWc&confirm=t"
     ],
     "model_id": 55,
-    "hw_ver_id": 141
+    "hw_ver_id": 141,
+    "beta": true
   },
   "d0cf06ab940c51e5cbbc1d00d3757b26442010b4263610afcb342d508d3ff41d": {
     "info": {
@@ -5944,7 +5960,8 @@
       "https://drive.google.com/uc?id=1jlweolf-P1nhFP11TZtDp29wWu2U60jW&confirm=t"
     ],
     "model_id": 55,
-    "hw_ver_id": 91
+    "hw_ver_id": 91,
+    "beta": true
   },
   "4cab5b9f7a2c638b2c06325d67a1b50843ab3d228150b1c095b0b92a4dfba6e7": {
     "info": {
@@ -5961,7 +5978,8 @@
       "https://drive.google.com/uc?id=1PQMIWXS6mEELsirf4k1fkQMxz9z7j_pJ&confirm=t"
     ],
     "model_id": 62,
-    "hw_ver_id": 138
+    "hw_ver_id": 138,
+    "beta": true
   },
   "98e56af6d1a63bde257d9fa33f098a4cc3dba7461eb5dffccc4590fecf094439": {
     "info": {
@@ -5978,7 +5996,8 @@
       "https://drive.google.com/uc?id=1c1ZnOHFuFJZObfgL7XHwmxPjj-fFD07D&confirm=t"
     ],
     "model_id": 154,
-    "hw_ver_id": 254
+    "hw_ver_id": 254,
+    "beta": true
   },
   "29e3cf3402275a57d19caf9e1ccc5f14f532d18bcec281d9957760d90a4ba6cf": {
     "info": {
@@ -5995,7 +6014,8 @@
       "https://drive.google.com/uc?id=1lByHFKuGseR1vTthDcgAeXLlwB9Dg-BD&confirm=t"
     ],
     "model_id": 151,
-    "hw_ver_id": 251
+    "hw_ver_id": 251,
+    "beta": true
   },
   "3e7521fea971e36954d0261de9f80eaeba2080e96fea944bfc10d71bfaa0b31c": {
     "info": {
@@ -6012,7 +6032,8 @@
       "https://drive.google.com/uc?id=1vKRzh4aCHoy7Lq7zb1a_2si-Zh_rrBOs&confirm=t"
     ],
     "model_id": 154,
-    "hw_ver_id": 254
+    "hw_ver_id": 254,
+    "beta": true
   },
   "f1a26640b6fc7868c33741b23ad091bf786b89d24aa2df50be9c98b2045e1075": {
     "info": {
@@ -6029,7 +6050,8 @@
       "https://drive.google.com/uc?id=1neJkmtONo1i8V81hrN3JlQORgwB1HykR&confirm=t"
     ],
     "model_id": 151,
-    "hw_ver_id": 251
+    "hw_ver_id": 251,
+    "beta": true
   },
   "bf1c49ea81eb7e4da2171ff14bc6bfa032f1033478b0e9f92dfe09d0fef53464": {
     "info": {

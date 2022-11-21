@@ -163,7 +163,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "f2e12c1918a6557d3844316af382d9ff46840422b3a055e287595ae73fcaff08"
   },
   {
@@ -175,7 +174,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "ac18e0561b79b3c11cfb1e8524fca0c245bdd40c08fad6dbafd21601d61c8d44"
   },
   {
@@ -187,7 +185,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "863e49736d8bdcad82697ec29c4a511dde4e8607003064fc9f78e3ae77485a5d"
   },
   {
@@ -199,7 +196,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "8def0ce994423793c1cd3a189f3ea4b8516ce285aec1bb51c6100933560a1048"
   },
   {
@@ -211,7 +207,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "99b515310706044e0ba3ec4694e7e11e1aabe744d144528a25a3e861f7ead3ab"
   },
   {
@@ -223,7 +218,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "ba37d31da6971d0309e0394de7d0d93a058025449f97b3d7f39b8264682c1115"
   },
   {
@@ -235,7 +229,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "e3da68f4776caf44993a55d6c82457aead3431f8be2674526fdbbd872f585933"
   },
   {
@@ -247,7 +240,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "c9696702be5d1b316968e1e6c25d59d3fe1709931ad456c6e5aaf3f6907d642b"
   },
   {
@@ -259,7 +251,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "8d11d297f6902deeaa24fc50c8e67b8d2f2675d76b67de5c4d57d30f64bc793e"
   },
   {
@@ -272,7 +263,6 @@
     "changelog": [
       "Check the sources for details"
     ],
-    "beta": true,
     "sha256_pak": "7656f05b7d05744c2bc3cf299999c6a852d8e9a7648d7e14c2b2eb37bb497046"
   },
   {
@@ -285,7 +275,6 @@
     "changelog": [
       "Check the sources for details"
     ],
-    "beta": true,
     "sha256_pak": "c57ec4f056f521039b11787c0c2a764bdb46b820325a55f1e15b39e5f242ae97"
   },
   {
@@ -297,7 +286,6 @@
     "changelog": [
       "I-frame beta test. Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "e24db7e660a45ce0160bbc00b6f534f6d133fdb83561a1d2512c8a233d4c672f"
   },
   {
@@ -309,7 +297,6 @@
     "changelog": [
       "I-frame beta test. Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "1929afe7e9cbf776ec69337a6c3f5d9f835519f8b1a89ef211471461544cace8"
   },
   {
@@ -324,7 +311,6 @@
     "changelog": [
       "I-frame beta test. Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "d68f1b491307dd6cedbf03a16f04bdb26d7069ddf7c9532a4d77f7ce494739e8"
   },
   {
@@ -336,7 +322,6 @@
     "changelog": [
       "I-frame beta test. Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "a5c0cb8770fdea677b2600d60d5d6fa81dce2573afae5792aa04f95177d0858d"
   },
   {
@@ -348,7 +333,6 @@
     "changelog": [
       "I-frame beta test. Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "d0cf06ab940c51e5cbbc1d00d3757b26442010b4263610afcb342d508d3ff41d"
   },
   {
@@ -360,7 +344,6 @@
     "changelog": [
       "I-frame beta test. Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "4cab5b9f7a2c638b2c06325d67a1b50843ab3d228150b1c095b0b92a4dfba6e7"
   },
   {
@@ -375,7 +358,6 @@
     "changelog": [
       "I-frame beta test. Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "149ad3702002ce9b5d2cb8e7a8deda11caa0003d116fa74e306348cd0e9b216f"
   },
   {
@@ -391,7 +373,6 @@
       "Optimized auto-tracking."
     ],
     "note": "Check the sources for details",
-    "beta": true,
     "sha256_pak": "98e56af6d1a63bde257d9fa33f098a4cc3dba7461eb5dffccc4590fecf094439"
   },
   {
@@ -407,7 +388,6 @@
       "Optimized auto-tracking."
     ],
     "note": "Check the sources for details",
-    "beta": true,
     "sha256_pak": "29e3cf3402275a57d19caf9e1ccc5f14f532d18bcec281d9957760d90a4ba6cf"
   },
   {
@@ -420,7 +400,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "3e7521fea971e36954d0261de9f80eaeba2080e96fea944bfc10d71bfaa0b31c"
   },
   {
@@ -433,7 +412,6 @@
     "changelog": [
       "Check the source for details"
     ],
-    "beta": true,
     "sha256_pak": "f1a26640b6fc7868c33741b23ad091bf786b89d24aa2df50be9c98b2045e1075"
   },
   {

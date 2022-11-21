@@ -121,7 +121,7 @@ def make_readme(firmwares):
                 date_str = str(dt).replace('-', chr(0x2011))
                 new = make_changes(fw.get("changelog"))
                 notes = []
-                if fw.get("beta"):
+                if pi.get("beta"):
                     notes.append(":warning: This is a beta firmware")
                 if note := fw.get("note"):
                     notes.extend(note.split('\n'))
