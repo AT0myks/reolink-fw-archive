@@ -120,16 +120,16 @@ def make_readme(firmwares):
                 dt = parse_build_date(info["build_date"])
                 date_str = str(dt).replace('-', chr(0x2011))
                 new = make_changes(fw.get("changelog"))
+                notes = []
+                if fw.get("beta"):
+                    notes.append(":warning: This is a beta firmware")
+                if note := fw.get("note"):
+                    notes.extend(note.split('\n'))
                 if "archive_url" in fw:
-                    notes = md_link("Archive", fw["archive_url"])
-                else:
-                    notes = fw.get("note", '').replace("\n", "<br />")
-                    # notes = fw.get("note", '').replace("\n", '')
-                    # if fw.get("beta"):
-                    #     notes += "<br />" + "WARNING: this is a beta firmware"
-                    # if sources := fw.get("source_urls"):
-                    #     for nb, url in enumerate(sources, start=1):
-                    #         notes += ' ' + md_link(f"Source {nb}", url)
+                    notes.append(md_link("Archive", fw["archive_url"]))
+                for nb, url in enumerate(fw.get("source_urls", []), start=1):
+                    notes.append(md_link(f"Source {nb}", url))
+                notes = "<br />".join(notes)
                 text += " | ".join((version, date_str, new, notes)) + '\n'
         text += "\n</details>\n\n"
     return text
