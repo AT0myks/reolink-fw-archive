@@ -4745,7 +4745,8 @@
       "version_file": "989_22051908"
     },
     "download": [
-      "https://support.reolink.com/attachments/token/MFdl4XblzOXg1IMWGGD8YHLhI/?name=IPC_523128M8MP.989_22051908.RLC-811A.IMX415.8MP.AF.REOLINK.pak"
+      "https://support.reolink.com/attachments/token/MFdl4XblzOXg1IMWGGD8YHLhI/?name=IPC_523128M8MP.989_22051908.RLC-811A.IMX415.8MP.AF.REOLINK.pak",
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/251116081666696568.0877.zip"
     ],
     "model_id": 136,
     "hw_ver_id": 217
@@ -4830,7 +4831,8 @@
       "version_file": "989_22051911"
     },
     "download": [
-      "https://support.reolink.com/attachments/token/ktALcT7yl11qQIFLmol31EtMn/?name=IPC_523128M8MP.989_22051911.RLC-823A.IMX415.8MP.PTZ.REOLINK.pak"
+      "https://support.reolink.com/attachments/token/ktALcT7yl11qQIFLmol31EtMn/?name=IPC_523128M8MP.989_22051911.RLC-823A.IMX415.8MP.PTZ.REOLINK.pak",
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/251119471666696787.084.zip"
     ],
     "model_id": 151,
     "hw_ver_id": 251
@@ -6103,5 +6105,117 @@
     ],
     "model_id": 51,
     "hw_ver_id": 196
+  },
+  "f867eb64773fc967ce79e7535a5ed6d7d7aea1f4ea74fbfb013124e753771213": {
+    "info": {
+      "error": "Could not guess section count"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/240912131666602733.2786.zip"
+    ],
+    "model_id": 167,
+    "hw_ver_id": 286
+  },
+  "6989d75173c3bb79633917633d21b80157f91f836a9397e1daa530e842a08c5e": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "N6MB01",
+      "board_name": "N6MB01",
+      "build_date": "221021",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "211_22102119"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/240910021666602602.7142.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 285
+  },
+  "070ad40ba84d4d73282c2b74c872df7702a968b374353b95ba4d726fa5e28e44": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "H3MB18",
+      "board_name": "H3MB18",
+      "build_date": "221024",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "211_22102414"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/261022101666779730.2575.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 196
+  },
+  "fa53d2862608e963f66c48ea349ae8ec58e4d9ef85ecfc3250d374ff2419e3fd": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "N7MB01",
+      "board_name": "N7MB01",
+      "build_date": "221021",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "211_22102113"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/240908121666602492.1096.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 292
+  },
+  "4cb22e788656c4a336a448c562fae87c4bd365dc2ffc7b1a73e9ca7d09845085": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "N2MB02",
+      "board_name": "N2MB02",
+      "build_date": "221024",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "211_22102413"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/261024191666779859.0167.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 231
+  },
+  "eb936a6068c0a2fbadfe61a44e651f98ae467bb2b5e12756ce0d5b5f4b31dab3": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "N3MB01",
+      "board_name": "N3MB01",
+      "build_date": "221024",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "211_22102439"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/261025391666779939.6375.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 208
+  },
+  "a46d5efaed836ed1441f6f11f229e1d15919d931c3a35cc0b6d223adaeca0904": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M8MP",
+      "board_name": "IPC_523128M8MP",
+      "build_date": "220819",
+      "display_type_info": "RLC-822A",
+      "detail_machine_type": "IPC_523128M8MP",
+      "type": "IPC",
+      "version_file": "989_22081907"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/10/251121381666696898.9487.zip"
+    ],
+    "model_id": 120,
+    "hw_ver_id": 197
   }
 }
