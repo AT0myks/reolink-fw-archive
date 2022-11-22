@@ -246,7 +246,7 @@
         "title": "N6MB01"
       },
       {
-        "id": 100044,
+        "id": 78,
         "title": "H3MB02"
       }
     ]
@@ -337,12 +337,16 @@
         "title": "N3MB01"
       },
       {
-        "id": 100043,
+        "id": 33,
         "title": "H3MB02"
       },
       {
         "id": 292,
         "title": "N7MB01"
+      },
+      {
+        "id": 43,
+        "title": "H3MB16"
       }
     ]
   },
@@ -991,6 +995,36 @@
       {
         "id": 100056,
         "title": "IPC_325C7"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Reolink TrackMix WiFi",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/06/280627421656397662.0035.png",
+    "productUrl": "https://reolink.com/product/reolink-trackmix-wifi/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 295,
+        "title": "IPC_529SD78MP"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Reolink TrackMix PoE",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/06/280627521656397672.1918.png",
+    "productUrl": "https://reolink.com/product/reolink-trackmix-poe/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 294,
+        "title": "IPC_529SD78MP"
       }
     ]
   }

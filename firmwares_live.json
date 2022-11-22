@@ -1521,5 +1521,173 @@
     "display_time": "2022-06-15 00:00:00+08:00",
     "sha256_pak": "685243cd9dc1b63be993d49567f62409b29441079cb8d083d3f80c1cdc2ceb4a",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.1514_22111401",
+    "filename": "Reolink_TrackMix_WiFi_22111401",
+    "updated_at": "2022-11-16 16:16:28+08:00",
+    "note": "",
+    "firmware_id": 332,
+    "model": "Reolink TrackMix WiFi",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Added the schedule setting for Auto-tracking function",
+      "2. Added the horizontal tracking range setting for Auto-tracking",
+      "3. Optimized Auto-tracking effect",
+      "4. Optimized the picture smear problem when the PT motor is moving",
+      "5. Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears.",
+      "6. Added the function of importing and exporting preset images",
+      "7. Added fixed frame rate and monitor point settings on the Web Client",
+      "8. Fixed other bugs"
+    ],
+    "display_time": "2022-11-16 00:00:00+08:00",
+    "sha256_pak": "959d077dc09376b320413ce3826171f09f1b38069f4bb2c76ba3dfebf955b08e",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.1514_22111400",
+    "filename": "Reolink_TrackMix_PoE_22111400",
+    "updated_at": "2022-11-16 16:14:58+08:00",
+    "note": "",
+    "firmware_id": 331,
+    "model": "Reolink TrackMix PoE",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Added the schedule setting for Auto-tracking function",
+      "2. Added the horizontal tracking range setting for Auto-tracking",
+      "3. Optimized Auto-tracking effect",
+      "4. Optimized the picture smear problem when the PT motor is moving",
+      "5. Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears.",
+      "6. Added the function of importing and exporting preset images",
+      "7. Added fixed frame rate and monitor point settings on the Web Client",
+      "8. Fixed other bugs"
+    ],
+    "display_time": "2022-11-16 00:00:00+08:00",
+    "sha256_pak": "9f34704f57f193dbaf76cadc8543eb3051b930c33a163270674643f7085fc429",
+    "source": "live"
+  },
+  {
+    "version": "v2.0.0.4732_1728_21062800",
+    "filename": "RLN16_410_21062800",
+    "updated_at": "2022-11-15 14:59:05+08:00",
+    "note": "",
+    "firmware_id": 328,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "H3MB02",
+    "changelog": [
+      "1. Optimized UI display and interaction",
+      "2. Fixed the large deviation problem when you use the mouse to choose the MD area",
+      "3. Added the function of controlling IPC spotlight on the NVR",
+      "4. Fixed the issue that it displays Error icon on the screen when the buzzer sounds"
+    ],
+    "display_time": "2022-11-15 00:00:00+08:00",
+    "sha256_pak": "59d10af29d9d93ca55ea739e7b05dc1cf51169542aa6d74d84be2f827ed0a0c5",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.212_22111848",
+    "filename": "RLN16_410_22111848",
+    "updated_at": "2022-11-18 20:44:29+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 333,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "H3MB18",
+    "changelog": [
+      "1.Optimized experience for preview and playback",
+      "2.Adapted to Reolink Floodlight series cameras",
+      "3.Solved the adaptation problem of TrackMix series and Duo2 series cameras",
+      "4.Solved the problem that common users cannot enable push",
+      "5.Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR",
+      "6.Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App",
+      "7.Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function",
+      "8.Update web client",
+      "9.Solved other known bugs"
+    ],
+    "display_time": "2022-11-18 00:00:00+08:00",
+    "sha256_pak": "95b8e196013249f6dbacb391abb0e970894cb81786d60c0317f2a9790ff8de8c",
+    "source": "live"
+  },
+  {
+    "version": "v2.0.0.280_21060101",
+    "filename": "RLN8_410_E_21060101",
+    "updated_at": "2022-11-15 15:00:46+08:00",
+    "note": "",
+    "firmware_id": 329,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "H3MB16",
+    "changelog": [
+      "1. Optimized UI display and interaction",
+      "2. Fixed the large deviation problem when you use the mouse to choose the MD area",
+      "3. Modified the push text in Chinese",
+      "4. Fixed bugs related with Push"
+    ],
+    "display_time": "2022-11-15 00:00:00+08:00",
+    "sha256_pak": "38ba7e6a6494b8cf03fead0aeafbd59ee17f26e0e8dc8bbf59f3c2780bfc4747",
+    "source": "live"
+  },
+  {
+    "version": "v2.0.0.4732_1728_21062800",
+    "filename": "RLN8_410_21062800",
+    "updated_at": "2022-11-15 15:26:19+08:00",
+    "note": "",
+    "firmware_id": 330,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "H3MB02",
+    "changelog": [
+      "1. Optimized UI display and interaction",
+      "2. Fixed the large deviation problem when you use the mouse to choose the MD area",
+      "3. Added the function of controlling IPC spotlight on the NVR",
+      "4. Fixed the issue that it displays Error icon on the screen when the buzzer sounds"
+    ],
+    "display_time": "2022-11-15 00:00:00+08:00",
+    "sha256_pak": "e7a72f5f1269684fd20501c8804d4f7c0f4ef474a3ee527c25a6ce473342becb",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.212_22111847",
+    "filename": "RLN8_410_22111847",
+    "updated_at": "2022-11-18 20:44:14+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 334,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N2MB02 or H3MB18",
+    "changelog": [
+      "1.Optimized experience for preview and playback",
+      "2.Adapted to Reolink Floodlight series cameras",
+      "3.Solved the adaptation problem of TrackMix series and Duo2 series cameras",
+      "4.Solved the problem that common users cannot enable push",
+      "5.Solved the problem that scrollview function doesn't work for the RLN8-410 under 8-multiple screens",
+      "6.Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR",
+      "7.Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App",
+      "8.Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function",
+      "9.Update web client",
+      "10.Solved other known bugs"
+    ],
+    "display_time": "2022-11-18 00:00:00+08:00",
+    "sha256_pak": "f040b7432f3b301c6df62e674f83de609f0f983c2ed3ccc09d599acabcc2ede3",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.212_22111814",
+    "filename": "RLN8_410_22111814",
+    "updated_at": "2022-11-18 20:49:47+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 335,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N3MB01",
+    "changelog": [
+      "1.Optimized experience for preview and playback",
+      "2.Adapted to Reolink Floodlight series cameras",
+      "3.Solved the adaptation problem of TrackMix series and Duo2 series cameras",
+      "4.Solved the problem that common users cannot enable push",
+      "5.Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR",
+      "6.Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App",
+      "7.Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function",
+      "8.Update web client",
+      "9.Solved other known bugs"
+    ],
+    "display_time": "2022-11-18 00:00:00+08:00",
+    "sha256_pak": "6a89262d598bacf2969ffa5e65ab2e1cc201af99be443c63adb184a78a656fac",
+    "source": "live"
   }
 ]

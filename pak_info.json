@@ -280,7 +280,7 @@
       "https://home-cdn.reolink.us/files/firmware/20180814firmware/RLN8-410_180811.zip"
     ],
     "model_id": 33,
-    "hw_ver_id": 100043
+    "hw_ver_id": 33
   },
   "e28865fe004e0c682210875477fc1f12cfe062422cd9fb74ffacc273f084c219": {
     "info": {
@@ -314,7 +314,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190823firmware/RLN8-410_0823.zip"
     ],
     "model_id": 33,
-    "hw_ver_id": 100043
+    "hw_ver_id": 33
   },
   "5f80104189069b4464cd08035a4b9e51dd26e39cfb7758c3d5d0ce7e2d4fbfad": {
     "info": {
@@ -333,7 +333,7 @@
       "https://home-cdn.reolink.us/files/firmware/20180814firmware/RLN16-410_180811.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "0594b023fb79cc5105d5cb4c7b6d0f2daaebab54608d9ee7f3c693ba7a2671f4": {
     "info": {
@@ -764,7 +764,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190823firmware/RLN16-410_0823.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "de1196259007cfb0196b1534b2ee93eca9f7eeb633c907c2913fc989a0c4416e": {
     "info": {
@@ -952,8 +952,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200429firmware/RLN8-410-E_042901.zip"
     ],
-    "model_id": 100053,
-    "hw_ver_id": 100054
+    "model_id": 33,
+    "hw_ver_id": 43
   },
   "9326e20d322b5f96161deaf315ae81f3821dac4541f914073fb76a4353ed4619": {
     "info": {
@@ -1024,8 +1024,8 @@
       "https://support.reolink.com/attachments/token/42qcxM28AbR6Hlri7IVDc0Dlm/?name=HI3536CV100_NVR_8IP_REOLINK_L300_274_20120701.4K.pak",
       "https://drive.google.com/uc?id=1W89WeSbU47kHsG0mIuNHbm8QTk4a0-RQ&confirm=t"
     ],
-    "model_id": 100053,
-    "hw_ver_id": 100054
+    "model_id": 33,
+    "hw_ver_id": 43
   },
   "2904f8bdf712532b490a77dbf82597910bea2877e90f327d5f6acea6ceb011dc": {
     "info": {
@@ -1455,7 +1455,7 @@
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/170415051608178505.0706.zip"
     ],
     "model_id": 33,
-    "hw_ver_id": 100043
+    "hw_ver_id": 33
   },
   "5ad3e209691083e30e57601fe3e68e4ff5e83447f3cd0f9efe1cf89eaca64b83": {
     "info": {
@@ -1901,7 +1901,7 @@
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/160325521608089152.8522.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "f5158185a7c49785dd8978b23e463ced61dfc1e97ded0832ba9f0475bb1602c0": {
     "info": {
@@ -2003,8 +2003,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200928firmware+/RLN8-410-E-20092801.zip"
     ],
-    "model_id": 100053,
-    "hw_ver_id": 100054
+    "model_id": 33,
+    "hw_ver_id": 43
   },
   "713e76cd903e158210300df33d71ec2b1056c40d9c4960260e6d33a0a4020c46": {
     "info": {
@@ -2263,7 +2263,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200928firmware+/RLN16-410-20092900.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "71ebda1ae2a6c676426344bf6a8f6f73c4cbb24eb3382c693743ddbab2e049a3": {
     "info": {
@@ -2575,7 +2575,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200226firmware/RLN16-410_0226.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "efc420cf86f9ee6e8c0e15cf3340110efc5f588944c040cf5b32f2c9d4fb99dd": {
     "info": {
@@ -3163,7 +3163,7 @@
       "https://home-cdn.reolink.us/files/firmware/20180402firmware/RLN8-410_180306.zip"
     ],
     "model_id": 33,
-    "hw_ver_id": 100043
+    "hw_ver_id": 33
   },
   "952b576c3f482349237f7a13e2b07266925f6a18bd881d52c0bbe090c3d7be1b": {
     "info": {
@@ -3182,7 +3182,7 @@
       "https://home-cdn.reolink.us/files/firmware/20180402firmware/RLN16-410_180306.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "38cddd394fbae87ab44efb4768a6fff8558999ab0d40ac870f4bfdba81a75669": {
     "info": {
@@ -3542,7 +3542,7 @@
       "https://s3.amazonaws.com/reolink-storage/website/firmware/rln8/RLN8-410_170407.zip"
     ],
     "model_id": 33,
-    "hw_ver_id": 100043
+    "hw_ver_id": 33
   },
   "cc5133a84ca15b74d1460095875b9af6986f5d192bd3d35b6995c98624ca5bed": {
     "info": {
@@ -3559,7 +3559,7 @@
       "https://s3.amazonaws.com/reolink-storage/website/firmware/rln16/RLN16-410_170407.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "d5b4db15c219346592a8e9539581f3232161adc2036791a127e0e292d34ff559": {
     "info": {
@@ -3798,7 +3798,7 @@
       "https://home-cdn.reolink.us/files/firmware/842_170524/RLN8-410_170605.zip"
     ],
     "model_id": 33,
-    "hw_ver_id": 100043
+    "hw_ver_id": 33
   },
   "17b2027ada6773d1adde9a9badb889788e9672117581e22545a34d26fae8a852": {
     "info": {
@@ -3815,7 +3815,7 @@
       "https://s3.amazonaws.com/reolink-storage/website/firmware/842_170524/RLN16-410_170605.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "21546b6f95dec1c49e278efc4431122c5c8229ca7bc4170a196725d7ed80e17a": {
     "info": {
@@ -4019,7 +4019,7 @@
       "https://s3.amazonaws.com/reolink-storage/website/firmware/rln8/RLN8-410_170914.zip"
     ],
     "model_id": 33,
-    "hw_ver_id": 100043
+    "hw_ver_id": 33
   },
   "ab8a781829ee34f9ac3c3aaed94547e26153bb06abce7e7803213dfe198990b8": {
     "info": {
@@ -4140,7 +4140,7 @@
       "https://s3.amazonaws.com/reolink-storage/website/firmware/rln16/RLN16_170914.zip"
     ],
     "model_id": 51,
-    "hw_ver_id": 100044
+    "hw_ver_id": 78
   },
   "87f78206749f90b2e35562c7681936f2892d4b4e688d96d5ec17c2c2d92e0d17": {
     "info": {
@@ -5293,10 +5293,11 @@
       "version_file": "280_21060101"
     },
     "download": [
-      "https://drive.google.com/uc?id=1oXXUt4uVyFLVsMje8vtpTFa9nLak2mbs&confirm=t"
+      "https://drive.google.com/uc?id=1oXXUt4uVyFLVsMje8vtpTFa9nLak2mbs&confirm=t",
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/150700251668495625.1457.zip"
     ],
-    "model_id": 100053,
-    "hw_ver_id": 100054
+    "model_id": 33,
+    "hw_ver_id": 43
   },
   "3e183c92ee39abcaa155b57f8a6e43d4ec19de4cd5e6839c4adcd103cdeebf13": {
     "info": {
@@ -5346,8 +5347,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190904firmware/RLN8-410-E_090401.zip"
     ],
-    "model_id": 100053,
-    "hw_ver_id": 100054
+    "model_id": 33,
+    "hw_ver_id": 43
   },
   "a5e87372e7cd317cc55a07dea162d2444ff04e1605e37afcf00ddf592241f771": {
     "info": {
@@ -6224,5 +6225,124 @@
     ],
     "model_id": 120,
     "hw_ver_id": 197
+  },
+  "959d077dc09376b320413ce3826171f09f1b38069f4bb2c76ba3dfebf955b08e": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "221114",
+      "display_type_info": "Reolink TrackMix WiFi",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "1514_22111401"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/160815571668586557.1557.zip"
+    ],
+    "model_id": 174,
+    "hw_ver_id": 295
+  },
+  "9f34704f57f193dbaf76cadc8543eb3051b930c33a163270674643f7085fc429": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "221114",
+      "display_type_info": "Reolink TrackMix PoE",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "1514_22111400"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/160814371668586477.9388.zip"
+    ],
+    "model_id": 173,
+    "hw_ver_id": 294
+  },
+  "59d10af29d9d93ca55ea739e7b05dc1cf51169542aa6d74d84be2f827ed0a0c5": {
+    "info": {
+      "firmware_version_prefix": "v2.0.0",
+      "board_type": "TNMB01",
+      "board_name": "H3MB02",
+      "build_date": "210628",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6316",
+      "type": "NVR",
+      "version_file": "4732_1728_21062800"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/150658471668495527.8315.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 78
+  },
+  "95b8e196013249f6dbacb391abb0e970894cb81786d60c0317f2a9790ff8de8c": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "H3MB18",
+      "board_name": "H3MB18",
+      "build_date": "221118",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "212_22111848"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/181156111668772571.0089.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 196
+  },
+  "e7a72f5f1269684fd20501c8804d4f7c0f4ef474a3ee527c25a6ce473342becb": {
+    "info": {
+      "firmware_version_prefix": "v2.0.0",
+      "board_type": "TNMB01",
+      "board_name": "H3MB02",
+      "build_date": "210628",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6308",
+      "type": "NVR",
+      "version_file": "4732_1728_21062800"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/150726101668497170.4503.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 33
+  },
+  "f040b7432f3b301c6df62e674f83de609f0f983c2ed3ccc09d599acabcc2ede3": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "N2MB02",
+      "board_name": "N2MB02",
+      "build_date": "221118",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "212_22111847"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/181214381668773678.1587.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 231
+  },
+  "6a89262d598bacf2969ffa5e65ab2e1cc201af99be443c63adb184a78a656fac": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "N3MB01",
+      "board_name": "N3MB01",
+      "build_date": "221118",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "212_22111814"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/11/181216081668773768.0982.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 208
   }
 }
