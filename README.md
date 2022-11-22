@@ -1146,15 +1146,6 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
-  <summary>RLN8-410-E (NVR)</summary>
-
-  ### H3MB16
-Version | Date | Changes | Notes
---- | --- | --- | ---
-
-</details>
-
-<details>
   <summary>Reolink Duo 2 POE</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/100416541631247414.8092.png" width="150">

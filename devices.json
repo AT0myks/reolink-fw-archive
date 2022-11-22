@@ -976,17 +976,6 @@
     "discontinued": true
   },
   {
-    "id": 100053,
-    "title": "RLN8-410-E",
-    "type": "NVR",
-    "hardwareVersions": [
-      {
-        "id": 100054,
-        "title": "H3MB16"
-      }
-    ]
-  },
-  {
     "id": 100055,
     "title": "Reolink Lumus",
     "productImg": "https://home-cdn.reolink.us/wp-content/assets/2020/01/reolink-lumus-340.png",
