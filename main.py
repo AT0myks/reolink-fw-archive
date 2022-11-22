@@ -312,7 +312,7 @@ def update_ids(pak_info, old_model_id, old_hw_id, new_model_id, new_hw_id):
             pak_info[key]["hw_ver_id"] = new_hw_id
 
 
-def add_pak_info(pak_info, model_id=None, hw_ver_id=None):
+def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False):
     pak_infos = load_pak_info()
     if model_id is None or hw_ver_id is None:  # They should always be both None or not.
         model_id, hw_ver_id = match(pak_info)
@@ -335,20 +335,27 @@ def add_pak_info(pak_info, model_id=None, hw_ver_id=None):
             "model_id": model_id,
             "hw_ver_id": hw_ver_id
         }
+        if beta:
+            pak_infos[sha]["beta"] = beta
     with open(FILE_PAKINFO, 'w', encoding="utf8") as f:
         json.dump(pak_infos, f, indent=2)
 
 
 def add_and_clean(pak_infos, dicts=[], source=None):
-    """Add new firmware info to FILE_PAKINFO and return cleaned up firmwares."""
+    """Add new firmware info to FILE_PAKINFO and return cleaned up firmwares.
+    
+    If there are multiple PAKs in a ZIP, the beta property will be applied to
+    all the PAKs, which might not be desired.
+    """
     firmwares = []
     for fw, infos in itertools.zip_longest(dicts, pak_infos, fillvalue={}):
         fw.pop("url", None)
         model_id = fw.pop("model_id", None)
         hw_ver_id = fw.pop("hw_ver_id", None)
+        beta = fw.pop("beta", False)
         for info in infos:
             if "sha256" in info:
-                add_pak_info(info, model_id, hw_ver_id)
+                add_pak_info(info, model_id, hw_ver_id, beta)
                 firmwares.append({**fw, "sha256_pak": info["sha256"], "source": source})
             else:
                 firmwares.append({**fw, **info, "source": source})
@@ -470,15 +477,17 @@ async def update_live_info():
         json.dump(firmwares_old, f, indent=2, default=str)
 
 
-async def add_firmwares_manually():
+async def add_firmware_manually(args):
     """If a new device/hw ver is involved, it must be added manually first."""
     with open(FILE_FW_MANL, 'r', encoding="utf8") as f:
         firmwares = json.load(f)
-    new = []
-    while firmwares and "url" in firmwares[-1]:
-        new.append(firmwares.pop())
-    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in new])
-    firmwares.extend(add_and_clean(pak_infos, new, "manual"))
+    pak_infos = await get_info(args.url)
+    new = {"url": args.url, "beta": args.beta}
+    if args.source:
+        new["source_urls"] = args.source
+    if args.note:
+        new["note"] = args.note
+    firmwares.extend(add_and_clean([pak_infos], [new], "manual"))
     with open(FILE_FW_MANL, 'w', encoding="utf8") as f:
         json.dump(firmwares, f, indent=2)
 
@@ -491,20 +500,24 @@ def write_readme():
 if __name__ == "__main__":
     import argparse
 
-    def add():
-        asyncio.run(add_firmwares_manually())
+    def add(args):
+        asyncio.run(add_firmware_manually(args))
         write_readme()
 
-    def update():
+    def update(args):
         asyncio.run(update_live_info())
         write_readme()
 
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(required=True, title="commands")
-    parser_a = subparsers.add_parser("add", help=f"add firmwares that have been manually appended to {FILE_FW_MANL!r}")
+    parser_a = subparsers.add_parser("add", help=f"add a firmware manually", description="If you want to add a changelog, edit the JSON directly after running this command.")
+    parser_a.add_argument("url", help="download link to the firmware")
+    parser_a.add_argument("-s", "--source", nargs='*', help="page(s) where the download link is found")
+    parser_a.add_argument("-n", "--note")
+    parser_a.add_argument("-b", "--beta", action="store_true", help="flag for beta firmwares")
     parser_a.set_defaults(func=add)
     parser_u = subparsers.add_parser("update", help="get new firmwares from Reolink and update all files")
     parser_u.set_defaults(func=update)
 
     args = parser.parse_args()
-    args.func()
+    args.func(args)
