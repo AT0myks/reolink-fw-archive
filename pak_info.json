@@ -6344,5 +6344,39 @@
     ],
     "model_id": 33,
     "hw_ver_id": 208
+  },
+  "276480a08fd3b4d62cbc310688bc147321640520dd7438214f330c08a0a2eb73": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_W",
+      "board_name": "DB_566128M5MP_W",
+      "build_date": "221028",
+      "display_type_info": "Reolink Video Doorbell WiFi",
+      "detail_machine_type": "DB_566128M5MP_W",
+      "type": "IPC",
+      "version_file": "1459_22102806"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1WKDSj5dQX8ApbAMwzCwVI7g05dGGiusj&confirm=t"
+    ],
+    "model_id": 100057,
+    "hw_ver_id": 100058
+  },
+  "a9285cacbbe938ec084bc3fa9ec5dbd214cfbedfc7f7ffce834378c2fd00e3ec": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_P",
+      "board_name": "DB_566128M5MP_P",
+      "build_date": "221028",
+      "display_type_info": "Reolink Video Doorbell PoE",
+      "detail_machine_type": "DB_566128M5MP_P",
+      "type": "IPC",
+      "version_file": "1459_22102808"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1WH6tef5x4RfH9WcHQrxWWOadN049UjFH&confirm=t"
+    ],
+    "model_id": 100059,
+    "hw_ver_id": 100060
   }
 }

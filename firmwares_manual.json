@@ -489,5 +489,19 @@
     ],
     "sha256_pak": "bf1c49ea81eb7e4da2171ff14bc6bfa032f1033478b0e9f92dfe09d0fef53464",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/JimStar/reolink_cctv/issues/49#issuecomment-1305070003"
+    ],
+    "sha256_pak": "276480a08fd3b4d62cbc310688bc147321640520dd7438214f330c08a0a2eb73",
+    "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/JimStar/reolink_cctv/issues/49#issuecomment-1305070003"
+    ],
+    "sha256_pak": "a9285cacbbe938ec084bc3fa9ec5dbd214cfbedfc7f7ffce834378c2fd00e3ec",
+    "source": "manual"
   }
 ]

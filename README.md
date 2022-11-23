@@ -1246,3 +1246,31 @@ Version | Date | Changes | Notes
 
 </details>
 
+<details>
+  <summary>Reolink Video Doorbell PoE</summary>
+
+<img src="https://reolink.com/wp-content/uploads/2022/05/170610101652767810.7304.png" width="150">
+
+[Product page](https://reolink.com/product/reolink-video-doorbell/)
+
+  ### DB_566128M5MP_P
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.1459_22102808](https://drive.google.com/uc?id=1WH6tef5x4RfH9WcHQrxWWOadN049UjFH&confirm=t) | 2022‑10‑28 |  | [Source 1](https://github.com/JimStar/reolink_cctv/issues/49#issuecomment-1305070003)
+
+</details>
+
+<details>
+  <summary>Reolink Video Doorbell WiFi</summary>
+
+<img src="https://reolink.com/wp-content/uploads/2022/05/170610101652767810.7304.png" width="150">
+
+[Product page](https://reolink.com/product/reolink-video-doorbell-wifi/)
+
+  ### DB_566128M5MP_W
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.1459_22102806](https://drive.google.com/uc?id=1WKDSj5dQX8ApbAMwzCwVI7g05dGGiusj&confirm=t) | 2022‑10‑28 |  | [Source 1](https://github.com/JimStar/reolink_cctv/issues/49#issuecomment-1305070003)
+
+</details>
+
