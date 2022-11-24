@@ -6378,5 +6378,22 @@
     ],
     "model_id": 100059,
     "hw_ver_id": 100060
+  },
+  "4d2803d9ee03494806c151e64422620d821471b8eaf80c87381de505473a7541": {
+    "info": {
+      "firmware_version_prefix": "v2.0.0",
+      "board_type": "IPC_51516M5M",
+      "board_name": "IPC_51516M5M",
+      "build_date": "200314",
+      "display_type_info": "RLC-520",
+      "detail_machine_type": "IPC_51516M5M",
+      "type": "IPC",
+      "version_file": "647_20031413"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/files/firmware/20200314firmware/RLC-520_647_20031413.zip"
+    ],
+    "model_id": 62,
+    "hw_ver_id": 95
   }
 }
