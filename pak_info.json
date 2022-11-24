@@ -5279,7 +5279,8 @@
       "https://drive.google.com/uc?id=1SgWWUCQgOjiCW7Ov39P5xcIzPnb7VL4o&confirm=t"
     ],
     "model_id": 151,
-    "hw_ver_id": 251
+    "hw_ver_id": 251,
+    "beta": true
   },
   "38ba7e6a6494b8cf03fead0aeafbd59ee17f26e0e8dc8bbf59f3c2780bfc4747": {
     "info": {
