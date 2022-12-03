@@ -1689,5 +1689,80 @@
     "display_time": "2022-11-18 00:00:00+08:00",
     "sha256_pak": "6a89262d598bacf2969ffa5e65ab2e1cc201af99be443c63adb184a78a656fac",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.214_22120248",
+    "filename": "RLN16_410_22120248",
+    "updated_at": "2022-12-03 18:44:16+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 337,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "H3MB18",
+    "changelog": [
+      "1.Optimized experience for preview and playback",
+      "2.Adapted to Reolink Video Doorbell",
+      "3.Adapted to Reolink Floodlight series cameras",
+      "4.Solved the adaptation problem of TrackMix series and Duo2 series cameras",
+      "5.Solved the problem that common users cannot enable push",
+      "6.Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR",
+      "7.Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App",
+      "8.Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function",
+      "9.Optimize network related settings.",
+      "10.Update web client",
+      "11.Solved other known bugs"
+    ],
+    "display_time": "2022-12-03 00:00:00+08:00",
+    "sha256_pak": "2e04f8a3675ef9a0ce3ae1984e9864457a8aedd7ced50de21d52c6301ed3fcb3",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.214_22120247",
+    "filename": "RLN8_410_22120247",
+    "updated_at": "2022-12-03 18:44:06+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 338,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N2MB02 or H3MB18",
+    "changelog": [
+      "1.Optimized experience for preview and playback",
+      "2.Adapted to Reolink Video Doorbell",
+      "3.Adapted to Reolink Floodlight series cameras",
+      "4.Solved the adaptation problem of TrackMix series and Duo2 series cameras",
+      "5.Solved the problem that common users cannot enable push",
+      "6.Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR",
+      "7.Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App",
+      "8.Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function",
+      "9.Optimize network related settings.",
+      "10.Update web client",
+      "11.Solved other known bugs"
+    ],
+    "display_time": "2022-12-03 00:00:00+08:00",
+    "sha256_pak": "fae111bf10b542ebbfe1df84638d415c524feefbd3b557d6adb5717f584b6ce2",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.214_22120252",
+    "filename": "RLN8_410_22120252",
+    "updated_at": "2022-12-03 18:43:50+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 339,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N3MB01",
+    "changelog": [
+      "1.Optimized experience for preview and playback",
+      "2.Adapted to Reolink Video Doorbell",
+      "3.Adapted to Reolink Floodlight series cameras",
+      "4.Solved the adaptation problem of TrackMix series and Duo2 series cameras",
+      "5.Solved the problem that common users cannot enable push",
+      "6.Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR",
+      "7.Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App",
+      "8.Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function",
+      "9.Optimize network related settings.",
+      "10.Update web client",
+      "11.Solved other known bugs"
+    ],
+    "display_time": "2022-12-03 00:00:00+08:00",
+    "sha256_pak": "8f15e7d4596dd273c784836c85c1739fbc9fda90dcb1e158265556cc26576d70",
+    "source": "live"
   }
 ]
