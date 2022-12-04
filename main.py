@@ -113,7 +113,7 @@ def make_readme(firmwares):
                 for url in sorted(pi["download"]):
                     dl_url = url
                     if "filename" in fw and "wp-content" in url:
-                        dl_url += "?download_name=" + fw["filename"]
+                        dl_url += "?download_name=" + fw["filename"] + ".zip"
                     ver = info["firmware_version_prefix"] + '.' + info["version_file"]
                     links.append(md_link(ver, dl_url))
                 version = "<br />".join(links)
