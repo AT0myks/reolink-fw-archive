@@ -5,7 +5,7 @@
 * [Issues](#issues)
 * [Firmwares](#firmwares)
 
-This is an (incomplete) archive of Reolink firmwares.
+This is an unofficial and incomplete archive of Reolink firmwares.
 
 I made this for a few reasons:
 - I like having a firmware history that I can upgrade/downgrade to
@@ -39,13 +39,19 @@ All I can say is that it comes straight from the sources with minimal edits in s
 
 Be careful as some firmwares are beta.
 You should not apply a beta firmware unless you are a beta tester and/or know what you're doing.
+Some have been shared by other users but they usually are just reuploads of
+files that were provided by Reolink and that we don't have the original link to anymore.
+You are free to not trust these files and ignore them.
+A warning appears in the notes in both of these cases.
+If you want to play it safe, simply go to the
+[Download Center](https://reolink.com/download-center/).
 
 As long as you make sure to check that the firmware you're looking at
-matches your device's model AND hardware version, you should have no problem updating.
+matches your device's model AND hardware version, you should have no problem updating*.
 Usually the hardware version here will be the exact same as shown in your device's info,
 but sometimes one or the other will have a few characters missing at the end.
 This is normal and can be ignored, unless your device is the RLC-510A or RLC-520A in which case
-they both have 2 hardware versions where the second one is the same but has the `_V2` suffix.
+they both have 2 hardware versions where the second one has the same name but with the `_V2` suffix.
 
 A few things:
 - models are sorted in alphanumeric order
@@ -65,17 +71,22 @@ chances are it's a beta firmware. Check the notes and sources before updating
 Install at your own risk.
 I do not (and cannot) go out of my way to check if every firmware is stable.
 If a firmware is unstable you can use the
-[discussions](https://github.com/AT0myks/reolink-fw-archive/discussions) to report it.
+[discussions](https://github.com/AT0myks/reolink-fw-archive/discussions/categories/firmware-issues) to report it.
 If enough people report the same problem and it is not an isolated case,
 an issue can be opened and a note could be added to the firmware to warn future users.
 
 I offer no guarantee,
 and I am not [Reolink support](https://support.reolink.com/hc/en-us/),
-so please do not ask about issues related to the firmwares themselves.
+so please do not open issues related to the firmwares themselves.
 If you encounter a problem after a firmware update you can discuss it but you should
 [submit a request](https://support.reolink.com/hc/en-us/requests/new?ticket_form_id=4461044255641).
 You can also check the official [subreddit](https://www.reddit.com/r/reolinkcam/)
 to see if other users are reporting a similar issue.
+
+\* I have read about cases where even with the right firmware, the device rejects the
+file. I am not sure if this is user error or a bug in the device's current firmware.
+Some users report success after renaming the file. If you encounter this issue,
+please describe it in the discussions as I would like to know more about it.
 
 ## Contributing
 
@@ -99,7 +110,7 @@ clone the repo and run `main.py add url` (see `main.py add -h` for help)
 Reolink support can provide firmwares when contacted.
 If you have a firmware (or just a mirror link) that does not appear here,
 you can open a PR or put in in the
-[discussions](https://github.com/AT0myks/reolink-fw-archive/discussions) so that it can be added.
+[discussions](https://github.com/AT0myks/reolink-fw-archive/discussions/categories/firmware-sharing) so that it can be added.
 This can help other users who won't have to contact Reolink.
 If you can give details about what changes have been made to the firmware,
 it would be a nice bonus.
