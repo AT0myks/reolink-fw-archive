@@ -515,6 +515,9 @@ if __name__ == "__main__":
         asyncio.run(update_live_info())
         write_readme()
 
+    def readme(args):
+        write_readme()
+
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(required=True, title="commands")
     parser_a = subparsers.add_parser("add", help=f"add a firmware manually", description="If you want to add a changelog, edit the JSON directly after running this command.")
@@ -526,6 +529,8 @@ if __name__ == "__main__":
     parser_a.set_defaults(func=add)
     parser_u = subparsers.add_parser("update", help="get new firmwares from Reolink and update all files")
     parser_u.set_defaults(func=update)
+    parser_r = subparsers.add_parser("readme", help="generate readme from current files")
+    parser_r.set_defaults(func=readme)
 
     args = parser.parse_args()
     args.func(args)
