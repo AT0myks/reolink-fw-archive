@@ -123,6 +123,8 @@ def make_readme(firmwares):
                 notes = []
                 if pi.get("beta"):
                     notes.append(":warning: This is a beta firmware")
+                if pi.get("user_hosted_only"):
+                    notes.append(":warning: The only available links for this firmware are hosted by users and not Reolink themselves")
                 if note := fw.get("note"):
                     notes.extend(note.split('\n'))
                 if "archive_url" in fw:
@@ -312,7 +314,7 @@ def update_ids(pak_info, old_model_id, old_hw_id, new_model_id, new_hw_id):
             pak_info[key]["hw_ver_id"] = new_hw_id
 
 
-def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False):
+def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False, user_hosted_only=False):
     pak_infos = load_pak_info()
     if model_id is None or hw_ver_id is None:  # They should always be both None or not.
         model_id, hw_ver_id = match(pak_info)
@@ -337,6 +339,8 @@ def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False):
         }
         if beta:
             pak_infos[sha]["beta"] = beta
+        if user_hosted_only:
+            pak_infos[sha]["user_hosted_only"] = user_hosted_only
     with open(FILE_PAKINFO, 'w', encoding="utf8") as f:
         json.dump(pak_infos, f, indent=2)
 
@@ -344,8 +348,8 @@ def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False):
 def add_and_clean(pak_infos, dicts=[], source=None):
     """Add new firmware info to FILE_PAKINFO and return cleaned up firmwares.
     
-    If there are multiple PAKs in a ZIP, the beta property will be applied to
-    all the PAKs, which might not be desired.
+    If there are multiple PAKs in a ZIP, the beta and user_hosted_only
+    properties will be applied to all the PAKs, which might not be desired.
     """
     firmwares = []
     for fw, infos in itertools.zip_longest(dicts, pak_infos, fillvalue={}):
@@ -353,9 +357,10 @@ def add_and_clean(pak_infos, dicts=[], source=None):
         model_id = fw.pop("model_id", None)
         hw_ver_id = fw.pop("hw_ver_id", None)
         beta = fw.pop("beta", False)
+        user_hosted_only = fw.pop("user_hosted_only", False)
         for info in infos:
             if "sha256" in info:
-                add_pak_info(info, model_id, hw_ver_id, beta)
+                add_pak_info(info, model_id, hw_ver_id, beta, user_hosted_only)
                 firmwares.append({**fw, "sha256_pak": info["sha256"], "source": source})
             else:
                 firmwares.append({**fw, **info, "source": source})
@@ -482,7 +487,7 @@ async def add_firmware_manually(args):
     with open(FILE_FW_MANL, 'r', encoding="utf8") as f:
         firmwares = json.load(f)
     pak_infos = await get_info(args.url)
-    new = {"url": args.url, "beta": args.beta}
+    new = {"url": args.url, "beta": args.beta, "user_hosted_only": args.user_hosted_only}
     if args.source:
         new["source_urls"] = args.source
     if args.note:
@@ -517,6 +522,7 @@ if __name__ == "__main__":
     parser_a.add_argument("-s", "--source", nargs='*', help="page(s) where the download link is found")
     parser_a.add_argument("-n", "--note")
     parser_a.add_argument("-b", "--beta", action="store_true", help="flag for beta firmwares")
+    parser_a.add_argument("-u", "--user-hosted-only", action="store_true", help="flag for firmwares that have only been shared by users")
     parser_a.set_defaults(func=add)
     parser_u = subparsers.add_parser("update", help="get new firmwares from Reolink and update all files")
     parser_u.set_defaults(func=update)

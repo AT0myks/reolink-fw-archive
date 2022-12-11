@@ -5627,7 +5627,8 @@
       "https://drive.google.com/uc?id=1hPrhIcoK26rSxUdZEw4ACwZ6Yo75HwZj&confirm=t"
     ],
     "model_id": 6,
-    "hw_ver_id": 6
+    "hw_ver_id": 6,
+    "user_hosted_only": true
   },
   "b0b1d8909cd014d958214ee701375dd02724df1dd9f25aa738de7d68010faa92": {
     "info": {
@@ -5644,7 +5645,8 @@
       "https://drive.google.com/uc?id=11fygt9xmdRZjqTrT9hQ9KkCf9ZFelPQj&confirm=t"
     ],
     "model_id": 18,
-    "hw_ver_id": 18
+    "hw_ver_id": 18,
+    "user_hosted_only": true
   },
   "8a649203a801964d2bf7f97e5d22b6ca94763af043777255ca5554035968a58f": {
     "info": {
@@ -5661,7 +5663,8 @@
       "https://drive.google.com/uc?id=1bEmSi4106MCelekEc_Gu7pUlX0byDklC&confirm=t"
     ],
     "model_id": 136,
-    "hw_ver_id": 217
+    "hw_ver_id": 217,
+    "user_hosted_only": true
   },
   "f2e12c1918a6557d3844316af382d9ff46840422b3a055e287595ae73fcaff08": {
     "info": {
@@ -6361,7 +6364,8 @@
       "https://drive.google.com/uc?id=1WKDSj5dQX8ApbAMwzCwVI7g05dGGiusj&confirm=t"
     ],
     "model_id": 100057,
-    "hw_ver_id": 100058
+    "hw_ver_id": 100058,
+    "user_hosted_only": true
   },
   "a9285cacbbe938ec084bc3fa9ec5dbd214cfbedfc7f7ffce834378c2fd00e3ec": {
     "info": {
@@ -6378,7 +6382,8 @@
       "https://drive.google.com/uc?id=1WH6tef5x4RfH9WcHQrxWWOadN049UjFH&confirm=t"
     ],
     "model_id": 100059,
-    "hw_ver_id": 100060
+    "hw_ver_id": 100060,
+    "user_hosted_only": true
   },
   "4d2803d9ee03494806c151e64422620d821471b8eaf80c87381de505473a7541": {
     "info": {
