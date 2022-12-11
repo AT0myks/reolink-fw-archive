@@ -508,5 +508,38 @@
   {
     "sha256_pak": "4d2803d9ee03494806c151e64422620d821471b8eaf80c87381de505473a7541",
     "source": "manual"
+  },
+  {
+    "changelog": [
+      "Optimized UI display and interaction",
+      "Solved the problem that only the videos recorded before 5 mins could be found when searching the recordings in Fluent mode via Reolink App",
+      "Added Korean language",
+      "In the Backup interface, the online channels are selected by default for channel selection, and all video types are selected by default.",
+      "Added a key for switching between uppercase and lowercase in the English keyboard",
+      "Added the refreshing channel list function in the channel adding interface",
+      "Added an entry for NTP settings in the system time setting page. NTP automatic synchronization option is turned on by default.",
+      "Added the spotlight function to the menu on the preview interface",
+      "Adapted to the spotlight function: Added the option to turn on the light based on the scheduled time or night vision for Human/Vehicle detection cameras",
+      "Added the function of audio alarm in the preview menu",
+      "Added volume adjustment function for the ip cameras",
+      "Added Human/Vehicle detection sensitivity, target size setting, automatic tracking related function configuration pages",
+      "Supported the 2-way audio function via Reolink Client for the cameras connected to the NVR",
+      "The login box will disappear automatically after 30s",
+      "Changed the account of the login window to username",
+      "Solved the problem that when configuring the local record settings via Reolink Client, the recording schedule on the NVR will also be changed",
+      "Solved other known issues."
+    ],
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izn37dj"
+    ],
+    "sha256_pak": "32e67532e11e335a730683fac4ba5903ed12c88609181b14ee3cb39b07b87f52",
+    "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izny0re"
+    ],
+    "sha256_pak": "ac329a44077940965458209a07e415a49271c4070d774ef7084b50be2a95690c",
+    "source": "manual"
   }
 ]

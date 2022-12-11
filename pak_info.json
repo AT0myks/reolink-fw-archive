@@ -6452,5 +6452,41 @@
     ],
     "model_id": 33,
     "hw_ver_id": 208
+  },
+  "32e67532e11e335a730683fac4ba5903ed12c88609181b14ee3cb39b07b87f52": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "N2MB02",
+      "board_name": "N2MB02",
+      "build_date": "210607",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "130_21060706"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1yerGhUO78-QeAuT1sye87NXmr7-t_De0&confirm=t"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 231,
+    "user_hosted_only": true
+  },
+  "ac329a44077940965458209a07e415a49271c4070d774ef7084b50be2a95690c": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "H3MB18",
+      "board_name": "H3MB18",
+      "build_date": "220624",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "186_22062406"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1Wst49S5Tip-zcw37oASQaYTuc7Vwrto0&confirm=t"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 196,
+    "user_hosted_only": true
   }
 }

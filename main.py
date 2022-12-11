@@ -522,7 +522,7 @@ if __name__ == "__main__":
     subparsers = parser.add_subparsers(required=True, title="commands")
     parser_a = subparsers.add_parser("add", help=f"add a firmware manually", description="If you want to add a changelog, edit the JSON directly after running this command.")
     parser_a.add_argument("url", help="download link to the firmware")
-    parser_a.add_argument("-s", "--source", nargs='*', help="page(s) where the download link is found")
+    parser_a.add_argument("-s", "--source", nargs='*', help="page(s) where the file comes from")
     parser_a.add_argument("-n", "--note")
     parser_a.add_argument("-b", "--beta", action="store_true", help="flag for beta firmwares")
     parser_a.add_argument("-u", "--user-hosted-only", action="store_true", help="flag for firmwares that have only been shared by users")
