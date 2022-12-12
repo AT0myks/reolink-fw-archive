@@ -6488,5 +6488,39 @@
     "model_id": 51,
     "hw_ver_id": 196,
     "user_hosted_only": true
+  },
+  "302fa9ea3b4f5b6cc8cbdbca17e7ba1d6829e4ba0dedb1b8db692f1e129bdf36": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "221201",
+      "display_type_info": "Reolink TrackMix WiFi",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "1584_22120101"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/12/120357311670817451.1817.zip"
+    ],
+    "model_id": 174,
+    "hw_ver_id": 295
+  },
+  "11f9dad99a5a44b21ddbe04832bfb3397ea192be743d4d93f4b70fe27bc2615c": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "221201",
+      "display_type_info": "Reolink TrackMix PoE",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "1584_22120100"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2022/12/120355501670817350.5671.zip"
+    ],
+    "model_id": 173,
+    "hw_ver_id": 294
   }
 }

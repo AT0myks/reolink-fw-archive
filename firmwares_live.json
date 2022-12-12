@@ -1764,5 +1764,41 @@
     "display_time": "2022-12-03 00:00:00+08:00",
     "sha256_pak": "8f15e7d4596dd273c784836c85c1739fbc9fda90dcb1e158265556cc26576d70",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.1584_22120101",
+    "filename": "Reolink_TrackMix_WiFi_22120101",
+    "updated_at": "2022-12-12 11:58:39+08:00",
+    "note": "",
+    "firmware_id": 341,
+    "model": "Reolink TrackMix WiFi",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Added intelligent audio noise reduction function.",
+      "2. Optimized auto-tracking function.",
+      "3. Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&Shadows settings.",
+      "4. Fixed other known bugs."
+    ],
+    "display_time": "2022-12-12 00:00:00+08:00",
+    "sha256_pak": "302fa9ea3b4f5b6cc8cbdbca17e7ba1d6829e4ba0dedb1b8db692f1e129bdf36",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.1584_22120100",
+    "filename": "Reolink_TrackMix_PoE_22120100",
+    "updated_at": "2022-12-12 11:56:39+08:00",
+    "note": "",
+    "firmware_id": 340,
+    "model": "Reolink TrackMix PoE",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Added intelligent audio noise reduction function.",
+      "2. Optimized auto-tracking function.",
+      "3. Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&Shadows settings.",
+      "4. Fixed other known bugs."
+    ],
+    "display_time": "2022-12-12 00:00:00+08:00",
+    "sha256_pak": "11f9dad99a5a44b21ddbe04832bfb3397ea192be743d4d93f4b70fe27bc2615c",
+    "source": "live"
   }
 ]
