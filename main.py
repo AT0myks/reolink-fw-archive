@@ -15,8 +15,9 @@ from lxml.html.builder import OL, LI
 from reolinkfw import get_info
 from waybackpy import WaybackMachineCDXServerAPI
 
+from common import FILE_DEVICES, get_item_index, load_devices, match
+
 WAYBACK_MAX_CONN = 20
-FILE_DEVICES = "devices.json"
 FILE_PAKINFO = "pak_info.json"
 FILE_FW_LIVE = "firmwares_live.json"
 FILE_FW_MANL = "firmwares_manual.json"
@@ -32,11 +33,6 @@ async def get_all(urls, type_="text", limit_per_host=0):
     conn = aiohttp.TCPConnector(limit_per_host=limit_per_host)
     async with aiohttp.ClientSession(connector=conn) as session:
         return await asyncio.gather(*[get_one(session, url, type_) for url in urls])
-
-
-def load_devices():
-    with open(FILE_DEVICES, 'r', encoding="utf8") as f:
-        return json.load(f)
 
 
 def load_firmwares():
@@ -259,51 +255,6 @@ async def from_support_archives(limit_per_host=WAYBACK_MAX_CONN):
     return [fw for firmwares in lists for fw in firmwares]
 
 
-def clean_model(model):
-    return model.removesuffix("-5MP").removesuffix(" (NVR)").replace(' ', '-').lower()
-
-
-def clean_hw_ver(hw_ver):
-    return hw_ver.replace('-', '_').strip()
-
-
-def get_model_id(devices, model):
-    for dev in devices:
-        if clean_model(dev["title"]) == clean_model(model):
-            return dev["id"]
-    return None
-
-
-def get_hw_ver_id(devices, model_id, hw_ver_names):
-    if (idx := get_item_index(devices, "id", model_id)) is None:
-        return None
-    hw_vers = devices[idx]["hardwareVersions"]
-    # Try exact match first.
-    for hw_ver in hw_vers:
-        for name in hw_ver["title"].split(" or "):
-            clean = clean_hw_ver(name)
-            if any(clean_hw_ver(name) == clean for name in hw_ver_names):
-                return hw_ver["id"]
-    # Then substring.
-    for hw_ver in hw_vers:
-        for name in hw_ver["title"].split(" or "):
-            clean = clean_hw_ver(name)
-            if any(clean_hw_ver(name).startswith(clean) for name in hw_ver_names):
-                return hw_ver["id"]
-    return None
-
-
-def match(pak_info):
-    if "error" in pak_info:
-        return None, None
-    devices = load_devices()
-    model_id = get_model_id(devices, pak_info["display_type_info"])
-    keys = ("board_type", "detail_machine_type", "board_name")
-    hw_names = set(pak_info[key] for key in keys)
-    hw_ver_id = get_hw_ver_id(devices, model_id, hw_names)
-    return model_id, hw_ver_id
-
-
 def update_ids(pak_info, old_model_id, old_hw_id, new_model_id, new_hw_id):
     if (old_model_id, old_hw_id) == (None, None):
         return
@@ -420,17 +371,6 @@ async def add_archives_v3_firmwares():
     add_and_clean([pi for pi in pak_infos if "error" not in pi[0]])
 
 
-def get_item_index(items, key, value):
-    """Return the index of the first item in items that has this value for this key.
-    
-    The key must exist in each item. Return None if no match is found.
-    """
-    for idx, item in enumerate(items):
-        if item[key] == value:
-            return idx
-    return None
-
-
 def merge_dicts(old, new):
     """Update old with data from new. Modify old in-place.
     
@@ -480,6 +420,7 @@ async def update_live_info():
         json.dump(devices_old, f, indent=2)
     with open(FILE_FW_LIVE, 'w', encoding="utf8") as f:
         json.dump(firmwares_old, f, indent=2, default=str)
+    return pak_infos
 
 
 async def add_firmware_manually(args):
@@ -512,8 +453,9 @@ if __name__ == "__main__":
         write_readme()
 
     def update(args):
-        asyncio.run(update_live_info())
+        new = asyncio.run(update_live_info())
         write_readme()
+        print(json.dumps(new or None))  # Empty array is not falsy in JavaScript.
 
     def readme(args):
         write_readme()
