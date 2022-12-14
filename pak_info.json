@@ -6522,5 +6522,282 @@
     ],
     "model_id": 173,
     "hw_ver_id": 294
+  },
+  "b3fbe90106ba54fba6a72db565c452570477d2d057a69c1da9ff314c42eb6b84": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523B1812MP",
+      "board_name": "IPC_523B1812MP",
+      "build_date": "220209",
+      "display_type_info": "RLC-1212A",
+      "detail_machine_type": "IPC_523B1812MP",
+      "type": "IPC",
+      "version_file": "819_22020915"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1ZaUeysbu3c4LOs9EZNDgNZz8b3_asYdR&confirm=t"
+    ],
+    "model_id": 100061,
+    "hw_ver_id": 100062
+  },
+  "50c576c3d0ba28ef337e6c7eab0d7cbd7f5b5d3cb209996f721272c9acd42412": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523SD8",
+      "board_name": "IPC_523SD8",
+      "build_date": "220922",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_523SD8",
+      "type": "IPC",
+      "version_file": "1348_220922660"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=12gn4NVw4v_DABQ8b_XKmQJ3tUFId2n7y&confirm=t"
+    ],
+    "model_id": 100039,
+    "hw_ver_id": 100040
+  },
+  "9881e0fcca7684e03d336dc06714f6c2b37001127bd58a41e0da39fd977b6617": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523SD8",
+      "board_name": "IPC_523SD8",
+      "build_date": "220713",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_523SD8",
+      "type": "IPC",
+      "version_file": "989_22071306"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1iduVRpBXk2vw4L7V4cSASzkSbDl0upBX&confirm=t"
+    ],
+    "model_id": 100039,
+    "hw_ver_id": 100040
+  },
+  "af69d285a324f6fe971148d8c6463cc9bd0553c382bc00cc99624ddc4c815283": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523B1812MP",
+      "board_name": "IPC_523B1812MP",
+      "build_date": "220415",
+      "display_type_info": "RLC-1212A",
+      "detail_machine_type": "IPC_523B1812MP",
+      "type": "IPC",
+      "version_file": "956_22041515"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1KmIKncd3wkDI_D-uArWmnISt-Ff3Ba_R&confirm=t"
+    ],
+    "model_id": 100061,
+    "hw_ver_id": 100062
+  },
+  "e89bd54c445e3e8be0b857dfd701167d3bca6a4dec5152525517df91f4c6692a": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "220622",
+      "display_type_info": "Reolink TrackMix PoE",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "1080_22062200"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=12bti2liLQQQ-Ua4RjnEGOkCBZL-M2WDU&confirm=t"
+    ],
+    "model_id": 173,
+    "hw_ver_id": 294
+  },
+  "2dd82121c867a20144c18a5a4fa78bf1831ea6faa01a1d4fe5f05b7bcf6a7345": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "220713",
+      "display_type_info": "Reolink TrackMix PoE",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "1123_22071300"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1HDpfdZ-8cx7A3piGWE9QgfmIYW7T5_bp&confirm=t"
+    ],
+    "model_id": 173,
+    "hw_ver_id": 294
+  },
+  "56d4886a2bfd886a8b53bce05a629d3a9590adbc8a2e3f741c79f48a6b847e63": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "220613",
+      "display_type_info": "Reolink TrackMix PoE",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "1046_22061302"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1MG2mYvj6nC6VkESnYLaOV3xSseEwnh-b&confirm=t"
+    ],
+    "model_id": 173,
+    "hw_ver_id": 294
+  },
+  "dc544a5434aac2b81ab1ee113ee388f1eb2f22b9c00731b91e72892945872b8d": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_528B174MP",
+      "board_name": "IPC_528B174MP",
+      "build_date": "220730",
+      "display_type_info": "Reolink Duo PoE",
+      "detail_machine_type": "IPC_528B174MP",
+      "type": "IPC",
+      "version_file": "1171_22073000"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1VTg9hrY-bvZZyIYac_IGW4WZUhKDkyXh&confirm=t"
+    ],
+    "model_id": 171,
+    "hw_ver_id": 289
+  },
+  "d0448224cb8135cc56bf08f1baed69f612fbeb435b0b2e79725b557f39cb6591": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_528B174MP",
+      "board_name": "IPC_528B174MP",
+      "build_date": "220730",
+      "display_type_info": "Reolink Duo WiFi",
+      "detail_machine_type": "IPC_528B174MP",
+      "type": "IPC",
+      "version_file": "1171_22073001"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1LESBv5_TQwMZWM8KRvDHXa1fjmA-Ekhq&confirm=t"
+    ],
+    "model_id": 170,
+    "hw_ver_id": 290
+  },
+  "425ac8179bcfdd194e1efe6272b2e64834c2a40b9e4c183cb7ac7fd42bff97d2": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_528B174MP",
+      "board_name": "IPC_528B174MP",
+      "build_date": "211101",
+      "display_type_info": "Reolink Duo PoE",
+      "detail_machine_type": "IPC_528B174MP",
+      "type": "IPC",
+      "version_file": "684_21110100"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1Bxyn42psnj3j5BZyuZGqik2NmVMdFYYA&confirm=t"
+    ],
+    "model_id": 171,
+    "hw_ver_id": 289
+  },
+  "4eab185d0d1f3c21a67b04f5ad6c063b1ae66216a8eb9ffc1754e4f3a5dba50f": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_528B174MP",
+      "board_name": "IPC_528B174MP",
+      "build_date": "211101",
+      "display_type_info": "Reolink Duo WiFi",
+      "detail_machine_type": "IPC_528B174MP",
+      "type": "IPC",
+      "version_file": "684_21110101"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=11QQZYhNyTaNtXKoIYlcA9qUj0oK3F5Ts&confirm=t"
+    ],
+    "model_id": 170,
+    "hw_ver_id": 290
+  },
+  "611846fe4d967768686c0b790e11f22691c6a110d002b567c522a90a1fa5faad": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529B17B8MP",
+      "board_name": "IPC_529B17B8MP",
+      "build_date": "221010",
+      "display_type_info": "Reolink Duo 2 WiFi",
+      "detail_machine_type": "IPC_529B17B8MP",
+      "type": "IPC",
+      "version_file": "1391_22101061"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1YOtVF851NRX9AuRx_o7rtchyJMRMnXDm&confirm=t"
+    ],
+    "model_id": 169,
+    "hw_ver_id": 288,
+    "user_hosted_only": true
+  },
+  "8d30cf1e382d4ae47b1baa9a96567ab922d9202894ef6b9ffddde20f923ecf8e": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523SD8",
+      "board_name": "IPC_523SD8",
+      "build_date": "220415",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_523SD8",
+      "type": "IPC",
+      "version_file": "956_22041506"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1piUxktFScSkI622ThgOzKexD1UdgFPI4&confirm=t"
+    ],
+    "model_id": 100039,
+    "hw_ver_id": 100040,
+    "user_hosted_only": true
+  },
+  "b896795eb05d79280620ff50278f0a0535c7dd880fbb965f523f0e55040c4a65": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_523128M5MP",
+      "board_name": "IPC_523128M5MP",
+      "build_date": "210730",
+      "display_type_info": "RLC-510A",
+      "detail_machine_type": "IPC_523128M5MP",
+      "type": "IPC",
+      "version_file": "494_21073002"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1DzqvLN7SEhHzGJjrcOaUgEur__o0IJWT&confirm=t"
+    ],
+    "model_id": 1,
+    "hw_ver_id": 220,
+    "user_hosted_only": true
+  },
+  "f20cf647d02c0b66396f3e88e4703b64f143e60af2c5de80e169ab98b9b45f47": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523B1812MP",
+      "board_name": "IPC_523B1812MP",
+      "build_date": "220303",
+      "display_type_info": "RLC-1212A",
+      "detail_machine_type": "IPC_523B1812MP",
+      "type": "IPC",
+      "version_file": "861_22030365"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1Kst8SYU3oWziuap3VJHJCeP_kqfP2iC0&confirm=t"
+    ],
+    "model_id": 100061,
+    "hw_ver_id": 100062,
+    "user_hosted_only": true
+  },
+  "ba8a12b1cf1e55382632a0190227d2566d153234da62cbc59dbd1203bf04e07d": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "H3MB18",
+      "board_name": "H3MB18",
+      "build_date": "220809",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "199_22080948"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1ZqEroWfIPGIUNSbFeEtfNRmMIqzlkKud&confirm=t"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 196,
+    "user_hosted_only": true
   }
 }
