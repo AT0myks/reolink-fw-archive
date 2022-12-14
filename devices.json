@@ -1046,5 +1046,20 @@
         "title": "DB_566128M5MP_P"
       }
     ]
+  },
+  {
+    "id": 100061,
+    "title": "RLC-1212A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404441642737884.1225.png",
+    "productUrl": "https://reolink.com/product/rlc-1212a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 100062,
+        "title": "IPC_523B1812MP"
+      }
+    ]
   }
 ]
