@@ -3,9 +3,11 @@
 * [Download guide](#download-guide)
 * [Contributing](#contributing)
 * [Issues](#issues)
+* [Get notified of new firmwares](#get-notified-of-new-firmwares)
+* [Download all the firmwares](#download-all-the-firmwares)
 * [Firmwares](#firmwares)
 
-This is an unofficial and incomplete archive of Reolink firmwares.
+This is an unofficial and incomplete collection of Reolink firmware download links.
 
 I made this for a few reasons:
 - I like having a firmware history that I can upgrade/downgrade to
@@ -37,14 +39,29 @@ All I can say is that it comes straight from the sources with minimal edits in s
 
 ## Download guide
 
-Be careful as some firmwares are beta.
-You should not apply a beta firmware unless you are a beta tester and/or know what you're doing.
-Some have been shared by other users but they usually are just reuploads of
-files that were provided by Reolink and that we don't have the original link to anymore.
+Disclaimer: a small number of links have not been provided by Reolink
+
+Most of the links are original ones, that point to files hosted by Reolink.
+They mainly come from the live website,
+and archives of old website pages (like their support pages).
+There is also a certain amount of official links from Google Drive,
+which they sometimes use for beta firmwares.
+The rest are links that are either shared by Reolink, or by users who have been sent links
+(via email after contacting support for example).
+When the link comes from an archived page, the source is available in the notes.
+
+The non-original links are files hosted by third-party users.
+A few are hosted by myself on Google Drive.
+These are files that were provided by Reolink but that we don't have the original link to anymore.
+When there is no original link for a firmware, a warning is shown in the notes.
 You are free to not trust these files and ignore them.
-A warning appears in the notes in both of these cases.
 If you want to play it safe, simply go to the
 [Download Center](https://reolink.com/download-center/).
+
+Be careful as some firmwares are beta.
+You should not apply a beta firmware unless you are a beta tester and/or know what you're doing.
+Check the notes and sources before updating.
+A warning will appear for beta firmwares.
 
 As long as you make sure to check that the firmware you're looking at
 matches your device's model AND hardware version, you should have no problem updating*.
@@ -65,8 +82,7 @@ Sometimes you can install a firmware on another device and it will "work"
 Make sure to pick the right one
 - some ZIPs (I think also 3) have twice the same PAK
 - most download links are direct download
-- if the link is a Google Drive link,
-chances are it's a beta firmware. Check the notes and sources before updating
+- any link might die at any time
 
 Install at your own risk.
 I do not (and cannot) go out of my way to check if every firmware is stable.
@@ -119,6 +135,20 @@ it would be a nice bonus.
 
 - Reolink Duo PoE product URL is wrong, it points to Reolink Duo 2 PoE (to be fixed on their side)
 - for some reason some images are not displayed in the readme (GitHub only?)
+
+## Get notified of new firmwares
+
+This requires a GitHub account.
+
+In the top right of the page click `Watch`, then `Custom`, tick `Releases` and apply.
+
+![notif](https://raw.githubusercontent.com/AT0myks/reolink-fw-archive/main/img/notif.jpg)
+
+You should receive an email next time new firmwares are published by Reolink.
+
+## Download all the firmwares
+
+See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 ## Firmwares
 
