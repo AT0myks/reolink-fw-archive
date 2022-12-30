@@ -16,11 +16,12 @@ def get_names(devices, model_id, hw_ver_id):
 def make_new_firmwares(pak_infos):
     new = []
     devices = load_devices()
-    for info in pak_infos:
-        model_id, hw_ver_id = match(info)
-        model, hw_ver = get_names(devices, model_id, hw_ver_id)
-        ver = info["firmware_version_prefix"] + '.' + info["version_file"]
-        new.append(f"- New firmware {ver} for {model} ({hw_ver})")
+    for infos in pak_infos:
+        for info in infos:
+            model_id, hw_ver_id = match(info)
+            model, hw_ver = get_names(devices, model_id, hw_ver_id)
+            ver = info["firmware_version_prefix"] + '.' + info["version_file"]
+            new.append(f"- New firmware {ver} for {model} ({hw_ver})")
     if len(new) == 1:
         return new[0].removeprefix("- ")
     return '\n'.join(new)
