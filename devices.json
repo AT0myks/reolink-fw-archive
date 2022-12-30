@@ -1061,5 +1061,20 @@
         "title": "IPC_523B1812MP"
       }
     ]
+  },
+  {
+    "id": 175,
+    "title": "RLC-823A 16X",
+    "type": "IPC",
+    "productImg": "https://reolink.com/wp-content/uploads/2022/06/280949171656409757.1757.png",
+    "productUrl": "https://reolink.com/product/rlc-823a-16x/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 296,
+        "title": "IPC_523SD10"
+      }
+    ]
   }
 ]

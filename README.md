@@ -1143,6 +1143,20 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>RLC-823A 16X</summary>
+
+<img src="https://reolink.com/wp-content/uploads/2022/06/280949171656409757.1757.png" width="150">
+
+[Product page](https://reolink.com/product/rlc-823a-16x/)
+
+  ### IPC_523SD10
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.1646_22122622](https://home-cdn.reolink.us/wp-content/uploads/2022/12/300258361672369116.5271.zip?download_name=RLC_823A_16X_22122622.zip) | 2022‑12‑26 | <ol><li>Added auto-tracking function</li><li>Optimized PT control effect</li><li>Added 3D Zoom function. (Supported on the Web Client, and will be supported on Reolink App/Client too after subsequent updates)</li><li>Added multiple image modes.</li><li>Optimized the image effect and solved the problem of color cast in some scenes</li><li>Optimized AF focusing effect</li><li>Solved other known bugs</li></ol> | 
+
+</details>
+
+<details>
   <summary>RLC-824A</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/uploads/2021/08/050939301628156370.5693.png" width="150">
