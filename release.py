@@ -18,6 +18,8 @@ def make_new_firmwares(pak_infos):
     devices = load_devices()
     for infos in pak_infos:
         for info in infos:
+            if "error" in info:
+                continue
             model_id, hw_ver_id = match(info)
             model, hw_ver = get_names(devices, model_id, hw_ver_id)
             ver = info["firmware_version_prefix"] + '.' + info["version_file"]
