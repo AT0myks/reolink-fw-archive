@@ -52,8 +52,8 @@
   {
     "version": "v3.0.0.1337_22091901",
     "filename": "Reolink_Duo_2_WiFi_220919",
-    "updated_at": "2022-09-22 18:21:55+08:00",
-    "note": "",
+    "updated_at": "2023-01-17 15:55:04+08:00",
+    "note": "Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.",
     "firmware_id": 313,
     "model": "Reolink Duo 2 WiFi",
     "hw_ver": "IPC_529B17B8MP",
@@ -73,8 +73,8 @@
   {
     "version": "v3.0.0.1337_22091900",
     "filename": "Reolink_Duo_2_POE_220919",
-    "updated_at": "2022-09-22 18:20:09+08:00",
-    "note": "",
+    "updated_at": "2023-01-17 15:55:36+08:00",
+    "note": "Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.",
     "firmware_id": 312,
     "model": "Reolink Duo 2 POE",
     "hw_ver": "IPC_529B17B8MP",
