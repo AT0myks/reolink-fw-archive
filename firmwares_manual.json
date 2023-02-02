@@ -657,5 +657,12 @@
     ],
     "sha256_pak": "ba8a12b1cf1e55382632a0190227d2566d153234da62cbc59dbd1203bf04e07d",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/issues/2"
+    ],
+    "sha256_pak": "f6f40a60299c0f324e6a540f268b8259ad294f66edf9d7e3fc131f275f6f8741",
+    "source": "manual"
   }
 ]

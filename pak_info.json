@@ -6867,5 +6867,24 @@
     ],
     "model_id": 33,
     "hw_ver_id": 292
+  },
+  "f6f40a60299c0f324e6a540f268b8259ad294f66edf9d7e3fc131f275f6f8741": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M5MP",
+      "board_name": "IPC_523128M5MP",
+      "build_date": "220415",
+      "display_type_info": "RLC-510WA",
+      "detail_machine_type": "IPC_523128M5MP",
+      "type": "IPC",
+      "version_file": "956_22041512"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1Ja75a3z85qZpcpoTwcDVzPGUtTGtTEj6&confirm=t",
+      "https://drive.google.com/uc?id=1ENIQ_7cGWGygM1wSZjiIHuRPD_IrIuCz&confirm=t"
+    ],
+    "model_id": 163,
+    "hw_ver_id": 273,
+    "user_hosted_only": true
   }
 }
