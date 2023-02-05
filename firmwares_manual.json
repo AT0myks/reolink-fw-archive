@@ -663,6 +663,7 @@
       "https://github.com/AT0myks/reolink-fw-archive/issues/2"
     ],
     "sha256_pak": "f6f40a60299c0f324e6a540f268b8259ad294f66edf9d7e3fc131f275f6f8741",
-    "source": "manual"
+    "source": "manual",
+    "note": "If you get an error when updating, see [here](https://github.com/AT0myks/reolink-fw-archive/issues/2#issuecomment-1416773844)."
   }
 ]
