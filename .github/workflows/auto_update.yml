@@ -3,6 +3,7 @@ name: Auto update
 on:
   schedule:
     - cron: "20 4,16 * * *"
+  workflow_dispatch:
 
 jobs:
   auto-update:
