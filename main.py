@@ -447,13 +447,19 @@ def write_readme():
 
 if __name__ == "__main__":
     import argparse
+    from contextlib import redirect_stdout
+    from io import StringIO
 
     def add(args):
         asyncio.run(add_firmware_manually(args))
         write_readme()
 
     def update(args):
-        new = asyncio.run(update_live_info())
+        # Catch output from ubireader.
+        with redirect_stdout(StringIO()) as f:
+            new = asyncio.run(update_live_info())
+        if not args.github:
+            print(f.getvalue(), end='')
         write_readme()
         print(json.dumps(new or None))  # Empty array is not falsy in JavaScript.
 
@@ -470,6 +476,7 @@ if __name__ == "__main__":
     parser_a.add_argument("-u", "--user-hosted-only", action="store_true", help="flag for firmwares that have only been shared by users")
     parser_a.set_defaults(func=add)
     parser_u = subparsers.add_parser("update", help="get new firmwares from Reolink and update all files")
+    parser_u.add_argument("-g", "--github", action="store_true", help="flag for GitHub Actions")
     parser_u.set_defaults(func=update)
     parser_r = subparsers.add_parser("readme", help="generate readme from current files")
     parser_r.set_defaults(func=readme)
