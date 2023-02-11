@@ -47,9 +47,10 @@
   },
   {
     "source_urls": [
-      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/hb9iass/"
+      "https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/hb9iass/",
+      "https://www.reddit.com/r/reolinkcam/comments/x4ga2a/comment/j7298vl"
     ],
-    "source": "reddit",
+    "source": "reddit+manual",
     "sha256_pak": "15b5083eaccf809d073af8e35425b4604e23f2f75a86439244df8dd26da0819a"
   },
   {
