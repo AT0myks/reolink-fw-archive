@@ -666,5 +666,12 @@
     "sha256_pak": "f6f40a60299c0f324e6a540f268b8259ad294f66edf9d7e3fc131f275f6f8741",
     "source": "manual",
     "note": "If you get an error when updating, see [here](https://github.com/AT0myks/reolink-fw-archive/issues/2#issuecomment-1416773844)."
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/10iv3di/comment/j5osusf"
+    ],
+    "sha256_pak": "0aae800300caff5c8607d8e72c818bfb766c407c1a34254eee88b6877273e0f6",
+    "source": "manual"
   }
 ]
