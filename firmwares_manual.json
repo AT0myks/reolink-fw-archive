@@ -673,5 +673,37 @@
     ],
     "sha256_pak": "0aae800300caff5c8607d8e72c818bfb766c407c1a34254eee88b6877273e0f6",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/zkwfro/rlc823a_rlc523wa_tracking_beta_40_firmware_added/",
+      "https://drive.google.com/drive/folders/1fuS2acVGEdhR1njItb87iaBZ550MWz2o"
+    ],
+    "sha256_pak": "8e113d95185ea7240d277071915a978eb7bc5a5d385361b7816aa52a32fff26f",
+    "source": "manual",
+    "changelog": [
+      "Added auto-tracking horizontal range. (Only for APP/Web.)",
+      "Added the auto-tracking schedule. (Only for APP/Web.)",
+      "Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears. (Only for APP/Web)",
+      "Optimized AI model and multi-objective tracking experience.",
+      "Added preview images in Preset point. (PTZ)",
+      "Updated Web UI and added adaption to the above setting."
+    ]
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/zkwfro/rlc823a_rlc523wa_tracking_beta_40_firmware_added/",
+      "https://drive.google.com/drive/folders/1fuS2acVGEdhR1njItb87iaBZ550MWz2o"
+    ],
+    "sha256_pak": "743b4e2679e45ea75e7caa2d13f81081921d39b5672816f14cc5c657b83bf805",
+    "source": "manual",
+    "changelog": [
+      "Added auto-tracking horizontal range. (Only for APP/Web.)",
+      "Added the auto-tracking schedule. (Only for APP/Web.)",
+      "Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears. (Only for APP/Web)",
+      "Optimized AI model and multi-objective tracking experience.",
+      "Added preview images in Preset point. (PTZ)",
+      "Updated Web UI and added adaption to the above setting."
+    ]
   }
 ]

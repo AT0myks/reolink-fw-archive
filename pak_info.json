@@ -6955,5 +6955,41 @@
     ],
     "model_id": 163,
     "hw_ver_id": 273
+  },
+  "8e113d95185ea7240d277071915a978eb7bc5a5d385361b7816aa52a32fff26f": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M5MP",
+      "board_name": "IPC_523128M5MP",
+      "build_date": "221209",
+      "display_type_info": "RLC-523WA",
+      "detail_machine_type": "IPC_523128M5MP",
+      "type": "IPC",
+      "version_file": "1584_22120967"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1txqFSJOccVge1nrUlYDKYKPfHEwbEEmJ&confirm=t"
+    ],
+    "model_id": 154,
+    "hw_ver_id": 254,
+    "beta": true
+  },
+  "743b4e2679e45ea75e7caa2d13f81081921d39b5672816f14cc5c657b83bf805": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M8MP",
+      "board_name": "IPC_523128M8MP",
+      "build_date": "221209",
+      "display_type_info": "RLC-823A",
+      "detail_machine_type": "IPC_523128M8MP",
+      "type": "IPC",
+      "version_file": "1584_22120968"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1BDEwz2NVhJaQLvZJ11aElQzm-APxNP8a&confirm=t"
+    ],
+    "model_id": 151,
+    "hw_ver_id": 251,
+    "beta": true
   }
 }
