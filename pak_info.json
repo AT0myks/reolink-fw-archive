@@ -7025,5 +7025,25 @@
     ],
     "model_id": 173,
     "hw_ver_id": 294
+  },
+  "a5e543449a13138bd04e9f012dd07a1e5568e5167f22de3490b6cfa18b952ad8": {
+    "info": {
+      "error": "No section found"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/03/141102511678791771.4471.zip"
+    ],
+    "model_id": 176,
+    "hw_ver_id": 297
+  },
+  "b0666abcf539afb61509734bb0d324546b6e59841dc5b8c29a58c196c3be5160": {
+    "info": {
+      "error": "No section found"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/03/141104001678791840.9366.zip"
+    ],
+    "model_id": 177,
+    "hw_ver_id": 298
   }
 }

@@ -2002,5 +2002,35 @@
     "display_time": "2023-02-28 00:00:00+08:00",
     "sha256_pak": "dcf1e8430b5ee59c75e291508a3ecf4ff8465bd1648dba0d6e6d395b8a8d69ba",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.1105_23030900",
+    "filename": "B1200_23030900",
+    "updated_at": "2023-03-14 19:03:10+08:00",
+    "note": "",
+    "firmware_id": 354,
+    "model": "B1200",
+    "hw_ver": "IPC_52316M12MP",
+    "changelog": [
+      "Optimized the image quality of some scenes and fixed other known bugs"
+    ],
+    "display_time": "2023-03-14 00:00:00+08:00",
+    "sha256_pak": "a5e543449a13138bd04e9f012dd07a1e5568e5167f22de3490b6cfa18b952ad8",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.1105_23030901",
+    "filename": "D1200_23030901",
+    "updated_at": "2023-03-14 19:15:07+08:00",
+    "note": "",
+    "firmware_id": 355,
+    "model": "D1200",
+    "hw_ver": "IPC_52316M12MP",
+    "changelog": [
+      "Optimized the image quality of some scenes and fixed other known bugs"
+    ],
+    "display_time": "2023-03-14 00:00:00+08:00",
+    "sha256_pak": "b0666abcf539afb61509734bb0d324546b6e59841dc5b8c29a58c196c3be5160",
+    "source": "live"
   }
 ]

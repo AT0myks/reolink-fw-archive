@@ -1076,5 +1076,35 @@
         "title": "IPC_523SD10"
       }
     ]
+  },
+  {
+    "id": 176,
+    "title": "B1200",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "https://reolink.com/product/rlk8-1200b4-a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 297,
+        "title": "IPC_52316M12MP"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "title": "D1200",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "https://reolink.com/product/rlk8-1200d4-a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 298,
+        "title": "IPC_52316M12MP"
+      }
+    ]
   }
 ]

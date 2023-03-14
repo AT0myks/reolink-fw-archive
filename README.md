@@ -155,6 +155,17 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 \* means the device is discontinued.
 
 <details>
+  <summary>B1200</summary>
+
+[Product page](https://reolink.com/product/rlk8-1200b4-a/)
+
+  ### IPC_52316M12MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+
+</details>
+
+<details>
   <summary>B400 (Add-ons) *</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/assets/2018/08/store/rlc-410-5MP.png" width="150">
@@ -276,6 +287,17 @@ Version | Date | Changes | Notes
 [v3.0.0.136_20121107](https://drive.google.com/uc?id=1O3VmNf3UMLrsItcwiUEEPyRNXdyqfhhq&confirm=t) | 2020‑12‑11 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/k6u5me/c2_pro_eol_less_than_2_years_no_more_firmware/giej4k9/)<br />[Source 2](https://www.reddit.com/r/reolinkcam/comments/kfs32v/comment/gtwsd7x/)
 [v2.0.0.654_20040908](https://reolink-storage.s3.amazonaws.com/website/firmware/20200409firmware/C2-Pro_654_20040908.zip) | 2020‑04‑09 | <ol><li>Extended the max password length of Email, FTP, and DDNS to 128 digits.</li><li>Updated the max cruise time to 300 seconds.</li></ol> | [Archive](https://web.archive.org/web/20210803033747/https://support.reolink.com/hc/en-us/articles/900000854106-04-09-2020-Firmware-for-Reolink-Auto-focus-IP-Cameras-IPC-51516M-)
 [v2.0.0.477_19071504](https://reolink-storage.s3.amazonaws.com/website/firmware/20190715firmware/C2-Pro_477_19071504.zip) | 2019‑07‑15 | <ol><li>Add the smart home feature (Google Home).</li><li>Fixed AF learning table compatibility issues.</li><li>Improved P2P connectivity.</li><li>Fixed the IR-cut switching failure problem on part of cameras.</li><li>Modified the AF library and optimize the AF focus.</li><li>Optimize noise problems of PTZ audio.</li><li>Add power LED control function to C2 Pro.</li><li>Add manually trigger and automatic voice alarm function to C2 Pro.</li><li>Fixed the issue where the WiFi can't reconnect after rebooting.</li></ol> | [Archive](https://web.archive.org/web/20190905192627/https://support.reolink.com/hc/en-us/articles/360032028313-07-15-2019-Firmware-for-Reolink-IP-Cameras-IPC-51516M-)
+
+</details>
+
+<details>
+  <summary>D1200</summary>
+
+[Product page](https://reolink.com/product/rlk8-1200d4-a/)
+
+  ### IPC_52316M12MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
 
 </details>
 
