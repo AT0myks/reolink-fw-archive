@@ -1386,6 +1386,7 @@ Version | Date | Changes | Notes
   ### IPC_529B17B8MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.1889_23031700](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241045311679654731.5333.zip?download_name=Reolink_Duo_2_PoE_23031700.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1337_22091900](https://home-cdn.reolink.us/wp-content/uploads/2022/09/221016131663841773.7559.zip?download_name=Reolink_Duo_2_POE_220919.zip) | 2022‑09‑19 | <ol><li>Solved the problem of AI probabilistic failure under night vision</li><li>Solved the problem of failure to capture picture by alert email in complex scenarios</li><li>Optimized the search strategy for playback</li><li>Optimized the MD sensitivity under night vision</li><li>Solved the problem that the number of WiFi signals cannot display on Reolink Client when the camera is connected by WiFi</li><li>Solved the problem that there is no pet mark in playback after enabling pet detection</li><li>Optimized the lighting speed of the spotlight under night vision</li></ol> | Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.
 
 </details>
@@ -1400,8 +1401,37 @@ Version | Date | Changes | Notes
   ### IPC_529B17B8MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.1889_23031701](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip?download_name=Reolink_Duo_2_WiFi_23031701.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1391_22101061](https://drive.google.com/uc?id=1YOtVF851NRX9AuRx_o7rtchyJMRMnXDm&confirm=t) | 2022‑10‑10 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.0.0.1337_22091901](https://home-cdn.reolink.us/wp-content/uploads/2022/09/221021161663842076.2251.zip?download_name=Reolink_Duo_2_WiFi_220919.zip) | 2022‑09‑19 | <ol><li>Solved the problem of AI probabilistic failure under night vision</li><li>Solved the problem of failure to capture picture by alert email in complex scenarios</li><li>Optimized the search strategy for playback</li><li>Optimized the MD sensitivity under night vision</li><li>Solved the problem that the number of WiFi signals cannot display on Reolink Client when the camera is connected by WiFi</li><li>Solved the problem that there is no pet mark in playback after enabling pet detection</li><li>Optimized the lighting speed of the spotlight under night vision</li></ol> | Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.
+
+</details>
+
+<details>
+  <summary>Reolink Duo Floodlight PoE</summary>
+
+<img src="https://reolink.com/wp-content/uploads/2022/11/230220051669170005.8162.png" width="150">
+
+[Product page](https://reolink.com/product/reolink-duo-floodlight-poe/)
+
+  ### IPC_529B17B8MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.1889_23031702](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241052211679655141.5445.zip?download_name=Reolink_Duo_Floodlight_PoE_23031702.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Reolink Duo Floodlight WiFi</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2022/09/130846161663058776.1316.png" width="150">
+
+[Product page](https://reolink.com/product/reolink-duo-floodlight-wifi/)
+
+  ### IPC_529B17B8MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.1889_23031703](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241054031679655243.856.zip?download_name=Reolink_Duo_Floodlight_WiFi_23031703.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 
 </details>
 

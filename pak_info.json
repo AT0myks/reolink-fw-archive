@@ -7089,5 +7089,73 @@
     ],
     "model_id": 33,
     "hw_ver_id": 292
+  },
+  "6ad8074fb9c69250cbf7f18d7b896daaf2fb338e984d59a7eac4e9b79ba47f39": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529B17B8MP",
+      "board_name": "IPC_529B17B8MP",
+      "build_date": "230317",
+      "display_type_info": "Reolink Duo Floodlight WiFi",
+      "detail_machine_type": "IPC_529B17B8MP",
+      "type": "IPC",
+      "version_file": "1889_23031703"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/03/241054031679655243.856.zip"
+    ],
+    "model_id": 179,
+    "hw_ver_id": 300
+  },
+  "03dd00e6c54035cc6557782cb6b719fa5382d8c563f30bc33c22f2921bf47462": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529B17B8MP",
+      "board_name": "IPC_529B17B8MP",
+      "build_date": "230317",
+      "display_type_info": "Reolink Duo Floodlight PoE",
+      "detail_machine_type": "IPC_529B17B8MP",
+      "type": "IPC",
+      "version_file": "1889_23031702"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/03/241052211679655141.5445.zip"
+    ],
+    "model_id": 178,
+    "hw_ver_id": 299
+  },
+  "22577b2b794de6ddde2b6340940046418973ef2d3be40bdeea95a93d8eafd0e9": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529B17B8MP",
+      "board_name": "IPC_529B17B8MP",
+      "build_date": "230317",
+      "display_type_info": "Reolink Duo 2 WiFi",
+      "detail_machine_type": "IPC_529B17B8MP",
+      "type": "IPC",
+      "version_file": "1889_23031701"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip"
+    ],
+    "model_id": 169,
+    "hw_ver_id": 288
+  },
+  "48b22204278cf1f9cc8b71367b68fd3aaa41fef640863d436960e97e5426e58a": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529B17B8MP",
+      "board_name": "IPC_529B17B8MP",
+      "build_date": "230317",
+      "display_type_info": "Reolink Duo 2 PoE",
+      "detail_machine_type": "IPC_529B17B8MP",
+      "type": "IPC",
+      "version_file": "1889_23031700"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/03/241045311679654731.5333.zip"
+    ],
+    "model_id": 168,
+    "hw_ver_id": 287
   }
 }

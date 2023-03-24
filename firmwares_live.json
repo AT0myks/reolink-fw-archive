@@ -2119,5 +2119,77 @@
     "display_time": "2023-03-17 00:00:00+08:00",
     "sha256_pak": "c0f9082b0421a8eba96bc3a8174dc48908350214598bf9cc7fb944121e6d93f6",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.1889_23031703",
+    "filename": "Reolink_Duo_Floodlight_WiFi_23031703",
+    "updated_at": "2023-03-24 19:16:48+08:00",
+    "note": "",
+    "firmware_id": 390,
+    "model": "Reolink Duo Floodlight WiFi",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Optimize stitching effect",
+      "2.Optimize related network services",
+      "3.Optimize image effect",
+      "4.Fix other known bugs"
+    ],
+    "display_time": "2023-03-24 00:00:00+08:00",
+    "sha256_pak": "6ad8074fb9c69250cbf7f18d7b896daaf2fb338e984d59a7eac4e9b79ba47f39",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.1889_23031702",
+    "filename": "Reolink_Duo_Floodlight_PoE_23031702",
+    "updated_at": "2023-03-24 19:17:07+08:00",
+    "note": "",
+    "firmware_id": 389,
+    "model": "Reolink Duo Floodlight PoE",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Optimize stitching effect",
+      "2.Optimize related network services",
+      "3.Optimize image effect",
+      "4.Fix other known bugs"
+    ],
+    "display_time": "2023-03-24 00:00:00+08:00",
+    "sha256_pak": "03dd00e6c54035cc6557782cb6b719fa5382d8c563f30bc33c22f2921bf47462",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.1889_23031701",
+    "filename": "Reolink_Duo_2_WiFi_23031701",
+    "updated_at": "2023-03-24 19:17:29+08:00",
+    "note": "",
+    "firmware_id": 388,
+    "model": "Reolink Duo 2 WiFi",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Optimize stitching effect",
+      "2.Optimize related network services",
+      "3.Optimize image effect",
+      "4.Fix other known bugs"
+    ],
+    "display_time": "2023-03-24 00:00:00+08:00",
+    "sha256_pak": "22577b2b794de6ddde2b6340940046418973ef2d3be40bdeea95a93d8eafd0e9",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.1889_23031700",
+    "filename": "Reolink_Duo_2_PoE_23031700",
+    "updated_at": "2023-03-24 19:17:51+08:00",
+    "note": "",
+    "firmware_id": 387,
+    "model": "Reolink Duo 2 POE",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Optimize stitching effect",
+      "2.Optimize related network services",
+      "3.Optimize image effect",
+      "4.Fix other known bugs"
+    ],
+    "display_time": "2023-03-24 00:00:00+08:00",
+    "sha256_pak": "48b22204278cf1f9cc8b71367b68fd3aaa41fef640863d436960e97e5426e58a",
+    "source": "live"
   }
 ]

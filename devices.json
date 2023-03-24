@@ -1106,5 +1106,35 @@
         "title": "IPC_52316M12MP"
       }
     ]
+  },
+  {
+    "id": 179,
+    "title": "Reolink Duo Floodlight WiFi",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/09/130846161663058776.1316.png",
+    "productUrl": "https://reolink.com/product/reolink-duo-floodlight-wifi/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 300,
+        "title": "IPC_529B17B8MP"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Reolink Duo Floodlight PoE",
+    "type": "IPC",
+    "productImg": "https://reolink.com/wp-content/uploads/2022/11/230220051669170005.8162.png",
+    "productUrl": "https://reolink.com/product/reolink-duo-floodlight-poe/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 299,
+        "title": "IPC_529B17B8MP"
+      }
+    ]
   }
 ]
