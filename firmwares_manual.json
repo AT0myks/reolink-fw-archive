@@ -705,5 +705,15 @@
       "Added preview images in Preset point. (PTZ)",
       "Updated Web UI and added adaption to the above setting."
     ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/4"
+    ],
+    "sha256_pak": "5a0fe46e339e2eabb85aeda2905e2a6dba5ad69a355b1d4d5cf301108f56e7f3",
+    "source": "manual",
+    "changelog": [
+      "Potential fix for the presence of artifacts in the RTSP stream"
+    ]
   }
 ]
