@@ -7048,7 +7048,14 @@
   },
   "9f79c05da33e1a7d55dc54766d6ab6dce031dad48be40e6970da8413ed51a42d": {
     "info": {
-      "error": "Could not guess section count"
+      "firmware_version_prefix": "v3.3.0",
+      "board_type": "N5MB01",
+      "board_name": "N5MB01",
+      "build_date": "230316",
+      "display_type_info": "RLN36",
+      "detail_machine_type": "NVR6704",
+      "type": "NVR",
+      "version_file": "226_23031612"
     },
     "download": [
       "https://home-cdn.reolink.us/wp-content/uploads/2023/03/171057511679050671.2953.zip"
