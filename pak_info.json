@@ -6364,8 +6364,8 @@
     "download": [
       "https://drive.google.com/uc?id=1WKDSj5dQX8ApbAMwzCwVI7g05dGGiusj&confirm=t"
     ],
-    "model_id": 100057,
-    "hw_ver_id": 100058,
+    "model_id": 181,
+    "hw_ver_id": 301,
     "user_hosted_only": true
   },
   "a9285cacbbe938ec084bc3fa9ec5dbd214cfbedfc7f7ffce834378c2fd00e3ec": {
@@ -6382,8 +6382,8 @@
     "download": [
       "https://drive.google.com/uc?id=1WH6tef5x4RfH9WcHQrxWWOadN049UjFH&confirm=t"
     ],
-    "model_id": 100059,
-    "hw_ver_id": 100060,
+    "model_id": 180,
+    "hw_ver_id": 302,
     "user_hosted_only": true
   },
   "4d2803d9ee03494806c151e64422620d821471b8eaf80c87381de505473a7541": {
@@ -7232,5 +7232,39 @@
     ],
     "model_id": 33,
     "hw_ver_id": 208
+  },
+  "fb20ca12a09c9fad188340bce779ab93e5f959ee851239f7ed5a34099714c6d1": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_W",
+      "board_name": "DB_566128M5MP_W",
+      "build_date": "230309",
+      "display_type_info": "Reolink Video Doorbell WiFi",
+      "detail_machine_type": "DB_566128M5MP_W",
+      "type": "IPC",
+      "version_file": "1859_23030900"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/04/030234101680489250.782.zip"
+    ],
+    "model_id": 181,
+    "hw_ver_id": 301
+  },
+  "b874c59f65757060085a9dc6fe1cfddff4161c586784453e0e568b3ed538bf24": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_P",
+      "board_name": "DB_566128M5MP_P",
+      "build_date": "230309",
+      "display_type_info": "Reolink Video Doorbell PoE",
+      "detail_machine_type": "DB_566128M5MP_P",
+      "type": "IPC",
+      "version_file": "1859_23030902"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/04/030245401680489940.8505.zip"
+    ],
+    "model_id": 180,
+    "hw_ver_id": 302
   }
 }
