@@ -399,6 +399,7 @@ Version | Date | Changes | Notes
   ### IPC_523SD8
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1643_22122400](https://support.reolink.com/attachments/token/earovP2n9ndB7vFrzTAbtAQsS/?name=IPC_523SD8.1643_22122400.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2022‑12‑24 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/5)
 [v3.1.0.1348_220922660](https://drive.google.com/uc?id=12gn4NVw4v_DABQ8b_XKmQJ3tUFId2n7y&confirm=t) | 2022‑09‑22 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.1.0.989_22071306](https://drive.google.com/uc?id=1iduVRpBXk2vw4L7V4cSASzkSbDl0upBX&confirm=t) | 2022‑07‑13 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.1.0.956_22041506](https://drive.google.com/uc?id=1piUxktFScSkI622ThgOzKexD1UdgFPI4&confirm=t) | 2022‑04‑15 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
