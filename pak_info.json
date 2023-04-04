@@ -7283,5 +7283,23 @@
     ],
     "model_id": 100039,
     "hw_ver_id": 100040
+  },
+  "eeb50cd063f435455eeca756803db9765318d64e15f498806dc3e743aa3e8658": {
+    "info": {
+      "firmware_version_prefix": "v2.0.0",
+      "board_type": "IPC_325C7",
+      "board_name": "IPC_32516M",
+      "build_date": "210528",
+      "display_type_info": "Reolink Lumus",
+      "detail_machine_type": "IPC_32516M",
+      "type": "IPC",
+      "version_file": "705_21052800"
+    },
+    "download": [
+      "https://github.com/AT0myks/reolink-fw-archive/files/11149143/IPC_325C7.705_21052800.IMX307.2MP.WIFI7601.REOLINK.zip"
+    ],
+    "model_id": 100055,
+    "hw_ver_id": 100056,
+    "user_hosted_only": true
   }
 }
