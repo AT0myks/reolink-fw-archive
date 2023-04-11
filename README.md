@@ -1180,6 +1180,7 @@ Version | Date | Changes | Notes
   ### IPC_523SD10
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1933_23032822](https://home-cdn.reolink.us/wp-content/uploads/2023/04/110650141681195814.9281.zip?download_name=RLC_823A_16X_23032822.zip) | 2023‑03‑28 | <ol><li>Update content on Web Client</li><li>Optimize ONVIF function</li><li>Fix some bugs in email alerts</li></ol> | 
 [v3.1.0.1646_22122622](https://home-cdn.reolink.us/wp-content/uploads/2022/12/300258361672369116.5271.zip?download_name=RLC_823A_16X_22122622.zip) | 2022‑12‑26 | <ol><li>Added auto-tracking function</li><li>Optimized PT control effect</li><li>Added 3D Zoom function. (Supported on the Web Client, and will be supported on Reolink App/Client too after subsequent updates)</li><li>Added multiple image modes.</li><li>Optimized the image effect and solved the problem of color cast in some scenes</li><li>Optimized AF focusing effect</li><li>Solved other known bugs</li></ol> | 
 
 </details>

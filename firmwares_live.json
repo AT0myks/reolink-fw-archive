@@ -2324,5 +2324,22 @@
     "display_time": "2023-04-03 00:00:00+08:00",
     "sha256_pak": "b874c59f65757060085a9dc6fe1cfddff4161c586784453e0e568b3ed538bf24",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.1933_23032822_v1.0.0.93",
+    "filename": "RLC_823A_16X_23032822",
+    "updated_at": "2023-04-11 14:52:34+08:00",
+    "note": "",
+    "firmware_id": 397,
+    "model": "RLC-823A 16X",
+    "hw_ver": "IPC_523SD10",
+    "changelog": [
+      "1.Update content on Web Client",
+      "2.Optimize ONVIF function",
+      "3.Fix some bugs in email alerts"
+    ],
+    "display_time": "2023-04-11 00:00:00+08:00",
+    "sha256_pak": "f45d8cb8b83a3cc0a3ccae11b5d2689f4e789a310c569a042b1fa2db681dfde5",
+    "source": "live"
   }
 ]

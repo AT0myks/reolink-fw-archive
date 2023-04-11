@@ -7301,5 +7301,22 @@
     "model_id": 100055,
     "hw_ver_id": 100056,
     "user_hosted_only": true
+  },
+  "f45d8cb8b83a3cc0a3ccae11b5d2689f4e789a310c569a042b1fa2db681dfde5": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523SD10",
+      "board_name": "IPC_523SD10",
+      "build_date": "230328",
+      "display_type_info": "RLC-823A 16X",
+      "detail_machine_type": "IPC_523SD10",
+      "type": "IPC",
+      "version_file": "1933_23032822"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/04/110650141681195814.9281.zip"
+    ],
+    "model_id": 175,
+    "hw_ver_id": 296
   }
 }
