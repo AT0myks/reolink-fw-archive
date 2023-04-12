@@ -2341,5 +2341,53 @@
     "display_time": "2023-04-11 00:00:00+08:00",
     "sha256_pak": "f45d8cb8b83a3cc0a3ccae11b5d2689f4e789a310c569a042b1fa2db681dfde5",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.2017_23041200",
+    "filename": "DB_WIFI_0412",
+    "updated_at": "2023-04-12 19:32:46+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 398,
+    "model": "Reolink Video Doorbell WiFi",
+    "hw_ver": "DB_566128M5MP_W",
+    "changelog": [
+      "1. Release new smart home functions:",
+      "1) Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);",
+      "2) Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);",
+      "2. Support GOP settings.",
+      "3. Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function",
+      "4. Support adjustable range of CDS value",
+      "5. Support working with IOT devices",
+      "6. Add status light control button for doorbell camera (Available to the App version of 4.37 or later)",
+      "7. Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)",
+      "8. Fix known bugs"
+    ],
+    "display_time": "2023-04-12 00:00:00+08:00",
+    "sha256_pak": "f32445abec1cbde01d57e7d9cf56c0c4b7b18c84c8b921f96e72029bb36b9816",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2017_23041202",
+    "filename": "DB_POE_0412",
+    "updated_at": "2023-04-12 19:36:41+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 399,
+    "model": "Reolink Video Doorbell PoE",
+    "hw_ver": "DB_566128M5MP_P",
+    "changelog": [
+      "1. Release new smart home functions:",
+      "1) Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);",
+      "2) Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);",
+      "2. Support GOP settings.",
+      "3. Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function",
+      "4. Support adjustable range of CDS value",
+      "5. Support working with IOT devices",
+      "6. Add status light control button for doorbell camera (Available to the App version of 4.37 or later)",
+      "7. Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)",
+      "8. Fix known bugs"
+    ],
+    "display_time": "2023-04-12 00:00:00+08:00",
+    "sha256_pak": "7be3a984f75defd8f999325ae6ac0c6c740312fd8e64b87f285f9b550531719c",
+    "source": "live"
   }
 ]
