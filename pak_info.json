@@ -7352,5 +7352,40 @@
     ],
     "model_id": 180,
     "hw_ver_id": 302
+  },
+  "9dd31ac4ad00aac4a3bd7a50772310bb1742fdc5707dfaf8fe7577fe82490c8a": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523SD8",
+      "board_name": "IPC_523SD8",
+      "build_date": "220115",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_523SD8",
+      "type": "IPC",
+      "version_file": "804_22011506"
+    },
+    "download": [
+      "https://support.reolink.com/attachments/token/7k5v4dY8P7nXXGfNynLxQNkOh/?name=IPC_523SD8.804_22011506.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
+    ],
+    "model_id": 100039,
+    "hw_ver_id": 100040
+  },
+  "0959973d59bd77bc08bad714426571bfe6e43a5d5ea34ad428e83afba2379f6e": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_515SD6",
+      "board_name": "IPC_515SD6",
+      "build_date": "211124",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_515SD6",
+      "type": "IPC",
+      "version_file": "716_21112408"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=16Q-iOSTpnkYaJoxzvFeY6YQbrOGbty12&confirm=t"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 205,
+    "user_hosted_only": true
   }
 }
