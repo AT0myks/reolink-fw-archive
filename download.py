@@ -9,12 +9,13 @@ from urllib.parse import urlparse
 
 import aiohttp
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 _LOGGER = logging.getLogger()
 
 REOLINK_DOMAINS = (
     "support.reolink.com",
+    "support-d.reolink.com",
     "cdn.reolink.com",
     "reolink.zendesk.com",
     "home-cdn.reolink.us",
