@@ -7418,11 +7418,11 @@
       "version_file": "757_21121503"
     },
     "download": [
+      "https://support-d.reolink.com/attachments/token/4SXDbC9daidjZw02rDj36QeLb/?name=IPC_51316M.757_21121503.RLC-410W.ov4689.4MP.WIFI1021.REOLINK.pak",
       "https://github.com/AT0myks/reolink-fw-archive/files/11315740/IPC_51316M.757_21121503.RLC-410W.ov4689.4MP.WIFI1021.REOLINK.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033,
-    "user_hosted_only": true
+    "hw_ver_id": 100033
   },
   "924eda34cd604a698ab3de2078b0982998ee50bc9c08a8dd3dc206ebe756ccb8": {
     "info": {
