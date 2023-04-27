@@ -427,10 +427,12 @@
     "source_urls": [
       "https://www.reddit.com/r/reolink/comments/sly78j/rlc410w_black_4mp_firmware_upgrade_issues/hw0wt1o/",
       "https://www.reddit.com/r/reolink/comments/wdo326/firmware_upgrade_for_rlc410w/iijdj0r/",
-      "https://community.reolink.com/topic/2627/warning-of-firmware-upgrade-of-the-rlc410w/7"
+      "https://community.reolink.com/topic/2627/warning-of-firmware-upgrade-of-the-rlc410w/7",
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/12#discussioncomment-5721267"
     ],
     "source": "reddit+manual",
-    "sha256_pak": "8c0842a08df3ec55b035a68bdbbf3ee44078ed21b5178ea7ab4ca71e0d5711c2"
+    "sha256_pak": "8c0842a08df3ec55b035a68bdbbf3ee44078ed21b5178ea7ab4ca71e0d5711c2",
+    "note": ":warning: This firmware does not work with some of the older units. Check source 4 for details."
   },
   {
     "source_urls": [
