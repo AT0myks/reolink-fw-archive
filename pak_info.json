@@ -7423,5 +7423,56 @@
     "model_id": 94,
     "hw_ver_id": 100033,
     "user_hosted_only": true
+  },
+  "924eda34cd604a698ab3de2078b0982998ee50bc9c08a8dd3dc206ebe756ccb8": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_51516M5M",
+      "board_name": "IPC_51516M5M",
+      "build_date": "211215",
+      "display_type_info": "RLC-511",
+      "detail_machine_type": "IPC_51516M5M",
+      "type": "IPC",
+      "version_file": "757_21121504"
+    },
+    "download": [
+      "https://support.reolink.com/attachments/token/EsHhHRib4QhMDTE4SI1kINMw3/?name=IPC_51516M5M.757_21121504.RLC-511.OV05A10.5MP.AF.REOLINK.pak"
+    ],
+    "model_id": 73,
+    "hw_ver_id": 106
+  },
+  "c1c95dc24e1cf1e6bae99de80aba74534b26347a7adf38075ec686caf4a9be52": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_51516M5M",
+      "board_name": "IPC_51516M5M",
+      "build_date": "211215",
+      "display_type_info": "RLC-522",
+      "detail_machine_type": "IPC_51516M5M",
+      "type": "IPC",
+      "version_file": "757_21121512"
+    },
+    "download": [
+      "https://support.reolink.com/attachments/token/iSWMzBTCkhptip2tj4jFFUoXo/?name=IPC_51516M5M.757_21121512.RLC-522.OV05A10.5MP.AF.D7.REOLINK.pak"
+    ],
+    "model_id": 65,
+    "hw_ver_id": 98
+  },
+  "8d9fefa9e6a0ee0d854dbdc692644af0dbe7b23b0140b08e34130933f32026f8": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523D98MP",
+      "board_name": "IPC_523D98MP",
+      "build_date": "220519",
+      "display_type_info": "RLC-842A",
+      "detail_machine_type": "IPC_523D98MP",
+      "type": "IPC",
+      "version_file": "989_22051917"
+    },
+    "download": [
+      "https://support.reolink.com/attachments/token/JH134V6um9pX3cfBwBhTz0l60/?name=IPC_523D98MP.989_22051917.RLC-842A.IMX415.8MP.AF.REOLINK.pak"
+    ],
+    "model_id": 145,
+    "hw_ver_id": 245
   }
 }

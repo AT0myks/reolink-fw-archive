@@ -761,7 +761,37 @@
     "sha256_pak": "3f475930b0684b56dd2677d1073d214cfa7685c43c0468161be55aff386f338c",
     "source": "manual",
     "changelog": [
-        "Add the option to change the I-frame interval"
+      "Add the option to change the I-frame interval"
+    ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/13"
+    ],
+    "sha256_pak": "924eda34cd604a698ab3de2078b0982998ee50bc9c08a8dd3dc206ebe756ccb8",
+    "source": "manual",
+    "changelog": [
+      "Fixed I-frame switch button"
+    ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/13"
+    ],
+    "sha256_pak": "c1c95dc24e1cf1e6bae99de80aba74534b26347a7adf38075ec686caf4a9be52",
+    "source": "manual",
+    "changelog": [
+      "Fixed I-frame switch button"
+    ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/13"
+    ],
+    "sha256_pak": "8d9fefa9e6a0ee0d854dbdc692644af0dbe7b23b0140b08e34130933f32026f8",
+    "source": "manual",
+    "changelog": [
+      "Fixed ONVIF issue and I-frame switch button"
     ]
   }
 ]
