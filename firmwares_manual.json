@@ -752,5 +752,16 @@
     ],
     "sha256_pak": "459c7bc267b25c2a871ac25cac432daa00f0b82cc8af59e8f9ea0cf8b7d64604",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/12"
+    ],
+    "note": ":warning: This firmware might not work with some of the older units. Check source 1 for details.",
+    "sha256_pak": "3f475930b0684b56dd2677d1073d214cfa7685c43c0468161be55aff386f338c",
+    "source": "manual",
+    "changelog": [
+        "Add the option to change the I-frame interval"
+    ]
   }
 ]

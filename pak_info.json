@@ -7405,5 +7405,23 @@
     ],
     "model_id": 100039,
     "hw_ver_id": 100040
+  },
+  "3f475930b0684b56dd2677d1073d214cfa7685c43c0468161be55aff386f338c": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_51316M",
+      "board_name": "IPC_51316M",
+      "build_date": "211215",
+      "display_type_info": "RLC-410W",
+      "detail_machine_type": "IPC_51316M",
+      "type": "IPC",
+      "version_file": "757_21121503"
+    },
+    "download": [
+      "https://github.com/AT0myks/reolink-fw-archive/files/11315740/IPC_51316M.757_21121503.RLC-410W.ov4689.4MP.WIFI1021.REOLINK.zip"
+    ],
+    "model_id": 94,
+    "hw_ver_id": 100033,
+    "user_hosted_only": true
   }
 }
