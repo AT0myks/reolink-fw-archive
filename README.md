@@ -162,6 +162,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
   ### IPC_52316M12MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1105_23030900](https://home-cdn.reolink.us/wp-content/uploads/2023/03/141102511678791771.4471.zip?download_name=B1200_23030900.zip) | 2023‑03‑09 | Optimized the image quality of some scenes and fixed other known bugs | 
 
 </details>
 
@@ -298,6 +299,7 @@ Version | Date | Changes | Notes
   ### IPC_52316M12MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1105_23030901](https://home-cdn.reolink.us/wp-content/uploads/2023/03/141104001678791840.9366.zip?download_name=D1200_23030901.zip) | 2023‑03‑09 | Optimized the image quality of some scenes and fixed other known bugs | 
 
 </details>
 

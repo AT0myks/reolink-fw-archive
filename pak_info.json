@@ -7029,7 +7029,14 @@
   },
   "a5e543449a13138bd04e9f012dd07a1e5568e5167f22de3490b6cfa18b952ad8": {
     "info": {
-      "error": "No section found"
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_52316M12MP",
+      "board_name": "IPC_52316M12MP",
+      "build_date": "230309",
+      "display_type_info": "B1200",
+      "detail_machine_type": "IPC_52316M12MP",
+      "type": "IPC",
+      "version_file": "1105_23030900"
     },
     "download": [
       "https://home-cdn.reolink.us/wp-content/uploads/2023/03/141102511678791771.4471.zip"
@@ -7039,7 +7046,14 @@
   },
   "b0666abcf539afb61509734bb0d324546b6e59841dc5b8c29a58c196c3be5160": {
     "info": {
-      "error": "No section found"
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_52316M12MP",
+      "board_name": "IPC_52316M12MP",
+      "build_date": "230309",
+      "display_type_info": "D1200",
+      "detail_machine_type": "IPC_52316M12MP",
+      "type": "IPC",
+      "version_file": "1105_23030901"
     },
     "download": [
       "https://home-cdn.reolink.us/wp-content/uploads/2023/03/141104001678791840.9366.zip"
