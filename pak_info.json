@@ -7488,5 +7488,23 @@
     ],
     "model_id": 145,
     "hw_ver_id": 245
+  },
+  "d5b27293f7621ee30c92fea01fdd2113b4e36524a68138b385454f273a2cd89a": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523D95MP",
+      "board_name": "IPC_523D95MP",
+      "build_date": "230406",
+      "display_type_info": "RLC-542WA",
+      "detail_machine_type": "IPC_523D95MP",
+      "type": "IPC",
+      "version_file": "1983_23040623"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1RCume3f77oYMbZ3oD06cyD9O6F--uFiC&confirm=t"
+    ],
+    "model_id": 148,
+    "hw_ver_id": 248,
+    "user_hosted_only": true
   }
 }
