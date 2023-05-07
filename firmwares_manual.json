@@ -803,5 +803,15 @@
     "changelog": [
       "Add the option to change the I-frame interval"
     ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/16"
+    ],
+    "sha256_pak": "7062d01dac65d84e75a93a1607f5b5892d449c14311f9611f806bda4ce603c23",
+    "source": "manual",
+    "changelog": [
+      "Supports animal detection"
+    ]
   }
 ]
