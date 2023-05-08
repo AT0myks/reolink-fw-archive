@@ -11,7 +11,7 @@ from zipfile import ZipFile, is_zipfile
 
 import aiohttp
 
-__version__ = "1.1.0"
+__version__ = "1.2.0"
 
 _LOGGER = logging.getLogger()
 
@@ -118,12 +118,14 @@ def calc_sha256(file):
     return sha256.hexdigest()
 
 
-def already_downloaded(path: Path, sha256: str):
+def already_downloaded(path: Path, sha256: str, skip=False):
     as_pak = path.with_suffix(PAK_EXT)
     as_zip = path.with_suffix(ZIP_EXT)
     if as_pak.is_file():
-        return calc_sha256(as_pak) == sha256
+        return True if skip else calc_sha256(as_pak) == sha256
     elif is_zipfile(as_zip):
+        if skip:
+            return True
         with ZipFile(as_zip) as myzip:
             for name in myzip.namelist():
                 with myzip.open(name) as file:
@@ -132,13 +134,13 @@ def already_downloaded(path: Path, sha256: str):
     return False
 
 
-async def download(sessions, devices, sha256: str, info, directory: Path, force=False):
+async def download(sessions, devices, sha256: str, info, directory: Path, force=False, skip=False):
     model, hw_ver = get_names(devices, info["model_id"], info["hw_ver_id"])
     version = info["info"]["firmware_version_prefix"] + '.' + info["info"]["version_file"]
     filename = "__".join((model, hw_ver, version))
     path = directory / model / hw_ver.strip() / (filename + TMP_EXT)
-    if not force and (await asyncio.to_thread(already_downloaded, path, sha256)):
-        _LOGGER.log(2, f"Already exists (sha256): {path.stem}")
+    if not force and (await asyncio.to_thread(already_downloaded, path, sha256, skip)):
+        _LOGGER.log(2, f"Already exists: {path.stem}")
         return True, None, None
     path.parent.mkdir(parents=True, exist_ok=True)
     exception = None
@@ -155,13 +157,22 @@ async def download(sessions, devices, sha256: str, info, directory: Path, force=
 
 
 async def main():
-    parser = argparse.ArgumentParser()
+    desc = """
+    When downloading, if the target file already exists and is a PAK file,
+    check if its SHA256 matches the one of the file that is about
+    to be downloaded. If the target is a ZIP file, look inside for a PAK file
+    whose SHA matches. If a match is found, the file is not downloaded again.
+    """
+    parser = argparse.ArgumentParser(description=desc)
     parser.add_argument("-d", "--directory", type=Path, default=Path.cwd() / "reolink-archive", help="directory where the files will be downloaded. Default: in a new dir created in the current one")
     parser.add_argument("-g", "--max-connections-gdrive", type=int, default=1, help="max simultaneous downloads for Google Drive links. Default: %(default)s")
     parser.add_argument("-m", "--max-connections", type=int, default=20, help="max simultaneous downloads for other links. Default: %(default)s")
-    parser.add_argument("-f", "--force", action="store_true", help="download even if file exists (overwrite)")
     parser.add_argument("-v", "--verbose", action="count", default=0, help="increase verbosity. Can appear multiple times")
     parser.add_argument("-V", "--version", action="version", version=f"%(prog)s {__version__}")
+    group = parser.add_argument_group(description="You can add one of these flags to choose what happens if a file already exists")
+    excgrp = group.add_mutually_exclusive_group()
+    excgrp.add_argument("-f", "--force", action="store_true", help="download even if file exists (overwrite)")
+    excgrp.add_argument("-s", "--skip", action="store_true", help="skip the SHA check and only look at whether the file exists")
     args = parser.parse_args()
 
     def filter(verbosity, record):
@@ -192,7 +203,7 @@ async def main():
         pak_info = await fetch(session, "https://raw.githubusercontent.com/AT0myks/reolink-fw-archive/main/pak_info.json")
         devices = await fetch(session, "https://raw.githubusercontent.com/AT0myks/reolink-fw-archive/main/devices.json")
         sessions = [session, session_drive]
-        tasks = [asyncio.create_task(download(sessions, devices, sha256, info, args.directory, args.force)) for sha256, info in pak_info.items()]
+        tasks = [asyncio.create_task(download(sessions, devices, sha256, info, args.directory, args.force, args.skip)) for sha256, info in pak_info.items()]
         for task in tasks:
             task.add_done_callback(callback)
         print(f"Downloading {len(tasks)} firmwares")
