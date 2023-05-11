@@ -7557,5 +7557,39 @@
     ],
     "model_id": 180,
     "hw_ver_id": 302
+  },
+  "380a2786b222de5b3dcf264d94e30b79f0fcfb7162f24b4d8eae3c6ed40cc285": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_52316M12MP",
+      "board_name": "IPC_52316M12MP",
+      "build_date": "230508",
+      "display_type_info": "B1200",
+      "detail_machine_type": "IPC_52316M12MP",
+      "type": "IPC",
+      "version_file": "2174_23050800"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/05/110627161683786436.5166.zip"
+    ],
+    "model_id": 176,
+    "hw_ver_id": 297
+  },
+  "1e3199d8bdc7d250d5b02b823f8f5a3be460d39c104748b8d3637486d6e5cd17": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_52316M12MP",
+      "board_name": "IPC_52316M12MP",
+      "build_date": "230508",
+      "display_type_info": "D1200",
+      "detail_machine_type": "IPC_52316M12MP",
+      "type": "IPC",
+      "version_file": "2174_23050801"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/05/110632191683786739.9125.zip"
+    ],
+    "model_id": 177,
+    "hw_ver_id": 298
   }
 }

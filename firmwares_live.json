@@ -2437,5 +2437,51 @@
     "display_time": "2023-05-08 00:00:00+08:00",
     "sha256_pak": "8c8f8ebbbce7e93c4da902c4d3726fa29ccaed63efe45f71a14237a110e38101",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2174_23050800",
+    "filename": "B1200_23050800",
+    "updated_at": "2023-05-11 14:56:41+08:00",
+    "note": "",
+    "firmware_id": 403,
+    "model": "B1200",
+    "hw_ver": "IPC_52316M12MP",
+    "changelog": [
+      "1. Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.",
+      "2. Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.",
+      "3. Optimize the day and night switching function.",
+      "4. Optimize the Smart detection function.",
+      "&nbsp&nbsp&nbsp&nbspa. Upgrade the smart model.",
+      "&nbsp&nbsp&nbsp&nbspb. Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.",
+      "5. Solve the problem of deviation in adjusting the brightness of the screen.",
+      "6. Solve the problem that the detection area does not fit after the mirror image is flipped.",
+      "7. Fix the bug that the night vision frame rate is incorrect in some scenes."
+    ],
+    "display_time": "2023-05-11 00:00:00+08:00",
+    "sha256_pak": "380a2786b222de5b3dcf264d94e30b79f0fcfb7162f24b4d8eae3c6ed40cc285",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2174_23050801",
+    "filename": "D1200_23050801",
+    "updated_at": "2023-05-11 14:57:25+08:00",
+    "note": "",
+    "firmware_id": 404,
+    "model": "D1200",
+    "hw_ver": "IPC_52316M12MP",
+    "changelog": [
+      "1. Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.",
+      "2. Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.",
+      "3. Optimize the day and night switching function.",
+      "4. Optimize the Smart detection function.",
+      "&nbsp&nbsp&nbsp&nbspa. Upgrade the smart model.",
+      "&nbsp&nbsp&nbsp&nbspb. Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.",
+      "5. Solve the problem of deviation in adjusting the brightness of the screen.",
+      "6. Solve the problem that the detection area does not fit after the mirror image is flipped.",
+      "7. Fix the bug that the night vision frame rate is incorrect in some scenes."
+    ],
+    "display_time": "2023-05-11 00:00:00+08:00",
+    "sha256_pak": "1e3199d8bdc7d250d5b02b823f8f5a3be460d39c104748b8d3637486d6e5cd17",
+    "source": "live"
   }
 ]
