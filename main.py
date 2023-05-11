@@ -55,15 +55,16 @@ def md_link(label, url):
 def make_changes(changes):
     if not changes:
         return ''
-    elif len(changes) == 1:
+    changes = [change.replace("&nbsp", '') for change in changes]
+    if len(changes) == 1:
         return changes[0]
     items = []
     subitems = []
-    for idx, i in enumerate(changes):
-        if i[0].isdigit() or i[0].isupper():
-            items.append(LI(re.sub("^[0-9\s\W]{2,4}", '', i)))
-        elif i[0].islower():
-            subitems.append(LI(re.sub("^[a-z\s\W]{2,3}", '', i)))
+    for idx, change in enumerate(changes):
+        if change[0].isdigit() or change[0].isupper():
+            items.append(LI(re.sub("^[0-9\s\W]{2,4}", '', change)))
+        elif change[0].islower():
+            subitems.append(LI(re.sub("^[a-z\s\W]{2,3}", '', change)))
             if (idx + 1) == len(changes) or not changes[idx + 1][0].islower():  # If end of list or next item is not a subitem.
                 items[-1].append(OL(*subitems, type='a'))
                 subitems = []  # Reset.
@@ -298,7 +299,7 @@ def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False, user_hoste
 
 def add_and_clean(pak_infos, dicts=[], source=None):
     """Add new firmware info to FILE_PAKINFO and return cleaned up firmwares.
-    
+
     If there are multiple PAKs in a ZIP, the beta and user_hosted_only
     properties will be applied to all the PAKs, which might not be desired.
     """
@@ -373,7 +374,7 @@ async def add_archives_v3_firmwares():
 
 def merge_dicts(old, new):
     """Update old with data from new. Modify old in-place.
-    
+
     This is not 100% generic and is mostly intended to be used in this project.
     """
     for key, val in new.items():
