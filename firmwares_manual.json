@@ -813,5 +813,15 @@
     "changelog": [
       "Supports animal detection"
     ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/18"
+    ],
+    "sha256_pak": "efa744374454ca33f3c5483eb57efe6a46834499501d79599aa0936dfd666f8f",
+    "source": "manual",
+    "changelog": [
+      "Fix live video delay in Synology Surveillance Station"
+    ]
   }
 ]

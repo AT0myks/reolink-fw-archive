@@ -892,6 +892,7 @@ Version | Date | Changes | Notes
   ### IPC_523128M5MP_V2
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2109_23051501](https://support-d.reolink.com/attachments/token/axfGH42kwt74trKrKFysXe2Mg/?name=IPC_523128M5MP_V2.2109_23051501.RLC-510A.OV05A10.5MP.REOLINK.pak) | 2023‑05‑15 | Fix live video delay in Synology Surveillance Station | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/18)
 [v3.1.0.1228_22082200](https://support.reolink.com/attachments/token/UmdVaKU7erG8omgOIiciOZWcr/?name=IPC_523128M5MP_V2.1228_22082200.RLC-510A.OV05A10.5MP.REOLINK.pak) | 2022‑08‑22 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/y5awnz/firmware_for_rlc510a_v2/)<br />[Source 2](https://community.reolink.com/topic/3501/no-firmware-for-my-new-rlc-510a-cameras/4)
 
 </details>
