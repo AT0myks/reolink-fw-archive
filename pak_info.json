@@ -7608,5 +7608,39 @@
     ],
     "model_id": 1,
     "hw_ver_id": 100000
+  },
+  "ab6a61155f5adf635bb224aadbcb1f58fd2d9fbd80eda68866312e2410c04684": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD664M5MP",
+      "board_name": "IPC_566SD664M5MP",
+      "build_date": "230412",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_566SD664M5MP",
+      "type": "IPC",
+      "version_file": "1975_23041200"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/04/150416541681532214.4008.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 303
+  },
+  "674c045fa2be9a3130ff6c495fab0cc3c6feeb33fccb8d19c50d9fad9860e256": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD65MP",
+      "board_name": "IPC_566SD65MP",
+      "build_date": "230421",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_566SD65MP",
+      "type": "IPC",
+      "version_file": "1975_23042102"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/05/310820071685521207.4716.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 304
   }
 }

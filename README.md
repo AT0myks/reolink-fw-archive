@@ -468,6 +468,16 @@ Version | Date | Changes | Notes
 [v3.0.0.136_20121108](https://home-cdn.reolink.us/files/firmware/20201211firmware/E1ZOOM_136_20121108.zip) | 2020‑12‑11 | <ol><li>Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.</li><li>Added preset function.</li><li>Optimized network transmission protocol.</li><li>Optimized day and night switching effect.</li><li>Solved the problem that FTP recording doesn't have a pre-recorded function.</li><li>Solved the problem of an email test with an empty password.</li><li>Optimized Cloud Storage function.</li><li>Solved the problem that the DHCP hostname is eth0 on the router.</li><li>Solved the problem of copywriting in the received email when only pictures are configured as an email attachment.</li><li>Solved other known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210805181808/https://support.reolink.com/hc/en-us/articles/900003979146-12-11-2020-Firmware-for-E1-Zoom-IPC-515SD6-and-IPC-515BSD6-)
 [v3.0.0.65_20071008](https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/E1-Zoom-5MP_65_20071008.zip) | 2020‑07‑10 | <ol><li>Added multiple languages for the voice prompt when scanning the QR code to set up the camera.</li><li>Added the thumbnail function-Reolink APP will display the image of each motion event during playback.</li><li>Fixed the bug when connecting the camera in different Vlan via Reolink app/client.</li><li>Fixed the bug that FTP upload file failed.</li></ol> | [Archive](https://web.archive.org/web/20210805182235/https://support.reolink.com/hc/en-us/articles/900001850003-07-10-2020-Firmware-for-E1-Zoom-IPC-515SD6-)
 
+  ### IPC_566SD65MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.1975_23042102](https://home-cdn.reolink.us/wp-content/uploads/2023/05/310820071685521207.4716.zip?download_name=E1_Zoom_v3101975_23042102_IPC_566SD65MP.zip) | 2023‑04‑21 | <ol><li>Optimize the focusing effect under night vision.</li><li>Solve other known bugs.</li></ol> | 
+
+  ### IPC_566SD664M5MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.1975_23041200](https://home-cdn.reolink.us/wp-content/uploads/2023/04/150416541681532214.4008.zip?download_name=E1_Zoom_v3101975_23041200_IPC_566SD664M5MP.zip) | 2023‑04‑12 | <ol><li>Optimize the focusing effect under night vision.</li><li>Optimize some network functions.</li><li>Optimize the PTZ function.</li><li>Solve other known bugs.</li></ol> | 
+
 </details>
 
 <details>
