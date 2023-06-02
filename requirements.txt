@@ -1,5 +1,5 @@
 aiohttp
 lxml
 python-dateutil
-reolinkfw == 1.1.0
+git+https://github.com/AT0myks/reolink-fw.git@9096ecc72e8781df059aa39a1af936417e3c1947
 waybackpy

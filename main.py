@@ -278,7 +278,8 @@ def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False, user_hoste
         update_ids(pak_infos, old_model_id, old_hw_ver_id, model_id, hw_ver_id)
     copy = pak_info.copy()
     sha = copy.pop("sha256")
-    url = copy.pop("url")
+    url = copy.pop("file")
+    copy.pop("pak")
     if sha in pak_infos:
         if url not in pak_infos[sha]["download"]:
             pak_infos[sha]["download"].append(url)
