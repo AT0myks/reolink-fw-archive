@@ -6539,7 +6539,7 @@
     "download": [
       "https://drive.google.com/uc?id=1ZaUeysbu3c4LOs9EZNDgNZz8b3_asYdR&confirm=t"
     ],
-    "model_id": 100061,
+    "model_id": 182,
     "hw_ver_id": 100062
   },
   "50c576c3d0ba28ef337e6c7eab0d7cbd7f5b5d3cb209996f721272c9acd42412": {
@@ -6590,7 +6590,7 @@
     "download": [
       "https://drive.google.com/uc?id=1KmIKncd3wkDI_D-uArWmnISt-Ff3Ba_R&confirm=t"
     ],
-    "model_id": 100061,
+    "model_id": 182,
     "hw_ver_id": 100062
   },
   "e89bd54c445e3e8be0b857dfd701167d3bca6a4dec5152525517df91f4c6692a": {
@@ -6780,7 +6780,7 @@
     "download": [
       "https://drive.google.com/uc?id=1Kst8SYU3oWziuap3VJHJCeP_kqfP2iC0&confirm=t"
     ],
-    "model_id": 100061,
+    "model_id": 182,
     "hw_ver_id": 100062,
     "user_hosted_only": true
   },
@@ -7642,5 +7642,39 @@
     ],
     "model_id": 91,
     "hw_ver_id": 304
+  },
+  "3df5342289824d48a4ccc53969ca08707d6d9bc4496aef1a3a0d95b7266b60cb": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523D8128M12MP",
+      "board_name": "IPC_523D8128M12MP",
+      "build_date": "230508",
+      "display_type_info": "RLC-1224A",
+      "detail_machine_type": "IPC_523D8128M12MP",
+      "type": "IPC",
+      "version_file": "2174_23050816"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/06/050720121685949612.7354.zip"
+    ],
+    "model_id": 183,
+    "hw_ver_id": 307
+  },
+  "46de9cb514bfbda588cf8da5f8d9b3437ea78d3c2dae89a4b602e9d9f17c7c97": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523B18128M12MP",
+      "board_name": "IPC_523B18128M12MP",
+      "build_date": "230508",
+      "display_type_info": "RLC-1212A",
+      "detail_machine_type": "IPC_523B18128M12MP",
+      "type": "IPC",
+      "version_file": "2174_23050815"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/06/050705371685948737.5325.zip"
+    ],
+    "model_id": 182,
+    "hw_ver_id": 306
   }
 }

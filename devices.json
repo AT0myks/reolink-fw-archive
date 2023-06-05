@@ -1056,7 +1056,7 @@
     ]
   },
   {
-    "id": 100061,
+    "id": 182,
     "title": "RLC-1212A",
     "type": "IPC",
     "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404441642737884.1225.png",
@@ -1067,6 +1067,10 @@
       {
         "id": 100062,
         "title": "IPC_523B1812MP"
+      },
+      {
+        "id": 306,
+        "title": "IPC_523B18128M12MP"
       }
     ]
   },
@@ -1142,6 +1146,21 @@
       {
         "id": 299,
         "title": "IPC_529B17B8MP"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "title": "RLC-1224A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404571642737897.3887.png",
+    "productUrl": "https://reolink.com/product/rlc-1224a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 307,
+        "title": "IPC_523D8128M12MP"
       }
     ]
   }
