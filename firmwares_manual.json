@@ -823,5 +823,43 @@
     "changelog": [
       "Fix live video delay in Synology Surveillance Station"
     ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/19"
+    ],
+    "sha256_pak": "02a1f8610dc49abe81b3126ae8ba1ef02d78dd793cffd19f3ac409cb046f8b21",
+    "source": "manual",
+    "note": "The changelog has been manually compiled by @combatlord by comparing v3.1.0.1643_22122310 to this version. The changes only relate to the web client.",
+    "changelog": [
+        "Add pet detection (beta feature)",
+        "Add \"Horizontal tracking Range\" on the left side",
+        "Add \"Monitor Point\" under PTZ",
+        "Add \"Return to Monitor Point\" (auto/time) under PTZ",
+        "Add \"Interframe Space\" under Basic Settings/Encode",
+        "Remove \"Switch to Flashplayer\"",
+        "Add \"Reset All Settings\" under Device Settings/Camera",
+        "Add \"Interframe Space\" under Device Settings/Stream -> Clear/Fluent",
+        "Add \"Frame Rate Mode\" Auto/Gradual/Constant under Device Settings/Stream",
+        "Rename \"Detection Alarm\" to \"Alarm Settings\"",
+        "Add \"Tracking Type Pet\" under Alarm Settings (beta feature)",
+        "Add \"Tracking Schedule\" function and Alarm Settings/Tracking Schedule",
+        "Add \"Time to Stop Tracking\" -> Object Stops/Object Disappears under Alarm Settings/Tracking Schedule",
+        "Add \"Pet Sensivity\" under Alarm Settings/Smart Detection (beta feature)",
+        "Add \"Pet Alarm Delay\" under Alarm Settings/Alarm Delay (beta feature)",
+        "Split \"Audio and Light\" menu to separate menus Audio/Light",
+        "Add dropdown under Light/Spotlight mode (Off/Night smart mode/Timer Mode)",
+        "Add \"Pet\" on Surveillance/Record Schedule (beta feature)",
+        "Add \"Pet\" on Surveillance/Email Schedule (beta feature)",
+        "Add \"Pet\" on Surveillance/FTP Schedule (beta feature)",
+        "Add \"Pet\" on Surveillance/Siren Schedule (beta feature)",
+        "Add \"Pet\" on Surveillance/Push Schedule (beta feature)",
+        "Rename \"Network Settings\" to \"Network\"",
+        "Add \"Wi-Fi Channel Prefer\" under Network/Saved Wi-Fi network (Auto/Only 2.4G/5G)",
+        "Rename \"Port Settings\" to \"Server Settings\" under Network",
+        "Rename \"Media Port\" to Basic Service under Network/Server Settings",
+        "Add \"Illegal Login\" Lockout to System/User Management",
+        "Bugfix: timezone can now be changed under System/Date & Time"
+    ]
   }
 ]

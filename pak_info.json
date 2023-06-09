@@ -7676,5 +7676,22 @@
     ],
     "model_id": 182,
     "hw_ver_id": 306
+  },
+  "02a1f8610dc49abe81b3126ae8ba1ef02d78dd793cffd19f3ac409cb046f8b21": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M5MP",
+      "board_name": "IPC_523128M5MP",
+      "build_date": "230517",
+      "display_type_info": "RLC-523WA",
+      "detail_machine_type": "IPC_523128M5MP",
+      "type": "IPC",
+      "version_file": "2217_23051710"
+    },
+    "download": [
+      "https://support-d.reolink.com/attachments/token/KCvCCwPiYAQo4QMF77Bx6LAO6/?name=IPC_523128M5MP.2217_23051710.RLC-523WA.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
+    ],
+    "model_id": 154,
+    "hw_ver_id": 254
   }
 }
