@@ -2579,5 +2579,43 @@
     "display_time": "2023-06-05 00:00:00+08:00",
     "sha256_pak": "46de9cb514bfbda588cf8da5f8d9b3437ea78d3c2dae89a4b602e9d9f17c7c97",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2217",
+    "filename": "823A_v3102217_23051711_v10031",
+    "updated_at": "2023-06-13 10:21:48+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 414,
+    "model": "RLC-823A",
+    "hw_ver": "IPC_523128M8MP",
+    "changelog": [
+      "1. Optimize network connection effect",
+      "2. Optimize the smart tracking effect",
+      "3. Optimize the AF focus function",
+      "4. Update the web version and optimize some UI displays",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-06-13 00:00:00+08:00",
+    "sha256_pak": "cc6048434a88bf77e3c0002c20e48613b0f2a0122a6ddf4b6125c528f9fb669c",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2217",
+    "filename": "523WA_v3102217_23051710_v10031",
+    "updated_at": "2023-06-13 10:23:20+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 413,
+    "model": "RLC-523WA",
+    "hw_ver": "IPC_523128M5MP",
+    "changelog": [
+      "1. Optimize network connection effect",
+      "2. Optimize the smart tracking effect",
+      "3. Optimize the AF focus function",
+      "4. Update the web version and optimize some UI displays",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-06-13 00:00:00+08:00",
+    "sha256_pak": "02a1f8610dc49abe81b3126ae8ba1ef02d78dd793cffd19f3ac409cb046f8b21",
+    "source": "live"
   }
 ]

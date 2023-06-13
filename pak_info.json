@@ -7689,9 +7689,27 @@
       "version_file": "2217_23051710"
     },
     "download": [
-      "https://support-d.reolink.com/attachments/token/KCvCCwPiYAQo4QMF77Bx6LAO6/?name=IPC_523128M5MP.2217_23051710.RLC-523WA.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
+      "https://support-d.reolink.com/attachments/token/KCvCCwPiYAQo4QMF77Bx6LAO6/?name=IPC_523128M5MP.2217_23051710.RLC-523WA.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak",
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/06/130205271686621927.9606.zip"
     ],
     "model_id": 154,
     "hw_ver_id": 254
+  },
+  "cc6048434a88bf77e3c0002c20e48613b0f2a0122a6ddf4b6125c528f9fb669c": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M8MP",
+      "board_name": "IPC_523128M8MP",
+      "build_date": "230517",
+      "display_type_info": "RLC-823A",
+      "detail_machine_type": "IPC_523128M8MP",
+      "type": "IPC",
+      "version_file": "2217_23051711"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/06/130219191686622759.7987.zip"
+    ],
+    "model_id": 151,
+    "hw_ver_id": 251
   }
 }
