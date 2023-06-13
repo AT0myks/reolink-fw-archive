@@ -7711,5 +7711,22 @@
     ],
     "model_id": 151,
     "hw_ver_id": 251
+  },
+  "61d82f8bbf985847b7193dcf5120a92058d9c6cd8642cf7e8d514d48f26db09f": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_560SD78MP",
+      "board_name": "IPC_560SD78MP",
+      "build_date": "230609",
+      "display_type_info": "RLC-830A",
+      "detail_machine_type": "IPC_560SD78MP",
+      "type": "IPC",
+      "version_file": "2318_23060906"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/06/131028421686652122.492.zip"
+    ],
+    "model_id": 184,
+    "hw_ver_id": 308
   }
 }

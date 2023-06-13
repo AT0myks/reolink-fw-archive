@@ -2617,5 +2617,21 @@
     "display_time": "2023-06-13 00:00:00+08:00",
     "sha256_pak": "02a1f8610dc49abe81b3126ae8ba1ef02d78dd793cffd19f3ac409cb046f8b21",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2318_23060906",
+    "filename": "RLC_830A_23060906",
+    "updated_at": "2023-06-13 18:30:03+08:00",
+    "note": "",
+    "firmware_id": 415,
+    "model": "RLC-830A",
+    "hw_ver": "IPC_560SD78MP",
+    "changelog": [
+      "1. Optimize the tracking algorithm and support vertical tracking",
+      "2. Add the animal detection function"
+    ],
+    "display_time": "2023-06-13 00:00:00+08:00",
+    "sha256_pak": "61d82f8bbf985847b7193dcf5120a92058d9c6cd8642cf7e8d514d48f26db09f",
+    "source": "live"
   }
 ]

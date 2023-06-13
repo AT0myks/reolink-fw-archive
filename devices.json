@@ -1163,5 +1163,20 @@
         "title": "IPC_523D8128M12MP"
       }
     ]
+  },
+  {
+    "id": 184,
+    "title": "RLC-830A",
+    "type": "IPC",
+    "productImg": "https://reolink.com/wp-content/uploads/2023/01/130709541673593794.6172.png",
+    "productUrl": "https://reolink.com/product/rlc-830a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 308,
+        "title": "IPC_560SD78MP"
+      }
+    ]
   }
 ]

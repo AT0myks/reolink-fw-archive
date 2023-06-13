@@ -1244,6 +1244,20 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>RLC-830A</summary>
+
+<img src="https://reolink.com/wp-content/uploads/2023/01/130709541673593794.6172.png" width="150">
+
+[Product page](https://reolink.com/product/rlc-830a/)
+
+  ### IPC_560SD78MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2318_23060906](https://home-cdn.reolink.us/wp-content/uploads/2023/06/131028421686652122.492.zip?download_name=RLC_830A_23060906.zip) | 2023‑06‑09 | <ol><li>Optimize the tracking algorithm and support vertical tracking</li><li>Add the animal detection function</li></ol> | 
+
+</details>
+
+<details>
   <summary>RLC-842A</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/uploads/2021/09/021016231630577783.2975.png" width="150">
