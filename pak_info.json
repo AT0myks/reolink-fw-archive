@@ -7728,5 +7728,22 @@
     ],
     "model_id": 184,
     "hw_ver_id": 308
+  },
+  "d98fb7e08f261d348d9d29132237c303c9b79bb6640bf28fc4212238ad9928b1": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523SD8",
+      "board_name": "IPC_523SD8",
+      "build_date": "230411",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_523SD8",
+      "type": "IPC",
+      "version_file": "1643_23041100"
+    },
+    "download": [
+      "https://support-d.reolink.com/attachments/token/OGUN4y1IYPT4H54LKgv4FrnPk/?name=IPC_523SD8.1643_23041100.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
+    ],
+    "model_id": 100039,
+    "hw_ver_id": 100040
   }
 }
