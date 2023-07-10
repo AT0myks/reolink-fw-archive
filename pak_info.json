@@ -7762,5 +7762,23 @@
     ],
     "model_id": 120,
     "hw_ver_id": 197
+  },
+  "50b593442cd39d7f9993c6bc7d1ab2b0f9cb3c1a3d6147f7d553660bdfb5d891": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523B1812MP",
+      "board_name": "IPC_523B1812MP",
+      "build_date": "220707",
+      "display_type_info": "RLC-1212A",
+      "detail_machine_type": "IPC_523B1812MP",
+      "type": "IPC",
+      "version_file": "1109_22070715"
+    },
+    "download": [
+      "https://support.reolink.com/attachments/token/pdvEwEbxYvZIXPW0tJgROequl/?name=IPC_523B1812MP.1109_22070715.RLC-1212A.OS12D40.12MP.REOLINK.pak"
+    ],
+    "model_id": 182,
+    "hw_ver_id": 100062,
+    "beta": true
   }
 }

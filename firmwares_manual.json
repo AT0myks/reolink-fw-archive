@@ -873,7 +873,11 @@
     "sha256_pak": "d66603c28a4876da7c89aa335f914d74d2a9ed9940b93febd136ae65e42f9e37",
     "source": "manual",
     "changelog": [
-        "Optimize focusing function and some connection issues"
+      "Optimize focusing function and some connection issues"
     ]
+  },
+  {
+    "sha256_pak": "50b593442cd39d7f9993c6bc7d1ab2b0f9cb3c1a3d6147f7d553660bdfb5d891",
+    "source": "manual"
   }
 ]

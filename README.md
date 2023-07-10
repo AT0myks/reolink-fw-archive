@@ -508,6 +508,7 @@ Version | Date | Changes | Notes
   ### IPC_523B1812MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1109_22070715](https://support.reolink.com/attachments/token/pdvEwEbxYvZIXPW0tJgROequl/?name=IPC_523B1812MP.1109_22070715.RLC-1212A.OS12D40.12MP.REOLINK.pak) | 2022‑07‑07 |  | :warning: This is a beta firmware
 [v3.1.0.956_22041515](https://drive.google.com/uc?id=1KmIKncd3wkDI_D-uArWmnISt-Ff3Ba_R&confirm=t) | 2022‑04‑15 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.1.0.861_22030365](https://drive.google.com/uc?id=1Kst8SYU3oWziuap3VJHJCeP_kqfP2iC0&confirm=t) | 2022‑03‑03 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.1.0.819_22020915](https://drive.google.com/uc?id=1ZaUeysbu3c4LOs9EZNDgNZz8b3_asYdR&confirm=t) | 2022‑02‑09 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
