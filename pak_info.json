@@ -7745,5 +7745,22 @@
     ],
     "model_id": 100039,
     "hw_ver_id": 100040
+  },
+  "d66603c28a4876da7c89aa335f914d74d2a9ed9940b93febd136ae65e42f9e37": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M8MP",
+      "board_name": "IPC_523128M8MP",
+      "build_date": "221224",
+      "display_type_info": "RLC-822A",
+      "detail_machine_type": "IPC_523128M8MP",
+      "type": "IPC",
+      "version_file": "1643_22122401"
+    },
+    "download": [
+      "https://support-d.reolink.com/attachments/token/sOqgLVUdAieuQbPLBkepxTNDt/?name=IPC_523128M8MP.1643_22122401.RLC-822A.IMX415.8MP.AF.REOLINK.pak"
+    ],
+    "model_id": 120,
+    "hw_ver_id": 197
   }
 }

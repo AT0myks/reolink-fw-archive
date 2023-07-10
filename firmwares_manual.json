@@ -865,5 +865,15 @@
   {
     "sha256_pak": "d98fb7e08f261d348d9d29132237c303c9b79bb6640bf28fc4212238ad9928b1",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/14hvlsj/comment/jpo2llf"
+    ],
+    "sha256_pak": "d66603c28a4876da7c89aa335f914d74d2a9ed9940b93febd136ae65e42f9e37",
+    "source": "manual",
+    "changelog": [
+        "Optimize focusing function and some connection issues"
+    ]
   }
 ]
