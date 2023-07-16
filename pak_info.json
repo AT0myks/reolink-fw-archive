@@ -6639,10 +6639,11 @@
       "version_file": "1046_22061302"
     },
     "download": [
-      "https://drive.google.com/uc?id=1MG2mYvj6nC6VkESnYLaOV3xSseEwnh-b&confirm=t"
+      "https://drive.google.com/uc?id=1jty6joBXXYKB68oY0DsW8QnKvHL9E2ou&confirm=t"
     ],
     "model_id": 173,
-    "hw_ver_id": 294
+    "hw_ver_id": 294,
+    "user_hosted_only": true
   },
   "dc544a5434aac2b81ab1ee113ee388f1eb2f22b9c00731b91e72892945872b8d": {
     "info": {

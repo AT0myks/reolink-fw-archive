@@ -1570,7 +1570,7 @@ Version | Date | Changes | Notes
 [v3.0.0.1514_22111400](https://home-cdn.reolink.us/wp-content/uploads/2022/11/160814371668586477.9388.zip?download_name=Reolink_TrackMix_PoE_22111400.zip) | 2022‑11‑14 | <ol><li>Added the schedule setting for Auto-tracking function</li><li>Added the horizontal tracking range setting for Auto-tracking</li><li>Optimized Auto-tracking effect</li><li>Optimized the picture smear problem when the PT motor is moving</li><li>Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears.</li><li>Added the function of importing and exporting preset images</li><li>Added fixed frame rate and monitor point settings on the Web Client</li><li>Fixed other bugs</li></ol> | 
 [v3.0.0.1123_22071300](https://drive.google.com/uc?id=1HDpfdZ-8cx7A3piGWE9QgfmIYW7T5_bp&confirm=t) | 2022‑07‑13 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.0.0.1080_22062200](https://drive.google.com/uc?id=12bti2liLQQQ-Ua4RjnEGOkCBZL-M2WDU&confirm=t) | 2022‑06‑22 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
-[v3.0.0.1046_22061302](https://drive.google.com/uc?id=1MG2mYvj6nC6VkESnYLaOV3xSseEwnh-b&confirm=t) | 2022‑06‑13 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
+[v3.0.0.1046_22061302](https://drive.google.com/uc?id=1jty6joBXXYKB68oY0DsW8QnKvHL9E2ou&confirm=t) | 2022‑06‑13 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 
 </details>
 
