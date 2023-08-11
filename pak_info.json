@@ -7815,5 +7815,22 @@
     ],
     "model_id": 9,
     "hw_ver_id": 309
+  },
+  "aadca1d810c14a764838940c19181a6e25aa64bd1c49382c321b051a354ec98a": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_56064M8MP",
+      "board_name": "IPC_56064M8MP",
+      "build_date": "230625",
+      "display_type_info": "RLC-820A",
+      "detail_machine_type": "IPC_56064M8MP",
+      "type": "IPC",
+      "version_file": "2368_23062508"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/08/110430021691728202.6612.zip"
+    ],
+    "model_id": 18,
+    "hw_ver_id": 310
   }
 }
