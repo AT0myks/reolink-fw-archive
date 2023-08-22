@@ -7832,5 +7832,22 @@
     ],
     "model_id": 18,
     "hw_ver_id": 310
+  },
+  "0a652f2e4da27660888ac4d3ad0a10293aae754bfbb7382209c552d4d7c4115e": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M5MP",
+      "board_name": "IPC_523128M5MP",
+      "build_date": "230712",
+      "display_type_info": "RLC-523WA",
+      "detail_machine_type": "IPC_523128M5MP",
+      "type": "IPC",
+      "version_file": "2447_23071208"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/08/220431011692678661.2779.zip"
+    ],
+    "model_id": 154,
+    "hw_ver_id": 254
   }
 }
