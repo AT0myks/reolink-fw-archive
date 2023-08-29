@@ -1186,5 +1186,20 @@
         "title": "IPC_560SD78MP"
       }
     ]
+  },
+  {
+    "id": 185,
+    "title": "E1 Outdoor Pro",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/05/160805511684224351.237.png",
+    "productUrl": "https://reolink.com/__/product/e1-outdoor-pro/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 311,
+        "title": "IPC_560SD88MP"
+      }
+    ]
   }
 ]

@@ -416,6 +416,20 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>E1 Outdoor Pro</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2023/05/160805511684224351.237.png" width="150">
+
+[Product page](https://reolink.com/__/product/e1-outdoor-pro/)
+
+  ### IPC_560SD88MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2515_23072809](https://home-cdn.reolink.us/wp-content/uploads/2023/08/291037231693305443.7283.zip?download_name=E1_Outdoor_Pro_2515_23072809.zip) | 2023‑07‑28 |  | 1. Optimize and solve some known bugs of the WiFi connection<br />2. Optimize Auto-tracking <br />3. Optimize Auto-focus<br />4. Optimzie Email Alert<br />5. Solve other known bugs
+
+</details>
+
+<details>
   <summary>E1 Pro</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png" width="150">
