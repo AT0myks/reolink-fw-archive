@@ -2724,5 +2724,81 @@
     "display_time": "2023-08-29 00:00:00+08:00",
     "sha256_pak": "17082f0ee33a7e035497e1078ea3ff863123cd867580adbc46eeade4595dcb66",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356",
+    "filename": "513_410W_2356_23062002",
+    "updated_at": "2023-08-30 19:34:36+08:00",
+    "note": "",
+    "firmware_id": 438,
+    "model": "RLC-410W",
+    "hw_ver": "IPC_51316M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the PTZ function",
+      "4. Optimize the WiFi connection",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-08-30 00:00:00+08:00",
+    "sha256_pak": "34699689dd8ab11ad6f8d125dd72d3cc967a6281f4d3c9ef4c951d17a1eebc36",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356",
+    "filename": "517_SD5_2356_23062000",
+    "updated_at": "2023-08-30 18:24:35+08:00",
+    "note": "",
+    "firmware_id": 435,
+    "model": "E1",
+    "hw_ver": "IPC_517SD5",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the PTZ function",
+      "4. Optimize the WiFi connection",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-08-30 00:00:00+08:00",
+    "sha256_pak": "5765a918c8961f6f6255e1a005529d5a595892718cd1d31c7173dbada886bf52",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356",
+    "filename": "513_SD5_2356_23062004",
+    "updated_at": "2023-08-30 19:24:11+08:00",
+    "note": "",
+    "firmware_id": 436,
+    "model": "E1 Pro",
+    "hw_ver": "IPC_513SD5",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the PTZ function",
+      "4. Optimize the WiFi connection",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-08-30 00:00:00+08:00",
+    "sha256_pak": "f479ac78352b6ed31da63eae0dd6050160acc501dd711872ac94b32a8806280d",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356",
+    "filename": "515_SD6_2356_23062008",
+    "updated_at": "2023-08-30 19:28:02+08:00",
+    "note": "",
+    "firmware_id": 437,
+    "model": "E1 Zoom",
+    "hw_ver": "IPC_515SD6",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the PTZ function",
+      "4. Optimize the WiFi connection",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-08-30 00:00:00+08:00",
+    "sha256_pak": "94d1a6e5f8ec394fc0bce8d6a7de6945cd0ac49328b345412c1989481a42ba08",
+    "source": "live"
   }
 ]

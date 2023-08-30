@@ -104,7 +104,7 @@
       "https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410W_354_19031112.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "6940c12324a11ff5b544f040b7e621a41b8dba0b8168cb34a5332544291fb346": {
     "info": {
@@ -121,7 +121,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190614firmware/RLC-410W_448_19061404.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "7d903f69116a4e64cb4b33ed2d6ea56c4820abe6ef5acad64bcbe62014ddab8e": {
     "info": {
@@ -677,7 +677,7 @@
       "https://home-cdn.reolink.us/files/firmware/20201119firmware+/RLC-410W_121_20111902.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "ba8978acd209e13f1fdaa972e7233dde6207b406936ac48ada08a1a8006555d0": {
     "info": {
@@ -1369,7 +1369,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/RLC-410W-4MP_65_20071002.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "66b14830d8e88b8b3b597567ee9ad5b85e4c930f710cf90e4de5ef79ad3b3580": {
     "info": {
@@ -2333,7 +2333,7 @@
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/171255541608209754.8148.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "28807f175605154adb2c364ca60411e15dc7b69e9bf61b56f802d196ab40e828": {
     "info": {
@@ -5263,7 +5263,7 @@
       "https://drive.google.com/uc?id=1qCkdqhuGttK6mXdMUfQ1DTt9oHWNqBgc&confirm=t"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "933cc0713a393a7e20ed9abda7c8e314bf37c1f9c52ead8f35f717af16042fe5": {
     "info": {
@@ -5934,7 +5934,7 @@
       "https://support.reolink.com/attachments/token/qy0kAe4SiRauPY1rO8fDI9Uvc/?name=RLC-410W_648_20031403.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "a5c0cb8770fdea677b2600d60d5d6fa81dce2573afae5792aa04f95177d0858d": {
     "info": {
@@ -7437,7 +7437,7 @@
       "https://github.com/AT0myks/reolink-fw-archive/files/11315740/IPC_51316M.757_21121503.RLC-410W.ov4689.4MP.WIFI1021.REOLINK.zip"
     ],
     "model_id": 94,
-    "hw_ver_id": 100033
+    "hw_ver_id": 274
   },
   "924eda34cd604a698ab3de2078b0982998ee50bc9c08a8dd3dc206ebe756ccb8": {
     "info": {
@@ -7866,5 +7866,73 @@
     ],
     "model_id": 185,
     "hw_ver_id": 311
+  },
+  "34699689dd8ab11ad6f8d125dd72d3cc967a6281f4d3c9ef4c951d17a1eebc36": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_51316M",
+      "board_name": "IPC_51316M",
+      "build_date": "230620",
+      "display_type_info": "RLC-410W",
+      "detail_machine_type": "IPC_51316M",
+      "type": "IPC",
+      "version_file": "2356_23062002"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/08/301129191693394959.8303.zip"
+    ],
+    "model_id": 94,
+    "hw_ver_id": 274
+  },
+  "5765a918c8961f6f6255e1a005529d5a595892718cd1d31c7173dbada886bf52": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_517SD5",
+      "board_name": "IPC_51716M",
+      "build_date": "230620",
+      "display_type_info": "E1",
+      "detail_machine_type": "IPC_51716M",
+      "type": "IPC",
+      "version_file": "2356_23062000"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/08/301024131693391053.6834.zip"
+    ],
+    "model_id": 76,
+    "hw_ver_id": 109
+  },
+  "f479ac78352b6ed31da63eae0dd6050160acc501dd711872ac94b32a8806280d": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_513SD5",
+      "board_name": "IPC_51316M",
+      "build_date": "230620",
+      "display_type_info": "E1 Pro",
+      "detail_machine_type": "IPC_51316M",
+      "type": "IPC",
+      "version_file": "2356_23062004"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/08/301124021693394642.2934.zip"
+    ],
+    "model_id": 81,
+    "hw_ver_id": 114
+  },
+  "94d1a6e5f8ec394fc0bce8d6a7de6945cd0ac49328b345412c1989481a42ba08": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_515SD6",
+      "board_name": "IPC_515SD6",
+      "build_date": "230620",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_515SD6",
+      "type": "IPC",
+      "version_file": "2356_23062008"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/08/301127531693394873.8292.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 205
   }
 }
