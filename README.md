@@ -1143,6 +1143,11 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2368_23062505](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip?download_name=RLC_810A_2368_23062505.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
 
+  ### IPC_56064M8MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2368_23062505](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip?download_name=RLC_810A_2368_23062505.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
+
 </details>
 
 <details>
@@ -1200,6 +1205,11 @@ Version | Date | Changes | Notes
 [v3.0.0.124_20112601](https://home-cdn.reolink.us/files/firmware/20201126Firmware/RLC-820A_124_20112601.zip) | 2020‑11‑26 | <ol><li>Solved the problem that common users cannot turn on push notifications.</li><li>Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.</li><li>Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.</li><li>Solved H265 freezing issue on Blue Iris.</li><li>MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.</li><li>Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.</li><li>Solved the flickering problem when set to the lowest exposure value (50Hz).</li></ol> | [Archive](https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-)
 
   ### IPC_560128M8MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2368_23062508](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110430021691728202.6612.zip?download_name=RLC_820A_2368_23062508.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
+
+  ### IPC_56064M8MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2368_23062508](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110430021691728202.6612.zip?download_name=RLC_820A_2368_23062508.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 

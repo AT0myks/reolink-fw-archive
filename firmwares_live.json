@@ -2662,7 +2662,7 @@
     "note": "",
     "firmware_id": 429,
     "model": "RLC-810A",
-    "hw_ver": "IPC_560128M8MP",
+    "hw_ver": "IPC_56064M8MP",
     "changelog": [
       "1. Optimize IPC HDR function for adapting Reolink Client",
       "2. Optimize the accuracy of email alarm",
@@ -2677,11 +2677,11 @@
   {
     "version": "v3.1.0.2368_23062508",
     "filename": "RLC_820A_2368_23062508",
-    "updated_at": "2023-08-11 12:31:08+08:00",
+    "updated_at": "2023-08-31 16:23:45+08:00",
     "note": "",
     "firmware_id": 431,
     "model": "RLC-820A",
-    "hw_ver": "IPC_560128M8MP",
+    "hw_ver": "IPC_56064M8MP",
     "changelog": [
       "1. Optimize IPC HDR function for adapting Reolink Client",
       "2. Optimize the accuracy of email alarm",
