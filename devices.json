@@ -1209,5 +1209,20 @@
         "title": "IPC_560SD88MP"
       }
     ]
+  },
+  {
+    "id": 186,
+    "title": "CX410",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/05/160656001684220160.3717.png",
+    "productUrl": "https://reolink.com/us/product/cx410/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 312,
+        "title": "IPC_NT1NA44MP"
+      }
+    ]
   }
 ]

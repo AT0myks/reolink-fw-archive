@@ -293,6 +293,20 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>CX410</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2023/05/160656001684220160.3717.png" width="150">
+
+[Product page](https://reolink.com/us/product/cx410/)
+
+  ### IPC_NT1NA44MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2501_23072503](https://home-cdn.reolink.us/wp-content/uploads/2023/09/010311281693537888.5417.zip?download_name=CX410_2501_23072503.zip) | 2023‑07‑25 | <ol><li>Optimize the Spolight modes</li><li>Optimize the night vision</li><li>Add HDR switch</li><li>Fix some known bugs</li></ol> | 
+
+</details>
+
+<details>
   <summary>D1200</summary>
 
 [Product page](https://reolink.com/product/rlk8-1200d4-a/)
