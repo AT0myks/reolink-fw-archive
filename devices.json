@@ -90,6 +90,10 @@
       {
         "id": 267,
         "title": "IPC_515B8M5M"
+      },
+      {
+        "id": 313,
+        "title": "IPC_515B8M5M_V2"
       }
     ],
     "discontinued": true
@@ -148,6 +152,10 @@
       {
         "id": 272,
         "title": "IPC_5158MP8M"
+      },
+      {
+        "id": 315,
+        "title": "IPC_5158M8M_V2"
       }
     ],
     "discontinued": "RLC-820A"
@@ -168,6 +176,10 @@
       {
         "id": 265,
         "title": "IPC_515B8M5M"
+      },
+      {
+        "id": 314,
+        "title": "IPC_515B8M5M_V2"
       }
     ],
     "discontinued": true
@@ -224,6 +236,10 @@
       {
         "id": 271,
         "title": "IPC_5158MP8M"
+      },
+      {
+        "id": 316,
+        "title": "IPC_5158M8M_V2"
       }
     ],
     "discontinued": "RLC-810A"

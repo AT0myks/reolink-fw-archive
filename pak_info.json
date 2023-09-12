@@ -51,7 +51,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20201210firmware/D500_136_20120915.zip"
     ],
     "model_id": 161,
-    "hw_ver_id": 267
+    "hw_ver_id": 313
   },
   "2c95202efcf55af35e97bab10805189cf864b91514b13ee05c161b5dce188f3f": {
     "info": {
@@ -69,7 +69,7 @@
       "https://home-cdn.reolink.us/wp-content/uploads/2022/06/170431531655440313.0447.zip"
     ],
     "model_id": 161,
-    "hw_ver_id": 267
+    "hw_ver_id": 313
   },
   "fffe0694922eb5bbdd361f64b2e8ada1dbadb414c950526145ecc2d9641af0b1": {
     "info": {
@@ -1814,7 +1814,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20201210firmware/B500_136_20120914.zip"
     ],
     "model_id": 160,
-    "hw_ver_id": 265
+    "hw_ver_id": 314
   },
   "831f5e0b9f8d3cf1e13c38833c02e8acb51f15707757de33efdd7b17afc6216e": {
     "info": {
@@ -2454,7 +2454,7 @@
       "https://home-cdn.reolink.us/wp-content/uploads/2021/02/010418121612153092.6544.zip"
     ],
     "model_id": 160,
-    "hw_ver_id": 265
+    "hw_ver_id": 314
   },
   "12eb5a62b26810a158c32731267cfe6b996f21c3d8ebf51cd2fe2c48ab16e3a8": {
     "info": {
@@ -7951,5 +7951,73 @@
     ],
     "model_id": 186,
     "hw_ver_id": 312
+  },
+  "add60f8ffe537a8fc54a4ad60d240da7b583ea1d018d4a93efd93bb736e21dd4": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_515B8M5M_V2",
+      "board_name": "IPC_515B8M5M_V2",
+      "build_date": "230629",
+      "display_type_info": "D500",
+      "detail_machine_type": "IPC_515B8M5M_V2",
+      "type": "IPC",
+      "version_file": "2379_23062901"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/09/120313091694488389.8595.zip"
+    ],
+    "model_id": 161,
+    "hw_ver_id": 313
+  },
+  "c582a72f16af32102acffd4394eb9cdbfa8b7d4f3a47eb5851b5276590a1403b": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_5158M8M_V2",
+      "board_name": "IPC_5158M8M_V2",
+      "build_date": "230627",
+      "display_type_info": "D800",
+      "detail_machine_type": "IPC_5158M8M_V2",
+      "type": "IPC",
+      "version_file": "2379_23062703"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/09/120401221694491282.9054.zip"
+    ],
+    "model_id": 162,
+    "hw_ver_id": 315
+  },
+  "213b684b1d5c34e2ceb59b002cacc807b21bbfe9d3ed13fdd8260d62e3cf11e9": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_515B8M5M_V2",
+      "board_name": "IPC_515B8M5M_V2",
+      "build_date": "230629",
+      "display_type_info": "B500",
+      "detail_machine_type": "IPC_515B8M5M_V2",
+      "type": "IPC",
+      "version_file": "2379_23062900"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/09/120318021694488682.1128.zip"
+    ],
+    "model_id": 160,
+    "hw_ver_id": 314
+  },
+  "d35830d481afbe12bdb24f0d6b7666bb0edc68fe9b4ce325231d42f44435ec1a": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_5158M8M_V2",
+      "board_name": "IPC_5158M8M_V2",
+      "build_date": "230627",
+      "display_type_info": "B800",
+      "detail_machine_type": "IPC_5158M8M_V2",
+      "type": "IPC",
+      "version_file": "2379_23062702"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/09/120404371694491477.9399.zip"
+    ],
+    "model_id": 157,
+    "hw_ver_id": 316
   }
 }
