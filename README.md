@@ -1220,6 +1220,20 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>RLC-81PA</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2023/05/250937451685007465.3074.png" width="150">
+
+[Product page](https://reolink.com/product/rlc-81pa/)
+
+  ### IPC_56064M8MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2557_23080802](https://home-cdn.reolink.us/wp-content/uploads/2023/09/190805551695110755.9205.zip?download_name=RLC_81PA_2557_23080802.zip) | 2023‑08‑08 | <ol><li>Optimize smart detection</li><li>Support horizontal auto-tracking</li><li>Fix some known bugs</li></ol> | 
+
+</details>
+
+<details>
   <summary>RLC-820A</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/uploads/2021/07/310158421627696722.9425.png" width="150">

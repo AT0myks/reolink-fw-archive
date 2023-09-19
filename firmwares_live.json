@@ -2920,5 +2920,22 @@
     "display_time": "2023-09-19 00:00:00+08:00",
     "sha256_pak": "e4ea17539f03465d09c1736b2f84748d8f06d357e75b6b493c244a11d639af6a",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2557_23080802",
+    "filename": "RLC_81PA_2557_23080802",
+    "updated_at": "2023-09-19 16:09:34+08:00",
+    "note": "",
+    "firmware_id": 445,
+    "model": "RLC-81PA",
+    "hw_ver": "IPC_56064M8MP",
+    "changelog": [
+      "1. Optimize smart detection",
+      "2. Support horizontal auto-tracking",
+      "3. Fix some known bugs"
+    ],
+    "display_time": "2023-09-19 00:00:00+08:00",
+    "sha256_pak": "04bc43b9bd7b76b59a88f55099a187431c8ea818c8f69c0ff0e0d78edf8808f0",
+    "source": "live"
   }
 ]

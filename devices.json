@@ -1240,5 +1240,20 @@
         "title": "IPC_NT1NA44MP"
       }
     ]
+  },
+  {
+    "id": 187,
+    "title": "RLC-81PA",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/05/250937451685007465.3074.png",
+    "productUrl": "https://reolink.com/product/rlc-81pa/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 317,
+        "title": "IPC_56064M8MP"
+      }
+    ]
   }
 ]

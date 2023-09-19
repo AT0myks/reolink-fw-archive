@@ -8036,5 +8036,22 @@
     ],
     "model_id": 91,
     "hw_ver_id": 303
+  },
+  "04bc43b9bd7b76b59a88f55099a187431c8ea818c8f69c0ff0e0d78edf8808f0": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_56064M8MP",
+      "board_name": "IPC_56064M8MP",
+      "build_date": "230808",
+      "display_type_info": "RLC-81PA",
+      "detail_machine_type": "IPC_56064M8MP",
+      "type": "IPC",
+      "version_file": "2557_23080802"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/09/190805551695110755.9205.zip"
+    ],
+    "model_id": 187,
+    "hw_ver_id": 317
   }
 }
