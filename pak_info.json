@@ -8019,5 +8019,22 @@
     ],
     "model_id": 157,
     "hw_ver_id": 316
+  },
+  "e4ea17539f03465d09c1736b2f84748d8f06d357e75b6b493c244a11d639af6a": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD664M5MP",
+      "board_name": "IPC_566SD664M5MP",
+      "build_date": "230831",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_566SD664M5MP",
+      "type": "IPC",
+      "version_file": "2649_23083101"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/09/190238051695091085.1403.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 303
   }
 }
