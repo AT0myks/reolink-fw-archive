@@ -1345,6 +1345,7 @@ Version | Date | Changes | Notes
   ### IPC_560SD78MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2515_23082406](https://home-cdn.reolink.us/wp-content/uploads/2023/09/260155301695693330.9187.zip?download_name=RLC_830A_23082406.zip) | 2023‑08‑24 | <ol><li>Optimize the tracking algorithm and support vertical tracking</li><li>Add the animal detection function</li><li>Optimize smart detection</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2318_23060906](https://home-cdn.reolink.us/wp-content/uploads/2023/06/131028421686652122.492.zip?download_name=RLC_830A_23060906.zip) | 2023‑06‑09 | <ol><li>Optimize the tracking algorithm and support vertical tracking</li><li>Add the animal detection function</li></ol> | 
 
 </details>
