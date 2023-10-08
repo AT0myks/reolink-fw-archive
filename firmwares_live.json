@@ -2955,5 +2955,166 @@
     "display_time": "2023-09-26 00:00:00+08:00",
     "sha256_pak": "b546ffe22628bab5a5d8f405bfbd03bc30eb0406ad2f36899f03ed399cffa431",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062000",
+    "filename": "515_410_5MP_v3002356_23062000",
+    "updated_at": "2023-10-08 10:17:53+08:00",
+    "note": "",
+    "firmware_id": 448,
+    "model": "RLC-410-5MP",
+    "hw_ver": "IPC_51516M5M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the WiFi connection",
+      "4. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "d09e8df8c373927abeac664f6db024a7d6aa5cba21a54e67df75d592bea1f119",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062000",
+    "filename": "515B_410_5MP_v3002356_23062000",
+    "updated_at": "2023-10-08 10:06:47+08:00",
+    "note": "",
+    "firmware_id": 455,
+    "model": "RLC-410-5MP",
+    "hw_ver": "IPC_515B16M5M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Fix some known bugs"
+    ],
+    "display_time": "2023-10-08 00:00:00+08:00",
+    "sha256_pak": "b4314484b272d4680187677cdf6efe4f41585a8acef8bb42740ece440f8cd1a1",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062002",
+    "filename": "515_410W_5MP_v3002356_23062002",
+    "updated_at": "2023-10-08 10:17:33+08:00",
+    "note": "",
+    "firmware_id": 449,
+    "model": "RLC-410W-5MP",
+    "hw_ver": "IPC_51516M5M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the WiFi connection",
+      "4. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "bccd50e7574a63f1a40666add1d78990ce9f2c05028d0c528b24597001f56f9a",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062002",
+    "filename": "515B_410W_5MP_v3002356_23062002",
+    "updated_at": "2023-10-08 10:11:05+08:00",
+    "note": "",
+    "firmware_id": 453,
+    "model": "RLC-410W-5MP",
+    "hw_ver": "IPC_515B16M5M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the WiFi connection",
+      "4. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "5a923c70de11ad509377472295908afe5a5350a3d8429002ed5a816d62284987",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062000",
+    "filename": "513_410_v3002356_23062000",
+    "updated_at": "2023-10-08 10:18:23+08:00",
+    "note": "",
+    "firmware_id": 447,
+    "model": "RLC-410",
+    "hw_ver": "IPC_51316M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "4fc6f7691a5c3a5032493314e08ae62816d528c740ca50c988c3c63b5f03f541",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062004",
+    "filename": "515_511W_v3002356_23062004",
+    "updated_at": "2023-10-08 10:12:30+08:00",
+    "note": "",
+    "firmware_id": 451,
+    "model": "RLC-511W",
+    "hw_ver": "IPC_51516M5M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the WiFi connection",
+      "4. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "8f02c9e77c30924ef64f8c6eea7f9680395fc5969f44aa35b07f6c51e58c710d",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062003",
+    "filename": "515_511_v3002356_23062003",
+    "updated_at": "2023-10-08 10:17:23+08:00",
+    "note": "",
+    "firmware_id": 450,
+    "model": "RLC-511",
+    "hw_ver": "IPC_51516M5M",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "d756af2ec76f1eb879d73f4d41ed39f6c67e6272d40bf1e5dcdb40ed1543470a",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062013",
+    "filename": "515_E1_Pro_v3002356_23062013",
+    "updated_at": "2023-10-08 10:11:26+08:00",
+    "note": "",
+    "firmware_id": 452,
+    "model": "E1 Pro",
+    "hw_ver": "IPC_515SD5",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the PTZ function",
+      "4. Optimize the WiFi connection",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "027deb1f5c37749ca0d3e2aa818e98aa5e0dd8283d8b6eb52ea83a077dea1d80",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2356_23062008",
+    "filename": "515B_E1_Zoom_v3002356_23062008",
+    "updated_at": "2023-10-08 10:09:48+08:00",
+    "note": "",
+    "firmware_id": 454,
+    "model": "E1 Zoom",
+    "hw_ver": "IPC_515BSD6",
+    "changelog": [
+      "1. Optimize the network feature",
+      "2. Update the web UI version",
+      "3. Optimize the PTZ function",
+      "4. Optimize the WiFi connection",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-10-07 00:00:00+08:00",
+    "sha256_pak": "84e3f7fc14c363dd2b444b6bf06fd7d8d375cc291e48f09fe2b10fa8f26a14df",
+    "source": "live"
   }
 ]

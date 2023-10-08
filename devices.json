@@ -104,7 +104,13 @@
     "type": "IPC",
     "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210755201642751720.2811.png",
     "productUrl": "https://reolink.com/product/rlc-410w/",
-    "variations": [],
+    "variations": [
+      {
+        "id": 165,
+        "title": "RLC-410W-5MP",
+        "type": "IPC"
+      }
+    ],
     "contains": [],
     "hardwareVersions": [
       {
@@ -1253,6 +1259,44 @@
       {
         "id": 317,
         "title": "IPC_56064M8MP"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "title": "RLC-410-5MP",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/2018/05/rlc-410-340.png",
+    "productUrl": "https://reolink.com/us/product/rlc-410/?attribute_pa_version=1-pack",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 319,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 318,
+        "title": "IPC_515B16M5M"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "title": "RLC-410W-5MP",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210755201642751720.2811.png",
+    "productUrl": "https://reolink.com/product/rlc-410w/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 283,
+        "title": "IPC_51516M5M"
+      },
+      {
+        "id": 282,
+        "title": "IPC_515B16M5M"
       }
     ]
   }
