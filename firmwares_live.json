@@ -3116,5 +3116,84 @@
     "display_time": "2023-10-07 00:00:00+08:00",
     "sha256_pak": "84e3f7fc14c363dd2b444b6bf06fd7d8d375cc291e48f09fe2b10fa8f26a14df",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2649_23083102",
+    "filename": "E1Outdoor_v3102649_23083102",
+    "updated_at": "2023-10-09 11:17:32+08:00",
+    "note": "",
+    "firmware_id": 457,
+    "model": "E1 Outdoor",
+    "hw_ver": "IPC_566SD85MP",
+    "changelog": [
+      "1. Optimize smart detection",
+      "2. Optimize auto-tracking",
+      "3. Optimize the network module",
+      "4. Optimize calibration",
+      "5. Optimize recording",
+      "6. Fix some known bugs"
+    ],
+    "display_time": "2023-10-09 00:00:00+08:00",
+    "sha256_pak": "0b3877fd6e065988b1c639ef0b8d12b168c5fe29704a54f495cb31f3fb5135d5",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2647_23083100",
+    "filename": "E1_v3102647_23083100",
+    "updated_at": "2023-10-09 12:18:51+08:00",
+    "note": "",
+    "firmware_id": 459,
+    "model": "E1",
+    "hw_ver": "IPC_566SD53MP",
+    "changelog": [
+      "1. Optimize smart detection",
+      "2. Optimize the network module",
+      "3. Optimize calibration",
+      "4. Optimize recording",
+      "5. Fix some known bugs"
+    ],
+    "display_time": "2023-10-09 00:00:00+08:00",
+    "sha256_pak": "20642351d3ab24756b8ceae752ebe296bdf66dd41bcd465940136918d9ba2159",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2647_23083100",
+    "filename": "E1Pro_v3102647_23083100",
+    "updated_at": "2023-10-09 12:05:57+08:00",
+    "note": "",
+    "firmware_id": 458,
+    "model": "E1 Pro",
+    "hw_ver": "IPC_566SD54MP",
+    "changelog": [
+      "1. Optimize smart detection",
+      "2. Optimize auto-tracking",
+      "3. Optimize the network module",
+      "4. Optimize calibration",
+      "5. Optimize recording",
+      "6. Fix some known bugs"
+    ],
+    "display_time": "2023-10-09 00:00:00+08:00",
+    "sha256_pak": "a0f2d5d7df8bc52169b3c1449d1e6c29b92be3b198795b03b1b421bb2a40e8a6",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2649_23083102",
+    "filename": "E1Zoom_v3102649_23083102",
+    "updated_at": "2023-10-09 10:54:56+08:00",
+    "note": "",
+    "firmware_id": 456,
+    "model": "E1 Zoom",
+    "hw_ver": "IPC_566SD65MP",
+    "changelog": [
+      "1. Optimize smart detection",
+      "2. Optimize auto-tracking",
+      "3. Optimize the network module",
+      "4. Optimize calibration",
+      "5. Optimize recording",
+      "6. Fix some known bugs"
+    ],
+    "display_time": "2023-10-09 00:00:00+08:00",
+    "sha256_pak": "1c05ff97231e754fc19cd79dc6428a33b7168ee58e96fa51fe931724b46b29be",
+    "source": "live"
   }
 ]

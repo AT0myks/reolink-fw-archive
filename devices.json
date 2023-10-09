@@ -564,6 +564,10 @@
       {
         "id": 109,
         "title": "IPC_517SD5"
+      },
+      {
+        "id": 322,
+        "title": "IPC_566SD53MP"
       }
     ]
   },
@@ -583,6 +587,10 @@
       {
         "id": 232,
         "title": "IPC_515SD5"
+      },
+      {
+        "id": 321,
+        "title": "IPC_566SD54MP"
       }
     ]
   },
@@ -952,7 +960,7 @@
     "discontinued": true
   },
   {
-    "id": 100039,
+    "id": 123,
     "title": "E1 Outdoor",
     "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/050715191614928519.1298.png",
     "productUrl": "https://reolink.com/product/e1-outdoor/",
@@ -960,8 +968,15 @@
       {
         "id": 100040,
         "title": "IPC_523SD8"
+      },
+      {
+        "id": 320,
+        "title": "IPC_566SD85MP"
       }
-    ]
+    ],
+    "type": "IPC",
+    "variations": [],
+    "contains": []
   },
   {
     "id": 100004,

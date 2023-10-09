@@ -1728,7 +1728,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20210227firmware/E1-Outdoor.197_21022706..zip"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "389e763a84ef1b21cd56dd4e053c22e8a9243ab1f15ada5c743e6c070657b0b8": {
@@ -6556,7 +6556,7 @@
     "download": [
       "https://drive.google.com/uc?id=12gn4NVw4v_DABQ8b_XKmQJ3tUFId2n7y&confirm=t"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "9881e0fcca7684e03d336dc06714f6c2b37001127bd58a41e0da39fd977b6617": {
@@ -6573,7 +6573,7 @@
     "download": [
       "https://drive.google.com/uc?id=1iduVRpBXk2vw4L7V4cSASzkSbDl0upBX&confirm=t"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "af69d285a324f6fe971148d8c6463cc9bd0553c382bc00cc99624ddc4c815283": {
@@ -6745,7 +6745,7 @@
     "download": [
       "https://drive.google.com/uc?id=1piUxktFScSkI622ThgOzKexD1UdgFPI4&confirm=t"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040,
     "user_hosted_only": true
   },
@@ -7297,7 +7297,7 @@
     "download": [
       "https://support.reolink.com/attachments/token/earovP2n9ndB7vFrzTAbtAQsS/?name=IPC_523SD8.1643_22122400.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "eeb50cd063f435455eeca756803db9765318d64e15f498806dc3e743aa3e8658": {
@@ -7383,7 +7383,7 @@
     "download": [
       "https://support.reolink.com/attachments/token/7k5v4dY8P7nXXGfNynLxQNkOh/?name=IPC_523SD8.804_22011506.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "0959973d59bd77bc08bad714426571bfe6e43a5d5ea34ad428e83afba2379f6e": {
@@ -7418,7 +7418,7 @@
     "download": [
       "https://support-d.reolink.com/attachments/token/rngyK0yBtNIqpdAEaAuUDtfVr/?name=IPC_523SD8.1584_22120966.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "3f475930b0684b56dd2677d1073d214cfa7685c43c0468161be55aff386f338c": {
@@ -7522,7 +7522,7 @@
     "download": [
       "https://support-d.reolink.com/attachments/token/3FVDyr7FnfXKiHrbI3ihfGwzW/?name=IPC_523SD8.804_22012406.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK%28open_ai_trace%29.pak"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "13cc3699e8df461da635dd10118b6571c175829b7ab4e1368ca49fab12d63eb1": {
@@ -7744,7 +7744,7 @@
     "download": [
       "https://support-d.reolink.com/attachments/token/OGUN4y1IYPT4H54LKgv4FrnPk/?name=IPC_523SD8.1643_23041100.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
-    "model_id": 100039,
+    "model_id": 123,
     "hw_ver_id": 100040
   },
   "d66603c28a4876da7c89aa335f914d74d2a9ed9940b93febd136ae65e42f9e37": {
@@ -8223,5 +8223,73 @@
     ],
     "model_id": 91,
     "hw_ver_id": 127
+  },
+  "0b3877fd6e065988b1c639ef0b8d12b168c5fe29704a54f495cb31f3fb5135d5": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD85MP",
+      "board_name": "IPC_566SD85MP",
+      "build_date": "230831",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_566SD85MP",
+      "type": "IPC",
+      "version_file": "2649_23083102"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip"
+    ],
+    "model_id": 123,
+    "hw_ver_id": 320
+  },
+  "20642351d3ab24756b8ceae752ebe296bdf66dd41bcd465940136918d9ba2159": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD53MP",
+      "board_name": "IPC_566SD53MP",
+      "build_date": "230831",
+      "display_type_info": "E1",
+      "detail_machine_type": "IPC_566SD53MP",
+      "type": "IPC",
+      "version_file": "2647_23083100"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/10/090413121696824792.4352.zip"
+    ],
+    "model_id": 76,
+    "hw_ver_id": 322
+  },
+  "a0f2d5d7df8bc52169b3c1449d1e6c29b92be3b198795b03b1b421bb2a40e8a6": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD54MP",
+      "board_name": "IPC_566SD54MP",
+      "build_date": "230831",
+      "display_type_info": "E1 Pro",
+      "detail_machine_type": "IPC_566SD54MP",
+      "type": "IPC",
+      "version_file": "2647_23083100"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/10/090405421696824342.4095.zip"
+    ],
+    "model_id": 81,
+    "hw_ver_id": 321
+  },
+  "1c05ff97231e754fc19cd79dc6428a33b7168ee58e96fa51fe931724b46b29be": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD65MP",
+      "board_name": "IPC_566SD65MP",
+      "build_date": "230831",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_566SD65MP",
+      "type": "IPC",
+      "version_file": "2649_23083102"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/10/090251351696819895.8968.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 304
   }
 }

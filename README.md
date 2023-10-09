@@ -426,6 +426,11 @@ Version | Date | Changes | Notes
 [v3.0.0.115_20102200](https://home-cdn.reolink.us/wp-content/uploads/2020/12/200448021608439682.2159.zip?download_name=firmware_E1_115_20102200.zip)<br />[v3.0.0.115_20102200](https://reolink-storage.s3.amazonaws.com/website/firmware/20201022firmware+/E1_115_20102200.zip) | 2020‑10‑22 | <ol><li>Added the preset feature.</li><li>Fixed the problem that the email test fails when the email password is blank.</li><li>Optimized cloud transmission performance.</li><li>Optimized the network transmission protocol.</li><li>Fixed some known bugs.</li></ol> | This firmware is ONLY for E1(with hardware version IPC_517SD5).<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
 [v3.0.0.42_20062900](https://reolink-storage.s3.amazonaws.com/website/firmware/20200629firmware/E1_42_20062900.zip) | 2020‑06‑29 | <ol><li>Added multiple languages for the voice prompt when scanning the QR code to set up the camera.</li><li>Added the thumbnail function-Reolink APP will display the image of each motion event during playback.</li><li>Fixed the bug when connecting the camera in different Vlan via Reolink app/client.</li></ol> | [Archive](https://web.archive.org/web/20200926093027/https://support.reolink.com/hc/en-us/articles/900001664643-06-29-2020-Firmware-for-E1-IPC-517SD5-and-E1-Pro-513SD5-)
 
+  ### IPC_566SD53MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090413121696824792.4352.zip?download_name=E1_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
+
 </details>
 
 <details>
@@ -447,6 +452,11 @@ Version | Date | Changes | Notes
 [v3.1.0.804_22012406](https://support-d.reolink.com/attachments/token/3FVDyr7FnfXKiHrbI3ihfGwzW/?name=IPC_523SD8.804_22012406.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK%28open_ai_trace%29.pak) | 2022‑01‑24 | Supports animal detection | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/16)
 [v3.1.0.804_22011506](https://support.reolink.com/attachments/token/7k5v4dY8P7nXXGfNynLxQNkOh/?name=IPC_523SD8.804_22011506.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2022‑01‑15 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/9)
 [v3.0.0.197_21022706](https://reolink-storage.s3.amazonaws.com/website/firmware/20210227firmware/E1-Outdoor.197_21022706..zip) | 2021‑02‑27 | <ol><li>Solved the problem that some APP versions are not compatible with the automatic tracking function and the spotlight function.</li><li>Optimized the auto tracking function.</li><li>Optimized the PTZ function.</li><li>Optimized Person and Vehicle Detection.</li></ol> | [Archive](https://web.archive.org/web/20210613000536/https://support.reolink.com/hc/en-us/articles/900005803523-27th-Feb-2021-Firmware-for-E1-Outdoor-IPC-523SD8-)
+
+  ### IPC_566SD85MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip?download_name=E1Outdoor_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 
 </details>
 
@@ -492,6 +502,11 @@ Version | Date | Changes | Notes
 [v3.0.0.716_21112413](https://home-cdn.reolink.us/wp-content/uploads/2021/11/291057541638183474.2118.zip?download_name=E1_Pro_v30071621112413_IPC_515SD5.zip) | 2021‑11‑24 | <ol><li>Modify the initialization process, prompting the scan to be modified from the sound effect to five languages.</li><li>Optimize the P2P connection and modify the P2P connection failure problem in some scenarios.</li><li>Modify the blueish problem of the image in some specific scenes.</li></ol> | This firmware is ONLY for E1 Pro(with hardware version IPC_515SD5).<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
 [v3.0.0.597_21091002](https://drive.google.com/uc?id=1UVDXKww4SU8MOvSZBP0uCL7o3dTgzZiH&confirm=t) | 2021‑09‑10 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/)<br />[Source 2](https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb)
 
+  ### IPC_566SD54MP
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090405421696824342.4095.zip?download_name=E1Pro_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
+
 </details>
 
 <details>
@@ -525,6 +540,7 @@ Version | Date | Changes | Notes
   ### IPC_566SD65MP
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090251351696819895.8968.zip?download_name=E1Zoom_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.1975_23042102](https://home-cdn.reolink.us/wp-content/uploads/2023/05/310820071685521207.4716.zip?download_name=E1_Zoom_v3101975_23042102_IPC_566SD65MP.zip) | 2023‑04‑21 | <ol><li>Optimize the focusing effect under night vision.</li><li>Solve other known bugs.</li></ol> | 
 
   ### IPC_566SD664M5MP
