@@ -103,7 +103,7 @@
     "download": [
       "https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410W_354_19031112.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "6940c12324a11ff5b544f040b7e621a41b8dba0b8168cb34a5332544291fb346": {
@@ -120,7 +120,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190614firmware/RLC-410W_448_19061404.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "7d903f69116a4e64cb4b33ed2d6ea56c4820abe6ef5acad64bcbe62014ddab8e": {
@@ -625,8 +625,8 @@
     "download": [
       "https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410-5MP_354_19031100.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319
+    "model_id": 52,
+    "hw_ver_id": 82
   },
   "73dcc6aa2e613a1add09caf09a6146d06508562f3839693a343fb99b9af8eaeb": {
     "info": {
@@ -676,7 +676,7 @@
     "download": [
       "https://home-cdn.reolink.us/files/firmware/20201119firmware+/RLC-410W_121_20111902.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "ba8978acd209e13f1fdaa972e7233dde6207b406936ac48ada08a1a8006555d0": {
@@ -833,7 +833,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20201211firmware/RLC-410_136_20121100.zip",
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/171217251608207445.3523.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 79
   },
   "d782acfd586b7849c33eba751bfebe71560555617dd0f244da61ac3e9f1e3539": {
@@ -850,8 +850,8 @@
     "download": [
       "https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410W-5MP_354_19031102.zip"
     ],
-    "model_id": 165,
-    "hw_ver_id": 283
+    "model_id": 94,
+    "hw_ver_id": 277
   },
   "0e0118a003bd9f3f2b9816c3a7032a6d5fce61ac31af2c103d08d284224e2105": {
     "info": {
@@ -987,8 +987,8 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20201211firmware/RLC-410W-5MP_136_20121102.zip",
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/181032201608287540.9848.zip"
     ],
-    "model_id": 165,
-    "hw_ver_id": 283
+    "model_id": 94,
+    "hw_ver_id": 277
   },
   "6166471fb2e906408b3399a768f5dd6b395df3b7c918730b25354cd6502ca2fa": {
     "info": {
@@ -1059,7 +1059,7 @@
     "download": [
       "https://home-cdn.reolink.us/files/firmware/20201119firmware+/RLC-410_121_20111900.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 79
   },
   "2ff1871731a16c727a7bb17f851795e8780cd29ba9b89344d07f9d685bb26030": {
@@ -1163,8 +1163,8 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20210106+firmware/RLC-410W-5MP_V300136_20121102.zip",
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/291114121609240452.8288.zip"
     ],
-    "model_id": 165,
-    "hw_ver_id": 282
+    "model_id": 94,
+    "hw_ver_id": 133
   },
   "11b942e2c2d050778bb5345753593fb36b580010e8b54753e1c85dff6aaf107b": {
     "info": {
@@ -1300,8 +1300,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190614firmware/RLC-410W-5MP_448_19061409.zip"
     ],
-    "model_id": 165,
-    "hw_ver_id": 283
+    "model_id": 94,
+    "hw_ver_id": 277
   },
   "3c0149449fb899369b38220479efe4b2de4741fee1d83ed28076a62f40706ed0": {
     "info": {
@@ -1368,7 +1368,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/RLC-410W-4MP_65_20071002.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "66b14830d8e88b8b3b597567ee9ad5b85e4c930f710cf90e4de5ef79ad3b3580": {
@@ -1539,7 +1539,7 @@
     "download": [
       "https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410_354_19031110.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 79
   },
   "c776a0bff8a49fd0e9a3df24d58c0cc954a04927c113aabc49ac83f8c42e2ea7": {
@@ -2088,7 +2088,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/RLC-410-4MP_65_20071000.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 79
   },
   "e065bd83276b6d9310cc0c243d059bcf8453071d0abec4f5878f46df4aef348c": {
@@ -2193,7 +2193,7 @@
       "https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-410_1441_19032101.zip",
       "https://www.dropbox.com/s/0i00nzgce1y5shh/RLC-410_1441_19032101%20%281%29.zip?dl=1"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 100019
   },
   "93af9e81d66fc0f02ecbffd2963fb6aff25b645cab6552ad2e01bab12318c10c": {
@@ -2296,8 +2296,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/RLC-410-5MP_65_20071000.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319
+    "model_id": 52,
+    "hw_ver_id": 82
   },
   "072d43b1969f540c76b92a24463bf11236ca6a55415ca5497c14c1ea70add664": {
     "info": {
@@ -2332,7 +2332,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20201211firmware/RLC-410W-20121102.zip",
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/171255541608209754.8148.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "28807f175605154adb2c364ca60411e15dc7b69e9bf61b56f802d196ab40e828": {
@@ -2350,8 +2350,8 @@
       "https://home-cdn.reolink.us/files/firmware/20201211firmware/RLC-410-5MP_136_20121100.zip",
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/171226261608207986.0292.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319
+    "model_id": 52,
+    "hw_ver_id": 82
   },
   "ae0356ecaa2c2812a1044c15d259cb5267dafb308c149e405b906157f044d301": {
     "info": {
@@ -2367,8 +2367,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190614firmware/RLC-410-5MP_448_19061407.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319
+    "model_id": 52,
+    "hw_ver_id": 82
   },
   "b22156a5fd9c2ff54e1333cc11f1eb0363378867a9cdd6537c1d2c555b2b7c07": {
     "info": {
@@ -2487,8 +2487,8 @@
     "download": [
       "https://home-cdn.reolink.us/files/firmware/20201031firmware/RLC-410-5MP_116_20103102.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319
+    "model_id": 52,
+    "hw_ver_id": 82
   },
   "542b998827ec1fbd893c12aa511126e4463dcb02e7090f37f3b627712e82e075": {
     "info": {
@@ -2764,8 +2764,8 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20210106+firmware/RLC-410-5MP_v300136_20121100.zip",
       "https://home-cdn.reolink.us/wp-content/uploads/2020/12/290909151609232955.3772.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 318
+    "model_id": 52,
+    "hw_ver_id": 130
   },
   "b0009b865c4a0a13b74c68e4bd7928f48c0c82cb5500f4c0741dc7bb9128d220": {
     "info": {
@@ -2816,8 +2816,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/RLC-410W-5MP_65_20071002.zip"
     ],
-    "model_id": 165,
-    "hw_ver_id": 283
+    "model_id": 94,
+    "hw_ver_id": 277
   },
   "2d5446d45f4513b26fd7c5bc5da610913d83866384337a952d3035069aff22c7": {
     "info": {
@@ -2918,8 +2918,8 @@
     "download": [
       "https://home-cdn.reolink.us/files/firmware/20201031firmware/RLC-410W-5MP_116_20103102.zip"
     ],
-    "model_id": 165,
-    "hw_ver_id": 283
+    "model_id": 94,
+    "hw_ver_id": 277
   },
   "e8eaa64a9d6872f99dfc6b2a2e4bebe36cbbe4cdc2e707eace7b7069366cc4d6": {
     "info": {
@@ -2935,7 +2935,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20190614firmware/RLC-410_448_19061402(1).zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 79
   },
   "0ec223eeea27314624d4662cbefa75816b69289fb4dfb8a3990448fe63f4a3b8": {
@@ -2972,7 +2972,7 @@
       "https://cdn.reolink.com/files/firmware/20180402firmware/RLC-410_1288_18020701.zip",
       "https://home-cdn.reolink.us/files/firmware/20180402firmware/RLC-410_1288_18020701.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 100019
   },
   "7e142a3426508d177d02d835337f68e3d6b0e4fa86359533b96aa22420eccadc": {
@@ -3388,7 +3388,7 @@
     "download": [
       "https://s3.amazonaws.com/reolink-storage/website/firmware/675_170317/RLC-410_675_17032701.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 100019
   },
   "44922667cb1c1675e37060e95ac897b1583d8f9bf232fc21fcb51fb649cc6b61": {
@@ -3643,7 +3643,7 @@
     "download": [
       "https://s3.amazonaws.com/reolink-storage/website/firmware/842_170524/RLC-410_842_17052401.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 100019
   },
   "64f02ac0b705e2cddc4a4613fe475408917a7cbf5ced144ed2d3d3706623af99": {
@@ -3865,7 +3865,7 @@
     "download": [
       "https://s3.amazonaws.com/reolink-storage/website/firmware/889_1708/RLC-410_889_17083001.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 100019
   },
   "4317b926f9f482c96bb407628ad46f90d2b9d6f871b9e6232c22626c7dc61691": {
@@ -4175,7 +4175,7 @@
       "https://cdn.reolink.com/files/firmware/20180814firmware/RLC-410_1389_18081401.zip",
       "https://home-cdn.reolink.us/files/firmware/20180814firmware/RLC-410_1389_18081401.zip"
     ],
-    "model_id": 188,
+    "model_id": 52,
     "hw_ver_id": 100019
   },
   "c58e77906857afd7caf84666cb3883daab8d0bb7d9128cf8026bc52c8716f662": {
@@ -4526,7 +4526,7 @@
     "download": [
       "https://home-cdn.reolink.us/wp-content/uploads/2022/04/261218011650975481.5286.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 260
   },
   "ed32bf8241d26da48ca5f7c53d65f335a6dfff689a34403b4e141704827de455": {
@@ -4868,8 +4868,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200314firmware/RLC-410-5MP_647_20031401.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319
+    "model_id": 52,
+    "hw_ver_id": 82
   },
   "687fcbd66054ef12f1cf7705dc47f023783e873cadb4242796525e324983fc7b": {
     "info": {
@@ -4936,8 +4936,8 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200523firmware/RLC-410-5MP_20_20052300.zip"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319
+    "model_id": 52,
+    "hw_ver_id": 82
   },
   "9e5927251168adbb513cb36940b8b88621a8c26677402ec154d34dc4484e32c3": {
     "info": {
@@ -5262,7 +5262,7 @@
       "https://drive.google.com/uc?id=1Ed6EOOnWPG31IHnIB3xTvEEU6rtl9X1S&confirm=t",
       "https://drive.google.com/uc?id=1qCkdqhuGttK6mXdMUfQ1DTt9oHWNqBgc&confirm=t"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "933cc0713a393a7e20ed9abda7c8e314bf37c1f9c52ead8f35f717af16042fe5": {
@@ -5591,8 +5591,8 @@
       "https://drive.google.com/uc?id=1MGcRIKiOusHWERGxuZhL4G0H6GdSQUQe&confirm=t",
       "https://drive.google.com/uc?id=1QPhxZadDX_HN-qUAYXdnyMAdA5QJ_YAW&confirm=t"
     ],
-    "model_id": 188,
-    "hw_ver_id": 318,
+    "model_id": 52,
+    "hw_ver_id": 130,
     "beta": true
   },
   "149ad3702002ce9b5d2cb8e7a8deda11caa0003d116fa74e306348cd0e9b216f": {
@@ -5898,8 +5898,8 @@
     "download": [
       "https://drive.google.com/uc?id=19mWhnq5P506J2vzFSupzz74CEu_TwpdR&confirm=t"
     ],
-    "model_id": 188,
-    "hw_ver_id": 319,
+    "model_id": 52,
+    "hw_ver_id": 82,
     "beta": true
   },
   "d266b9d48358012b2d94f4c577d7495461af49e5dcc40f2e7094af7369907425": {
@@ -5933,7 +5933,7 @@
     "download": [
       "https://support.reolink.com/attachments/token/qy0kAe4SiRauPY1rO8fDI9Uvc/?name=RLC-410W_648_20031403.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "a5c0cb8770fdea677b2600d60d5d6fa81dce2573afae5792aa04f95177d0858d": {
@@ -7436,7 +7436,7 @@
       "https://support-d.reolink.com/attachments/token/4SXDbC9daidjZw02rDj36QeLb/?name=IPC_51316M.757_21121503.RLC-410W.ov4689.4MP.WIFI1021.REOLINK.pak",
       "https://github.com/AT0myks/reolink-fw-archive/files/11315740/IPC_51316M.757_21121503.RLC-410W.ov4689.4MP.WIFI1021.REOLINK.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "924eda34cd604a698ab3de2078b0982998ee50bc9c08a8dd3dc206ebe756ccb8": {
@@ -7881,7 +7881,7 @@
     "download": [
       "https://home-cdn.reolink.us/wp-content/uploads/2023/08/301129191693394959.8303.zip"
     ],
-    "model_id": 165,
+    "model_id": 94,
     "hw_ver_id": 274
   },
   "5765a918c8961f6f6255e1a005529d5a595892718cd1d31c7173dbada886bf52": {
