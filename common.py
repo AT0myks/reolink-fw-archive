@@ -62,3 +62,12 @@ def match(pak_info):
     hw_names = set(pak_info[key] for key in keys)
     hw_ver_id = get_hw_ver_id(devices, model_id, hw_names)
     return model_id, hw_ver_id
+
+
+def get_names(devices, model_id, hw_ver_id):
+    for device in devices:
+        if device["id"] == model_id:
+            for hw_ver in device["hardwareVersions"]:
+                if hw_ver["id"] == hw_ver_id:
+                    return device["title"], hw_ver["title"]
+    return None, None

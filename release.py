@@ -1,16 +1,7 @@
 import argparse
 import json
 
-from common import load_devices, match
-
-
-def get_names(devices, model_id, hw_ver_id):
-    for device in devices:
-        if device["id"] == model_id:
-            for hw_ver in device["hardwareVersions"]:
-                if hw_ver["id"] == hw_ver_id:
-                    return device["title"], hw_ver["title"]
-    return None, None
+from common import get_names, load_devices, match
 
 
 def make_new_firmwares(pak_infos):

@@ -15,7 +15,7 @@ from lxml.html.builder import OL, LI
 from reolinkfw import get_info
 from waybackpy import WaybackMachineCDXServerAPI
 
-from common import FILE_DEVICES, clean_hw_ver, get_item_index, load_devices, match
+from common import FILE_DEVICES, clean_hw_ver, get_item_index, get_names, load_devices, match
 
 WAYBACK_MAX_CONN = 20
 FILE_PAKINFO = "pak_info.json"
@@ -85,25 +85,37 @@ def parse_build_date(build_date):
 
 
 def make_readme(firmwares):
-    pak_info = load_pak_info()
-    def sort(tup):
-        return tup[1]["info"]["build_date"]
-    def sort_hw_ver(hw_ver):
-        return clean_hw_ver(hw_ver["title"])
+    devices = load_devices()
+    # Create a model -> hardware version -> PAK info dictionary.
+    pak_infos = {}
+    for sha, pi in load_pak_info().items():
+        model_title, hw_title = get_names(devices, pi["model_id"], pi["hw_ver_id"])
+        if model_title is None or hw_title is None:
+            print("Cannot find a match for", pi["model_id"], '/', pi["hw_ver_id"])
+            continue
+        pi["sha256"] = sha
+        model_title = model_title.strip().removesuffix("-5MP").removesuffix(" (NVR)")
+        hw_title = clean_hw_ver(hw_title)
+        pak_infos.setdefault(model_title, {}).setdefault(hw_title, []).append(pi)
+
+    def sort_pak_info(pak_info):
+        return pak_info["info"]["build_date"]
+
     text = ''
-    devices = sorted(load_devices(), key=itemgetter("title"))
-    for model in devices:
-        text += "<details>\n  <summary>" + make_title(model) + "</summary>\n"
-        if prodimg := model.get("productImg"):
+    for model in sorted(pak_infos):
+        model_id = pak_infos[model][list(pak_infos[model])[0]][0]["model_id"]
+        device = devices[get_item_index(devices, "id", model_id)]
+        text += "<details>\n  <summary>" + make_title(device) + "</summary>\n"
+        if prodimg := device.get("productImg"):
             text += f'\n<img src="{prodimg}" width="150">\n'
-        if produrl := model.get("productUrl"):
+        if produrl := device.get("productUrl"):
             text += '\n' + md_link("Product page", produrl) + '\n'
-        for hv in sorted(model["hardwareVersions"], key=sort_hw_ver):
-            text += "\n  ### " + clean_hw_ver(hv["title"]) + "\n"
+        for hv in sorted(pak_infos[model]):
+            text += "\n  ### " + hv + "\n"
             text += "Version | Date | Changes | Notes\n"
             text += "--- | --- | --- | ---\n"
-            for sha, pi in sorted(((k, v) for k, v in pak_info.items() if v["model_id"] == model["id"] and v["hw_ver_id"] == hv["id"] if not v["info"].get("error")), key=sort, reverse=True):
-                fws = [fw for fw in firmwares if fw["sha256_pak"] == sha]
+            for pi in sorted(pak_infos[model][hv], key=sort_pak_info, reverse=True):
+                fws = [fw for fw in firmwares if fw["sha256_pak"] == pi["sha256"]]
                 # If a firmware appears both in live and archivesv2, the live instance
                 # will appear first in the list and therefore be the one selected.
                 fw = fws[0] if fws else {}
@@ -462,9 +474,9 @@ if __name__ == "__main__":
         # Catch output from ubireader.
         with redirect_stdout(StringIO()) as f:
             new = asyncio.run(update_live_info())
+            write_readme()
         if not args.github:
             print(f.getvalue(), end='')
-        write_readme()
         print(json.dumps(new or None))  # Empty array is not falsy in JavaScript.
 
     def readme(args):
