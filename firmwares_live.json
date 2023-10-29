@@ -2736,9 +2736,6 @@
     "changelog": [
       "1. Optimize the network feature",
       "2. Update the web UI version",
-      "3. Optimize the PTZ function",
-      "4. Optimize the WiFi connection",
-      "5. Fix some known bugs",
       "3.  Optimize the WiFi connection",
       "4.  Fix some known bugs"
     ],
