@@ -15,7 +15,7 @@ from lxml.html.builder import OL, LI
 from reolinkfw import get_info
 from waybackpy import WaybackMachineCDXServerAPI
 
-from common import FILE_DEVICES, get_item_index, load_devices, match
+from common import FILE_DEVICES, clean_hw_ver, get_item_index, load_devices, match
 
 WAYBACK_MAX_CONN = 20
 FILE_PAKINFO = "pak_info.json"
@@ -97,7 +97,7 @@ def make_readme(firmwares):
         if produrl := model.get("productUrl"):
             text += '\n' + md_link("Product page", produrl) + '\n'
         for hv in model["hardwareVersions"]:
-            text += "\n  ### " + hv["title"] + "\n"
+            text += "\n  ### " + clean_hw_ver(hv["title"]) + "\n"
             text += "Version | Date | Changes | Notes\n"
             text += "--- | --- | --- | ---\n"
             for sha, pi in sorted(((k, v) for k, v in pak_info.items() if v["model_id"] == model["id"] and v["hw_ver_id"] == hv["id"] if not v["info"].get("error")), key=sort, reverse=True):
