@@ -88,6 +88,8 @@ def make_readme(firmwares):
     pak_info = load_pak_info()
     def sort(tup):
         return tup[1]["info"]["build_date"]
+    def sort_hw_ver(hw_ver):
+        return clean_hw_ver(hw_ver["title"])
     text = ''
     devices = sorted(load_devices(), key=itemgetter("title"))
     for model in devices:
@@ -96,7 +98,7 @@ def make_readme(firmwares):
             text += f'\n<img src="{prodimg}" width="150">\n'
         if produrl := model.get("productUrl"):
             text += '\n' + md_link("Product page", produrl) + '\n'
-        for hv in model["hardwareVersions"]:
+        for hv in sorted(model["hardwareVersions"], key=sort_hw_ver):
             text += "\n  ### " + clean_hw_ver(hv["title"]) + "\n"
             text += "Version | Date | Changes | Notes\n"
             text += "--- | --- | --- | ---\n"
