@@ -4,7 +4,7 @@ import asyncio
 import itertools
 import json
 import re
-from datetime import date, datetime
+from datetime import datetime
 from operator import itemgetter
 from zoneinfo import ZoneInfo
 
@@ -80,10 +80,6 @@ def make_title(device):
     return title
 
 
-def parse_build_date(build_date):
-    return date(2000 + int(build_date[:2]), int(build_date[2:4]), int(build_date[4:]))
-
-
 def make_readme(firmwares):
     devices = load_devices()
     # Create a model -> hardware version -> PAK info dictionary.
@@ -128,7 +124,7 @@ def make_readme(firmwares):
                     ver = info["firmware_version_prefix"] + '.' + info["version_file"]
                     links.append(md_link(ver, dl_url))
                 version = "<br />".join(links)
-                dt = parse_build_date(info["build_date"])
+                dt = datetime.strptime(info["build_date"], "%y%m%d").date()
                 date_str = str(dt).replace('-', chr(0x2011))
                 new = make_changes(fw.get("changelog"))
                 notes = []
