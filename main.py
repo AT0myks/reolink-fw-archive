@@ -275,10 +275,12 @@ async def from_support_archives(limit_per_host: int = WAYBACK_MAX_CONN) -> list[
 def update_ids(pak_info: MutableMapping[str, MutableMapping[str, Any]], old_model_id: Optional[int], old_hw_id: Optional[int], new_model_id: int, new_hw_id: int) -> None:
     if (old_model_id, old_hw_id) == (None, None):
         return
+    update_model_id = isinstance(old_model_id, int) and old_model_id >= 100000
+    update_hw_id = isinstance(old_hw_id, int) and old_hw_id >= 100000
     for key in pak_info:
-        if pak_info[key]["model_id"] == old_model_id and old_model_id is not None:
+        if update_model_id and pak_info[key]["model_id"] == old_model_id:
             pak_info[key]["model_id"] = new_model_id
-        if pak_info[key]["hw_ver_id"] == old_hw_id and old_hw_id is not None:
+        if update_hw_id and pak_info[key]["hw_ver_id"] == old_hw_id:
             pak_info[key]["hw_ver_id"] = new_hw_id
 
 
