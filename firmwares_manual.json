@@ -889,5 +889,18 @@
     "changelog": [
       "Add pet detection"
     ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/27"
+    ],
+    "note": "Changes are given in comparison to v3.1.0.989",
+    "sha256_pak": "d358ef6837508958f6357d0e8479aa82a45fe386404c26f63bf4fa7a01b6426c",
+    "source": "manual",
+    "changelog": [
+      "New web interface",
+      "Possibility to connect IoT devices (eg. floodlight)",
+      "Ability to turn on \"Illegal login lockout\" under Advanced / User Management"
+    ]
   }
 ]
