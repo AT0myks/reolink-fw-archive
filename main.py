@@ -4,13 +4,16 @@ import asyncio
 import itertools
 import json
 import re
+from argparse import ArgumentParser, Namespace
+from collections.abc import Iterable, Mapping, MutableMapping, MutableSequence
 from datetime import datetime
 from operator import itemgetter
+from typing import Any, Optional
 from zoneinfo import ZoneInfo
 
-import aiohttp
+from aiohttp import ClientSession, TCPConnector
 from dateutil.parser import parse as dtparse
-from lxml.html import document_fromstring, fragment_fromstring, tostring
+from lxml.html import HtmlElement, document_fromstring, fragment_fromstring, tostring
 from lxml.html.builder import OL, LI
 from reolinkfw import get_info
 from waybackpy import WaybackMachineCDXServerAPI
@@ -24,42 +27,42 @@ FILE_FW_MANL = "firmwares_manual.json"
 FILE_FW_ARV2 = "firmwares_archives_support.json"
 
 
-async def get_one(session, url, type_="text"):
+async def get_one(session: ClientSession, url: str, type_: str = "text") -> Any:
     async with session.get(url) as resp:
         return await (resp.json() if type_ == "json" else resp.text())
 
 
-async def get_all(urls, type_="text", limit_per_host=0):
-    conn = aiohttp.TCPConnector(limit_per_host=limit_per_host)
-    async with aiohttp.ClientSession(connector=conn) as session:
+async def get_all(urls: Iterable[str], type_: str = "text", limit_per_host: int = 0) -> list[Any]:
+    conn = TCPConnector(limit_per_host=limit_per_host)
+    async with ClientSession(connector=conn) as session:
         return await asyncio.gather(*[get_one(session, url, type_) for url in urls])
 
 
-def load_firmwares():
-    # live must be first because its information takes precedence. 
+def load_firmwares() -> list[dict[str, Any]]:
+    # live must be first because its information takes precedence.
     with (open(FILE_FW_LIVE, 'r', encoding="utf8") as live,
             open(FILE_FW_ARV2, 'r', encoding="utf8") as arv2,
             open(FILE_FW_MANL, 'r', encoding="utf8") as man):
         return json.load(live) + json.load(arv2) + json.load(man)
 
 
-def load_pak_info():
+def load_pak_info() -> dict[str, dict[str, Any]]:
     with open(FILE_PAKINFO, 'r', encoding="utf8") as f:
         return json.load(f)
 
 
-def md_link(label, url):
+def md_link(label: str, url: str) -> str:
     return f"[{label}]({url})"
 
 
-def make_changes(changes):
+def make_changes(changes: Iterable[str]) -> str:
     if not changes:
         return ''
     changes = [change.replace("&nbsp", '') for change in changes]
     if len(changes) == 1:
         return changes[0]
-    items = []
-    subitems = []
+    items: list[HtmlElement] = []
+    subitems: list[HtmlElement] = []
     for idx, change in enumerate(changes):
         if change[0].isdigit() or change[0].isupper():
             items.append(LI(re.sub("^[0-9\s\W]{2,4}", '', change)))
@@ -71,7 +74,7 @@ def make_changes(changes):
     return tostring(OL(*items)).decode()
 
 
-def make_title(device):
+def make_title(device: Mapping[str, Any]) -> str:
     title = device["title"].removesuffix(" (NVR)")
     if (type_ := device.get("type", "IPC")) != "IPC":
         title += f" ({type_})"
@@ -80,10 +83,10 @@ def make_title(device):
     return title
 
 
-def make_readme(firmwares):
+def make_readme(firmwares: Iterable[Mapping[str, Any]]) -> str:
     devices = load_devices()
     # Create a model -> hardware version -> PAK info dictionary.
-    pak_infos = {}
+    pak_infos: dict[str, dict[str, list[dict[str, Any]]]] = {}
     for sha, pi in load_pak_info().items():
         model_title, hw_title = get_names(devices, pi["model_id"], pi["hw_ver_id"])
         if model_title is None or hw_title is None:
@@ -94,13 +97,16 @@ def make_readme(firmwares):
         hw_title = clean_hw_ver(hw_title)
         pak_infos.setdefault(model_title, {}).setdefault(hw_title, []).append(pi)
 
-    def sort_pak_info(pak_info):
+    def sort_pak_info(pak_info: Mapping[str, Any]) -> str:
         return pak_info["info"]["build_date"]
 
     text = ''
     for model in sorted(pak_infos):
         model_id = pak_infos[model][list(pak_infos[model])[0]][0]["model_id"]
-        device = devices[get_item_index(devices, "id", model_id)]
+        if (device_idx := get_item_index(devices, "id", model_id)) is None:
+            print(f"Cannot find device with ID {model_id}")
+            continue
+        device = devices[device_idx]
         text += "<details>\n  <summary>" + make_title(device) + "</summary>\n"
         if prodimg := device.get("productImg"):
             text += f'\n<img src="{prodimg}" width="150">\n'
@@ -126,7 +132,7 @@ def make_readme(firmwares):
                 version = "<br />".join(links)
                 dt = datetime.strptime(info["build_date"], "%y%m%d").date()
                 date_str = str(dt).replace('-', chr(0x2011))
-                new = make_changes(fw.get("changelog"))
+                new = make_changes(fw.get("changelog", []))
                 notes = []
                 if pi.get("beta"):
                     notes.append(":warning: This is a beta firmware")
@@ -144,7 +150,7 @@ def make_readme(firmwares):
     return text
 
 
-def sanitize(string):
+def sanitize(string: str) -> str:
     return string.translate({
         160: ' ',  # \xa0
         183: '',  # \u00b7
@@ -154,14 +160,14 @@ def sanitize(string):
     }).strip()
 
 
-def parse_changes(text):
+def parse_changes(text: str) -> list[str]:
     text = sanitize(text)
     text = text.removeprefix("<p>").removesuffix("</p>")
     text = text.removeprefix("<P>").removesuffix("</P>")
     return re.split("\s*</?[pP]>\s*<[pP]>\s*|\s*<br />\s*", text)
 
 
-def parse_timestamps(display_time, updated_at):
+def parse_timestamps(display_time: int, updated_at: int) -> tuple[datetime, datetime]:
     """For live firmwares."""
     dt = display_time / 1000
     sh = ZoneInfo("Asia/Shanghai")
@@ -169,14 +175,14 @@ def parse_timestamps(display_time, updated_at):
     return datetime.fromtimestamp(dt, tz), datetime.fromtimestamp(updated_at / 1000, tz)
 
 
-async def from_live_website():
-    async with aiohttp.ClientSession() as session:
+async def from_live_website() -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    async with ClientSession() as session:
         devices = (await get_one(session, "https://reolink.com/wp-json/reo-v2/download/product/selection-list", "json"))["data"]
     urls = [f"https://reolink.com/wp-json/reo-v2/download/firmware/?dlProductId={dev['id']}" for dev in devices]
     firmwares = []
     for response in await get_all(urls, "json"):
-        for data in response["data"]:
-            for fw in data["firmwares"]:
+        for device in response["data"]:
+            for fw in device["firmwares"]:
                 hw_ver = fw["hardwareVersion"][0]
                 note = fragment_fromstring(fw["note"], create_parent=True).text_content()
                 fw["firmware_id"] = fw.pop("id")
@@ -194,7 +200,7 @@ async def from_live_website():
     return devices, firmwares
 
 
-async def get_archives_v1_firmware_links(limit_per_host=WAYBACK_MAX_CONN):
+async def get_archives_v1_firmware_links(limit_per_host: int = WAYBACK_MAX_CONN) -> list[str]:
     """Return a list of unique firmware download links."""
     cdx = WaybackMachineCDXServerAPI("reolink.com", filters=["statuscode:200", "original:.*/firmware/.*", "mimetype:text/html"], match_type="host")
     snapshots = (snap.archive_url for snap in cdx.snapshots())
@@ -210,7 +216,7 @@ async def get_archives_v1_firmware_links(limit_per_host=WAYBACK_MAX_CONN):
     return links
 
 
-def parse_old_support_page_changes(text):
+def parse_old_support_page_changes(text: str) -> list[str]:
     match = re.search("(?:\s*What's new:?)?(.*?)(?:Note:|Before upgrading)", text, re.DOTALL)
     if not match:
         return []
@@ -221,7 +227,7 @@ def parse_old_support_page_changes(text):
     return [sanitize(t) for t in (by_lf if len(by_lf) > len(by_nb) else by_nb)]
 
 
-async def get_and_parse_old_support_page(session, url):
+async def get_and_parse_old_support_page(session: ClientSession, url: str) -> list[dict[str, Any]]:
     """For https://support.reolink.com/hc/en-us/articles/ pages."""
     html = await get_one(session, url)
     doc = document_fromstring(html)
@@ -257,16 +263,16 @@ async def get_and_parse_old_support_page(session, url):
     return firmwares
 
 
-async def from_support_archives(limit_per_host=WAYBACK_MAX_CONN):
+async def from_support_archives(limit_per_host: int = WAYBACK_MAX_CONN) -> list[dict[str, Any]]:
     cdx = WaybackMachineCDXServerAPI("https://support.reolink.com/hc/en-us/articles/*", filters=["statuscode:200", "original:.*[0-9]-Firmware-for.*"], collapses=["digest"])
     urls = set(snap.archive_url for snap in cdx.snapshots())
-    conn = aiohttp.TCPConnector(limit_per_host=limit_per_host)
-    async with aiohttp.ClientSession(connector=conn) as session:
+    conn = TCPConnector(limit_per_host=limit_per_host)
+    async with ClientSession(connector=conn) as session:
         lists = await asyncio.gather(*[get_and_parse_old_support_page(session, url) for url in urls])
     return [fw for firmwares in lists for fw in firmwares]
 
 
-def update_ids(pak_info, old_model_id, old_hw_id, new_model_id, new_hw_id):
+def update_ids(pak_info: MutableMapping[str, MutableMapping[str, Any]], old_model_id: Optional[int], old_hw_id: Optional[int], new_model_id: int, new_hw_id: int) -> None:
     if (old_model_id, old_hw_id) == (None, None):
         return
     for key in pak_info:
@@ -276,7 +282,7 @@ def update_ids(pak_info, old_model_id, old_hw_id, new_model_id, new_hw_id):
             pak_info[key]["hw_ver_id"] = new_hw_id
 
 
-def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False, user_hosted_only=False):
+def add_pak_info(pak_info: dict[str, Any], model_id: Optional[int] = None, hw_ver_id: Optional[int] = None, beta: bool = False, user_hosted_only: bool = False) -> None:
     pak_infos = load_pak_info()
     if model_id is None or hw_ver_id is None:  # They should always be both None or not.
         model_id, hw_ver_id = match(pak_info)
@@ -285,7 +291,7 @@ def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False, user_hoste
         # In case a device/hw version was previously manually added and then
         # matched for at least one pak file, update it/them with the "official" ids.
         old_model_id, old_hw_ver_id = match(pak_info)
-        update_ids(pak_infos, old_model_id, old_hw_ver_id, model_id, hw_ver_id)
+        update_ids(pak_infos, old_model_id, old_hw_ver_id, model_id, hw_ver_id)  # type: ignore
     copy = pak_info.copy()
     sha = copy.pop("sha256")
     url = copy.pop("file")
@@ -308,7 +314,7 @@ def add_pak_info(pak_info, model_id=None, hw_ver_id=None, beta=False, user_hoste
         json.dump(pak_infos, f, indent=2)
 
 
-def add_and_clean(pak_infos, dicts=[], source=None):
+def add_and_clean(pak_infos: Iterable[Iterable[dict[str, Any]]], dicts: Iterable[MutableMapping[str, Any]] = [], source: Optional[str] = None) -> list[dict[str, Any]]:
     """Add new firmware info to FILE_PAKINFO and return cleaned up firmwares.
 
     If there are multiple PAKs in a ZIP, the beta and user_hosted_only
@@ -330,19 +336,19 @@ def add_and_clean(pak_infos, dicts=[], source=None):
     return firmwares
 
 
-def keep_most_recent(firmwares):
+def keep_most_recent(firmwares: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
     """Return a list containing only the most recent snapshot for each unique firmware file link."""
     urls = {fw["url"] for fw in firmwares}
     return [sorted((fw for fw in firmwares if fw["url"] == url), key=itemgetter("archive_url"))[-1] for url in urls]
 
 
-async def add_archives_v1_firmwares(limit_per_host=WAYBACK_MAX_CONN):
+async def add_archives_v1_firmwares(limit_per_host: int = WAYBACK_MAX_CONN) -> None:
     urls = await get_archives_v1_firmware_links(limit_per_host)
     pak_infos = await asyncio.gather(*[get_info(url) for url in urls])
     add_and_clean(pak_infos)
 
 
-async def create_support_archives_firmwares(limit_per_host=WAYBACK_MAX_CONN):
+async def create_support_archives_firmwares(limit_per_host: int = WAYBACK_MAX_CONN) -> None:
     firmwares = await from_support_archives(limit_per_host=limit_per_host)
     filtered = keep_most_recent(firmwares)
     pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in filtered])
@@ -351,7 +357,7 @@ async def create_support_archives_firmwares(limit_per_host=WAYBACK_MAX_CONN):
         json.dump(clean_fws, f, indent=2, default=str)
 
 
-async def create_live_devices_and_firmwares():
+async def create_live_devices_and_firmwares() -> None:
     devices, firmwares = await from_live_website()
     with open(FILE_DEVICES, 'w', encoding="utf8") as f:
         json.dump(devices, f, indent=2)
@@ -361,7 +367,7 @@ async def create_live_devices_and_firmwares():
         json.dump(clean_fws, f, indent=2, default=str)
 
 
-async def add_archives_v3_firmwares():
+async def add_archives_v3_firmwares() -> None:
     existingurls = {url for val in load_pak_info().values() for url in val["download"]}
     prefixes = [
         "https://reolink.com/firmware/",
@@ -383,7 +389,7 @@ async def add_archives_v3_firmwares():
     add_and_clean([pi for pi in pak_infos if "error" not in pi[0]])
 
 
-def merge_dicts(old, new):
+def merge_dicts(old: MutableMapping[Any, Any], new: Mapping[Any, Any]) -> None:
     """Update old with data from new. Modify old in-place.
 
     This is not 100% generic and is mostly intended to be used in this project.
@@ -407,7 +413,7 @@ def merge_dicts(old, new):
                 old[key] = val
 
 
-def merge_lists(old, new, key="title"):
+def merge_lists(old: MutableSequence[Any], new: Iterable[Any], key: str = "title") -> None:
     """Modify old in-place. Non generic."""
     for item in new:
         if item in old:
@@ -418,11 +424,11 @@ def merge_lists(old, new, key="title"):
             old.append(item)
 
 
-async def update_live_info():
+async def update_live_info() -> list[list[dict[str, Any]]]:
     devices_new, firmwares_new = await from_live_website()
     devices_old = load_devices()
     with open(FILE_FW_LIVE, 'r', encoding="utf8") as fw:
-        firmwares_old = json.load(fw)
+        firmwares_old: list[dict[str, Any]] = json.load(fw)
     old_len = len(firmwares_old)  # The new firmwares will start at the end of the list.
     merge_lists(devices_old, devices_new)  # Hoping the titles don't change.
     merge_lists(firmwares_old, firmwares_new, "firmware_id")
@@ -435,10 +441,10 @@ async def update_live_info():
     return pak_infos
 
 
-async def add_firmware_manually(args):
+async def add_firmware_manually(args: Namespace) -> None:
     """If a new device/hw ver is involved, it must be added manually first."""
     with open(FILE_FW_MANL, 'r', encoding="utf8") as f:
-        firmwares = json.load(f)
+        firmwares: list[dict[str, Any]] = json.load(f)
     pak_infos = await get_info(args.url)
     new = {"url": args.url, "beta": args.beta, "user_hosted_only": args.user_hosted_only}
     if args.source:
@@ -450,7 +456,7 @@ async def add_firmware_manually(args):
         json.dump(firmwares, f, indent=2)
 
 
-def write_readme():
+def write_readme() -> None:
     with open("readme_header.md", 'r', encoding="utf8") as f:
         header = f.read()
     with open("README.md", 'w', encoding="utf8") as f:
@@ -458,15 +464,14 @@ def write_readme():
 
 
 if __name__ == "__main__":
-    import argparse
     from contextlib import redirect_stdout
     from io import StringIO
 
-    def add(args):
+    def add(args: Namespace) -> None:
         asyncio.run(add_firmware_manually(args))
         write_readme()
 
-    def update(args):
+    def update(args: Namespace) -> None:
         # Catch output from ubireader.
         with redirect_stdout(StringIO()) as f:
             new = asyncio.run(update_live_info())
@@ -475,12 +480,12 @@ if __name__ == "__main__":
             print(f.getvalue(), end='')
         print(json.dumps(new or None))  # Empty array is not falsy in JavaScript.
 
-    def readme(args):
+    def readme(args: Namespace) -> None:
         write_readme()
 
-    parser = argparse.ArgumentParser()
+    parser = ArgumentParser()
     subparsers = parser.add_subparsers(required=True, title="commands")
-    parser_a = subparsers.add_parser("add", help=f"add a firmware manually", description="If you want to add a changelog, edit the JSON directly after running this command.")
+    parser_a = subparsers.add_parser("add", help="add a firmware manually", description="If you want to add a changelog, edit the JSON directly after running this command.")
     parser_a.add_argument("url", help="download link to the firmware")
     parser_a.add_argument("-s", "--source", nargs='*', help="page(s) where the file comes from")
     parser_a.add_argument("-n", "--note")
