@@ -8325,5 +8325,22 @@
     ],
     "model_id": 136,
     "hw_ver_id": 217
+  },
+  "9978c04368436af5540205eafd6bd9296aa1d0969f7d2d2544f10f0db8b7ba0b": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M8MP",
+      "board_name": "IPC_523128M8MP",
+      "build_date": "221006",
+      "display_type_info": "RLC-820A",
+      "detail_machine_type": "IPC_523128M8MP",
+      "type": "IPC",
+      "version_file": "1387_22100622"
+    },
+    "download": [
+      "https://support-d.reolink.com/attachments/token/9fhG99webOHErfL1GES7y7ZFU/?name=IPC_523128M8MP.1387_22100622.RLC-820A.IMX415.8MP.REOLINK.pak"
+    ],
+    "model_id": 18,
+    "hw_ver_id": 18
   }
 }

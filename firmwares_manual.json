@@ -902,5 +902,16 @@
       "Possibility to connect IoT devices (eg. floodlight)",
       "Ability to turn on \"Illegal login lockout\" under Advanced / User Management"
     ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/28"
+    ],
+    "note": ":exclamation: FTPS issue\nCheck the source for details",
+    "sha256_pak": "9978c04368436af5540205eafd6bd9296aa1d0969f7d2d2544f10f0db8b7ba0b",
+    "source": "manual",
+    "changelog": [
+      "Proper FTPS support"
+    ]
   }
 ]
