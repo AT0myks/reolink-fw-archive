@@ -8362,5 +8362,22 @@
     "model_id": 186,
     "hw_ver_id": 312,
     "user_hosted_only": true
+  },
+  "d3b62772df13e76a2ce845d81c35b162b9a924fd7e3dbf96c036e8e17ef920ea": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523D98MP",
+      "board_name": "IPC_523D98MP",
+      "build_date": "221223",
+      "display_type_info": "RLC-842A",
+      "detail_machine_type": "IPC_523D98MP",
+      "type": "IPC",
+      "version_file": "1643_22122317"
+    },
+    "download": [
+      "https://support-d.reolink.com/attachments/token/zJUE4Mb1B0pSSvEzKfxDjA8ob/?name=IPC_523D98MP.1643_22122317.RLC-842A.IMX415.8MP.AF.REOLINK.pak"
+    ],
+    "model_id": 145,
+    "hw_ver_id": 245
   }
 }

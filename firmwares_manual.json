@@ -922,5 +922,12 @@
     "note": "This firmware has proper settings for the light\nCheck the source for details",
     "sha256_pak": "ecae23e6c9fdd9c6b60fd15f3d0866b0205d4cb67c3d97793b051c0c0ac30929",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/32"
+    ],
+    "sha256_pak": "d3b62772df13e76a2ce845d81c35b162b9a924fd7e3dbf96c036e8e17ef920ea",
+    "source": "manual"
   }
 ]
