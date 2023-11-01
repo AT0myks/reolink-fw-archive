@@ -313,6 +313,7 @@ Version | Date | Changes | Notes
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2501_23072503](https://home-cdn.reolink.us/wp-content/uploads/2023/09/010311281693537888.5417.zip?download_name=CX410_2501_23072503.zip) | 2023‑07‑25 | <ol><li>Optimize the Spolight modes</li><li>Optimize the night vision</li><li>Add HDR switch</li><li>Fix some known bugs</li></ol> | 
+[v3.1.0.2207_23051803](https://drive.google.com/uc?id=1Ta6vwhegTdYJImILwUtKeJVtWCVhKrhb&confirm=t)<br />[v3.1.0.2207_23051803](https://drive.google.com/uc?id=1aVW81oTflflONndPXeOEM_0_xVJvCiF_&confirm=t) | 2023‑05‑18 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />This firmware has proper settings for the light<br />Check the source for details<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30)
 
 </details>
 

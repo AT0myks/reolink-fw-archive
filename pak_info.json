@@ -8342,5 +8342,24 @@
     ],
     "model_id": 18,
     "hw_ver_id": 18
+  },
+  "ecae23e6c9fdd9c6b60fd15f3d0866b0205d4cb67c3d97793b051c0c0ac30929": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT1NA44MP",
+      "board_name": "IPC_NT1NA44MP",
+      "build_date": "230518",
+      "display_type_info": "CX410",
+      "detail_machine_type": "IPC_NT1NA44MP",
+      "type": "IPC",
+      "version_file": "2207_23051803"
+    },
+    "download": [
+      "https://drive.google.com/uc?id=1Ta6vwhegTdYJImILwUtKeJVtWCVhKrhb&confirm=t",
+      "https://drive.google.com/uc?id=1aVW81oTflflONndPXeOEM_0_xVJvCiF_&confirm=t"
+    ],
+    "model_id": 186,
+    "hw_ver_id": 312,
+    "user_hosted_only": true
   }
 }
