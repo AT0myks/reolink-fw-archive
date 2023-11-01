@@ -937,5 +937,12 @@
     ],
     "sha256_pak": "d99cabbf206bdfb6e08c1209c572a888be532b43e0487ef4383159d115b7df3f",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/176c12t/cx410_turn_on_spotlight_on_movement/k4ov4bg"
+    ],
+    "sha256_pak": "77ad141321fc2b6d436a15ffa318d8de8f2f47be503e4c44816a4d9d8a611b69",
+    "source": "manual"
   }
 ]

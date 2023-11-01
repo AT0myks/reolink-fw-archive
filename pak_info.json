@@ -8396,5 +8396,24 @@
     ],
     "model_id": 6,
     "hw_ver_id": 100001
+  },
+  "77ad141321fc2b6d436a15ffa318d8de8f2f47be503e4c44816a4d9d8a611b69": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT1NA44MP",
+      "board_name": "IPC_NT1NA44MP",
+      "build_date": "230530",
+      "display_type_info": "CX410",
+      "detail_machine_type": "IPC_NT1NA44MP",
+      "type": "IPC",
+      "version_file": "2272_23053066"
+    },
+    "download": [
+      "https://www.mediafire.com/file/oi6z4vj8v6r9fdb/IPC_NT1NA44MP.2272_23053066.CX410.OS04A10.4MP.REOLINK.pak/file",
+      "https://drive.google.com/uc?id=11wcErBt1b5Iq_jPl24aP7tqAO_YDjodU&confirm=t"
+    ],
+    "model_id": 186,
+    "hw_ver_id": 312,
+    "user_hosted_only": true
   }
 }
