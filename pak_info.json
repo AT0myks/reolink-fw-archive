@@ -8379,5 +8379,22 @@
     ],
     "model_id": 145,
     "hw_ver_id": 245
+  },
+  "d99cabbf206bdfb6e08c1209c572a888be532b43e0487ef4383159d115b7df3f": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M5MP_V2",
+      "board_name": "IPC_523128M5MP_V2",
+      "build_date": "221006",
+      "display_type_info": "RLC-520A",
+      "detail_machine_type": "IPC_523128M5MP_V2",
+      "type": "IPC",
+      "version_file": "1387_22100622"
+    },
+    "download": [
+      "https://support-d.reolink.com/attachments/token/72ZbJjwx7YB3xvZP1fYl1cD7t/?name=IPC_523128M5MP_V2.1387_22100622.RLC-520A.OV05A10.5MP.REOLINK.pak"
+    ],
+    "model_id": 6,
+    "hw_ver_id": 100001
   }
 }

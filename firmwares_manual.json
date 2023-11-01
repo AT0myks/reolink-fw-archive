@@ -929,5 +929,13 @@
     ],
     "sha256_pak": "d3b62772df13e76a2ce845d81c35b162b9a924fd7e3dbf96c036e8e17ef920ea",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/33",
+      "https://community.reolink.com/post/26117"
+    ],
+    "sha256_pak": "d99cabbf206bdfb6e08c1209c572a888be532b43e0487ef4383159d115b7df3f",
+    "source": "manual"
   }
 ]
