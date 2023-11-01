@@ -882,7 +882,8 @@
   },
   {
     "source_urls": [
-      "https://github.com/AT0myks/reolink-fw-archive/discussions/25"
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/25",
+      "https://community.reolink.com/post/26219"
     ],
     "sha256_pak": "578cfa5d63578fd1412b77a267e4ba4b81b3231e36371bd95715122ae2fa7e01",
     "source": "manual",
