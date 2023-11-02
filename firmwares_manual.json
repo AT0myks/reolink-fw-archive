@@ -944,5 +944,29 @@
     ],
     "sha256_pak": "77ad141321fc2b6d436a15ffa318d8de8f2f47be503e4c44816a4d9d8a611b69",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897",
+      "https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw"
+    ],
+    "sha256_pak": "5bdd35e48cbf202c280611135ca35e1db9821834a0cc1e7ba4a1e2ede62099f1",
+    "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897",
+      "https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw"
+    ],
+    "sha256_pak": "9e5126bee4544c18b35aff3946d26576be071adb003a2f9b3755616123e14cd8",
+    "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897",
+      "https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw"
+    ],
+    "sha256_pak": "cb9d8c3857131322a455ed5b48771c024ffe5f1480a51523987a63cbfb7d4334",
+    "source": "manual"
   }
 ]

@@ -1306,5 +1306,20 @@
         "title": "IPC_515B16M5M"
       }
     ]
+  },
+  {
+    "id": 100063,
+    "title": "FE-P",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/03/010407401677643660.6613.png",
+    "productUrl": "https://reolink.com/product/fe-p/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 100064,
+        "title": "FE_529128M6MP_P"
+      }
+    ]
   }
 ]
