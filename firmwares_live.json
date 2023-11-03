@@ -3192,5 +3192,81 @@
     "display_time": "2023-10-09 00:00:00+08:00",
     "sha256_pak": "1c05ff97231e754fc19cd79dc6428a33b7168ee58e96fa51fe931724b46b29be",
     "source": "live"
+  },
+  {
+    "version": "v3.3.0.282_23103105",
+    "filename": "RLN36_282_23103105",
+    "updated_at": "2023-11-03 18:58:05+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 464,
+    "model": "RLN36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1. Optimize the interface and interaction.",
+      "2. Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.",
+      "3. Support setting up Bining Mode for 12MP cameras (only for cetain models).",
+      "4. Support setting up spolight mode and HDR for cameras like CX410.",
+      "5. Support Time Lapse.",
+      "6. Support setting up Interframe Space and Bitrate Mode for cameras.",
+      "7. Optimize the thumbnail pictures of Horizontal Tracking Range.",
+      "8. Support playback recordings simultaneously up to four 8MP cameras.",
+      "9. Optimize TrackMix series and the model RLC-81MA when working with the NVR.",
+      "10. Support upgrading firmware via the Reolink Client for those cameras added to the NVR.",
+      "11.Support importing HTTPS certicate for the NVR via the Reolink Client.",
+      "12. Update web client.\n<P>13. Solved other known bugs."
+    ],
+    "display_time": "2023-11-03 00:00:00+08:00",
+    "sha256_pak": "7e36de4d1762bba1a6709e80a5ba48aa19e77adc85ef3298810421c1345b33f5",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.282_23103153",
+    "filename": "RLN16_410_282_23103153",
+    "updated_at": "2023-11-03 18:58:17+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 463,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "N6MB01",
+    "changelog": [
+      "1. Optimize the interface and interaction.",
+      "2. Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.",
+      "3. Support setting up Bining Mode for 12MP cameras (only for cetain models).",
+      "4. Support setting up spolight mode and HDR for cameras like CX410.",
+      "5. Support Time Lapse.",
+      "6. Support setting up Interframe Space and Bitrate Mode for cameras.",
+      "7. Optimize the thumbnail pictures of Horizontal Tracking Range.",
+      "8. Optimize TrackMix series and the model RLC-81MA when working with the NVR.",
+      "9. Support upgrading firmware via the Reolink Client for those cameras added to the NVR.",
+      "10.Support importing HTTPS certicate for the NVR via the Reolink Client.",
+      "11. Update web client.\n<P>12. Solved other known bugs."
+    ],
+    "display_time": "2023-11-03 00:00:00+08:00",
+    "sha256_pak": "2ca9b493bb8a1b46e5ee4782837c1de313019a14d6771ecf5eec1f77fa97c555",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.282_23103128",
+    "filename": "RLN8_410_282_23103128",
+    "updated_at": "2023-11-03 19:00:59+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 462,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1. Optimize the interface and interaction.",
+      "2. Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.",
+      "3. Support setting up Bining Mode for 12MP cameras (only for cetain models).",
+      "4. Support setting up spolight mode and HDR for cameras like CX410.",
+      "5. Support Time Lapse.",
+      "6. Support setting up Interframe Space and Bitrate Mode for cameras.",
+      "7. Optimize the thumbnail pictures of Horizontal Tracking Range.",
+      "8. Optimize TrackMix series and the model RLC-81MA when working with the NVR.",
+      "9. Support upgrading firmware via the Reolink Client for those cameras added to the NVR.",
+      "10.Support importing HTTPS certicate for the NVR via the Reolink Client.",
+      "11. Update web client.\n<P>12. Solved other known bugs."
+    ],
+    "display_time": "2023-11-03 00:00:00+08:00",
+    "sha256_pak": "ed988c46d352d3078f05ccecfb7bf826db91df6b95f4209d5c57c2b570535c78",
+    "source": "live"
   }
 ]
