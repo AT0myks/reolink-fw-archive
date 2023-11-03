@@ -1,5 +1,6 @@
 # Reolink firmware archive
 
+* [How it works](#how-it-works)
 * [Download guide](#download-guide)
 * [Contributing](#contributing)
 * [Issues](#issues)
@@ -32,10 +33,17 @@ The code used can be found in `main.py`, except the Reddit part which is not inc
 `missing.txt` contains some firmwares that I'm pretty sure exist
 (if the users correctly reported their device info) but do not appear here.
 
-The archive is auto updated automatically every day at around 4:20 AM and PM UTC.
-
 I cannot guarantee that the info shown here is completely accurate.
 All I can say is that it comes straight from the sources with minimal edits in some cases.
+
+## How it works
+
+Twice a day at around 4:20 AM and PM UTC, information about the devices and
+their firmwares is pulled from Reolink's website. New items are merged into the
+existing `devices.json` and `firmwares_live.json` files.
+Then, for each new firmware, details about the PAK file is retrieved by
+[reolinkfw](https://github.com/AT0myks/reolink-fw) and added to `pak_info.json`.
+If there are new firmwares, the readme is recreated and a new release is made.
 
 ## Download guide
 
@@ -67,8 +75,9 @@ As long as you make sure to check that the firmware you're looking at
 matches your device's model AND hardware version, you should have no problem updating*.
 Usually the hardware version here will be the exact same as shown in your device's info,
 but sometimes one or the other will have a few characters missing at the end.
-This is normal and can be ignored, unless your device is the RLC-510A or RLC-520A in which case
-they both have 2 hardware versions where the second one has the same name but with the `_V2` suffix.
+This is normal and can be ignored, unless you have a RLC-510A, RLC-520A, D500, D800,
+B500 or B800 in which case they have hardware versions that have the same name but with
+the `_V2` suffix.
 
 A few things:
 - models are sorted in alphanumeric order
@@ -109,6 +118,8 @@ please describe it in the discussions as I would like to know more about it.
 If you see a problem or something missing,
 feel free to open an issue/PR to add/fix things.
 
+- do not directly edit `README.md`, it is auto-generated from `readme_header.md`
+and the list of firmwares. Edit `readme_header.md` instead
 - `devices.json` can be modified to include a model or hardware version
 that does not appear yet on the live website (this must be done before adding a firmware for a new device).
 Pick a unique id > 100000 for each model and hardware version
@@ -117,7 +128,9 @@ for an example)
 - `firmwares_manual.json` can be modified to manually add a firmware,
 for example a beta firmware.
 It can also be used to add additional info to an existing firmware like its changelog
-- the main reason to edit `pak_info.json` is to manually add info for RLN36 firmwares.
+- the main reason to edit `pak_info.json` is to manually add info for a firmware when
+an error occurs. This used to be the case for RLN36 firmwares
+(more info [here](https://github.com/vmallet/pakler/issues/1)).
 It could also be used to mark a firmware as beta and/or unstable
 - there shouldn't be anything to fix in `firmwares_live.json`
 - if you want to manually add a firmware for a PR,
@@ -154,12 +167,17 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
+Total: 490
+
 <details>
   <summary>B1200</summary>
 
 [Product page](https://reolink.com/product/rlk8-1200b4-a/)
 
   ### IPC_52316M12MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2174_23050800](https://home-cdn.reolink.us/wp-content/uploads/2023/05/110627161683786436.5166.zip?download_name=B1200_23050800.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | 
@@ -175,6 +193,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/b400/)
 
   ### IPC_5128M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012800](https://home-cdn.reolink.us/files/firmware/20210128firmware/B400_183_21012800.zip)<br />[v3.0.0.183_21012800](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010356171612151777.6123.zip?download_name=firmware_B400_v300183_21012800.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your camera B400's hardware version does not begin with IPC_5128M, please wait for the new firmware release.<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
@@ -182,6 +203,9 @@ Version | Date | Changes | Notes
 [v2.0.0.16_20041560](https://reolink-storage.s3.amazonaws.com/website/firmware/20200415firmware/B400_16_20041560(1).zip) | 2020‑04‑15 | <ol><li>Fixed the freezing issue under the complex environment of live view and playback.</li><li>Optimized system performance.</li></ol> | [Archive](https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-)
 
   ### IPC_5174MP8M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012800](https://reolink-storage.s3.amazonaws.com/website/firmware/20210128firmware/B400_183_21012800+(1).zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800)
@@ -194,18 +218,27 @@ Version | Date | Changes | Notes
   <summary>B500 (Add-ons) *</summary>
 
   ### IPC_5158M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012814](https://home-cdn.reolink.us/files/firmware/20210128firmware/B500_183_21012814.zip)<br />[v3.0.0.183_21012814](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010422061612153326.4775.zip?download_name=firmware_B500_v300183.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your camera B500's hardware version does not begin with IPC_5158M5M, please wait for the new firmware release.
 [v3.0.0.136_20120914](https://reolink-storage.s3.amazonaws.com/website/firmware/20201210firmware/B500_136+_20120914.zip) | 2020‑12‑09 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800)
 
   ### IPC_515B8M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012814](https://home-cdn.reolink.us/files/firmware/20210128firmware/B500_183_21012814+(1).zip)<br />[v3.0.0.183_21012814](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010418121612153092.6544.zip?download_name=firmware_B500_v300183.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your camera B500's hardware version does not begin with IPC_515B8M5M, please wait for the new firmware release.<br />.If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
 [v3.0.0.136_20120914](https://reolink-storage.s3.amazonaws.com/website/firmware/20201210firmware/B500_136_20120914.zip) | 2020‑12‑09 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800)
 
   ### IPC_515B8M5M_V2
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2379_23062900](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120318021694488682.1128.zip?download_name=B500_v3102379_23062900.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
@@ -220,11 +253,17 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/b800/)
 
   ### IPC_5158M8M_V2
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2379_23062702](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120404371694491477.9399.zip?download_name=B800_v3102379_23062702.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
   ### IPC_5158MP8M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012800](https://home-cdn.reolink.us/files/firmware/20210128firmware/B800_183_21012800.zip)<br />[v3.0.0.183_21012800](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010459481612155588.6254.zip?download_name=firmware_B800_v300183.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your camera B800's hardware version does not begin with IPC_5158MP8M, please wait for the new firmware release.<br />.If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
@@ -239,6 +278,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/c1/)
 
   ### IPC_36S16MHSM
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1389_18081414](https://cdn.reolink.com/files/firmware/20180814firmware/C1_1389_18081414.zip)<br />[v2.0.0.1389_18081414](https://home-cdn.reolink.us/files/firmware/20180814firmware/C1_1389_18081414.zip)<br />[v2.0.0.1389_18081414](https://s3.amazonaws.com/reolink-storage/website/firmware/20180814firmware/C1_1389_18081414.zip) | 2018‑08‑14 |  | 
@@ -255,6 +297,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/c1-pro/)
 
   ### IPC_3816MPT
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032105](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/C1-Pro_1441_19032105.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -263,6 +308,9 @@ Version | Date | Changes | Notes
 [v2.0.0.889_17083009](https://s3.amazonaws.com/reolink-storage/website/firmware/889_1708/C1-Pro-889_1708300.zip) | 2017‑08‑30 |  | 
 
   ### IPC_51316M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.136_20121103](https://drive.google.com/uc?id=1U19KqoRH11GHrpvzlqjgG7SbnyQ6HF7s&confirm=t) | 2020‑12‑11 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/k4cym7/c1_pro_firmware_question/)<br />[Source 2](https://www.reddit.com/r/reolinkcam/comments/k6u5me/c2_pro_eol_less_than_2_years_no_more_firmware/giej4k9/)
@@ -277,6 +325,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/c2-series/)
 
   ### IPC_3816MPT
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032104](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/C2_1441_19032104.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -294,6 +345,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/c2-pro/)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.136_20121107](https://drive.google.com/uc?id=1O3VmNf3UMLrsItcwiUEEPyRNXdyqfhhq&confirm=t) | 2020‑12‑11 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/k6u5me/c2_pro_eol_less_than_2_years_no_more_firmware/giej4k9/)<br />[Source 2](https://www.reddit.com/r/reolinkcam/comments/kfs32v/comment/gtwsd7x/)
@@ -310,6 +364,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/us/product/cx410/)
 
   ### IPC_NT1NA44MP
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2501_23072503](https://home-cdn.reolink.us/wp-content/uploads/2023/09/010311281693537888.5417.zip?download_name=CX410_2501_23072503.zip) | 2023‑07‑25 | <ol><li>Optimize the Spolight modes</li><li>Optimize the night vision</li><li>Add HDR switch</li><li>Fix some known bugs</li></ol> | 
@@ -325,6 +382,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlk8-1200d4-a/)
 
   ### IPC_52316M12MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2174_23050801](https://home-cdn.reolink.us/wp-content/uploads/2023/05/110632191683786739.9125.zip?download_name=D1200_23050801.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | 
@@ -340,6 +400,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/d400/)
 
   ### IPC_5128M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012801](https://home-cdn.reolink.us/files/firmware/20210128firmware/D400_183_21012801.zip)<br />[v3.0.0.183_21012801](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010436131612154173.5661.zip?download_name=firmware_D400_v300183.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your camera D400's hardware version does not begin with IPC_5128M, please wait for the new firmware release.<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
@@ -347,6 +410,9 @@ Version | Date | Changes | Notes
 [v2.0.0.16_20041561](https://reolink-storage.s3.amazonaws.com/website/firmware/20200415firmware/D400_16_20041561(1).zip) | 2020‑04‑15 | <ol><li>Fixed the freezing issue under the complex environment of live view and playback.</li><li>Optimized system performance.</li></ol> | [Archive](https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-)
 
   ### IPC_5174MP8M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012801](https://home-cdn.reolink.us/files/firmware/20210128firmware/D400_183_21012801+(2).zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800)
@@ -359,12 +425,18 @@ Version | Date | Changes | Notes
   <summary>D420 *</summary>
 
   ### IPC_5128M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012802](https://reolink-storage.s3.amazonaws.com/website/firmware/20210128firmware/D420.183_21012802.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800)
 [v2.0.0.16_20041562](https://reolink-storage.s3.amazonaws.com/website/firmware/20200415firmware/D420_16_20041562.zip) | 2020‑04‑15 | <ol><li>Fixed the freezing issue under the complex environment of live view and playback.</li><li>Optimized system performance.</li></ol> | [Archive](https://web.archive.org/web/20210805173433/https://support.reolink.com/hc/en-us/articles/900000662366-04-15-2020-Firmware-for-B400-D400-D420-IPC-5128M-IPC-5174M-)
 
   ### IPC_5174MP8M
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012802](https://reolink-storage.s3.amazonaws.com/website/firmware/20210128firmware/D420_183_21012802.(1).zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800)
@@ -375,18 +447,27 @@ Version | Date | Changes | Notes
   <summary>D500 (Add-ons) *</summary>
 
   ### IPC_5158M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012815](https://home-cdn.reolink.us/files/firmware/20210128firmware/D500_183_21012815.zip)<br />[v3.0.0.183_21012815](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010456561612155416.1477.zip?download_name=firmware_D500_v300183.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed some known bugs.</li></ol> | If your cameraD500's hardware version does not begin with IPC_5158M5M, please wait for the new firmware release.
 [v3.0.0.136_20120915](https://reolink-storage.s3.amazonaws.com/website/firmware/20201210firmware/D500_136_+20120915.zip) | 2020‑12‑09 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800)
 
   ### IPC_515B8M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012815](https://home-cdn.reolink.us/files/firmware/20210128firmware/D500_183_21012815+(2).zip)<br />[v3.0.0.183_21012815](https://home-cdn.reolink.us/wp-content/uploads/2022/06/170431531655440313.0447.zip?download_name=firmware_D500_v300183_21012815.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your cameraD500's hardware version does not begin with IPC_515B8M5M, please wait for the new firmware release.
 [v3.0.0.136_20120915](https://home-cdn.reolink.us/files/firmware/20210128firmware/D500_183_21012815+(2).zip)<br />[v3.0.0.136_20120915](https://reolink-storage.s3.amazonaws.com/website/firmware/20201210firmware/D500_136_20120915.zip) | 2020‑12‑09 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210616134733/https://support.reolink.com/hc/en-us/articles/900004952643-28-01-2021-Firmware-for-B400-D400-D420-B500-D500-B800-D800)
 
   ### IPC_515B8M5M_V2
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2379_23062901](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120313091694488389.8595.zip?download_name=D500_v3102379_23062901.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
@@ -401,11 +482,17 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/d800/)
 
   ### IPC_5158M8M_V2
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2379_23062703](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120401221694491282.9054.zip?download_name=D800_v3102379_23062703.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
   ### IPC_5158MP8M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.183_21012801](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010502501612155770.6573.zip?download_name=firmware_D800_v300183.zip)<br />[v3.0.0.183_21012801](https://reolink-storage.s3.amazonaws.com/website/firmware/20210128firmware/D800_183_21012801.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your camera D800's hardware version does not begin with IPC_5158MP8M, please wait for the new firmware release.
@@ -422,6 +509,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/e1/)
 
   ### IPC_517SD5
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062000](https://home-cdn.reolink.us/wp-content/uploads/2023/08/301024131693391053.6834.zip?download_name=517_SD5_2356_23062000.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -430,6 +520,9 @@ Version | Date | Changes | Notes
 [v3.0.0.42_20062900](https://reolink-storage.s3.amazonaws.com/website/firmware/20200629firmware/E1_42_20062900.zip) | 2020‑06‑29 | <ol><li>Added multiple languages for the voice prompt when scanning the QR code to set up the camera.</li><li>Added the thumbnail function-Reolink APP will display the image of each motion event during playback.</li><li>Fixed the bug when connecting the camera in different Vlan via Reolink app/client.</li></ol> | [Archive](https://web.archive.org/web/20200926093027/https://support.reolink.com/hc/en-us/articles/900001664643-06-29-2020-Firmware-for-E1-IPC-517SD5-and-E1-Pro-513SD5-)
 
   ### IPC_566SD53MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090413121696824792.4352.zip?download_name=E1_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
@@ -444,6 +537,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/e1-outdoor/)
 
   ### IPC_523SD8
+
+Firmwares for this hardware version: 9
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1643_23041100](https://support-d.reolink.com/attachments/token/OGUN4y1IYPT4H54LKgv4FrnPk/?name=IPC_523SD8.1643_23041100.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2023‑04‑11 |  | 
@@ -457,6 +553,9 @@ Version | Date | Changes | Notes
 [v3.0.0.197_21022706](https://reolink-storage.s3.amazonaws.com/website/firmware/20210227firmware/E1-Outdoor.197_21022706..zip) | 2021‑02‑27 | <ol><li>Solved the problem that some APP versions are not compatible with the automatic tracking function and the spotlight function.</li><li>Optimized the auto tracking function.</li><li>Optimized the PTZ function.</li><li>Optimized Person and Vehicle Detection.</li></ol> | [Archive](https://web.archive.org/web/20210613000536/https://support.reolink.com/hc/en-us/articles/900005803523-27th-Feb-2021-Firmware-for-E1-Outdoor-IPC-523SD8-)
 
   ### IPC_566SD85MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip?download_name=E1Outdoor_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
@@ -471,6 +570,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/__/product/e1-outdoor-pro/)
 
   ### IPC_560SD88MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2515_23072809](https://home-cdn.reolink.us/wp-content/uploads/2023/08/291037231693305443.7283.zip?download_name=E1_Outdoor_Pro_2515_23072809.zip) | 2023‑07‑28 |  | 1. Optimize and solve some known bugs of the WiFi connection<br />2. Optimize Auto-tracking <br />3. Optimize Auto-focus<br />4. Optimzie Email Alert<br />5. Solve other known bugs
@@ -485,6 +587,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/e1-pro/)
 
   ### IPC_513SD5
+
+Firmwares for this hardware version: 10
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062004](https://home-cdn.reolink.us/wp-content/uploads/2023/08/301124021693394642.2934.zip?download_name=513_SD5_2356_23062004.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -499,6 +604,9 @@ Version | Date | Changes | Notes
 [v3.0.0.42_20062904](https://reolink-storage.s3.amazonaws.com/website/firmware/20200629firmware/E1_Pro_42_20062904.zip) | 2020‑06‑29 | <ol><li>Added multiple languages for the voice prompt when scanning the QR code to set up the camera.</li><li>Added the thumbnail function-Reolink APP will display the image of each motion event during playback.</li><li>Fixed the bug when connecting the camera in different Vlan via Reolink app/client.</li></ol> | [Archive](https://web.archive.org/web/20200926093027/https://support.reolink.com/hc/en-us/articles/900001664643-06-29-2020-Firmware-for-E1-IPC-517SD5-and-E1-Pro-513SD5-)
 
   ### IPC_515SD5
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062013](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071023341696674214.9101.zip?download_name=515_E1_Pro_v3002356_23062013.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -506,6 +614,9 @@ Version | Date | Changes | Notes
 [v3.0.0.597_21091002](https://drive.google.com/uc?id=1UVDXKww4SU8MOvSZBP0uCL7o3dTgzZiH&confirm=t) | 2021‑09‑10 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/)<br />[Source 2](https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb)
 
   ### IPC_566SD54MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090405421696824342.4095.zip?download_name=E1Pro_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
@@ -520,6 +631,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/e1-zoom/)
 
   ### IPC_515BSD6
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062008](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071029021696674542.422.zip?download_name=515B_E1_Zoom_v3002356_23062008.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -530,6 +644,9 @@ Version | Date | Changes | Notes
 [v3.0.0.136_20121108](https://home-cdn.reolink.us/files/firmware/20201211firmware/E1+ZOOM_136_20121108.zip)<br />[v3.0.0.136_20121108](https://home-cdn.reolink.us/wp-content/uploads/2020/12/211158091608551889.5292.zip) | 2020‑12‑11 | <ol><li>Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.</li><li>Added preset function.</li><li>Optimized network transmission protocol.</li><li>Optimized day and night switching effect.</li><li>Solved the problem that FTP recording doesn't have a pre-recorded function.</li><li>Solved the problem of an email test with an empty password.</li><li>Optimized Cloud Storage function.</li><li>Solved the problem that the DHCP hostname is eth0 on the router.</li><li>Solved the problem of copywriting in the received email when only pictures are configured as an email attachment.</li><li>Solved other known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210805181808/https://support.reolink.com/hc/en-us/articles/900003979146-12-11-2020-Firmware-for-E1-Zoom-IPC-515SD6-and-IPC-515BSD6-)
 
   ### IPC_515SD6
+
+Firmwares for this hardware version: 7
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062008](https://home-cdn.reolink.us/wp-content/uploads/2023/08/301127531693394873.8292.zip?download_name=515_SD6_2356_23062008.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -541,12 +658,18 @@ Version | Date | Changes | Notes
 [v3.0.0.65_20071008](https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/E1-Zoom-5MP_65_20071008.zip) | 2020‑07‑10 | <ol><li>Added multiple languages for the voice prompt when scanning the QR code to set up the camera.</li><li>Added the thumbnail function-Reolink APP will display the image of each motion event during playback.</li><li>Fixed the bug when connecting the camera in different Vlan via Reolink app/client.</li><li>Fixed the bug that FTP upload file failed.</li></ol> | [Archive](https://web.archive.org/web/20210805182235/https://support.reolink.com/hc/en-us/articles/900001850003-07-10-2020-Firmware-for-E1-Zoom-IPC-515SD6-)
 
   ### IPC_566SD65MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090251351696819895.8968.zip?download_name=E1Zoom_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.1975_23042102](https://home-cdn.reolink.us/wp-content/uploads/2023/05/310820071685521207.4716.zip?download_name=E1_Zoom_v3101975_23042102_IPC_566SD65MP.zip) | 2023‑04‑21 | <ol><li>Optimize the focusing effect under night vision.</li><li>Solve other known bugs.</li></ol> | 
 
   ### IPC_566SD664M5MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2649_23083101](https://home-cdn.reolink.us/wp-content/uploads/2023/09/190238051695091085.1403.zip?download_name=E1Zoom_v3102649_23083101.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
@@ -562,6 +685,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/fe-p/)
 
   ### FE_529128M6MP_P
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1901_23032202](https://drive.google.com/uc?id=1Z82fGjHO9l_yy9f5iH1jdLzjXZFy8s4x&confirm=t) | 2023‑03‑22 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
@@ -576,6 +702,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-1210a/)
 
   ### IPC_523128M12MP
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.861_22030104](https://home-cdn.reolink.us/wp-content/uploads/2022/03/041044531646390693.3551.zip?download_name=RLC_1210A_22030104.zip) | 2022‑03‑01 | <ol><li>Optimize the problem of screen flickering under high color temperature, such as under snow illumination</li><li>Optimize some other bugs</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -593,11 +722,17 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-1212a/)
 
   ### IPC_523B18128M12MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2174_23050815](https://home-cdn.reolink.us/wp-content/uploads/2023/06/050705371685948737.5325.zip?download_name=RLC_1212A_23050815.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Update the web Client version.</li><li>Require new version of Reolink Client.Reolink Client(versions released before 20210805) connection is not supported.</li><li>Optimize RTSP, ONVIF connection performance.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize video recording strategy.</li><li>Optimize email alarm accuracy.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of probabilistic certificate import failure.</li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Optimize related network protocols and some known bugs.</li><li>Solve the probabilistic problem that the number of videos or pictures generated by time-lapse snapshots is inaccurate.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 
   ### IPC_523B1812MP
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1109_22070715](https://support.reolink.com/attachments/token/pdvEwEbxYvZIXPW0tJgROequl/?name=IPC_523B1812MP.1109_22070715.RLC-1212A.OS12D40.12MP.REOLINK.pak) | 2022‑07‑07 |  | :warning: This is a beta firmware
@@ -615,6 +750,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-1220a/)
 
   ### IPC_523128M12MP
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.861_22030105](https://home-cdn.reolink.us/wp-content/uploads/2022/03/041047121646390832.6154.zip?download_name=RLC_1220A_22030105.zip) | 2022‑03‑01 | <ol><li>Optimize the problem of screen flickering under high color temperature, such as under snow illumination</li><li>Optimize some other bugs</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -632,6 +770,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-1224a/)
 
   ### IPC_523D8128M12MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2174_23050816](https://home-cdn.reolink.us/wp-content/uploads/2023/06/050720121685949612.7354.zip?download_name=RLC_1224A_23050816.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Update the web Client version.</li><li>Require new version of Reolink Client.Reolink Client(versions released before 20210805) connection is not supported.</li><li>Optimize RTSP, ONVIF connection performance.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize video recording strategy.</li><li>Optimize email alarm accuracy.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of probabilistic certificate import failure.</li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Optimize related network protocols and some known bugs.</li><li>Solve the probabilistic problem that the number of videos or pictures generated by time-lapse snapshots is inaccurate.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -642,6 +783,9 @@ Version | Date | Changes | Notes
   <summary>RLC-210 *</summary>
 
   ### IPC_36S16M
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1212_16091400](https://cdn.reolink.com/files/firmware/210/RLC-210_160914.zip)<br />[v2.0.0.1212_16091400](https://home-cdn.reolink.us/files/firmware/210/RLC-210_160914.zip)<br />[v2.0.0.1212_16091400](https://s3.amazonaws.com/reolink-storage/website/firmware/210/RLC-210_160914.zip) | 2016‑09‑14 |  | 
@@ -652,11 +796,17 @@ Version | Date | Changes | Notes
   <summary>RLC-210W *</summary>
 
   ### IPC_35S8M
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1312_18032101](https://cdn.reolink.com/files/firmware/20180402firmware/RLC-210W_18032101.zip)<br />[v2.0.0.1312_18032101](https://home-cdn.reolink.us/files/firmware/20180402firmware/RLC-210W_18032101.zip)<br />[v2.0.0.1312_18032101](https://s3.amazonaws.com/reolink-storage/website/firmware/20180402firmware/RLC-210W_18032101.zip) | 2018‑03‑21 |  | 
 
   ### IPC_36S16M
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1270_16102600](https://s3.amazonaws.com/reolink-storage/website/firmware/210w/RLC-210W_161026.zip) | 2016‑10‑26 |  | 
@@ -671,6 +821,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-410/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032101](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-410_1441_19032101.zip)<br />[v2.0.0.1441_19032101](https://www.dropbox.com/s/0i00nzgce1y5shh/RLC-410_1441_19032101%20%281%29.zip?dl=1) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -681,6 +834,9 @@ Version | Date | Changes | Notes
 [v2.0.0.675_17032701](https://s3.amazonaws.com/reolink-storage/website/firmware/675_170317/RLC-410_675_17032701.zip) | 2017‑03‑27 |  | 
 
   ### IPC_51316M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062000](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071005051696673105.1104.zip?download_name=513_410_v3002356_23062000.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Fix some known bugs</li></ol> | 
@@ -691,6 +847,9 @@ Version | Date | Changes | Notes
 [v2.0.0.354_19031110](https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410_354_19031110.zip) | 2019‑03‑11 | <ol><li>Add the 30 FPS under the NTSC Standard.</li><li>Fix the bugs on the FTP for some servers.</li><li>Fix the bug on the WiFi connection.</li><li>Fix other bugs.</li></ol> | [Archive](https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 9
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062000](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071013521696673632.8127.zip?download_name=515_410_5MP_v3002356_23062000.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -704,6 +863,9 @@ Version | Date | Changes | Notes
 [v2.0.0.354_19031100](https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410-5MP_354_19031100.zip) | 2019‑03‑11 | <ol><li>Add the 30 FPS under the NTSC Standard.</li><li>Fix the bugs on the FTP for some servers.</li><li>Fix the bug on the WiFi connection.</li><li>Fix other bugs.</li></ol> | [Archive](https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-)
 
   ### IPC_515B16M5M
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062000](https://home-cdn.reolink.us/wp-content/uploads/2023/10/080201431696730503.2979.zip?download_name=515B_410_5MP_v3002356_23062000.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Fix some known bugs</li></ol> | 
@@ -718,6 +880,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-410s/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032102](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-410S_1441_19032102.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -737,11 +902,17 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-410w/)
 
   ### IPC_30K128M4MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.739_22042505](https://home-cdn.reolink.us/wp-content/uploads/2022/04/261218011650975481.5286.zip?download_name=RLC_410W_22042505.zip) | 2022‑04‑25 | <ol><li>Fixed a random configuration loss issue caused by restarts</li><li>Fixed some other bugs</li></ol> | This firmware is ONLY for RLC-410W(with hardware version IPC_30K128M4MP)<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
 
   ### IPC_51316M
+
+Firmwares for this hardware version: 9
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062002](https://home-cdn.reolink.us/wp-content/uploads/2023/08/301129191693394959.8303.zip?download_name=513_410W_2356_23062002.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -755,6 +926,9 @@ Version | Date | Changes | Notes
 [v2.0.0.354_19031112](https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410W_354_19031112.zip) | 2019‑03‑11 | <ol><li>Add the 30 FPS under the NTSC Standard.</li><li>Fix the bugs on the FTP for some servers.</li><li>Fix the bug on the WiFi connection.</li><li>Fix other bugs.</li></ol> | [Archive](https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062002](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071015131696673713.4592.zip?download_name=515_410W_5MP_v3002356_23062002.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -765,6 +939,9 @@ Version | Date | Changes | Notes
 [v2.0.0.354_19031102](https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410W-5MP_354_19031102.zip) | 2019‑03‑11 | <ol><li>Add the 30 FPS under the NTSC Standard.</li><li>Fix the bugs on the FTP for some servers.</li><li>Fix the bug on the WiFi connection.</li><li>Fix other bugs.</li></ol> | [Archive](https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-)
 
   ### IPC_515B16M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062002](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071027451696674465.9311.zip?download_name=515B_410W_5MP_v3002356_23062002.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -778,6 +955,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-410ws/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032103](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-410WS_1441_19032103.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -795,6 +975,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-411/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032106](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-411_1441_19032106.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -812,6 +995,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-411s/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032107](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-411S_1441_19032107.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -829,6 +1015,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-411ws/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032108](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-411WS_1441_19032108.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -848,6 +1037,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-420/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032100](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-420_1441_19032100.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -858,6 +1050,9 @@ Version | Date | Changes | Notes
 [v2.0.0.675_17032700](https://s3.amazonaws.com/reolink-storage/website/firmware/675_170317/RLC-420_675_170372700.zip) | 2017‑03‑27 |  | 
 
   ### IPC_51316M
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.136_20121101](https://home-cdn.reolink.us/wp-content/uploads/2020/12/171231591608208319.6475.zip?download_name=firmware_RLC_42_v300136.zip)<br />[v3.0.0.136_20121101](https://reolink-storage.s3.amazonaws.com/website/firmware/20201211firmware/RLC-420_136_20121101.zip) | 2020‑12‑11 | <ol><li>Added the new web terminal that supports HTML5 player, which mainly solved the Flash expiring problem.</li><li>Added the SD card 7*24 hours recording function.</li><li>Optimized network transmission protocol to improve network security.</li><li>Optimized P2P connection.</li><li>Solved the problem that FTP recording doesn't have pre-recorded function.</li><li>Solved the problem of email test with an empty password and some mail sending bugs.</li><li>Solved the problem that FTP test failed and unable to upload pictures under Linux system.</li><li>Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when it's connected to WiFi</li><li>Solved the false alert issue which is caused when using PTZ function.</li><li>Optimized day and night switching effect.</li><li>Solved the problem that the DHCP hostname is eth0 on the router.</li><li>Solved the problem that there is no email interval in the email setting on the web.</li><li>Solved the problem of copywriting in the received email when only pictures are configured as email attachment.</li><li>Solved other known bugs</li></ol> | If your camera's hardware version does not begin with IPC_51316M, please wait for the new firmware release.<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
@@ -867,6 +1062,9 @@ Version | Date | Changes | Notes
 [v2.0.0.354_19031111](https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-420_354_19031111.zip) | 2019‑03‑11 | <ol><li>Add the 30 FPS under the NTSC Standard.</li><li>Fix the bugs on the FTP for some servers.</li><li>Fix the bug on the WiFi connection.</li><li>Fix other bugs.</li></ol> | [Archive](https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 7
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.660_21110805](https://drive.google.com/uc?id=1jlweolf-P1nhFP11TZtDp29wWu2U60jW&confirm=t) | 2021‑11‑08 | I-frame beta test. Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/)<br />[Source 2](https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G)
@@ -878,6 +1076,9 @@ Version | Date | Changes | Notes
 [v2.0.0.354_19031101](https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-420-5MP_354_19031101.zip) | 2019‑03‑11 | <ol><li>Add the 30 FPS under the NTSC Standard.</li><li>Fix the bugs on the FTP for some servers.</li><li>Fix the bug on the WiFi connection.</li><li>Fix other bugs.</li></ol> | [Archive](https://web.archive.org/web/20190524055802/https://support.reolink.com/hc/en-us/articles/360008850853-03-11-2019-Firmware-for-Reolink-IP-Cameras-IPC-51316M-IPC-51516M-)
 
   ### IPC_515B16M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.625_21101107](https://drive.google.com/uc?id=1_6tuBVb9yMyKmBdbNvcdfi0jg6N2QXWc&confirm=t) | 2021‑10‑11 | I-frame beta test. Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/)<br />[Source 2](https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G)
@@ -893,6 +1094,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-422/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032109](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-422_1441_19032109.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -903,6 +1107,9 @@ Version | Date | Changes | Notes
 [v2.0.0.675_17032705](https://s3.amazonaws.com/reolink-storage/website/firmware/675_170317/RLC-422_675_17032705.zip) | 2017‑03‑27 |  | 
 
   ### IPC_51516M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.136_20121105](https://home-cdn.reolink.us/wp-content/uploads/2020/12/171240351608208835.2679.zip?download_name=firmware_RLC_422_v300136.zip)<br />[v3.0.0.136_20121105](https://reolink-storage.s3.amazonaws.com/website/firmware/20201211firmware/RLC-422_136_20121105.zip) | 2020‑12‑11 | <ol><li>Optimized day and night switching effect.</li><li>Optimized network transmission protocol to improve network security.</li><li>Solved the problem that the DHCP hostname is eth0 on the router.</li><li>Solved the problem that there is no email interval in the email setting on the web.</li><li>Solved the problem of copywriting in the received email when only pictures are configured as email attachment.</li><li>Solved other known bugs</li></ol> | If your camera's hardware version does not begin with IPC_51516M, please wait for the new firmware release.<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
@@ -922,6 +1129,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-422w/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032110](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-422W_1441_19032110.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -930,6 +1140,9 @@ Version | Date | Changes | Notes
 [v2.0.0.1055_17110904](https://s3.amazonaws.com/reolink-storage/website/firmware/1711firmware/IPC_3816M.1055_17110904.RLC-422W.IMX326.5MP.WIFI.AF.REOLINK.zip) | 2017‑11‑09 |  | 
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.136_20121106](https://home-cdn.reolink.us/wp-content/uploads/2020/12/181037371608287857.4113.zip?download_name=firmware_RLC_422W_v300136.zip)<br />[v3.0.0.136_20121106](https://reolink-storage.s3.amazonaws.com/website/firmware/20201211firmware/RLC-422W_136_20121106.zip) | 2020‑12‑11 | <ol><li>Optimized day and night switching effect.</li><li>Optimized network transmission protocol to improve network security.</li><li>Solved the problem that the DHCP hostname is eth0 on the router.</li><li>Solved the problem that there is no email interval in the email setting on the web.</li><li>Solved the problem of copywriting in the received email when only pictures are configured as email attachment</li><li>Solved other known bugs</li></ol> | If your camera's hardware version does not begin with IPC_51516M5M, please wait for the new firmware release.<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
@@ -949,6 +1162,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-423/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032111](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-423_1441_19032111.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -959,6 +1175,9 @@ Version | Date | Changes | Notes
 [v2.0.0.675_17032708](https://s3.amazonaws.com/reolink-storage/website/firmware/675_170317/RLC-423_675_17032708.zip) | 2017‑03‑27 |  | 
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.146_20122309](https://home-cdn.reolink.us/wp-content/uploads/2020/12/300432481609302768.493.zip?download_name=firmware_RLC_423_v300146_20122309.zip)<br />[v3.0.0.146_20122309](https://reolink-storage.s3.amazonaws.com/website/firmware/20201223firmware/RLC-423_146_20122309.zip) | 2020‑12‑23 | <ol><li>Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.</li><li>Added the SD card 7*24 hours recording function.</li><li>Optimized network transmission.</li><li>Optimized P2P connection.</li><li>Solved the problem that FTP recording doesn't have pre-recorded function.</li><li>Solved the problem of email test with an empty password and some mail sending bugs.</li><li>Solved the problem of two default routes, mainly to solve the problem that the camera cannot be connected to the VPN network when the it's connected to WiFi.</li><li>Solved the problem that the DHCP hostname is eth0 on the router.</li><li>Solved the problem that there is no email interval in the email setting on the web.</li><li>Solved the problem of copywriting in the received email when only pictures are configured as an email attachment.</li><li>Solved other known bugs.</li></ol> | This firmware is ONLY for RLC-423(with hardware version IPC_51516M5M)<br /> If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
@@ -972,6 +1191,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-423s/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032112](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-423S_1441_19032112.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -987,6 +1209,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-423ws/)
 
   ### IPC_3816M
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.1441_19032113](https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-423WS_1441_19032113.zip) | 2019‑03‑21 | Fixed security flaws. | [Archive](https://web.archive.org/web/20210805103139/https://support.reolink.com/hc/en-us/articles/360021715373-03-21-2019-Firmware-for-Reolink-IP-Cameras-IPC-3816M-)
@@ -1004,6 +1229,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-510a/)
 
   ### IPC_523128M5MP
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.951_22041567](https://home-cdn.reolink.us/wp-content/uploads/2022/04/151157321650023852.8099.zip?download_name=RLC_510A_22041567.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -1014,6 +1242,9 @@ Version | Date | Changes | Notes
 [v3.0.0.124_20112602](https://home-cdn.reolink.us/files/firmware/20201126Firmware/RLC-510A_124_20112602.zip)<br />[v3.0.0.124_20112602](https://home-cdn.reolink.us/wp-content/uploads/2020/12/070722251607325745.3307.zip) | 2020‑11‑26 | <ol><li>Solved the problem that common users cannot turn on push notifications.</li><li>Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.</li><li>Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.</li><li>Solved H265 freezing issue on Blue Iris.</li><li>MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.</li><li>Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.</li><li>Solved the flickering problem when set to the lowest exposure value (50Hz).</li></ol> | [Archive](https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-)
 
   ### IPC_523128M5MP_V2
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2109_23051501](https://support-d.reolink.com/attachments/token/axfGH42kwt74trKrKFysXe2Mg/?name=IPC_523128M5MP_V2.2109_23051501.RLC-510A.OV05A10.5MP.REOLINK.pak) | 2023‑05‑15 | Fix live video delay in Synology Surveillance Station | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/18)
@@ -1029,6 +1260,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-510wa/)
 
   ### IPC_523128M5MP
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1387_22100633](https://support.reolink.com/attachments/token/1ISbkfiJ3uJ2rganejlK6JUvG/?name=IPC_523128M5MP.1387_22100633.RLC-510WA.OV05A10.5MP.WIFI1021.REOLINK.pak) | 2022‑10‑06 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/10iv3di/comment/j5osusf)
@@ -1046,6 +1280,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-511/)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 9
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062003](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071016061696673766.8846.zip?download_name=515_511_v3002356_23062003.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Fix some known bugs</li></ol> | 
@@ -1068,6 +1305,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-511w/)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 8
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2356_23062004](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071022541696674174.2287.zip?download_name=515_511W_v3002356_23062004.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
@@ -1089,6 +1329,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-511wa/)
 
   ### IPC_523128M5MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.956_22041509](https://home-cdn.reolink.us/wp-content/uploads/2022/04/220905421650618342.128.zip?download_name=RLC_511WA_22041509.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -1103,6 +1346,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-520/)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.660_21102210](https://drive.google.com/uc?id=1OxYUaRVwHu1p3S2lJ-8Cnw7QIDYQ55uZ&confirm=t)<br />[v3.0.0.660_21102210](https://drive.google.com/uc?id=1yghPki0FwNI8n51QDBiOuFYZy7LllArZ&confirm=t) | 2021‑10‑22 | I-frame beta test. Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/)<br />[Source 2](https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G)<br />[Source 3](https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/)<br />[Source 4](https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/)<br />[Source 5](https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4)
@@ -1112,6 +1358,9 @@ Version | Date | Changes | Notes
 [v2.0.0.647_20031413](https://home-cdn.reolink.us/files/firmware/20200314firmware/RLC-520_647_20031413.zip) | 2020‑03‑14 |  | 
 
   ### IPC_515B16M5M
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.660_21111507](https://drive.google.com/uc?id=1PQMIWXS6mEELsirf4k1fkQMxz9z7j_pJ&confirm=t) | 2021‑11‑15 | I-frame beta test. Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/)<br />[Source 2](https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G)
@@ -1127,6 +1376,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-520a/)
 
   ### IPC_523128M5MP
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.951_22041566](https://home-cdn.reolink.us/wp-content/uploads/2022/04/151159241650023964.2105.zip?download_name=RLC_520A_22041566.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -1136,6 +1388,9 @@ Version | Date | Changes | Notes
 [v3.0.0.124_20112600](https://home-cdn.reolink.us/files/firmware/20201126Firmware/RLC-520A_124_20112600.zip) | 2020‑11‑26 | <ol><li>Solved the problem that common users cannot turn on push notifications.</li><li>Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.</li><li>Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.</li><li>Solved H265 freezing issue on Blue Iris.</li><li>MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.</li><li>Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.</li><li>Solved the flickering problem when set to the lowest exposure value (50Hz).</li></ol> | [Archive](https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-)
 
   ### IPC_523128M5MP_V2
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2368_23062701](https://support-d.reolink.com/attachments/token/b32M4tyle4rDpYdNSATF25tZP/?name=IPC_523128M5MP_V2.2368_23062701.RLC-520A.OV05A10.5MP.REOLINK.pak)<br />[v3.1.0.2368_23062701](https://support-d.reolink.com/attachments/token/t4dIPW2Qw4zgWGliwvDCbFSGK/?name=IPC_523128M5MP_V2.2368_23062701.RLC-520A.OV05A10.5MP.REOLINK.pak) | 2023‑06‑27 | Add pet detection | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/25)<br />[Source 2](https://community.reolink.com/post/26219)
@@ -1152,6 +1407,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-522/)
 
   ### IPC_51516M5M
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.757_21121512](https://support.reolink.com/attachments/token/iSWMzBTCkhptip2tj4jFFUoXo/?name=IPC_51516M5M.757_21121512.RLC-522.OV05A10.5MP.AF.D7.REOLINK.pak) | 2021‑12‑15 | Fixed I-frame switch button | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/13)
@@ -1170,6 +1428,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-523wa/)
 
   ### IPC_523128M5MP
+
+Firmwares for this hardware version: 8
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2447_23071208](https://home-cdn.reolink.us/wp-content/uploads/2023/08/220431011692678661.2779.zip?download_name=RLC_523WA_2447_23071208.zip) | 2023‑07‑12 | <ol><li>Optimize WiFi Connection</li><li>Optimize the Patrol Feature</li><li>Fix some known bugs</li></ol> | 
@@ -1191,6 +1452,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-542wa/)
 
   ### IPC_523D95MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1983_23040623](https://drive.google.com/uc?id=1RCume3f77oYMbZ3oD06cyD9O6F--uFiC&confirm=t) | 2023‑04‑06 | Add the option to change the I-frame interval | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/14)
@@ -1206,6 +1470,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-810a/)
 
   ### IPC_523128M8MP
+
+Firmwares for this hardware version: 8
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1162_22072805](https://support.reolink.com/attachments/token/bKSdFp6o2FVWqOb0PvEejh7l2/?name=IPC_523128M8MP.1162_22072805.RLC-810A.IMX415.8MP.REOLINK.pak) | 2022‑07‑28 | Potential fix for the presence of artifacts in the RTSP stream | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/4)
@@ -1218,6 +1485,9 @@ Version | Date | Changes | Notes
 [v3.0.0.124_20112603](https://home-cdn.reolink.us/files/firmware/20201126Firmware/RLC-810A_124_20112603.zip)<br />[v3.0.0.124_20112603](https://home-cdn.reolink.us/wp-content/uploads/2020/12/070944151607334255.147.zip) | 2020‑11‑26 | <ol><li>Solved the problem that common users cannot turn on push notifications.</li><li>Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.</li><li>Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.</li><li>Solved H265 freezing issue on Blue Iris.</li><li>MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.</li><li>Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.</li><li>Solved the flickering problem when set to the lowest exposure value (50Hz).</li></ol> | [Archive](https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-)
 
   ### IPC_56064M8MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2368_23062505](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip?download_name=RLC_810A_2368_23062505.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
@@ -1232,6 +1502,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-811a/)
 
   ### IPC_523128M8MP
+
+Firmwares for this hardware version: 8
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2109_23051509](https://support-d.reolink.com/attachments/token/2b7ckPNIxn5zkQsdd3l5OkGcf/?name=IPC_523128M8MP.2109_23051509.RLC-811A.IMX415.8MP.AF.REOLINK.pak) | 2023‑05‑15 | <ol><li>New web interface</li><li>Possibility to connect IoT devices (eg. floodlight)</li><li>Ability to turn on "Illegal login lockout" under Advanced / User Management</li></ol> | Changes are given in comparison to v3.1.0.989<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/27)
@@ -1253,6 +1526,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-812a/)
 
   ### IPC_523B188MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.920_22040613](https://home-cdn.reolink.us/wp-content/uploads/2022/04/080932031649410323.7369.zip?download_name=RLC_812A_22040613.zip) | 2022‑04‑06 | <ol><li>Add auto mode for spotlight</li><li>Optimize images</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -1267,6 +1543,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-81pa/)
 
   ### IPC_56064M8MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2557_23080802](https://home-cdn.reolink.us/wp-content/uploads/2023/09/190805551695110755.9205.zip?download_name=RLC_81PA_2557_23080802.zip) | 2023‑08‑08 | <ol><li>Optimize smart detection</li><li>Support horizontal auto-tracking</li><li>Fix some known bugs</li></ol> | 
@@ -1282,6 +1561,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-820a/)
 
   ### IPC_523128M8MP
+
+Firmwares for this hardware version: 10
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1387_22100622](https://support-d.reolink.com/attachments/token/9fhG99webOHErfL1GES7y7ZFU/?name=IPC_523128M8MP.1387_22100622.RLC-820A.IMX415.8MP.REOLINK.pak) | 2022‑10‑06 | Proper FTPS support | :exclamation: FTPS issue<br />Check the source for details<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/28)
@@ -1296,6 +1578,9 @@ Version | Date | Changes | Notes
 [v3.0.0.124_20112601](https://home-cdn.reolink.us/files/firmware/20201126Firmware/RLC-820A_124_20112601.zip) | 2020‑11‑26 | <ol><li>Solved the problem that common users cannot turn on push notifications.</li><li>Frame rate adjustment: For 8MP cameras, the highest frame rate of any resolution is 25 frames.</li><li>Supporting Clear H265 stream in ONVIF, RTSP preview for 8MP cameras.</li><li>Solved H265 freezing issue on Blue Iris.</li><li>MD filters Human/Vehicle detection false alerts and MD area is synchronized by the Human/Vehicle detection.</li><li>Enhanced SD card driver to solve the problem that some SD cards cannot be recognized.</li><li>Solved the flickering problem when set to the lowest exposure value (50Hz).</li></ol> | [Archive](https://web.archive.org/web/20210725182423/https://support.reolink.com/hc/en-us/articles/900003792966-11-26-2020-Firmware-for-RLC-510A-RLC-520A-RLC-810A-RLC-820A-IPC-523128M-)
 
   ### IPC_56064M8MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2368_23062508](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110430021691728202.6612.zip?download_name=RLC_820A_2368_23062508.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
@@ -1310,6 +1595,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-822a/)
 
   ### IPC_523128M8MP
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1643_22122401](https://support-d.reolink.com/attachments/token/sOqgLVUdAieuQbPLBkepxTNDt/?name=IPC_523128M8MP.1643_22122401.RLC-822A.IMX415.8MP.AF.REOLINK.pak) | 2022‑12‑24 | Optimize focusing function and some connection issues | [Source 1](https://www.reddit.com/r/reolinkcam/comments/14hvlsj/comment/jpo2llf)
@@ -1328,6 +1616,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-823a/)
 
   ### IPC_523128M8MP
+
+Firmwares for this hardware version: 9
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2217_23051711](https://home-cdn.reolink.us/wp-content/uploads/2023/06/130219191686622759.7987.zip?download_name=823A_v3102217_23051711_v10031.zip) | 2023‑05‑17 | <ol><li>Optimize network connection effect</li><li>Optimize the smart tracking effect</li><li>Optimize the AF focus function</li><li>Update the web version and optimize some UI displays</li><li>Fix some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1350,6 +1641,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-823a-16x/)
 
   ### IPC_523SD10
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2347_23061923](https://home-cdn.reolink.us/wp-content/uploads/2023/07/130312241689217944.9992.zip?download_name=RLC_823A_16X_23061923.zip) | 2023‑06‑19 | <ol><li>Optimize and solve the AF probabilistic focus failure</li><li>Optimize the FTP function</li><li>Optimize the Smart detection function</li><li>Optimize the ONVIF function</li><li>Solve some bugs with email alarms</li><li>Update Web Client content</li><li>Modify the cruise mechanism: If the cruise is interrupted by auto-tracking, the cruise will restart after the tracking stops and returns to the guard position for 10S.</li></ol> | 
@@ -1366,6 +1660,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-824a/)
 
   ### IPC_523D88MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.920_22040614](https://home-cdn.reolink.us/wp-content/uploads/2022/04/080933231649410403.839.zip?download_name=RLC_824A_22040614.zip) | 2022‑04‑06 | <ol><li>Add auto mode for spotlight</li><li>Optimize images</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -1380,6 +1677,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-830a/)
 
   ### IPC_560SD78MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2515_23082406](https://home-cdn.reolink.us/wp-content/uploads/2023/09/260155301695693330.9187.zip?download_name=RLC_830A_23082406.zip) | 2023‑08‑24 | <ol><li>Optimize the tracking algorithm and support vertical tracking</li><li>Add the animal detection function</li><li>Optimize smart detection</li><li>Fix some known bugs</li></ol> | 
@@ -1395,6 +1695,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rlc-842a/)
 
   ### IPC_523D98MP
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1643_22122317](https://support-d.reolink.com/attachments/token/zJUE4Mb1B0pSSvEzKfxDjA8ob/?name=IPC_523D98MP.1643_22122317.RLC-842A.IMX415.8MP.AF.REOLINK.pak) | 2022‑12‑23 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/32)
@@ -1411,6 +1714,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rln16-410/?attribute_pa_version=rln16-410)
 
   ### H3MB02
+
+Firmwares for this hardware version: 10
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.4732_1728_21062800](https://home-cdn.reolink.us/wp-content/uploads/2022/11/150658471668495527.8315.zip?download_name=RLN16_410_21062800.zip) | 2021‑06‑28 | <ol><li>Optimized UI display and interaction</li><li>Fixed the large deviation problem when you use the mouse to choose the MD area</li><li>Added the function of controlling IPC spotlight on the NVR</li><li>Fixed the issue that it displays Error icon on the screen when the buzzer sounds</li></ol> | 
@@ -1425,6 +1731,9 @@ Version | Date | Changes | Notes
 [v2.0.0.4240_1468](https://s3.amazonaws.com/reolink-storage/website/firmware/rln16/RLN16-410_170407.zip) | 2017‑04‑07 |  | 
 
   ### H3MB18
+
+Firmwares for this hardware version: 16
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.226_23031645](https://home-cdn.reolink.us/wp-content/uploads/2023/03/290837251680079045.0602.zip?download_name=RLN16_410_23031645.zip) | 2023‑03‑16 | <ol><li>Optimize the interface and interaction.</li><li>Compatible with fisheye series models.</li><li>Compatible with RLC-81PA model.</li><li>Support configuring auto-tracking and AI audio noise reduction settings for TrackMix series camera.</li><li>Support configuring splicing settings for Duo 2 series.</li><li>Support the 3D positioning function for RLC-823A 16X.</li><li>Support switches to control status light and the visitor button not trigger the horn control for Reolink Doorbell series.</li><li>Optimize privacy mask UI.</li><li>Add login lock function.</li><li>Add downlink port network segment configuration function.</li><li>Add IOT device timing constant light time point sorting.</li><li>Update RTSP.</li><li>Upgrade ONVIF version.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1445,6 +1754,9 @@ Version | Date | Changes | Notes
 [v2.0.0.268_20042502](https://reolink-storage.s3.amazonaws.com/website/firmware/20200425firmware/RLN16-410_0425.zip) | 2020‑04‑25 | <ol><li>Fixed the bug that the camera frame rate cannot be configured with 25 fps.</li><li>Optimized the system performance of the NVR system.</li><li>Fixed some other bugs.</li></ol> | [Archive](https://web.archive.org/web/20200809001138/https://support.reolink.com/hc/en-us/articles/900000937423-04-25-2020-Firmware-for-Reolink-RLN16-410-H3MB18-)
 
   ### N6MB01
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.282_23103153](https://home-cdn.reolink.us/wp-content/uploads/2023/11/031055561699008956.9318.zip?download_name=RLN16_410_282_23103153.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.
@@ -1464,6 +1776,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rln36/)
 
   ### N5MB01
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.282_23103105](https://home-cdn.reolink.us/wp-content/uploads/2023/11/031057131699009033.4348.zip?download_name=RLN36_282_23103105.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Support playback recordings simultaneously up to four 8MP cameras.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.
@@ -1479,11 +1794,17 @@ Version | Date | Changes | Notes
   <summary>RLN4-210W (NVR) *</summary>
 
   ### H2MB09
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.4529_1615_18090804100](https://cdn.reolink.com/files/firmware/20180814firmware/RLN4-210W_180908.zip)<br />[v2.0.0.4529_1615_18090804100](https://home-cdn.reolink.us/files/firmware/20180814firmware/RLN4-210W_180908.zip)<br />[v2.0.0.4529_1615_18090804100](https://s3.amazonaws.com/reolink-storage/website/firmware/20180814firmware/RLN4-210W_180908.zip) | 2018‑09‑08 |  | [Archive](https://web.archive.org/web/20210724050558/https://support.reolink.com/hc/en-us/articles/360012551153-08-11-2018-Firmware-for-Reolink-NVRs)
 
   ### H2MB11
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.4472_1582_18032004100](https://cdn.reolink.com/files/firmware/20180402firmware/RLN4-210W_180320.zip)<br />[v2.0.0.4472_1582_18032004100](https://home-cdn.reolink.us/files/firmware/20180402firmware/RLN4-210W_180320.zip)<br />[v2.0.0.4472_1582_18032004100](https://s3.amazonaws.com/reolink-storage/website/firmware/20180402firmware/RLN4-210W_180320.zip) | 2018‑03‑20 |  | 
@@ -1496,12 +1817,18 @@ Version | Date | Changes | Notes
   <summary>RLN4-410 (NVR) *</summary>
 
   ### H3MB02
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.4265_1489](https://cdn.reolink.com/files/firmware/842_170524/RLN4-410_170605.zip)<br />[v2.0.0.4265_1489](https://home-cdn.reolink.us/files/firmware/842_170524/RLN4-410_170605.zip)<br />[v2.0.0.4265_1489](https://s3.amazonaws.com/reolink-storage/website/firmware/842_170524/RLN4-410_170605.zip) | 2017‑06‑05 |  | 
 [v2.0.0.4210_1447](https://cdn.reolink.com/files/firmware/rln4/RLN4-410_161219.zip)<br />[v2.0.0.4210_1447](https://home-cdn.reolink.us/files/firmware/rln4/RLN4-410_161219.zip)<br />[v2.0.0.4210_1447](https://s3.amazonaws.com/reolink-storage/website/firmware/rln4/RLN4-410_161219.zip) | 2016‑12‑19 |  | 
 
   ### H3MB17
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.274_20120700](https://reolink-storage.s3.amazonaws.com/website/firmware/20201220firmware/RLN4-410_20201220.zip) | 2020‑12‑07 | <ol><li>Added the new web terminal that supports the HTML5 player, which mainly solved the Flash expiring problem.</li><li>Solved the problem that Reolink App failed to obtain the PTZ configuration on some IPC.</li><li>Fixed the wrong subject of the reminder email when the hard disk is full.</li></ol> | [Archive](https://web.archive.org/web/20210728201554/https://support.reolink.com/hc/en-us/articles/900003949986-12-07-2020-Firmware-for-Reolink-RLN4-RLN8-410-RLN8-410-E-and-RLN16-410-H3MB02-)
@@ -1518,6 +1845,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/rln8-410/?attribute_pa_version=rln8-410)
 
   ### H3MB02
+
+Firmwares for this hardware version: 8
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.4732_1728_21062800](https://home-cdn.reolink.us/wp-content/uploads/2022/11/150726101668497170.4503.zip?download_name=RLN8_410_21062800.zip) | 2021‑06‑28 | <ol><li>Optimized UI display and interaction</li><li>Fixed the large deviation problem when you use the mouse to choose the MD area</li><li>Added the function of controlling IPC spotlight on the NVR</li><li>Fixed the issue that it displays Error icon on the screen when the buzzer sounds</li></ol> | 
@@ -1530,6 +1860,9 @@ Version | Date | Changes | Notes
 [v2.0.0.4240_1468](https://s3.amazonaws.com/reolink-storage/website/firmware/rln8/RLN8-410_170407.zip) | 2017‑04‑07 |  | 
 
   ### H3MB16
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.280_21060101](https://drive.google.com/uc?id=1oXXUt4uVyFLVsMje8vtpTFa9nLak2mbs&confirm=t)<br />[v2.0.0.280_21060101](https://home-cdn.reolink.us/wp-content/uploads/2022/11/150700251668495625.1457.zip?download_name=RLN8_410_E_21060101.zip) | 2021‑06‑01 | <ol><li>Optimized UI display and interaction</li><li>Fixed the large deviation problem when you use the mouse to choose the MD area</li><li>Modified the push text in Chinese</li><li>Fixed bugs related with Push</li></ol> | 
@@ -1539,6 +1872,9 @@ Version | Date | Changes | Notes
 [v2.0.0.142_19090408101](https://reolink-storage.s3.amazonaws.com/website/firmware/20190904firmware/RLN8-410-E_090401.zip) | 2019‑09‑04 |  | [Source 1](https://www.reddit.com/r/reolink/comments/endw89/rln8410e_firmware_question_upgrade/)
 
   ### N2MB02 or H3MB18
+
+Firmwares for this hardware version: 13
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.226_23031644](https://home-cdn.reolink.us/wp-content/uploads/2023/03/290832531680078773.1966.zip?download_name=RLN8_410_23031644.zip) | 2023‑03‑16 | <ol><li>Optimize the interface and interaction.</li><li>Compatible with fisheye series models.</li><li>Compatible with RLC-81PA model.</li><li>Support configuring auto-tracking and AI audio noise reduction settings for TrackMix series camera.</li><li>Support configuring splicing settings for Duo 2 series.</li><li>Support the 3D positioning function for RLC-823A 16X.</li><li>Support switches to control status light and the visitor button not trigger the horn control for Reolink Doorbell series.</li><li>Optimize privacy mask UI.</li><li>Add login lock function.</li><li>Add downlink port network segment configuration function.</li><li>Add IOT device timing constant light time point sorting.</li><li>Update RTSP.</li><li>Upgrade ONVIF version.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1556,6 +1892,9 @@ Version | Date | Changes | Notes
 [v3.0.0.59_20081247](https://reolink-storage.s3.amazonaws.com/website/firmware/20200812firmware/RLN8-410_20081247.zip) | 2020‑08‑12 | <ol><li>Adopt new UI and new interaction methods</li><li>Support upgrading automatically online function (via Reolink APP)</li><li>Optimize system performance</li></ol> | [Archive](https://web.archive.org/web/20201011161357/https://support.reolink.com/hc/en-us/articles/900002407106-08-12-2020-Firmware-for-Reolink-RLN8-410-and-RLN16-410-H3MB18-)
 
   ### N3MB01
+
+Firmwares for this hardware version: 9
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.226_23031609](https://home-cdn.reolink.us/wp-content/uploads/2023/03/290835361680078936.0569.zip?download_name=RLN8_410_23031609.zip) | 2023‑03‑16 | <ol><li>Optimize the interface and interaction.</li><li>Compatible with fisheye series models.</li><li>Compatible with RLC-81PA model.</li><li>Support configuring auto-tracking and AI audio noise reduction settings for TrackMix series camera.</li><li>Support configuring splicing settings for Duo 2 series.</li><li>Support the 3D positioning function for RLC-823A 16X.</li><li>Support switches to control status light and the visitor button not trigger the horn control for Reolink Doorbell series.</li><li>Optimize privacy mask UI.</li><li>Add login lock function.</li><li>Add downlink port network segment configuration function.</li><li>Add IOT device timing constant light time point sorting.</li><li>Update RTSP.</li><li>Upgrade ONVIF version.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1569,6 +1908,9 @@ Version | Date | Changes | Notes
 [v3.0.0.148_21101146](https://home-cdn.reolink.us/wp-content/uploads/2021/10/130910331634116233.1488.zip) | 2021‑10‑11 |  | 
 
   ### N7MB01
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.282_23103128](https://home-cdn.reolink.us/wp-content/uploads/2023/11/031052161699008736.4583.zip?download_name=RLN8_410_282_23103128.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.
@@ -1587,6 +1929,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-duo-poe/)
 
   ### IPC_529B17B8MP
+
+Firmwares for this hardware version: 2
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1889_23031700](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241045311679654731.5333.zip?download_name=Reolink_Duo_2_PoE_23031700.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
@@ -1602,6 +1947,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-duo-wifi/)
 
   ### IPC_529B17B8MP
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1889_23031701](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip?download_name=Reolink_Duo_2_WiFi_23031701.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
@@ -1618,6 +1966,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-duo-floodlight-poe/)
 
   ### IPC_529B17B8MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1889_23031702](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241052211679655141.5445.zip?download_name=Reolink_Duo_Floodlight_PoE_23031702.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
@@ -1632,6 +1983,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-duo-floodlight-wifi/)
 
   ### IPC_529B17B8MP
+
+Firmwares for this hardware version: 1
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1889_23031703](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241054031679655243.856.zip?download_name=Reolink_Duo_Floodlight_WiFi_23031703.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
@@ -1646,6 +2000,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-duo-poe/)
 
   ### IPC_528B174MP
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1388_22100600](https://home-cdn.reolink.us/wp-content/uploads/2022/10/110156061665453366.7113.zip?download_name=Reolink_Duo_PoE_221006.zip) | 2022‑10‑06 | <ol><li>Update the web version</li><li>Optimize the AI detection function<ol type="a"><li>Upgrade AI model to support pets</li><li>Improve the recognition accuracy of people, cars, and pets, and optimize static AI false positives</li><li>Increase the AI delay alarm function, which can reduce the dynamic misjudgment caused by flying insects, rain and other reasons by adjusting the delay gear</li><li>Optimize the problem of false alarms caused by day and night switching and lighting changes, and solve the problem that white lights are repeatedly turned on and off in some scenes</li></ol></li><li>Optimize night vision images</li><li>Increase the AI detection type of intelligent white light</li><li>Add gop setting function</li><li>Add night vision frame drop function</li><li>Optimized related network protocols and some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1662,6 +2019,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-duo-wifi-v1/)
 
   ### IPC_528B174MP
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1388_22100601](https://home-cdn.reolink.us/wp-content/uploads/2022/10/110159161665453556.8234.zip?download_name=Reolink_Duo_WiFi_221006.zip) | 2022‑10‑06 | <ol><li>Update the web version</li><li>Optimize the AI detection function<ol type="a"><li>Upgrade AI model to support pets</li><li>Improve the recognition accuracy of people, cars, and pets, and optimize static AI false positives</li><li>Increase the AI delay alarm function, which can reduce the dynamic misjudgment caused by flying insects, rain and other reasons by adjusting the delay gear</li><li>Optimize the problem of false alarms caused by day and night switching and lighting changes, and solve the problem that white lights are repeatedly turned on and off in some scenes</li></ol></li><li>Optimize night vision images</li><li>Increase the AI detection type of intelligent white light</li><li>Add gop setting function</li><li>Add night vision frame drop function</li><li>Optimized related network protocols and some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1678,6 +2038,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-lumus/)
 
   ### IPC_325C7
+
+Firmwares for this hardware version: 5
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v2.0.0.705_21052800](https://github.com/AT0myks/reolink-fw-archive/files/11149143/IPC_325C7.705_21052800.IMX307.2MP.WIFI7601.REOLINK.zip) | 2021‑05‑28 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/6)
@@ -1696,6 +2059,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-trackmix-poe/)
 
   ### IPC_529SD78MP
+
+Firmwares for this hardware version: 6
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1817_23022700](https://home-cdn.reolink.us/wp-content/uploads/2023/02/280900161677574816.5116.zip?download_name=Reolink_TrackMix_PoE_23022700.zip) | 2023‑02‑27 | <ol><li>Added intelligent audio noise reduction function</li><li>Optimized auto-tracking function</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs.</li></ol> | 
@@ -1715,6 +2081,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-trackmix-wifi/)
 
   ### IPC_529SD78MP
+
+Firmwares for this hardware version: 3
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1817_23022701](https://home-cdn.reolink.us/wp-content/uploads/2023/02/280858031677574683.5361.zip?download_name=Reolink_TrackMix_WiFi_23022701.zip) | 2023‑02‑27 | <ol><li>Added intelligent audio noise reduction function</li><li>Optimized auto-tracking function</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs</li></ol> | 
@@ -1731,6 +2100,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-video-doorbell/)
 
   ### DB_566128M5MP_P
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2033_23041302](https://home-cdn.reolink.us/wp-content/uploads/2023/05/080159231683511163.4286.zip?download_name=DB_POE_v3002033_23041302.zip) | 2023‑04‑13 | <ol><li>Release new smart home functions:</li><li>Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);</li><li>Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);</li><li>Support GOP settings.</li><li>Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function</li><li>Support adjustable range of CDS value</li><li>Support working with IOT devices</li><li>Add status light control button for doorbell camera (Available to the App version of 4.37 or later)</li><li>Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)</li><li>Fix known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1748,6 +2120,9 @@ Version | Date | Changes | Notes
 [Product page](https://reolink.com/product/reolink-video-doorbell-wifi/)
 
   ### DB_566128M5MP_W
+
+Firmwares for this hardware version: 4
+
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.2033_23041300](https://home-cdn.reolink.us/wp-content/uploads/2023/05/080150541683510654.3453.zip?download_name=DB_WIFI_v3002033_23041300.zip) | 2023‑04‑13 | <ol><li>Release new smart home functions:</li><li>Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);</li><li>Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);</li><li>Support GOP settings.</li><li>Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function</li><li>Support adjustable range of CDS value</li><li>Support working with IOT devices</li><li>Add status light control button for doorbell camera (Available to the App version of 4.37 or later)</li><li>Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)</li><li>Fix known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.

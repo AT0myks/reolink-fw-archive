@@ -84,10 +84,11 @@ def make_title(device: Mapping[str, Any]) -> str:
 
 
 def make_readme(firmwares: Iterable[Mapping[str, Any]]) -> str:
+    pis = load_pak_info()
     devices = load_devices()
     # Create a model -> hardware version -> PAK info dictionary.
     pak_infos: dict[str, dict[str, list[dict[str, Any]]]] = {}
-    for sha, pi in load_pak_info().items():
+    for sha, pi in pis.items():
         model_title, hw_title = get_names(devices, pi["model_id"], pi["hw_ver_id"])
         if model_title is None or hw_title is None:
             print("Cannot find a match for", pi["model_id"], '/', pi["hw_ver_id"])
@@ -100,9 +101,10 @@ def make_readme(firmwares: Iterable[Mapping[str, Any]]) -> str:
     def sort_pak_info(pak_info: Mapping[str, Any]) -> str:
         return pak_info["info"]["build_date"]
 
-    text = ''
+    text = f"Total: {len(pis)}\n\n"
     for model in sorted(pak_infos):
-        model_id = pak_infos[model][list(pak_infos[model])[0]][0]["model_id"]
+        hvs = pak_infos[model]
+        model_id = hvs[list(hvs)[0]][0]["model_id"]
         if (device_idx := get_item_index(devices, "id", model_id)) is None:
             print(f"Cannot find device with ID {model_id}")
             continue
@@ -112,11 +114,12 @@ def make_readme(firmwares: Iterable[Mapping[str, Any]]) -> str:
             text += f'\n<img src="{prodimg}" width="150">\n'
         if produrl := device.get("productUrl"):
             text += '\n' + md_link("Product page", produrl) + '\n'
-        for hv in sorted(pak_infos[model]):
+        for hv in sorted(hvs):
             text += "\n  ### " + hv + "\n"
+            text += f"\nFirmwares for this hardware version: {len(hvs[hv])}\n\n"
             text += "Version | Date | Changes | Notes\n"
             text += "--- | --- | --- | ---\n"
-            for pi in sorted(pak_infos[model][hv], key=sort_pak_info, reverse=True):
+            for pi in sorted(hvs[hv], key=sort_pak_info, reverse=True):
                 fws = [fw for fw in firmwares if fw["sha256_pak"] == pi["sha256"]]
                 # If a firmware appears both in live and archivesv2, the live instance
                 # will appear first in the list and therefore be the one selected.

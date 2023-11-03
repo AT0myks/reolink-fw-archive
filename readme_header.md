@@ -1,5 +1,6 @@
 # Reolink firmware archive
 
+* [How it works](#how-it-works)
 * [Download guide](#download-guide)
 * [Contributing](#contributing)
 * [Issues](#issues)
@@ -32,10 +33,17 @@ The code used can be found in `main.py`, except the Reddit part which is not inc
 `missing.txt` contains some firmwares that I'm pretty sure exist
 (if the users correctly reported their device info) but do not appear here.
 
-The archive is auto updated automatically every day at around 4:20 AM and PM UTC.
-
 I cannot guarantee that the info shown here is completely accurate.
 All I can say is that it comes straight from the sources with minimal edits in some cases.
+
+## How it works
+
+Twice a day at around 4:20 AM and PM UTC, information about the devices and
+their firmwares is pulled from Reolink's website. New items are merged into the
+existing `devices.json` and `firmwares_live.json` files.
+Then, for each new firmware, details about the PAK file is retrieved by
+[reolinkfw](https://github.com/AT0myks/reolink-fw) and added to `pak_info.json`.
+If there are new firmwares, the readme is recreated and a new release is made.
 
 ## Download guide
 
@@ -67,8 +75,9 @@ As long as you make sure to check that the firmware you're looking at
 matches your device's model AND hardware version, you should have no problem updating*.
 Usually the hardware version here will be the exact same as shown in your device's info,
 but sometimes one or the other will have a few characters missing at the end.
-This is normal and can be ignored, unless your device is the RLC-510A or RLC-520A in which case
-they both have 2 hardware versions where the second one has the same name but with the `_V2` suffix.
+This is normal and can be ignored, unless you have a RLC-510A, RLC-520A, D500, D800,
+B500 or B800 in which case they have hardware versions that have the same name but with
+the `_V2` suffix.
 
 A few things:
 - models are sorted in alphanumeric order
@@ -109,6 +118,8 @@ please describe it in the discussions as I would like to know more about it.
 If you see a problem or something missing,
 feel free to open an issue/PR to add/fix things.
 
+- do not directly edit `README.md`, it is auto-generated from `readme_header.md`
+and the list of firmwares. Edit `readme_header.md` instead
 - `devices.json` can be modified to include a model or hardware version
 that does not appear yet on the live website (this must be done before adding a firmware for a new device).
 Pick a unique id > 100000 for each model and hardware version
@@ -117,7 +128,9 @@ for an example)
 - `firmwares_manual.json` can be modified to manually add a firmware,
 for example a beta firmware.
 It can also be used to add additional info to an existing firmware like its changelog
-- the main reason to edit `pak_info.json` is to manually add info for RLN36 firmwares.
+- the main reason to edit `pak_info.json` is to manually add info for a firmware when
+an error occurs. This used to be the case for RLN36 firmwares
+(more info [here](https://github.com/vmallet/pakler/issues/1)).
 It could also be used to mark a firmware as beta and/or unstable
 - there shouldn't be anything to fix in `firmwares_live.json`
 - if you want to manually add a firmware for a PR,
