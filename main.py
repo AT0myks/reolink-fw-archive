@@ -165,9 +165,8 @@ def sanitize(string: str) -> str:
 
 def parse_changes(text: str) -> list[str]:
     text = sanitize(text)
-    text = text.removeprefix("<p>").removesuffix("</p>")
-    text = text.removeprefix("<P>").removesuffix("</P>")
-    return re.split("\s*</?[pP]>\s*<[pP]>\s*|\s*<br />\s*", text)
+    frag = fragment_fromstring(text, True)
+    return [text.strip() for text in frag.itertext() if text.strip()]
 
 
 def parse_timestamps(display_time: int, updated_at: int) -> tuple[datetime, datetime]:
@@ -406,6 +405,8 @@ def merge_dicts(old: MutableMapping[Any, Any], new: Mapping[Any, Any]) -> None:
             if key in ("productImg", "productUrl"):  # For device merging.
                 if val:  # Avoid replacing manually set value by an empty live value.
                     old[key] = val
+            elif key == "changelog":  # For live firmware merging.
+                old[key] = val
             elif isinstance(val, dict):
                 if not isinstance(old.get(key), dict):
                     old[key] = {}
