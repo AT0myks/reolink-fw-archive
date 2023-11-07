@@ -3194,7 +3194,7 @@
   {
     "version": "v3.3.0.282_23103105",
     "filename": "RLN36_282_23103105",
-    "updated_at": "2023-11-03 18:58:05+08:00",
+    "updated_at": "2023-11-07 09:42:29+08:00",
     "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
     "firmware_id": 464,
     "model": "RLN36",
@@ -3221,7 +3221,7 @@
   {
     "version": "v3.3.0.282_23103153",
     "filename": "RLN16_410_282_23103153",
-    "updated_at": "2023-11-03 18:58:17+08:00",
+    "updated_at": "2023-11-07 09:42:40+08:00",
     "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
     "firmware_id": 463,
     "model": "RLN16-410 (NVR)",
