@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 490
+Total: 492
 
 <details>
   <summary>B1200</summary>
@@ -2057,10 +2057,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529SD78MP
 
-Firmwares for this hardware version: 6
+Firmwares for this hardware version: 7
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.2769_23100900](https://home-cdn.reolink.us/wp-content/uploads/2023/11/080300421699412442.0292.zip?download_name=Reolink_TrackMix_PoE_2769_23100900.zip) | 2023‑10‑09 | <ol><li>Support setting Wi-Fi Band Preference</li><li>Optimize Auto-tracking</li><li>Support Webhook</li><li>Optimize some network features</li><li>Optimize smart detection. Animal detction is added.</li><li>Fix some bugs</li></ol> | 
 [v3.0.0.1817_23022700](https://home-cdn.reolink.us/wp-content/uploads/2023/02/280900161677574816.5116.zip?download_name=Reolink_TrackMix_PoE_23022700.zip) | 2023‑02‑27 | <ol><li>Added intelligent audio noise reduction function</li><li>Optimized auto-tracking function</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs.</li></ol> | 
 [v3.0.0.1584_22120100](https://home-cdn.reolink.us/wp-content/uploads/2022/12/120355501670817350.5671.zip?download_name=Reolink_TrackMix_PoE_22120100.zip) | 2022‑12‑01 | <ol><li>Added intelligent audio noise reduction function.</li><li>Optimized auto-tracking function.</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs.</li></ol> | 
 [v3.0.0.1514_22111400](https://home-cdn.reolink.us/wp-content/uploads/2022/11/160814371668586477.9388.zip?download_name=Reolink_TrackMix_PoE_22111400.zip) | 2022‑11‑14 | <ol><li>Added the schedule setting for Auto-tracking function</li><li>Added the horizontal tracking range setting for Auto-tracking</li><li>Optimized Auto-tracking effect</li><li>Optimized the picture smear problem when the PT motor is moving</li><li>Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears.</li><li>Added the function of importing and exporting preset images</li><li>Added fixed frame rate and monitor point settings on the Web Client</li><li>Fixed other bugs</li></ol> | 
@@ -2079,10 +2080,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529SD78MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.2769_23100901](https://home-cdn.reolink.us/wp-content/uploads/2023/11/080302101699412530.5626.zip?download_name=Reolink_TrackMix_WiFi_2769_23100901.zip) | 2023‑10‑09 | <ol><li>Support setting Wi-Fi Band Preference</li><li>Optimize Auto-tracking</li><li>Support Webhook</li><li>Optimize some network features</li><li>Optimize smart detection. Animal detction is added.</li><li>Fix some bugs</li></ol> | 
 [v3.0.0.1817_23022701](https://home-cdn.reolink.us/wp-content/uploads/2023/02/280858031677574683.5361.zip?download_name=Reolink_TrackMix_WiFi_23022701.zip) | 2023‑02‑27 | <ol><li>Added intelligent audio noise reduction function</li><li>Optimized auto-tracking function</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs</li></ol> | 
 [v3.0.0.1584_22120101](https://home-cdn.reolink.us/wp-content/uploads/2022/12/120357311670817451.1817.zip?download_name=Reolink_TrackMix_WiFi_22120101.zip) | 2022‑12‑01 | <ol><li>Added intelligent audio noise reduction function.</li><li>Optimized auto-tracking function.</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs.</li></ol> | 
 [v3.0.0.1514_22111401](https://home-cdn.reolink.us/wp-content/uploads/2022/11/160815571668586557.1557.zip?download_name=Reolink_TrackMix_WiFi_22111401.zip) | 2022‑11‑14 | <ol><li>Added the schedule setting for Auto-tracking function</li><li>Added the horizontal tracking range setting for Auto-tracking</li><li>Optimized Auto-tracking effect</li><li>Optimized the picture smear problem when the PT motor is moving</li><li>Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears.</li><li>Added the function of importing and exporting preset images</li><li>Added fixed frame rate and monitor point settings on the Web Client</li><li>Fixed other bugs</li></ol> | 

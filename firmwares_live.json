@@ -3269,5 +3269,45 @@
     "display_time": "2023-11-03 00:00:00+08:00",
     "sha256_pak": "ed988c46d352d3078f05ccecfb7bf826db91df6b95f4209d5c57c2b570535c78",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.2769_23100901",
+    "filename": "Reolink_TrackMix_WiFi_2769_23100901",
+    "updated_at": "2023-11-08 15:16:47+08:00",
+    "note": "",
+    "firmware_id": 466,
+    "model": "Reolink TrackMix WiFi",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Support setting Wi-Fi Band Preference",
+      "2. Optimize Auto-tracking",
+      "3. Support Webhook",
+      "4. Optimize some network features",
+      "5. Optimize smart detection. Animal detction is added.",
+      "6. Fix some bugs"
+    ],
+    "display_time": "2023-11-08 00:00:00+08:00",
+    "sha256_pak": "7d49a379bb6dc04c5b70c455614a601cf9de77eb41d70b3e052023d1b080f8b8",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.2769_23100900",
+    "filename": "Reolink_TrackMix_PoE_2769_23100900",
+    "updated_at": "2023-11-08 15:17:02+08:00",
+    "note": "",
+    "firmware_id": 465,
+    "model": "Reolink TrackMix PoE",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Support setting Wi-Fi Band Preference",
+      "2. Optimize Auto-tracking",
+      "3. Support Webhook",
+      "4. Optimize some network features",
+      "5. Optimize smart detection. Animal detction is added.",
+      "6. Fix some bugs"
+    ],
+    "display_time": "2023-11-08 00:00:00+08:00",
+    "sha256_pak": "2800b160e429c61d078c1f1bc52b474fce19e72431bde579214eb4002d09e0ca",
+    "source": "live"
   }
 ]
