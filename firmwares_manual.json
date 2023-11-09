@@ -968,5 +968,25 @@
     ],
     "sha256_pak": "cb9d8c3857131322a455ed5b48771c024ffe5f1480a51523987a63cbfb7d4334",
     "source": "manual"
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/15h2kar/testers_wanted_for_doorbell_camera_new_firmware/"
+    ],
+    "sha256_pak": "4162ccfabfbf09495b8f9b9330ac1a082cfdbf7a9d318bbd8b809c0a7019033e",
+    "source": "manual",
+    "changelog": [
+      "Beta test: improved echo cancellation for the two-way audio feature. Check the source for details"
+    ]
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/reolinkcam/comments/15h2kar/testers_wanted_for_doorbell_camera_new_firmware/"
+    ],
+    "sha256_pak": "78bb10624869875cdaa95aa73d1209be7fecc28cd11d05a802ad354ea823aa02",
+    "source": "manual",
+    "changelog": [
+      "Beta test: improved echo cancellation for the two-way audio feature. Check the source for details"
+    ]
   }
 ]
