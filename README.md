@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 494
+Total: 496
 
 <details>
   <summary>B1200</summary>
@@ -1429,10 +1429,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 8
+Firmwares for this hardware version: 9
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2831_23102508](https://home-cdn.reolink.us/wp-content/uploads/2023/11/140140231699926023.7448.zip?download_name=523WA_v3102831_23102508_v10031.zip) | 2023‑10‑25 | <ol><li>Solve the problem that the PT operation might fail</li><li>Sovle the problem that the monitor point might be shifted to a different position</li><li>Optimize the Push Notification</li><li>Optimize the network feature</li><li>Optimize the Auto Tracking</li><li>Optimize the FTP pre-recording</li><li>Update the web interface</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2447_23071208](https://home-cdn.reolink.us/wp-content/uploads/2023/08/220431011692678661.2779.zip?download_name=RLC_523WA_2447_23071208.zip) | 2023‑07‑12 | <ol><li>Optimize WiFi Connection</li><li>Optimize the Patrol Feature</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2217_23051710](https://home-cdn.reolink.us/wp-content/uploads/2023/06/130205271686621927.9606.zip?download_name=523WA_v3102217_23051710_v10031.zip)<br />[v3.1.0.2217_23051710](https://support-d.reolink.com/attachments/token/KCvCCwPiYAQo4QMF77Bx6LAO6/?name=IPC_523128M5MP.2217_23051710.RLC-523WA.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2023‑05‑17 | <ol><li>Optimize network connection effect</li><li>Optimize the smart tracking effect</li><li>Optimize the AF focus function</li><li>Update the web version and optimize some UI displays</li><li>Fix some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.1.0.1584_22120967](https://drive.google.com/uc?id=1txqFSJOccVge1nrUlYDKYKPfHEwbEEmJ&confirm=t) | 2022‑12‑09 | <ol><li>Added auto-tracking horizontal range. (Only for APP/Web.)</li><li>Added the auto-tracking schedule. (Only for APP/Web.)</li><li>Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears. (Only for APP/Web)</li><li>Optimized AI model and multi-objective tracking experience.</li><li>Added preview images in Preset point. (PTZ)</li><li>Updated Web UI and added adaption to the above setting.</li></ol> | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zkwfro/rlc823a_rlc523wa_tracking_beta_40_firmware_added/)<br />[Source 2](https://drive.google.com/drive/folders/1fuS2acVGEdhR1njItb87iaBZ550MWz2o)
@@ -1617,10 +1618,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M8MP
 
-Firmwares for this hardware version: 9
+Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2831_23102509](https://home-cdn.reolink.us/wp-content/uploads/2023/11/140141271699926087.6539.zip?download_name=823A_v3102831_23102509_v10031.zip) | 2023‑10‑25 | <ol><li>Solve the problem that the PT operation might fail</li><li>Sovle the problem that the monitor point might be shifted to a different position</li><li>Optimize the Push Notification</li><li>Optimize the network feature</li><li>Optimize the Auto Tracking</li><li>Optimize the FTP pre-recording</li><li>Update the web interface</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2217_23051711](https://home-cdn.reolink.us/wp-content/uploads/2023/06/130219191686622759.7987.zip?download_name=823A_v3102217_23051711_v10031.zip) | 2023‑05‑17 | <ol><li>Optimize network connection effect</li><li>Optimize the smart tracking effect</li><li>Optimize the AF focus function</li><li>Update the web version and optimize some UI displays</li><li>Fix some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.1.0.1584_22120968](https://drive.google.com/uc?id=1BDEwz2NVhJaQLvZJ11aElQzm-APxNP8a&confirm=t) | 2022‑12‑09 | <ol><li>Added auto-tracking horizontal range. (Only for APP/Web.)</li><li>Added the auto-tracking schedule. (Only for APP/Web.)</li><li>Added the time settings to stop tracking and returning to the monitor point after the object stops and disappears. (Only for APP/Web)</li><li>Optimized AI model and multi-objective tracking experience.</li><li>Added preview images in Preset point. (PTZ)</li><li>Updated Web UI and added adaption to the above setting.</li></ol> | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zkwfro/rlc823a_rlc523wa_tracking_beta_40_firmware_added/)<br />[Source 2](https://drive.google.com/drive/folders/1fuS2acVGEdhR1njItb87iaBZ550MWz2o)
 [v3.1.0.1169_22091308](https://drive.google.com/uc?id=1neJkmtONo1i8V81hrN3JlQORgwB1HykR&confirm=t) | 2022‑09‑13 | Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/xe2pwk/rlc823a_rlc523wa_new_tracking_beta_firmware_and/)<br />[Source 2](https://community.reolink.com/topic/4092/rlc-823a-rlc-523wa-new-tracking-beta-firmware-and-new-tracking-features-plan)<br />[Source 3](https://drive.google.com/drive/folders/17l4qXHhWpnTgHkbthQhvmx1Q9wa8_O4e)

@@ -3309,5 +3309,49 @@
     "display_time": "2023-11-08 00:00:00+08:00",
     "sha256_pak": "2800b160e429c61d078c1f1bc52b474fce19e72431bde579214eb4002d09e0ca",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2831_23102509_v1.0.0.31",
+    "filename": "823A_v3102831_23102509_v10031",
+    "updated_at": "2023-11-14 09:42:05+08:00",
+    "note": "",
+    "firmware_id": 468,
+    "model": "RLC-823A",
+    "hw_ver": "IPC_523128M8MP",
+    "changelog": [
+      "1. Solve the problem that the PT operation might fail",
+      "2. Sovle the problem that the monitor point might be shifted to a different position",
+      "3. Optimize the Push Notification",
+      "4. Optimize the network feature",
+      "5. Optimize the Auto Tracking",
+      "6. Optimize the FTP pre-recording",
+      "7. Update the web interface",
+      "8. Fix some known bugs"
+    ],
+    "display_time": "2023-11-14 00:00:00+08:00",
+    "sha256_pak": "82d150ab2dc26e3f929ea643b3142f31b0cec489e2c6c66ff7b80bd651809ce9",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2831_23102508_v1.0.0.31",
+    "filename": "523WA_v3102831_23102508_v10031",
+    "updated_at": "2023-11-14 09:40:53+08:00",
+    "note": "",
+    "firmware_id": 467,
+    "model": "RLC-523WA",
+    "hw_ver": "IPC_523128M5MP",
+    "changelog": [
+      "1. Solve the problem that the PT operation might fail",
+      "2. Sovle the problem that the monitor point might be shifted to a different position",
+      "3. Optimize the Push Notification",
+      "4. Optimize the network feature",
+      "5. Optimize the Auto Tracking",
+      "6. Optimize the FTP pre-recording",
+      "7. Update the web interface",
+      "8. Fix some known bugs"
+    ],
+    "display_time": "2023-11-14 00:00:00+08:00",
+    "sha256_pak": "ce8f23392e75f6eb1dabf7c931be5b1cbffe310ac135d9143342cc8ee7223510",
+    "source": "live"
   }
 ]

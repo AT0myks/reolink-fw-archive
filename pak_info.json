@@ -8591,5 +8591,39 @@
     "model_id": 181,
     "hw_ver_id": 301,
     "beta": true
+  },
+  "82d150ab2dc26e3f929ea643b3142f31b0cec489e2c6c66ff7b80bd651809ce9": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M8MP",
+      "board_name": "IPC_523128M8MP",
+      "build_date": "231025",
+      "display_type_info": "RLC-823A",
+      "detail_machine_type": "IPC_523128M8MP",
+      "type": "IPC",
+      "version_file": "2831_23102509"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/11/140141271699926087.6539.zip"
+    ],
+    "model_id": 151,
+    "hw_ver_id": 251
+  },
+  "ce8f23392e75f6eb1dabf7c931be5b1cbffe310ac135d9143342cc8ee7223510": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M5MP",
+      "board_name": "IPC_523128M5MP",
+      "build_date": "231025",
+      "display_type_info": "RLC-523WA",
+      "detail_machine_type": "IPC_523128M5MP",
+      "type": "IPC",
+      "version_file": "2831_23102508"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/11/140140231699926023.7448.zip"
+    ],
+    "model_id": 154,
+    "hw_ver_id": 254
   }
 }
