@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 496
+Total: 497
 
 <details>
   <summary>B1200</summary>
@@ -571,10 +571,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560SD88MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2838_23102510](https://home-cdn.reolink.us/wp-content/uploads/2023/11/151140371700048437.7588.zip?download_name=E1_Outdoor_Pro_2838_23102510.zip) | 2023‑10‑25 | <ol><li>Optimize smart detection</li><li>Optimize Auto Focus and Auto Tracking</li><li>Optimize night vision</li><li>Optimize switch between day and night mode</li><li>Fix some bugs related to the FTP feature</li><li>Optimize Audio</li><li>Fix some other known bugs</li></ol> | 
 [v3.1.0.2515_23072809](https://home-cdn.reolink.us/wp-content/uploads/2023/08/291037231693305443.7283.zip?download_name=E1_Outdoor_Pro_2515_23072809.zip) | 2023‑07‑28 |  | 1. Optimize and solve some known bugs of the WiFi connection<br />2. Optimize Auto-tracking <br />3. Optimize Auto-focus<br />4. Optimzie Email Alert<br />5. Solve other known bugs
 
 </details>

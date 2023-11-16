@@ -8625,5 +8625,22 @@
     ],
     "model_id": 154,
     "hw_ver_id": 254
+  },
+  "71282c230bc218aaddc9ab84d6e4528c6d3094bff374e40934da1374a3e54a7b": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_560SD88MP",
+      "board_name": "IPC_560SD88MP",
+      "build_date": "231025",
+      "display_type_info": "E1 Outdoor Pro",
+      "detail_machine_type": "IPC_560SD88MP",
+      "type": "IPC",
+      "version_file": "2838_23102510"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/11/151140371700048437.7588.zip"
+    ],
+    "model_id": 185,
+    "hw_ver_id": 311
   }
 }
