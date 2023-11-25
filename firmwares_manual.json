@@ -988,5 +988,16 @@
     "changelog": [
       "Beta test: improved echo cancellation for the two-way audio feature. Check the source for details"
     ]
+  },
+  {
+    "source_urls": [
+      "https://github.com/AT0myks/reolink-fw-archive/discussions/41"
+    ],
+    "sha256_pak": "5f3f012bb656e26d47e70b3df192248980936edb6275dfcc9f66f185eeee551f",
+    "source": "manual",
+    "changelog": [
+      "Add pet detection",
+      "Update web interface"
+    ]
   }
 ]
