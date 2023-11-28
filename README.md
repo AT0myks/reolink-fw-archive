@@ -170,7 +170,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 Total: 498
 
 <details>
-  <summary>B1200</summary>
+  <summary>B1200 (Add-ons)</summary>
 
 [Product page](https://reolink.com/product/rlk8-1200b4-a/)
 
@@ -377,7 +377,7 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
-  <summary>D1200</summary>
+  <summary>D1200 (Add-ons)</summary>
 
 [Product page](https://reolink.com/product/rlk8-1200d4-a/)
 
