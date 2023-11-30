@@ -8659,5 +8659,22 @@
     ],
     "model_id": 1,
     "hw_ver_id": 100000
+  },
+  "103247fa4adbe13e443b211422c2cbdba4e7b3cd904069d042bc6be186385c47": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT1NA44MP",
+      "board_name": "IPC_NT1NA44MP",
+      "build_date": "231127",
+      "display_type_info": "CX410",
+      "detail_machine_type": "IPC_NT1NA44MP",
+      "type": "IPC",
+      "version_file": "2948_23112703"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/11/300416521701317812.3796.zip"
+    ],
+    "model_id": 186,
+    "hw_ver_id": 312
   }
 }

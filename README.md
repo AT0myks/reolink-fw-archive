@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 498
+Total: 499
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -365,10 +365,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NA44MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2948_23112703](https://home-cdn.reolink.us/wp-content/uploads/2023/11/300416521701317812.3796.zip?download_name=CX410_2948_23112703.zip) | 2023‑11‑27 | <ol><li>Add Motion Mark</li><li>Optimize audio</li><li>Optimize smart detection</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2501_23072503](https://home-cdn.reolink.us/wp-content/uploads/2023/09/010311281693537888.5417.zip?download_name=CX410_2501_23072503.zip) | 2023‑07‑25 | <ol><li>Optimize the Spolight modes</li><li>Optimize the night vision</li><li>Add HDR switch</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2447_23071263](https://drive.google.com/uc?id=1Yrl7F-ZjjAkAzVOhKFwFR-jouwOJHcqK&confirm=t) | 2023‑07‑12 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
 [v3.1.0.2272_23053066](https://drive.google.com/uc?id=11wcErBt1b5Iq_jPl24aP7tqAO_YDjodU&confirm=t)<br />[v3.1.0.2272_23053066](https://www.mediafire.com/file/oi6z4vj8v6r9fdb/IPC_NT1NA44MP.2272_23053066.CX410.OS04A10.4MP.REOLINK.pak/file) | 2023‑05‑30 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/176c12t/cx410_turn_on_spotlight_on_movement/k4ov4bg)
