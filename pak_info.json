@@ -8676,5 +8676,22 @@
     ],
     "model_id": 186,
     "hw_ver_id": 312
+  },
+  "b822462f7ee0161f7f5ca0487f2ade904f5fa69a65cb46bfce5f1ea37b11476d": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_560SD88MP",
+      "board_name": "IPC_560SD88MP",
+      "build_date": "230712",
+      "display_type_info": "E1 Outdoor PoE",
+      "detail_machine_type": "IPC_560SD88MP",
+      "type": "IPC",
+      "version_file": "2448_23071200"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/11/300742551701330175.9865.zip"
+    ],
+    "model_id": 190,
+    "hw_ver_id": 323
   }
 }

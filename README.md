@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 499
+Total: 500
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -560,6 +560,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip?download_name=E1Outdoor_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>E1 Outdoor PoE</summary>
+
+  ### IPC_560SD88MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2448_23071200](https://home-cdn.reolink.us/wp-content/uploads/2023/11/300742551701330175.9865.zip?download_name=E1_Outdoor_PoE_2448_23071200.zip) | 2023‑07‑12 | <ol><li>Opitmize Auto Focus</li><li>Optimize Smart Detetion and Auto Tracking</li><li>Fix some known bugs</li></ol> | 
 
 </details>
 

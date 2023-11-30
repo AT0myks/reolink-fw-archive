@@ -1321,5 +1321,20 @@
         "title": "FE_529128M6MP_P"
       }
     ]
+  },
+  {
+    "id": 190,
+    "title": "E1 Outdoor PoE",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 323,
+        "title": "IPC_560SD88MP"
+      }
+    ]
   }
 ]
