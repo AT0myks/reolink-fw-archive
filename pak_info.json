@@ -8693,5 +8693,56 @@
     ],
     "model_id": 190,
     "hw_ver_id": 323
+  },
+  "7f245ad219ba06529e4c93d99ed4d69ff23674b4cd582b3d44be9eee99255c45": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA45MP",
+      "board_name": "IPC_MS1NA45MP",
+      "build_date": "231023",
+      "display_type_info": "RLC-510WA",
+      "detail_machine_type": "IPC_MS1NA45MP",
+      "type": "IPC",
+      "version_file": "2839_23102302"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/12/040724341701674674.5826.zip"
+    ],
+    "model_id": 163,
+    "hw_ver_id": 324
+  },
+  "c46a25dd69136abea676429a1852097e0dafd1dd1f6b5c4dd9168d6398942b80": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA45MP",
+      "board_name": "IPC_MS1NA45MP",
+      "build_date": "231023",
+      "display_type_info": "RLC-510A",
+      "detail_machine_type": "IPC_MS1NA45MP",
+      "type": "IPC",
+      "version_file": "2839_23102300"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/12/040703291701673409.733.zip"
+    ],
+    "model_id": 1,
+    "hw_ver_id": 325
+  },
+  "c6e8ec425699b5ded6bfa591bc1bfe9e1c8e5f41e8ec69af684b6115ec265a74": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA45MP",
+      "board_name": "IPC_MS1NA45MP",
+      "build_date": "231023",
+      "display_type_info": "RLC-520A",
+      "detail_machine_type": "IPC_MS1NA45MP",
+      "type": "IPC",
+      "version_file": "2839_23102301"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/12/040721491701674509.5846.zip"
+    ],
+    "model_id": 6,
+    "hw_ver_id": 326
   }
 }

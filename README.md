@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 500
+Total: 503
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1266,6 +1266,14 @@ Version | Date | Changes | Notes
 [v3.1.0.2109_23051501](https://support-d.reolink.com/attachments/token/axfGH42kwt74trKrKFysXe2Mg/?name=IPC_523128M5MP_V2.2109_23051501.RLC-510A.OV05A10.5MP.REOLINK.pak) | 2023‑05‑15 | Fix live video delay in Synology Surveillance Station | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/18)
 [v3.1.0.1228_22082200](https://support.reolink.com/attachments/token/UmdVaKU7erG8omgOIiciOZWcr/?name=IPC_523128M5MP_V2.1228_22082200.RLC-510A.OV05A10.5MP.REOLINK.pak) | 2022‑08‑22 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/y5awnz/firmware_for_rlc510a_v2/)<br />[Source 2](https://community.reolink.com/topic/3501/no-firmware-for-my-new-rlc-510a-cameras/4)
 
+  ### IPC_MS1NA45MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.2839_23102300](https://home-cdn.reolink.us/wp-content/uploads/2023/12/040703291701673409.733.zip?download_name=RLC_510A_v300242923102300_IPC_MS1NA45MP.zip) | 2023‑10‑23 | <ol><li>Solved the problem that the camera's mainstream disconnects from SecuritySpy automatically</li><li>Optimize the image performance</li><li>Optimize the audio</li><li>Fix some known bugs</li></ol> | 
+
 </details>
 
 <details>
@@ -1285,6 +1293,14 @@ Version | Date | Changes | Notes
 [v3.1.0.956_22041512](https://drive.google.com/uc?id=1ENIQ_7cGWGygM1wSZjiIHuRPD_IrIuCz&confirm=t)<br />[v3.1.0.956_22041512](https://drive.google.com/uc?id=1Ja75a3z85qZpcpoTwcDVzPGUtTGtTEj6&confirm=t) | 2022‑04‑15 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />If you get an error when updating, see [here](https://github.com/AT0myks/reolink-fw-archive/issues/2#issuecomment-1416773844).<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/issues/2)
 [v3.1.0.764_21121712](https://home-cdn.reolink.us/wp-content/uploads/2022/01/191101291642590089.08.zip?download_name=RLC_510WA_21121712.zip) | 2021‑12‑17 | <ol><li>Optimized AI detection function<ol type="a"><li>Upgraded the AI model to improve the recognition accuracy of people, cars, and pets (the  new features of 8MP models), and optimized static AI false alarm issue</li><li>Increased the AI delay alarm function, which can reduce dynamic misjudgments caused by flying insects, rain, etc. by adjusting the delay gear</li><li>Optimized the alarm area settings to reduce false alarms in the shielded area</li><li>Optimized the AI sensitivity setting: It will not send AI alarm when the AI detection sensitivity is 0</li><li>Optimized the false alarms caused by day and night switching and lighting changes, and solved the problem that the spotlight will repeatedly turn on and off in some scenes</li><li>Optimized the automatic tracking function to solve the chaotic tracking problem of the camera in some scenarios</li><li>Added the vertical tracking function for RLC- 523WA, RLC-823A</li></ol></li><li>Added AI smart detection type option for spotlight, so you can choose AI type for the smart spotlight</li><li>Optimized FTP function<ol type="a"><li>Supported FTPS encryption to improve the security of FTP transfer files</li><li>Optimized the FTP transfer file type:You can choose to transfer only video, only pictures, and transfer both videos and pictures to the FTP server</li><li>Increased Overwrite function for picture only and video only function</li><li>Added 2s/5s/10s interval options for FTP capture picture</li><li>Optimized the upload file directory function: You can choose to folder by day/month, or save all files in the same folder</li></ol></li><li>Optimized the push function and increased the push interval setting function</li><li>Increased the Test error code function for the Email, FTP, push settings, which could help find the cause of the error</li><li>Added switch for RTSP, ONVIF, HTTP, HTTPS service. Users can turn on and off the corresponding network services as needed</li><li>Increased the function of locking the device: The device will be locked for 2 seconds after logging in with an incorrect password to improve login security and prevent malicious attacks</li><li>Added web certificate import function</li><li>Updated RTSP version</li><li>Optimized the AF algorithm to solve the problem of unclear focus in some scenes</li><li>Optimized pre-record time of videos and solved the problem of too long pre-record time in some scenes</li><li>Added day and night switching threshold adjustment function</li></ol> | 1. Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
 [v3.1.0.598_21091312](https://drive.google.com/uc?id=1YIf7hTGX1rHQPYLr1Ct-fALh_0SKNYbw&confirm=t) | 2021‑09‑13 | Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/)<br />[Source 2](https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v)
+
+  ### IPC_MS1NA45MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.2839_23102302](https://home-cdn.reolink.us/wp-content/uploads/2023/12/040724341701674674.5826.zip?download_name=RLC_510WA_v300242923102302_IPC_MS1NA45MP.zip) | 2023‑10‑23 | <ol><li>Solved the problem that the camera's mainstream disconnects from SecuritySpy automatically</li><li>Optimize the image performance</li><li>Optimize the audio</li><li>Fix some known bugs</li></ol> | 
 
 </details>
 
@@ -1412,6 +1428,14 @@ Version | Date | Changes | Notes
 [v3.1.0.2368_23062701](https://support-d.reolink.com/attachments/token/b32M4tyle4rDpYdNSATF25tZP/?name=IPC_523128M5MP_V2.2368_23062701.RLC-520A.OV05A10.5MP.REOLINK.pak)<br />[v3.1.0.2368_23062701](https://support-d.reolink.com/attachments/token/t4dIPW2Qw4zgWGliwvDCbFSGK/?name=IPC_523128M5MP_V2.2368_23062701.RLC-520A.OV05A10.5MP.REOLINK.pak) | 2023‑06‑27 | Add pet detection | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/25)<br />[Source 2](https://community.reolink.com/post/26219)
 [v3.1.0.1387_22100622](https://support-d.reolink.com/attachments/token/72ZbJjwx7YB3xvZP1fYl1cD7t/?name=IPC_523128M5MP_V2.1387_22100622.RLC-520A.OV05A10.5MP.REOLINK.pak) | 2022‑10‑06 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/33)<br />[Source 2](https://community.reolink.com/post/26117)
 [v3.1.0.1228_22082201](https://support.reolink.com/attachments/token/TLanhshf3lniRwq2SU8a6ngUq/?name=IPC_523128M5MP_V2.1228_22082201.RLC-520A.OV05A10.5MP.REOLINK.pak)<br />[v3.1.0.1228_22082201](https://support.reolink.com/attachments/token/tb9cE1rSuu2Iat6TBCs14Y9ld/?name=IPC_523128M5MP_V2.1228_22082201.RLC-520A.OV05A10.5MP.REOLINK.pak) | 2022‑08‑22 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/xpb5jy/firmware_update_520a_fail/iqc2hqf/)<br />[Source 2](https://www.reddit.com/r/reolinkcam/comments/xq2bh6/how_long_has_the_rlc520a_v2_been_available/iqq99u0/)
+
+  ### IPC_MS1NA45MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.2839_23102301](https://home-cdn.reolink.us/wp-content/uploads/2023/12/040721491701674509.5846.zip?download_name=RLC_520A_v300242923102301_IPC_MS1NA45MP.zip) | 2023‑10‑23 | <ol><li>Solved the problem that the camera's mainstream disconnects from SecuritySpy automatically</li><li>Optimize the image performance</li><li>Optimize the audio</li><li>Fix some known bugs</li></ol> | 
 
 </details>
 
