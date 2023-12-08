@@ -3463,5 +3463,24 @@
     "display_time": "2023-12-04 00:00:00+08:00",
     "sha256_pak": "c6e8ec425699b5ded6bfa591bc1bfe9e1c8e5f41e8ec69af684b6115ec265a74",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2898_23110119_v1.0.0.93",
+    "filename": "RLC_823A_16X_231101_IPC_523SD10",
+    "updated_at": "2023-12-08 16:59:34+08:00",
+    "note": "",
+    "firmware_id": 478,
+    "model": "RLC-823A 16X",
+    "hw_ver": "IPC_523SD10",
+    "changelog": [
+      "1.Fix the focus issue when returning to the monitoring point during the transition between day and night",
+      "2.Optimize CGI services",
+      "3.Improve tracking performance in night vision",
+      "4.Enhance smart detection performance",
+      "5.Address other known bugs"
+    ],
+    "display_time": "2023-12-08 00:00:00+08:00",
+    "sha256_pak": "62e70ca98b6664073255615bfa2a9431ae1b28f7be9d7c1fb3e4f27c56492160",
+    "source": "live"
   }
 ]

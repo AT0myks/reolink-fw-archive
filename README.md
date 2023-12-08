@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 503
+Total: 504
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1684,10 +1684,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523SD10
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2898_23110119](https://home-cdn.reolink.us/wp-content/uploads/2023/12/080841291702024889.654.zip?download_name=RLC_823A_16X_231101_IPC_523SD10.zip) | 2023‑11‑01 | <ol><li>Fix the focus issue when returning to the monitoring point during the transition between day and night</li><li>Optimize CGI services</li><li>Improve tracking performance in night vision</li><li>Enhance smart detection performance</li><li>Address other known bugs</li></ol> | 
 [v3.1.0.2347_23061923](https://home-cdn.reolink.us/wp-content/uploads/2023/07/130312241689217944.9992.zip?download_name=RLC_823A_16X_23061923.zip) | 2023‑06‑19 | <ol><li>Optimize and solve the AF probabilistic focus failure</li><li>Optimize the FTP function</li><li>Optimize the Smart detection function</li><li>Optimize the ONVIF function</li><li>Solve some bugs with email alarms</li><li>Update Web Client content</li><li>Modify the cruise mechanism: If the cruise is interrupted by auto-tracking, the cruise will restart after the tracking stops and returns to the guard position for 10S.</li></ol> | 
 [v3.1.0.1933_23032822](https://home-cdn.reolink.us/wp-content/uploads/2023/04/110650141681195814.9281.zip?download_name=RLC_823A_16X_23032822.zip) | 2023‑03‑28 | <ol><li>Update content on Web Client</li><li>Optimize ONVIF function</li><li>Fix some bugs in email alerts</li></ol> | 
 [v3.1.0.1646_22122622](https://home-cdn.reolink.us/wp-content/uploads/2022/12/300258361672369116.5271.zip?download_name=RLC_823A_16X_22122622.zip) | 2022‑12‑26 | <ol><li>Added auto-tracking function</li><li>Optimized PT control effect</li><li>Added 3D Zoom function. (Supported on the Web Client, and will be supported on Reolink App/Client too after subsequent updates)</li><li>Added multiple image modes.</li><li>Optimized the image effect and solved the problem of color cast in some scenes</li><li>Optimized AF focusing effect</li><li>Solved other known bugs</li></ol> | 
