@@ -8761,5 +8761,22 @@
     ],
     "model_id": 175,
     "hw_ver_id": 296
+  },
+  "95b8f7a0073eb1e48616a0f542d4f0c6157f27511f4e4ec94eeb09802978a956": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523D88MP",
+      "board_name": "IPC_523D88MP",
+      "build_date": "231205",
+      "display_type_info": "RLC-833A",
+      "detail_machine_type": "IPC_523D88MP",
+      "type": "IPC",
+      "version_file": "3016_2312052457"
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2023/12/180151301702864290.4141.zip"
+    ],
+    "model_id": 191,
+    "hw_ver_id": 327
   }
 }

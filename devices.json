@@ -1348,5 +1348,20 @@
         "title": "IPC_560SD88MP"
       }
     ]
+  },
+  {
+    "id": 191,
+    "title": "RLC-833A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2022/11/140621571668406917.6064.png",
+    "productUrl": "https://reolink.com/product/rlc-833a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 327,
+        "title": "IPC_523D88MP"
+      }
+    ]
   }
 ]

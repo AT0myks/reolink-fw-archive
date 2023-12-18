@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 504
+Total: 505
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1727,6 +1727,23 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2515_23082406](https://home-cdn.reolink.us/wp-content/uploads/2023/09/260155301695693330.9187.zip?download_name=RLC_830A_23082406.zip) | 2023‑08‑24 | <ol><li>Optimize the tracking algorithm and support vertical tracking</li><li>Add the animal detection function</li><li>Optimize smart detection</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2318_23060906](https://home-cdn.reolink.us/wp-content/uploads/2023/06/131028421686652122.492.zip?download_name=RLC_830A_23060906.zip) | 2023‑06‑09 | <ol><li>Optimize the tracking algorithm and support vertical tracking</li><li>Add the animal detection function</li></ol> | 
+
+</details>
+
+<details>
+  <summary>RLC-833A</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2022/11/140621571668406917.6064.png" width="150">
+
+[Product page](https://reolink.com/product/rlc-833a/)
+
+  ### IPC_523D88MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3016_2312052457](https://home-cdn.reolink.us/wp-content/uploads/2023/12/180151301702864290.4141.zip?download_name=RLC_833A_3016_2312052457.zip) | 2023‑12‑05 | <ol><li>Optimize Smart Detection</li><li>Optimize the image</li><li>Optimize CGI service</li><li>Fix some known bugs</li></ol> | 
 
 </details>
 
