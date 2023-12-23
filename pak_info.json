@@ -17349,5 +17349,41 @@
     ],
     "model_id": 191,
     "hw_ver_id": 327
+  },
+  "af52bd3ebbba9c8620ed315ce257fc3ec07515db787a06bfa07b20c894690a76": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M8MP",
+      "board_name": "IPC_523128M8MP",
+      "build_date": "230824",
+      "display_type_info": "RLC-811A",
+      "detail_machine_type": "IPC_523128M8MP",
+      "type": "IPC",
+      "version_file": "2109_23082409",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Oct 11 2021 - 12:40:43 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Tue Nov 1 14:57:29 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://support-d.reolink.com/attachments/token/mOBN2NDfm9lpoBXkkVL7bOXoA/?name=IPC_523128M8MP.2109_23082409.RLC-811A.IMX415.8MP.AF.REOLINK.pak"
+    ],
+    "model_id": 136,
+    "hw_ver_id": 217
   }
 }

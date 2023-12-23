@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 505
+Total: 506
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1544,10 +1544,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M8MP
 
-Firmwares for this hardware version: 8
+Firmwares for this hardware version: 9
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2109_23082409](https://support-d.reolink.com/attachments/token/mOBN2NDfm9lpoBXkkVL7bOXoA/?name=IPC_523128M8MP.2109_23082409.RLC-811A.IMX415.8MP.AF.REOLINK.pak) | 2023‑08‑24 |  | [Source 1](https://www.reddit.com/r/BlueIris/comments/18gspj8/comment/kd9jkz2)
 [v3.1.0.2109_23051509](https://support-d.reolink.com/attachments/token/2b7ckPNIxn5zkQsdd3l5OkGcf/?name=IPC_523128M8MP.2109_23051509.RLC-811A.IMX415.8MP.AF.REOLINK.pak) | 2023‑05‑15 | <ol><li>New web interface</li><li>Possibility to connect IoT devices (eg. floodlight)</li><li>Ability to turn on "Illegal login lockout" under Advanced / User Management</li></ol> | Changes are given in comparison to v3.1.0.989<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/27)
 [v3.1.0.989_22051908](https://home-cdn.reolink.us/wp-content/uploads/2022/10/251116081666696568.0877.zip?download_name=RLC_811A_989_22051908.zip)<br />[v3.1.0.989_22051908](https://support.reolink.com/attachments/token/MFdl4XblzOXg1IMWGGD8YHLhI/?name=IPC_523128M8MP.989_22051908.RLC-811A.IMX415.8MP.AF.REOLINK.pak) | 2022‑05‑19 | <ol><li>Updated the Web Client</li><li>The device name for the camera is not allowed to set to blank</li><li>Support setting time when the camera is connected by ONVIF (including time, time zone; DST setting is not supported)</li></ol> | 
 [v3.1.0.956_22042008](https://home-cdn.reolink.us/wp-content/uploads/2022/04/220902031650618123.0652.zip?download_name=RLC_811A_22042008.zip) | 2022‑04‑20 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading

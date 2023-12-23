@@ -999,5 +999,12 @@
       "Add pet detection",
       "Update web interface"
     ]
+  },
+  {
+    "source_urls": [
+      "https://www.reddit.com/r/BlueIris/comments/18gspj8/comment/kd9jkz2"
+    ],
+    "sha256_pak": "af52bd3ebbba9c8620ed315ce257fc3ec07515db787a06bfa07b20c894690a76",
+    "source": "manual"
   }
 ]
