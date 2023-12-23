@@ -15,7 +15,7 @@ from aiohttp import ClientSession, TCPConnector
 from dateutil.parser import parse as dtparse
 from lxml.html import HtmlElement, document_fromstring, fragment_fromstring, tostring
 from lxml.html.builder import OL, LI
-from reolinkfw import get_info
+from reolinkfw import firmware_info
 from waybackpy import WaybackMachineCDXServerAPI
 
 from common import FILE_DEVICES, clean_hw_ver, get_item_index, get_names, load_devices, match
@@ -348,14 +348,14 @@ def keep_most_recent(firmwares: Iterable[dict[str, Any]]) -> list[dict[str, Any]
 
 async def add_archives_v1_firmwares(limit_per_host: int = WAYBACK_MAX_CONN) -> None:
     urls = await get_archives_v1_firmware_links(limit_per_host)
-    pak_infos = await asyncio.gather(*[get_info(url) for url in urls])
+    pak_infos = await asyncio.gather(*[firmware_info(url) for url in urls])
     add_and_clean(pak_infos)
 
 
 async def create_support_archives_firmwares(limit_per_host: int = WAYBACK_MAX_CONN) -> None:
     firmwares = await from_support_archives(limit_per_host=limit_per_host)
     filtered = keep_most_recent(firmwares)
-    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in filtered])
+    pak_infos = await asyncio.gather(*[firmware_info(fw["url"]) for fw in filtered])
     clean_fws = add_and_clean(pak_infos, filtered, "archives_v2")
     with open(FILE_FW_ARV2, 'w', encoding="utf8") as f:
         json.dump(clean_fws, f, indent=2, default=str)
@@ -365,7 +365,7 @@ async def create_live_devices_and_firmwares() -> None:
     devices, firmwares = await from_live_website()
     with open(FILE_DEVICES, 'w', encoding="utf8") as f:
         json.dump(devices, f, indent=2)
-    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in firmwares])
+    pak_infos = await asyncio.gather(*[firmware_info(fw["url"]) for fw in firmwares])
     clean_fws = add_and_clean(pak_infos, firmwares, "live")
     with open(FILE_FW_LIVE, 'w', encoding="utf8") as f:
         json.dump(clean_fws, f, indent=2, default=str)
@@ -388,7 +388,7 @@ async def add_archives_v3_firmwares() -> None:
             url = snap.original.replace("%2F", '/').split('?')[0]
             if url not in existingurls:
                 urls.add(url)
-    pak_infos = await asyncio.gather(*[get_info(url) for url in urls])
+    pak_infos = await asyncio.gather(*[firmware_info(url) for url in urls])
     # The errors here are ZIPs that don't contain any PAKs (PDFs...).
     add_and_clean([pi for pi in pak_infos if "error" not in pi[0]])
 
@@ -438,7 +438,7 @@ async def update_live_info() -> list[list[dict[str, Any]]]:
     old_len = len(firmwares_old)  # The new firmwares will start at the end of the list.
     merge_lists(devices_old, devices_new)  # Hoping the titles don't change.
     merge_lists(firmwares_old, firmwares_new, "firmware_id")
-    pak_infos = await asyncio.gather(*[get_info(fw["url"]) for fw in firmwares_old[old_len:]])
+    pak_infos = await asyncio.gather(*[firmware_info(fw["url"]) for fw in firmwares_old[old_len:]])
     firmwares_old[old_len:] = add_and_clean(pak_infos, firmwares_old[old_len:], "live")
     with open(FILE_DEVICES, 'w', encoding="utf8") as f:
         json.dump(devices_old, f, indent=2)
@@ -451,7 +451,7 @@ async def add_firmware_manually(args: Namespace) -> None:
     """If a new device/hw ver is involved, it must be added manually first."""
     with open(FILE_FW_MANL, 'r', encoding="utf8") as f:
         firmwares: list[dict[str, Any]] = json.load(f)
-    pak_infos = await get_info(args.url)
+    pak_infos = await firmware_info(args.url)
     new = {"url": args.url, "beta": args.beta, "user_hosted_only": args.user_hosted_only}
     if args.source:
         new["source_urls"] = args.source
