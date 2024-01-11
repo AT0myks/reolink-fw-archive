@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 506
+Total: 508
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -522,10 +522,11 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD53MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3126_2401022459](https://home-cdn.reolink.us/wp-content/uploads/2024/01/110925111704965111.8398.zip?download_name=E1_v3103126_2401022459.zip) | 2024‑01‑02 | <ol><li>Optimize smart detection.</li><li>Enhance firmware upgrade speed.</li><li>Improve recording audio and two-way audio effects.</li><li>Optimize PT (Pan-Tilt), addressing inaccuracies in PT positioning in certain scenarios.</li></ol> | 
 [v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090413121696824792.4352.zip?download_name=E1_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 
 </details>
@@ -630,10 +631,11 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD54MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3149_2401092478](https://home-cdn.reolink.us/wp-content/uploads/2024/01/110927511704965271.5799.zip?download_name=E1_Pro_3149_2401092478.zip) | 2024‑01‑09 | <ol><li>Optimize smart detection.</li><li>Support two-way audio under ONVIF connection.</li><li>Enhance firmware upgrade speed.</li><li>Improve recording audio and two-way audio effects.</li><li>Optimize PT (Pan-Tilt), addressing inaccuracies in PT positioning in certain scenarios.</li></ol> | 
 [v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090405421696824342.4095.zip?download_name=E1Pro_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 
 </details>

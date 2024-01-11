@@ -3500,5 +3500,42 @@
     "display_time": "2023-12-18 00:00:00+08:00",
     "sha256_pak": "95b8f7a0073eb1e48616a0f542d4f0c6157f27511f4e4ec94eeb09802978a956",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.3126_2401022459",
+    "filename": "E1_v3103126_2401022459",
+    "updated_at": "2024-01-11 17:28:06+08:00",
+    "note": "",
+    "firmware_id": 480,
+    "model": "E1",
+    "hw_ver": "IPC_566SD53MP",
+    "changelog": [
+      "1. Optimize smart detection.",
+      "2. Enhance firmware upgrade speed.",
+      "3. Improve recording audio and two-way audio effects.",
+      "4. Optimize PT (Pan-Tilt), addressing inaccuracies in PT positioning in certain scenarios."
+    ],
+    "display_time": "2024-01-11 00:00:00+08:00",
+    "sha256_pak": "69440400fe5cada3317384f1e68f96b69fb55b2230eb36638484e514b144d3e8",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3149_2401092478",
+    "filename": "E1_Pro_3149_2401092478",
+    "updated_at": "2024-01-11 17:28:36+08:00",
+    "note": "",
+    "firmware_id": 481,
+    "model": "E1 Pro",
+    "hw_ver": "IPC_566SD54MP",
+    "changelog": [
+      "1. Optimize smart detection.",
+      "2. Support two-way audio under ONVIF connection.",
+      "3. Enhance firmware upgrade speed.",
+      "4. Improve recording audio and two-way audio effects.",
+      "5. Optimize PT (Pan-Tilt), addressing inaccuracies in PT positioning in certain scenarios."
+    ],
+    "display_time": "2024-01-11 00:00:00+08:00",
+    "sha256_pak": "856f3a614be2cddde2acbcd9f227b1bedb854d530b255370c033669444360c8a",
+    "source": "live"
   }
 ]
