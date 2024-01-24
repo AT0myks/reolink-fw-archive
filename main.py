@@ -28,7 +28,7 @@ FILE_FW_ARV2 = "firmwares_archives_support.json"
 
 
 async def get_one(session: ClientSession, url: str, type_: str = "text") -> Any:
-    async with session.get(url) as resp:
+    async with session.get(url, headers={"user-agent": "pyth0n"}) as resp:
         return await (resp.json() if type_ == "json" else resp.text())
 
 
