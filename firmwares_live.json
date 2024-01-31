@@ -2195,7 +2195,7 @@
   {
     "version": "v3.3.0.226_23031645",
     "filename": "RLN16_410_23031645",
-    "updated_at": "2023-03-29 16:44:25+08:00",
+    "updated_at": "2024-01-31 18:10:45+08:00",
     "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
     "firmware_id": 391,
     "model": "RLN16-410 (NVR)",
@@ -2224,7 +2224,7 @@
   {
     "version": "v3.3.0.226_23031644",
     "filename": "RLN8_410_23031644",
-    "updated_at": "2023-03-29 16:44:07+08:00",
+    "updated_at": "2024-01-31 18:10:00+08:00",
     "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
     "firmware_id": 392,
     "model": "RLN8-410 (NVR)",
@@ -2253,7 +2253,7 @@
   {
     "version": "v3.3.0.226_23031609",
     "filename": "RLN8_410_23031609",
-    "updated_at": "2023-03-29 16:43:41+08:00",
+    "updated_at": "2024-01-31 18:12:13+08:00",
     "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
     "firmware_id": 393,
     "model": "RLN8-410 (NVR)",
