@@ -1338,8 +1338,8 @@
     "id": 190,
     "title": "E1 Outdoor PoE",
     "type": "IPC",
-    "productImg": "",
-    "productUrl": "",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2024/01/160256191705373779.8693.png",
+    "productUrl": "https://reolink.com/product/e1-outdoor-poe/",
     "variations": [],
     "contains": [],
     "hardwareVersions": [
@@ -1361,6 +1361,36 @@
       {
         "id": 327,
         "title": "IPC_523D88MP"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "title": "NVS16",
+    "type": "NVR",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 329,
+        "title": "N6MB01"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "title": "NVS8",
+    "type": "NVR",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 328,
+        "title": "N7MB01"
       }
     ]
   }
