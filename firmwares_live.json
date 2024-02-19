@@ -3537,5 +3537,74 @@
     "display_time": "2024-01-11 00:00:00+08:00",
     "sha256_pak": "856f3a614be2cddde2acbcd9f227b1bedb854d530b255370c033669444360c8a",
     "source": "live"
+  },
+  {
+    "version": "v3.4.0.293_24010833",
+    "filename": "RLN16_410_24010833",
+    "updated_at": "2024-02-19 10:28:44+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 483,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "H3MB18",
+    "changelog": [
+      "1. Optimize interface and interactions.",
+      "2. Add Time Lapse feature.",
+      "3. Add Motion Mark.",
+      "4. Support upgrading cameras via the Reolink Client.",
+      "5. Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.",
+      "6. Support setting up Bining Mode for 12MP cameras (only for cetain models).",
+      "7.  Support setting up spolight mode and HDR for CX410 and other models.",
+      "8. Add I-frame Interval, Frame Rate mode, and Bitrate Mode settings.",
+      "9. Address some known bugs."
+    ],
+    "display_time": "2024-01-31 00:00:00+08:00",
+    "sha256_pak": "a93d207779749d58725daba077d29392f8772b9db8486ea81e9a71ed8f53e914",
+    "source": "live"
+  },
+  {
+    "version": "v3.4.0.293_24010832",
+    "filename": "RLN8_410_24010832",
+    "updated_at": "2024-02-19 10:26:47+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 484,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N2MB02 or H3MB18",
+    "changelog": [
+      "1. Optimize interface and interactions.",
+      "2. Add Time Lapse feature.",
+      "3. Add Motion Mark.",
+      "4. Support upgrading cameras via the Reolink Client.",
+      "5. Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.",
+      "6. Support setting up Bining Mode for 12MP cameras (only for cetain models).",
+      "7.  Support setting up spolight mode and HDR for CX410 and other models.",
+      "8. Add I-frame Interval, Frame Rate mode, and Bitrate Mode settings.",
+      "9. Address some known bugs."
+    ],
+    "display_time": "2024-01-31 00:00:00+08:00",
+    "sha256_pak": "9173a8950988559273ea0c03348e55929e8db8f3e2f8595424de7c657af92f29",
+    "source": "live"
+  },
+  {
+    "version": "v3.4.0.293_24010837",
+    "filename": "RLN8_410_24010837",
+    "updated_at": "2024-02-19 10:25:42+08:00",
+    "note": "Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.",
+    "firmware_id": 485,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N3MB01",
+    "changelog": [
+      "1. Optimize interface and interactions.",
+      "2. Add Time Lapse feature.",
+      "3. Add Motion Mark.",
+      "4. Support upgrading cameras via the Reolink Client.",
+      "5. Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.",
+      "6. Support setting up Bining Mode for 12MP cameras (only for cetain models).",
+      "7.  Support setting up spolight mode and HDR for CX410 and other models.",
+      "8. Add I-frame Interval, Frame Rate mode, and Bitrate Mode settings.",
+      "9. Address some known bugs."
+    ],
+    "display_time": "2024-01-31 00:00:00+08:00",
+    "sha256_pak": "486cce8831188c4e55c2127e2db5d6c808ce3b0a20458bc816feed2577d6de7f",
+    "source": "live"
   }
 ]
