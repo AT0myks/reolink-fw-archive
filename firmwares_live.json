@@ -3900,5 +3900,31 @@
     "display_time": "2024-02-23 00:00:00+08:00",
     "sha256_pak": "fc2e254584cbddc497be60dc1e5d82d1f1e9d1d15327b17f72035afad757e396",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.3215",
+    "filename": "Reolink_video_doorbell_wifi_v30032152401262240_IPC_DB",
+    "updated_at": "2024-03-01 09:56:36+08:00",
+    "note": "1. Optimize the status light illumination logic of the Doorbell to indicate network connectivity status.2. Support more options for Overwrite Recordings, like 1 Day(s).3. Fix the bug that there are continuous visitor push triggers during two-way audio usage.4. Support showing Motion Mark on the Playback page.5. Support Cloud encryption.6. Support calling via Doorbell ring.7. Fixed some bugs.",
+    "firmware_id": 505,
+    "model": "Reolink Video Doorbell WiFi",
+    "hw_ver": "DB_566128M5MP_W",
+    "changelog": [],
+    "display_time": "2024-03-01 00:00:00+08:00",
+    "sha256_pak": "f59e5609b77fce4a926849a48f059f09509c7e11b811329825c04f1259aa02f9",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3215",
+    "filename": "Reolink_video_doorbell_POE_v30032152401262241_IPC_DB",
+    "updated_at": "2024-03-01 09:53:16+08:00",
+    "note": "1. Optimize the status light illumination logic of the Doorbell to indicate network connectivity status.2. Support more options for Overwrite Recordings, like 1 Day(s).3. Fix the bug that there are continuous visitor push triggers during two-way audio usage.4. Support showing Motion Mark on the Playback page.5. Support Cloud encryption.6. Support calling via Doorbell ring.7. Fixed some bugs.",
+    "firmware_id": 504,
+    "model": "Reolink Video Doorbell PoE",
+    "hw_ver": "DB_566128M5MP_P",
+    "changelog": [],
+    "display_time": "2024-03-01 00:00:00+08:00",
+    "sha256_pak": "b87fb00eca26b2e5873036ba0ec7021d07af2d03ffb33bb6379bc2418fbb93c4",
+    "source": "live"
   }
 ]
