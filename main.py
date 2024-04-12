@@ -16,6 +16,7 @@ from dateutil.parser import parse as dtparse
 from lxml.html import HtmlElement, document_fromstring, fragment_fromstring, tostring
 from lxml.html.builder import OL, LI
 from reolinkfw import firmware_info
+from reolinkfw.typedefs import StrPathURL
 from waybackpy import WaybackMachineCDXServerAPI
 
 from common import FILE_DEVICES, clean_hw_ver, get_item_index, get_names, load_devices, match
@@ -430,6 +431,13 @@ def merge_lists(old: MutableSequence[Any], new: Iterable[Any], key: str = "title
             old.append(item)
 
 
+async def firmware_info_safe(file_or_url: StrPathURL, use_cache: bool = True) -> list[dict[str, Any]]:
+    try:
+        return await firmware_info(file_or_url, use_cache)
+    except Exception as e:
+        return [{"file": file_or_url, "error": str(e)}]
+
+
 async def update_live_info() -> list[list[dict[str, Any]]]:
     devices_new, firmwares_new = await from_live_website()
     devices_old = load_devices()
@@ -438,7 +446,7 @@ async def update_live_info() -> list[list[dict[str, Any]]]:
     old_len = len(firmwares_old)  # The new firmwares will start at the end of the list.
     merge_lists(devices_old, devices_new)  # Hoping the titles don't change.
     merge_lists(firmwares_old, firmwares_new, "firmware_id")
-    pak_infos = await asyncio.gather(*[firmware_info(fw["url"]) for fw in firmwares_old[old_len:]])
+    pak_infos = await asyncio.gather(*[firmware_info_safe(fw["url"]) for fw in firmwares_old[old_len:]])
     firmwares_old[old_len:] = add_and_clean(pak_infos, firmwares_old[old_len:], "live")
     with open(FILE_DEVICES, 'w', encoding="utf8") as f:
         json.dump(devices_old, f, indent=2)
