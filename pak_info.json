@@ -18417,5 +18417,37 @@
     ],
     "model_id": 194,
     "hw_ver_id": 331
+  },
+  "fa341ac17e059e0f2620bde72bb3132c8610855ee16ce2c10ba6e39b34d8bdc1": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS2NO28MP",
+      "board_name": "IPC_MS2NO28MP",
+      "build_date": "240703",
+      "display_type_info": "B800W",
+      "detail_machine_type": "IPC_MS2NO28MP",
+      "type": "IPC",
+      "version_file": "3078_2407031328",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Jul 24 2023 - 16:20:49)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": null,
+      "board": null,
+      "board_vendor": null,
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/07/041113461720091626.7586.zip"
+    ],
+    "model_id": 196,
+    "hw_ver_id": 330
   }
 }

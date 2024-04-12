@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 535
+Total: 536
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -282,6 +282,19 @@ Version | Date | Changes | Notes
 [v3.0.0.183_21012800](https://home-cdn.reolink.us/files/firmware/20210128firmware/B800_183_21012800.zip)<br />[v3.0.0.183_21012800](https://home-cdn.reolink.us/wp-content/uploads/2021/02/010459481612155588.6254.zip?download_name=firmware_B800_v300183.zip) | 2021‑01‑28 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed the bug that IPC failed to reconnect to the NVR after powering off when setting certain time zones.</li><li>Fixed some known bugs.</li></ol> | If your camera B800's hardware version does not begin with IPC_5158MP8M, please wait for the new firmware release.<br />.If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
 [v3.0.0.136_20120900](https://reolink-storage.s3.amazonaws.com/website/firmware/20201210firmware/B800_136_20120900.zip) | 2020‑12‑09 | <ol><li>Optimize the effect of the day and night switch.</li><li>Optimize network transmission.</li><li>Optimize the alert caused by the Day and Night switching.</li><li>When obtaining the IP address by DHCP, the hostname will be changed to the device name (OSD name).</li><li>Fixed some known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210126120322/https://support.reolink.com/hc/en-us/articles/900004952643-12-09-2020-Firmware-for-B400-D400-B500-D500-B800-D800)
 [v2.0.0.17_20042200](https://reolink-storage.s3.amazonaws.com/website/firmware/20200422firmware/B800_17_20042200.zip) | 2020‑04‑22 | <ol><li>Fixed the freezing issue under the complex environment of live view and playback.</li><li>Optimized system performance.</li></ol> | [Archive](https://web.archive.org/web/20210726205241/https://support.reolink.com/hc/en-us/articles/900000744606-04-22-2020-Firmware-for-B800-D800-IPC-5158MP8M-)
+
+</details>
+
+<details>
+  <summary>B800W (Add-ons)</summary>
+
+  ### IPC_MS2NO28MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.3078_2407031328](https://home-cdn.reolink.us/wp-content/uploads/2024/07/041113461720091626.7586.zip?download_name=B800W_3078_2407031328.zip) | 2024‑07‑03 | 1. Resolve known bugs | 
 
 </details>
 

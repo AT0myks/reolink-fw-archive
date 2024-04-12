@@ -4004,8 +4004,7 @@
       "1. Resolve known bugs"
     ],
     "display_time": "2024-07-04 00:00:00+08:00",
-    "file": "https://home-cdn.reolink.us/wp-content/uploads/2024/07/041113461720091626.7586.zip",
-    "error": "'System halted' string not found",
+    "sha256_pak": "fa341ac17e059e0f2620bde72bb3132c8610855ee16ce2c10ba6e39b34d8bdc1",
     "source": "live"
   }
 ]
