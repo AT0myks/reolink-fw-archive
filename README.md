@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 513
+Total: 529
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -750,11 +750,12 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M12MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.861_22030104](https://home-cdn.reolink.us/wp-content/uploads/2022/03/041044531646390693.3551.zip?download_name=RLC_1210A_22030104.zip) | 2022‑03‑01 | <ol><li>Optimize the problem of screen flickering under high color temperature, such as under snow illumination</li><li>Optimize some other bugs</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
+[v3.1.0.861_24022104](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230718451708672725.6225.zip?download_name=RLC_1210A_861_24022104.zip) | 2022‑03‑01 | Optimize related network protocols and some known bugs | 
 [v3.0.0.250_21040804](https://home-cdn.reolink.us/wp-content/uploads/2021/06/170838571623919137.6027.zip) | 2021‑04‑08 |  | 
 [v3.0.0.177_21012104](https://reolink-storage.s3.amazonaws.com/website/firmware/20210121firmware/RLC_1210A_177_21012104.zip) | 2021‑01‑21 | <ol><li>Corrected the text in the alert email.</li><li>Solved the problem that the MD status of API URL always displaying as triggered.</li><li>Solved the problem that failed to download videos via the Reolink client.</li><li>Solve the problem that online upgrading may fail sometimes.</li><li>Added a new web terminal that supports the HTML5 player.</li></ol> | [Archive](https://web.archive.org/web/20210805172232/https://support.reolink.com/hc/en-us/articles/900005240343-21st-Jan-2021-Firmware-for-RLC-1210A-and-RLC-1220A)
 [v3.0.0.160_21011304](https://reolink-storage.s3.amazonaws.com/website/firmware/20210127firmware/RLC-1210A_160_21011304.zip) | 2021‑01‑13 | <ol><li>Corrected the text in the alert email.</li><li>Solved the problem that the MD status of API URL always displaying as triggered.</li><li>Solved the problem that failed to download videos via the Reolink client.</li><li>Solve the problem that online upgrading may fail sometimes.</li><li>Added a new web terminal that supports the HTML5 player.</li></ol> | [Archive](https://web.archive.org/web/20210204074215/https://support.reolink.com/hc/en-us/articles/900005240343-01-13-2021-Firmware-for-RLC-1210A-and-RLC-1220A)
@@ -798,11 +799,12 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M12MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.861_22030105](https://home-cdn.reolink.us/wp-content/uploads/2022/03/041047121646390832.6154.zip?download_name=RLC_1220A_22030105.zip) | 2022‑03‑01 | <ol><li>Optimize the problem of screen flickering under high color temperature, such as under snow illumination</li><li>Optimize some other bugs</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
+[v3.1.0.861_24022105](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230719321708672772.7947.zip?download_name=RLC_1220A_861_24022105.zip) | 2022‑03‑01 | Optimize related network protocols and some known bugs | 
 [v3.0.0.250_21040805](https://home-cdn.reolink.us/wp-content/uploads/2021/06/170837491623919069.6493.zip) | 2021‑04‑08 |  | 
 [v3.0.0.177_21012105](https://reolink-storage.s3.amazonaws.com/website/firmware/20210121firmware/RLC-1220A.177_21012105..zip) | 2021‑01‑21 | <ol><li>Corrected the text in the alert email.</li><li>Solved the problem that the MD status of API URL always displaying as triggered.</li><li>Solved the problem that failed to download videos via the Reolink client.</li><li>Solve the problem that online upgrading may fail sometimes.</li><li>Added a new web terminal that supports the HTML5 player.</li></ol> | [Archive](https://web.archive.org/web/20210805172232/https://support.reolink.com/hc/en-us/articles/900005240343-21st-Jan-2021-Firmware-for-RLC-1210A-and-RLC-1220A)
 [v3.0.0.160_21011305](https://reolink-storage.s3.amazonaws.com/website/firmware/20210127firmware/RLC-1220A_160_21011305.zip) | 2021‑01‑13 | <ol><li>Corrected the text in the alert email.</li><li>Solved the problem that the MD status of API URL always displaying as triggered.</li><li>Solved the problem that failed to download videos via the Reolink client.</li><li>Solve the problem that online upgrading may fail sometimes.</li><li>Added a new web terminal that supports the HTML5 player.</li></ol> | [Archive](https://web.archive.org/web/20210204074215/https://support.reolink.com/hc/en-us/articles/900005240343-01-13-2021-Firmware-for-RLC-1210A-and-RLC-1220A)
@@ -1277,11 +1279,12 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 6
+Firmwares for this hardware version: 7
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.951_22041567](https://home-cdn.reolink.us/wp-content/uploads/2022/04/151157321650023852.8099.zip?download_name=RLC_510A_22041567.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
+[v3.1.0.951_24022167](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230709211708672161.1837.zip?download_name=RLC_510A_951_24022167.zip) | 2022‑04‑15 | Optimize related network protocols and some known bugs | 
 [v3.1.0.598_21091302](https://drive.google.com/uc?id=1V2djJmvlPl_U-YZLOAQaMytn74EE7Ad_&confirm=t) | 2021‑09‑13 | Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/)<br />[Source 2](https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v)
 [v3.0.0.494_21073002](https://drive.google.com/uc?id=1DzqvLN7SEhHzGJjrcOaUgEur__o0IJWT&confirm=t) | 2021‑07‑30 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.0.0.177_21012102](https://home-cdn.reolink.us/wp-content/uploads/2021/01/290802021611907322.7966.zip) | 2021‑01‑21 |  | 
@@ -1317,10 +1320,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.764_2402204770](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230704161708671856.2393.zip?download_name=RLC_510WA_764_2402204770.zip) | 2024‑02‑20 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1387_22100633](https://support.reolink.com/attachments/token/1ISbkfiJ3uJ2rganejlK6JUvG/?name=IPC_523128M5MP.1387_22100633.RLC-510WA.OV05A10.5MP.WIFI1021.REOLINK.pak) | 2022‑10‑06 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/10iv3di/comment/j5osusf)
 [v3.1.0.956_22041512](https://drive.google.com/uc?id=1ENIQ_7cGWGygM1wSZjiIHuRPD_IrIuCz&confirm=t)<br />[v3.1.0.956_22041512](https://drive.google.com/uc?id=1Ja75a3z85qZpcpoTwcDVzPGUtTGtTEj6&confirm=t) | 2022‑04‑15 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />If you get an error when updating, see [here](https://github.com/AT0myks/reolink-fw-archive/issues/2#issuecomment-1416773844).<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/issues/2)
 [v3.1.0.764_21121712](https://home-cdn.reolink.us/wp-content/uploads/2022/01/191101291642590089.08.zip?download_name=RLC_510WA_21121712.zip) | 2021‑12‑17 | <ol><li>Optimized AI detection function<ol type="a"><li>Upgraded the AI model to improve the recognition accuracy of people, cars, and pets (the  new features of 8MP models), and optimized static AI false alarm issue</li><li>Increased the AI delay alarm function, which can reduce dynamic misjudgments caused by flying insects, rain, etc. by adjusting the delay gear</li><li>Optimized the alarm area settings to reduce false alarms in the shielded area</li><li>Optimized the AI sensitivity setting: It will not send AI alarm when the AI detection sensitivity is 0</li><li>Optimized the false alarms caused by day and night switching and lighting changes, and solved the problem that the spotlight will repeatedly turn on and off in some scenes</li><li>Optimized the automatic tracking function to solve the chaotic tracking problem of the camera in some scenarios</li><li>Added the vertical tracking function for RLC- 523WA, RLC-823A</li></ol></li><li>Added AI smart detection type option for spotlight, so you can choose AI type for the smart spotlight</li><li>Optimized FTP function<ol type="a"><li>Supported FTPS encryption to improve the security of FTP transfer files</li><li>Optimized the FTP transfer file type:You can choose to transfer only video, only pictures, and transfer both videos and pictures to the FTP server</li><li>Increased Overwrite function for picture only and video only function</li><li>Added 2s/5s/10s interval options for FTP capture picture</li><li>Optimized the upload file directory function: You can choose to folder by day/month, or save all files in the same folder</li></ol></li><li>Optimized the push function and increased the push interval setting function</li><li>Increased the Test error code function for the Email, FTP, push settings, which could help find the cause of the error</li><li>Added switch for RTSP, ONVIF, HTTP, HTTPS service. Users can turn on and off the corresponding network services as needed</li><li>Increased the function of locking the device: The device will be locked for 2 seconds after logging in with an incorrect password to improve login security and prevent malicious attacks</li><li>Added web certificate import function</li><li>Updated RTSP version</li><li>Optimized the AF algorithm to solve the problem of unclear focus in some scenes</li><li>Optimized pre-record time of videos and solved the problem of too long pre-record time in some scenes</li><li>Added day and night switching threshold adjustment function</li></ol> | 1. Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -1394,10 +1398,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1643_2402218998](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230711381708672298.608.zip?download_name=RLC_511WA_1643_2402218998.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.956_22041509](https://home-cdn.reolink.us/wp-content/uploads/2022/04/220905421650618342.128.zip?download_name=RLC_511WA_22041509.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
 
 </details>
@@ -1441,11 +1446,12 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 5
+Firmwares for this hardware version: 6
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.951_22041566](https://home-cdn.reolink.us/wp-content/uploads/2022/04/151159241650023964.2105.zip?download_name=RLC_520A_22041566.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
+[v3.1.0.951_24022166](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230705101708671910.8935.zip?download_name=RLC_520A_951_24022166.zip) | 2022‑04‑15 | Optimize related network protocols and some known bugs | 
 [v3.0.0.660_21102102](https://drive.google.com/uc?id=1hPrhIcoK26rSxUdZEw4ACwZ6Yo75HwZj&confirm=t) | 2021‑10‑21 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/)<br />[Source 2](https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/)<br />[Source 3](https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4)
 [v3.1.0.598_21091300](https://drive.google.com/uc?id=1U3uioO-z3cLfqPKy0eK_vWDavrZuAI6a&confirm=t) | 2021‑09‑13 | Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/)<br />[Source 2](https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v)
 [v3.0.0.160_21010800](https://reolink-storage.s3.amazonaws.com/website/firmware/20210112firmware/RLC-520A_160_21010800.zip) | 2021‑01‑08 | <ol><li>Corrected the text in the alert email.</li><li>Solved the problem that the MD status of API URL always displaying as triggered.</li><li>Solved the problem that failed to download videos via the Reolink client.</li><li>Solved other known bugs.</li></ol> | [Archive](https://web.archive.org/web/20210801104604/https://support.reolink.com/hc/en-us/articles/900004125186-01-12-2021-Firmware-for-RLC-520A-RLC-510A-RLC-820A-RLC-810A)
@@ -1526,10 +1532,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523D95MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1643_2402219273](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230651161708671076.0649.zip?download_name=RLC_542WA_1643_2402219273.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1983_23040623](https://drive.google.com/uc?id=1RCume3f77oYMbZ3oD06cyD9O6F--uFiC&confirm=t) | 2023‑04‑06 | Add the option to change the I-frame interval | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/14)
 [v3.1.0.764_21121718](https://home-cdn.reolink.us/wp-content/uploads/2022/01/191102001642590120.5321.zip?download_name=RLC_542WA_21121718.zip) | 2021‑12‑17 | <ol><li>Optimized AI detection function<ol type="a"><li>Upgraded the AI model to improve the recognition accuracy of people, cars, and pets (the  new features of 8MP models), and optimized static AI false alarm issue</li><li>Increased the AI delay alarm function, which can reduce dynamic misjudgments caused by flying insects, rain, etc. by adjusting the delay gear</li><li>Optimized the alarm area settings to reduce false alarms in the shielded area</li><li>Optimized the AI sensitivity setting: It will not send AI alarm when the AI detection sensitivity is 0</li><li>Optimized the false alarms caused by day and night switching and lighting changes, and solved the problem that the spotlight will repeatedly turn on and off in some scenes</li><li>Optimized the automatic tracking function to solve the chaotic tracking problem of the camera in some scenarios</li><li>Added the vertical tracking function for RLC- 523WA, RLC-823A</li></ol></li><li>Added AI smart detection type option for spotlight, so you can choose AI type for the smart spotlight</li><li>Optimized FTP function<ol type="a"><li>Supported FTPS encryption to improve the security of FTP transfer files</li><li>Optimized the FTP transfer file type:You can choose to transfer only video, only pictures, and transfer both videos and pictures to the FTP server</li><li>Increased Overwrite function for picture only and video only function</li><li>Added 2s/5s/10s interval options for FTP capture picture</li><li>Optimized the upload file directory function: You can choose to folder by day/month, or save all files in the same folder</li></ol></li><li>Optimized the push function and increased the push interval setting function</li><li>Increased the Test error code function for the Email, FTP, push settings, which could help find the cause of the error</li><li>Added switch for RTSP, ONVIF, HTTP, HTTPS service. Users can turn on and off the corresponding network services as needed</li><li>Increased the function of locking the device: The device will be locked for 2 seconds after logging in with an incorrect password to improve login security and prevent malicious attacks</li><li>Added web certificate import function</li><li>Updated RTSP version</li><li>Optimized the AF algorithm to solve the problem of unclear focus in some scenes</li><li>Optimized pre-record time of videos and solved the problem of too long pre-record time in some scenes</li><li>Added day and night switching threshold adjustment function</li></ol> | 1. Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
 
@@ -1544,12 +1551,13 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M8MP
 
-Firmwares for this hardware version: 8
+Firmwares for this hardware version: 9
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1162_22072805](https://support.reolink.com/attachments/token/bKSdFp6o2FVWqOb0PvEejh7l2/?name=IPC_523128M8MP.1162_22072805.RLC-810A.IMX415.8MP.REOLINK.pak) | 2022‑07‑28 | Potential fix for the presence of artifacts in the RTSP stream | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/4)
 [v3.1.0.956_22041503](https://home-cdn.reolink.us/wp-content/uploads/2022/04/181045241650278724.5249.zip?download_name=RLC_810A_22041503.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
+[v3.1.0.956_24022103](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230717391708672659.7048.zip?download_name=RLC_810A_956_24022103.zip) | 2022‑04‑15 | Optimize related network protocols and some known bugs | 
 [v3.1.0.598_21091303](https://drive.google.com/uc?id=1TrHuNZC4Vk0DSc8oRa7nvP8XpA7INnL9&confirm=t) | 2021‑09‑13 | Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/)<br />[Source 2](https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v)
 [v3.0.0.494_21073003](https://drive.google.com/uc?id=1Muea9bYzb6_0o2afvIBxH9dVfXd7WYEx&confirm=t)<br />[v3.0.0.494_21073003](https://home-cdn.reolink.us/wp-content/uploads/2021/08/201015421629454542.8734.zip) | 2021‑07‑30 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/hb9iass/)<br />[Source 2](https://www.reddit.com/r/reolinkcam/comments/x4ga2a/comment/j7298vl)
 [v3.0.0.250_21040803](https://home-cdn.reolink.us/wp-content/uploads/2021/06/170832521623918772.091.zip) | 2021‑04‑08 |  | 
@@ -1576,10 +1584,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M8MP
 
-Firmwares for this hardware version: 9
+Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1643_2402219117](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230713271708672407.6928.zip?download_name=RLC_811A_1643_2402219117.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.2109_23082409](https://support-d.reolink.com/attachments/token/mOBN2NDfm9lpoBXkkVL7bOXoA/?name=IPC_523128M8MP.2109_23082409.RLC-811A.IMX415.8MP.AF.REOLINK.pak) | 2023‑08‑24 |  | [Source 1](https://www.reddit.com/r/BlueIris/comments/18gspj8/comment/kd9jkz2)
 [v3.1.0.2109_23051509](https://support-d.reolink.com/attachments/token/2b7ckPNIxn5zkQsdd3l5OkGcf/?name=IPC_523128M8MP.2109_23051509.RLC-811A.IMX415.8MP.AF.REOLINK.pak) | 2023‑05‑15 | <ol><li>New web interface</li><li>Possibility to connect IoT devices (eg. floodlight)</li><li>Ability to turn on "Illegal login lockout" under Advanced / User Management</li></ol> | Changes are given in comparison to v3.1.0.989<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/27)
 [v3.1.0.989_22051908](https://home-cdn.reolink.us/wp-content/uploads/2022/10/251116081666696568.0877.zip?download_name=RLC_811A_989_22051908.zip)<br />[v3.1.0.989_22051908](https://support.reolink.com/attachments/token/MFdl4XblzOXg1IMWGGD8YHLhI/?name=IPC_523128M8MP.989_22051908.RLC-811A.IMX415.8MP.AF.REOLINK.pak) | 2022‑05‑19 | <ol><li>Updated the Web Client</li><li>The device name for the camera is not allowed to set to blank</li><li>Support setting time when the camera is connected by ONVIF (including time, time zone; DST setting is not supported)</li></ol> | 
@@ -1601,10 +1610,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523B188MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.920_2402207844](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230647531708670873.9742.zip?download_name=RLC_812A_920_2402207844.zip) | 2024‑02‑20 | Optimize related network protocols and some known bugs | 
 [v3.1.0.920_22040613](https://home-cdn.reolink.us/wp-content/uploads/2022/04/080932031649410323.7369.zip?download_name=RLC_812A_22040613.zip) | 2022‑04‑06 | <ol><li>Add auto mode for spotlight</li><li>Optimize images</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
 
 </details>
@@ -1636,12 +1646,13 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M8MP
 
-Firmwares for this hardware version: 10
+Firmwares for this hardware version: 11
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.1387_22100622](https://support-d.reolink.com/attachments/token/9fhG99webOHErfL1GES7y7ZFU/?name=IPC_523128M8MP.1387_22100622.RLC-820A.IMX415.8MP.REOLINK.pak) | 2022‑10‑06 | Proper FTPS support | :exclamation: FTPS issue<br />Check the source for details<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/28)
 [v3.1.0.956_22041501](https://home-cdn.reolink.us/wp-content/uploads/2022/04/181046431650278803.8671.zip?download_name=RLC_820A_22041501.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
+[v3.1.0.956_24022101](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230716491708672609.6004.zip?download_name=RLC_820A_956_24022101.zip) | 2022‑04‑15 | Optimize related network protocols and some known bugs | 
 [v3.0.0.660_21101902](https://drive.google.com/uc?id=11fygt9xmdRZjqTrT9hQ9KkCf9ZFelPQj&confirm=t) | 2021‑10‑19 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/i4y5f12/)<br />[Source 2](https://www.reddit.com/r/reolinkcam/comments/u1ri3n/rlc811a_firmware_that_supports_iframe/)<br />[Source 3](https://drive.google.com/drive/folders/1geZXbRUuUHP2WIajjV3MygUmtQPR7Tq4)
 [v3.1.0.598_21091301](https://drive.google.com/uc?id=1f6NlVsCOpGHY04Vf-OuN4ZYHesf4-Dut&confirm=t) | 2021‑09‑13 | Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/)<br />[Source 2](https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v)
 [v3.0.0.494_21073001](https://drive.google.com/uc?id=1Y1_0PZ2G-3-1AVzWjsdmx180TdK-coLC&confirm=t) | 2021‑07‑30 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/p9wwx8/082321_new_firmware_update_for_all_ai_cameras/hb9iass/)
@@ -1670,10 +1681,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M8MP
 
-Firmwares for this hardware version: 5
+Firmwares for this hardware version: 6
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1643_2402219215](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230715021708672502.4943.zip?download_name=RLC_822A_1643_2402219215.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1643_22122401](https://support-d.reolink.com/attachments/token/sOqgLVUdAieuQbPLBkepxTNDt/?name=IPC_523128M8MP.1643_22122401.RLC-822A.IMX415.8MP.AF.REOLINK.pak) | 2022‑12‑24 | Optimize focusing function and some connection issues | [Source 1](https://www.reddit.com/r/reolinkcam/comments/14hvlsj/comment/jpo2llf)
 [v3.1.0.989_22081907](https://home-cdn.reolink.us/wp-content/uploads/2022/10/251121381666696898.9487.zip?download_name=RLC_822A_989_22081907.zip) | 2022‑08‑19 | <ol><li>Updated the Web Client</li><li>The device name for the camera is not allowed to set to blank</li><li>Support setting time when the camera is connected by ONVIF (including time, time zone; DST setting is not supported)</li><li>Optimized AF focusing function for RLC-822A</li></ol> | 
 [v3.1.0.956_22041507](https://home-cdn.reolink.us/wp-content/uploads/2022/04/220903111650618191.8255.zip?download_name=RLC_822A_22041507.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -1737,10 +1749,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523D88MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.920_2402207921](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230648561708670936.0907.zip?download_name=RLC_824A_920_2402207921.zip) | 2024‑02‑20 | Optimize related network protocols and some known bugs | 
 [v3.1.0.920_22040614](https://home-cdn.reolink.us/wp-content/uploads/2022/04/080933231649410403.839.zip?download_name=RLC_824A_22040614.zip) | 2022‑04‑06 | <ol><li>Add auto mode for spotlight</li><li>Optimize images</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
 
 </details>
@@ -1789,10 +1802,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523D98MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.1643_2402219328](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230701081708671668.8679.zip?download_name=RLC_842A_1643_2402219328.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1643_22122317](https://support-d.reolink.com/attachments/token/zJUE4Mb1B0pSSvEzKfxDjA8ob/?name=IPC_523D98MP.1643_22122317.RLC-842A.IMX415.8MP.AF.REOLINK.pak) | 2022‑12‑23 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/32)
 [v3.1.0.989_22051917](https://support.reolink.com/attachments/token/JH134V6um9pX3cfBwBhTz0l60/?name=IPC_523D98MP.989_22051917.RLC-842A.IMX415.8MP.AF.REOLINK.pak) | 2022‑05‑19 | Fixed ONVIF issue and I-frame switch button | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/13)
 [v3.1.0.764_21121717](https://home-cdn.reolink.us/wp-content/uploads/2022/01/191052081642589528.6241.zip?download_name=RLC_842A_21121717.zip) | 2021‑12‑17 | <ol><li>Optimized AI detection function<ol type="a"><li>Upgraded the AI model to improve the recognition accuracy of people, cars, and pets (the  new features of 8MP models), and optimized static AI false alarm issue</li><li>Increased the AI delay alarm function, which can reduce dynamic misjudgments caused by flying insects, rain, etc. by adjusting the delay gear</li><li>Optimized the alarm area settings to reduce false alarms in the shielded area</li><li>Optimized the AI sensitivity setting: It will not send AI alarm when the AI detection sensitivity is 0</li><li>Optimized the false alarms caused by day and night switching and lighting changes, and solved the problem that the spotlight will repeatedly turn on and off in some scenes</li><li>Optimized the automatic tracking function to solve the chaotic tracking problem of the camera in some scenarios</li><li>Added the vertical tracking function for RLC- 523WA, RLC-823A</li></ol></li><li>Added AI smart detection type option for spotlight, so you can choose AI type for the smart spotlight</li><li>Optimized FTP function<ol type="a"><li>Supported FTPS encryption to improve the security of FTP transfer files</li><li>Optimized the FTP transfer file type:You can choose to transfer only video, only pictures, and transfer both videos and pictures to the FTP server</li><li>Increased Overwrite function for picture only and video only function</li><li>Added 2s/5s/10s interval options for FTP capture picture</li><li>Optimized the upload file directory function: You can choose to folder by day/month, or save all files in the same folder</li></ol></li><li>Optimized the push function and increased the push interval setting function</li><li>Increased the Test error code function for the Email, FTP, push settings, which could help find the cause of the error</li><li>Added switch for RTSP, ONVIF, HTTP, HTTPS service. Users can turn on and off the corresponding network services as needed</li><li>Increased the function of locking the device: The device will be locked for 2 seconds after logging in with an incorrect password to improve login security and prevent malicious attacks</li><li>Added web certificate import function</li><li>Updated RTSP version</li><li>Optimized the AF algorithm to solve the problem of unclear focus in some scenes</li><li>Optimized pre-record time of videos and solved the problem of too long pre-record time in some scenes</li><li>Added day and night switching threshold adjustment function</li></ol> | 1. Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -2094,10 +2108,11 @@ Version | Date | Changes | Notes
 
   ### IPC_528B174MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.1388_24021900](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230725481708673148.996.zip?download_name=Reolink_Duo_PoE_1388_24021900.zip) | 2024‑02‑19 | Optimize related network protocols and some known bugs | 
 [v3.0.0.1388_22100600](https://home-cdn.reolink.us/wp-content/uploads/2022/10/110156061665453366.7113.zip?download_name=Reolink_Duo_PoE_221006.zip) | 2022‑10‑06 | <ol><li>Update the web version</li><li>Optimize the AI detection function<ol type="a"><li>Upgrade AI model to support pets</li><li>Improve the recognition accuracy of people, cars, and pets, and optimize static AI false positives</li><li>Increase the AI delay alarm function, which can reduce the dynamic misjudgment caused by flying insects, rain and other reasons by adjusting the delay gear</li><li>Optimize the problem of false alarms caused by day and night switching and lighting changes, and solve the problem that white lights are repeatedly turned on and off in some scenes</li></ol></li><li>Optimize night vision images</li><li>Increase the AI detection type of intelligent white light</li><li>Add gop setting function</li><li>Add night vision frame drop function</li><li>Optimized related network protocols and some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.0.0.1171_22073000](https://drive.google.com/uc?id=1VTg9hrY-bvZZyIYac_IGW4WZUhKDkyXh&confirm=t) | 2022‑07‑30 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
 [v3.0.0.684_21110100](https://drive.google.com/uc?id=1Bxyn42psnj3j5BZyuZGqik2NmVMdFYYA&confirm=t) | 2021‑11‑01 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
@@ -2113,10 +2128,11 @@ Version | Date | Changes | Notes
 
   ### IPC_528B174MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.1388_24021901](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230737141708673834.9427.zip?download_name=Reolink_Duo_WiFi_1388_24021901.zip) | 2024‑02‑19 | Optimize related network protocols and some known bugs | 
 [v3.0.0.1388_22100601](https://home-cdn.reolink.us/wp-content/uploads/2022/10/110159161665453556.8234.zip?download_name=Reolink_Duo_WiFi_221006.zip) | 2022‑10‑06 | <ol><li>Update the web version</li><li>Optimize the AI detection function<ol type="a"><li>Upgrade AI model to support pets</li><li>Improve the recognition accuracy of people, cars, and pets, and optimize static AI false positives</li><li>Increase the AI delay alarm function, which can reduce the dynamic misjudgment caused by flying insects, rain and other reasons by adjusting the delay gear</li><li>Optimize the problem of false alarms caused by day and night switching and lighting changes, and solve the problem that white lights are repeatedly turned on and off in some scenes</li></ol></li><li>Optimize night vision images</li><li>Increase the AI detection type of intelligent white light</li><li>Add gop setting function</li><li>Add night vision frame drop function</li><li>Optimized related network protocols and some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.0.0.1171_22073001](https://drive.google.com/uc?id=1LESBv5_TQwMZWM8KRvDHXa1fjmA-Ekhq&confirm=t) | 2022‑07‑30 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
 [v3.0.0.684_21110101](https://drive.google.com/uc?id=11QQZYhNyTaNtXKoIYlcA9qUj0oK3F5Ts&confirm=t) | 2021‑11‑01 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
