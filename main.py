@@ -120,7 +120,7 @@ def make_readme(firmwares: Iterable[Mapping[str, Any]]) -> str:
             text += "Version | Date | Changes | Notes\n"
             text += "--- | --- | --- | ---\n"
             for pi in sorted(hvs[hv], key=sort_pak_info, reverse=True):
-                fws = [fw for fw in firmwares if fw["sha256_pak"] == pi["sha256"]]
+                fws = [fw for fw in firmwares if fw.get("sha256_pak") == pi["sha256"]]
                 # If a firmware appears both in live and archivesv2, the live instance
                 # will appear first in the list and therefore be the one selected.
                 fw = fws[0] if fws else {}
