@@ -1397,5 +1397,69 @@
         "title": "N7MB01"
       }
     ]
+  },
+  {
+    "id": 200,
+    "title": "Reolink Duo 3 PoE",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2024/01/050342161704426136.719.png",
+    "productUrl": "https://reolink.com/product/reolink-duo-3-poe/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 335,
+        "title": "IPC_NT13NA416MP"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "title": "RLN12W",
+    "type": "NVR",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/150425471700022347.615.png",
+    "productUrl": "https://reolink.com/us/product/rln12w/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 333,
+        "title": "NVR_NNT3NA58W_E"
+      },
+      {
+        "id": 332,
+        "title": "NVR_NNT3NA58W_U"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "title": "B500W",
+    "type": "Add-ons",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 331,
+        "title": "IPC_MS1NO25MP"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "title": "B800W",
+    "type": "Add-ons",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 330,
+        "title": "IPC_MS2NO28MP"
+      }
+    ]
   }
 ]

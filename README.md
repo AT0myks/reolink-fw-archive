@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 531
+Total: 535
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -242,6 +242,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2379_23062900](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120318021694488682.1128.zip?download_name=B500_v3102379_23062900.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>B500W (Add-ons)</summary>
+
+  ### IPC_MS1NO25MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.3078_2407031344](https://home-cdn.reolink.us/wp-content/uploads/2024/07/041111031720091463.0695.zip?download_name=B500W_3078_2407031344.zip) | 2024‑07‑03 | 1. Resolve known bugs | 
 
 </details>
 
@@ -1814,6 +1827,31 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>RLN12W (NVR)</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2023/11/150425471700022347.615.png" width="150">
+
+[Product page](https://reolink.com/us/product/rln12w/)
+
+  ### NVR_NNT3NA58W_E
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.5.0.331_24071009](https://home-cdn.reolink.us/wp-content/uploads/2024/07/260113361721956416.7139.zip?download_name=NVR_NNT3NA58W_E_331_24071009_E.zip) | 2024‑07‑10 | <ol><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
+
+  ### NVR_NNT3NA58W_U
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.5.0.331_24071008](https://home-cdn.reolink.us/wp-content/uploads/2024/07/221027281721644048.0355.zip?download_name=NVR_NNT3NA58W_U_331_24071008_U.zip) | 2024‑07‑10 | <ol><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
+
+</details>
+
+<details>
   <summary>RLN16-410 (NVR)</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/assets/2017/11/rln16-410.png" width="150">
@@ -2062,6 +2100,23 @@ Version | Date | Changes | Notes
 [v3.0.0.1889_23031701](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip?download_name=Reolink_Duo_2_WiFi_23031701.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1391_22101061](https://drive.google.com/uc?id=1YOtVF851NRX9AuRx_o7rtchyJMRMnXDm&confirm=t) | 2022‑10‑10 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.0.0.1337_22091901](https://home-cdn.reolink.us/wp-content/uploads/2022/09/221021161663842076.2251.zip?download_name=Reolink_Duo_2_WiFi_220919.zip) | 2022‑09‑19 | <ol><li>Solved the problem of AI probabilistic failure under night vision</li><li>Solved the problem of failure to capture picture by alert email in complex scenarios</li><li>Optimized the search strategy for playback</li><li>Optimized the MD sensitivity under night vision</li><li>Solved the problem that the number of WiFi signals cannot display on Reolink Client when the camera is connected by WiFi</li><li>Solved the problem that there is no pet mark in playback after enabling pet detection</li><li>Optimized the lighting speed of the spotlight under night vision</li></ol> | Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.
+
+</details>
+
+<details>
+  <summary>Reolink Duo 3 PoE</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2024/01/050342161704426136.719.png" width="150">
+
+[Product page](https://reolink.com/product/reolink-duo-3-poe/)
+
+  ### IPC_NT13NA416MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.3632_2406192112](https://home-cdn.reolink.us/wp-content/uploads/2024/06/280355001719546900.0793.zip?download_name=Reolink_Duo_3_PoE_3632_2406192112.zip) | 2024‑06‑19 | <ol><li>Improve day-night transition effects.</li><li>Enhance audio noise reduction capabilities.</li><li>Enhance the actual performance of Motion Track.</li><li>Improve image quality in specific scenarios.</li></ol> | 
 
 </details>
 

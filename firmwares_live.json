@@ -2819,7 +2819,7 @@
   {
     "version": "v3.1.0.2379_23062901",
     "filename": "D500_v3102379_23062901",
-    "updated_at": "2023-09-12 11:13:57+08:00",
+    "updated_at": "2024-03-21 14:09:22+08:00",
     "note": "",
     "firmware_id": 440,
     "model": "D500",
@@ -2839,7 +2839,7 @@
   {
     "version": "v3.1.0.2379_23062703",
     "filename": "D800_v3102379_23062703",
-    "updated_at": "2023-09-12 12:01:44+08:00",
+    "updated_at": "2024-03-21 12:33:00+08:00",
     "note": "",
     "firmware_id": 442,
     "model": "D800",
@@ -2859,7 +2859,7 @@
   {
     "version": "v3.1.0.2379_23062900",
     "filename": "B500_v3102379_23062900",
-    "updated_at": "2023-09-12 11:18:51+08:00",
+    "updated_at": "2024-03-21 14:08:05+08:00",
     "note": "",
     "firmware_id": 441,
     "model": "B500",
@@ -2879,7 +2879,7 @@
   {
     "version": "v3.1.0.2379_23062702",
     "filename": "B800_v3102379_23062702",
-    "updated_at": "2023-09-12 12:09:05+08:00",
+    "updated_at": "2024-03-21 12:31:17+08:00",
     "note": "",
     "firmware_id": 443,
     "model": "B800",
@@ -3923,6 +3923,89 @@
     "changelog": [],
     "display_time": "2024-03-01 00:00:00+08:00",
     "sha256_pak": "b87fb00eca26b2e5873036ba0ec7021d07af2d03ffb33bb6379bc2418fbb93c4",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3632_2406192112",
+    "filename": "Reolink_Duo_3_PoE_3632_2406192112",
+    "updated_at": "2024-06-28 11:56:12+08:00",
+    "note": "",
+    "firmware_id": 607,
+    "model": "Reolink Duo 3 PoE",
+    "hw_ver": "IPC_NT13NA416MP",
+    "changelog": [
+      "1. Improve day-night transition effects.",
+      "2. Enhance audio noise reduction capabilities.",
+      "3. Enhance the actual performance of Motion Track.",
+      "4. Improve image quality in specific scenarios."
+    ],
+    "display_time": "2024-06-28 00:00:00+08:00",
+    "sha256_pak": "7deff37cf2ff016d7a7946eb9faac3009acded655a1d123f132dafa05cd77a1c",
+    "source": "live"
+  },
+  {
+    "version": "v3.5.0.331_24071009",
+    "filename": "NVR_NNT3NA58W_E_331_24071009_E",
+    "updated_at": "2024-07-26 09:15:14+08:00",
+    "note": "",
+    "firmware_id": 640,
+    "model": "RLN12W",
+    "hw_ver": "NVR_NNT3NA58W_E",
+    "changelog": [
+      "1.Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)",
+      "2.Solved other known bugs.",
+      "3.Optimize the interface and interaction."
+    ],
+    "display_time": "2024-07-22 00:00:00+08:00",
+    "sha256_pak": "495ed3b5b7f5e607aa21dd19e350b696f19d1a45b0a81bb9005d39e2df9e5be5",
+    "source": "live"
+  },
+  {
+    "version": "v3.5.0.331_24071008",
+    "filename": "NVR_NNT3NA58W_U_331_24071008_U",
+    "updated_at": "2024-07-22 18:29:26+08:00",
+    "note": "",
+    "firmware_id": 641,
+    "model": "RLN12W",
+    "hw_ver": "NVR_NNT3NA58W_U",
+    "changelog": [
+      "1.Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)",
+      "2.Solved other known bugs.",
+      "3.Optimize the interface and interaction."
+    ],
+    "display_time": "2024-07-22 00:00:00+08:00",
+    "sha256_pak": "83a8f68ce510a2a464930b51d8d9529ecf96149e1f69566ec3a7909d3c1a3f8e",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3078_2407031344",
+    "filename": "B500W_3078_2407031344",
+    "updated_at": "2024-07-04 19:12:37+08:00",
+    "note": "",
+    "firmware_id": 645,
+    "model": "B500W",
+    "hw_ver": "IPC_MS1NO25MP",
+    "changelog": [
+      "1. Resolve known bugs"
+    ],
+    "display_time": "2024-07-04 00:00:00+08:00",
+    "sha256_pak": "35a19e1c3dca7096cf518efed07df2d7cd96cb0337ffe9c89456f16e2ae6002b",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3078_2407031328",
+    "filename": "B800W_3078_2407031328",
+    "updated_at": "2024-07-04 19:14:49+08:00",
+    "note": "",
+    "firmware_id": 646,
+    "model": "B800W",
+    "hw_ver": "IPC_MS2NO28MP",
+    "changelog": [
+      "1. Resolve known bugs"
+    ],
+    "display_time": "2024-07-04 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2024/07/041113461720091626.7586.zip",
+    "error": "'System halted' string not found",
     "source": "live"
   }
 ]

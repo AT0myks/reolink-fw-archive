@@ -18277,5 +18277,145 @@
     ],
     "model_id": 180,
     "hw_ver_id": 302
+  },
+  "7deff37cf2ff016d7a7946eb9faac3009acded655a1d123f132dafa05cd77a1c": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT13NA416MP",
+      "board_name": "IPC_NT13NA416MP",
+      "build_date": "240619",
+      "display_type_info": "Reolink Duo 3 PoE",
+      "detail_machine_type": "IPC_NT13NA416MP",
+      "type": "IPC",
+      "version_file": "3632_2406192112",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Sep 28 2023 - 14:02:58 +0800)",
+      "uboot_compiler": "aarch64-ca53-linux-gnu-gcc.br_real (Buildroot 2020.02.9-1-g49f3ce4) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-1-g49f3ce4)) #2 SMP PREEMPT Tue Mar 12 17:25:50 CST 2024",
+      "board": "Novatek NA51102",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/06/280355001719546900.0793.zip"
+    ],
+    "model_id": 200,
+    "hw_ver_id": 335
+  },
+  "495ed3b5b7f5e607aa21dd19e350b696f19d1a45b0a81bb9005d39e2df9e5be5": {
+    "info": {
+      "firmware_version_prefix": "v3.5.0",
+      "board_type": "NVR_NNT3NA58W_E",
+      "board_name": "NVR_NNT3NA58W_E",
+      "build_date": "240710",
+      "display_type_info": "RLN12W",
+      "detail_machine_type": "WN1",
+      "type": "NVR",
+      "version_file": "331_24071009",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Jun 29 2023 - 11:03:19 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-19-g5259632)) #1 SMP Wed Oct 11 10:11:56 CST 2023",
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/07/260113361721956416.7139.zip"
+    ],
+    "model_id": 198,
+    "hw_ver_id": 333
+  },
+  "83a8f68ce510a2a464930b51d8d9529ecf96149e1f69566ec3a7909d3c1a3f8e": {
+    "info": {
+      "firmware_version_prefix": "v3.5.0",
+      "board_type": "NVR_NNT3NA58W_U",
+      "board_name": "NVR_NNT3NA58W_U",
+      "build_date": "240710",
+      "display_type_info": "RLN12W",
+      "detail_machine_type": "WN1",
+      "type": "NVR",
+      "version_file": "331_24071008",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Jun 29 2023 - 11:03:19 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-19-g5259632)) #1 SMP Wed Oct 11 10:11:56 CST 2023",
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/07/221027281721644048.0355.zip"
+    ],
+    "model_id": 198,
+    "hw_ver_id": 332
+  },
+  "35a19e1c3dca7096cf518efed07df2d7cd96cb0337ffe9c89456f16e2ae6002b": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NO25MP",
+      "board_name": "IPC_MS1NO25MP",
+      "build_date": "240703",
+      "display_type_info": "B500W",
+      "detail_machine_type": "IPC_MS1NO25MP",
+      "type": "IPC",
+      "version_file": "3078_2407031344",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Nov 03 2023 - 12:20:49)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (d@d-VirtualBox) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #214 PREEMPT Wed Sep 6 15:04:50 CST 2023",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/07/041111031720091463.0695.zip"
+    ],
+    "model_id": 194,
+    "hw_ver_id": 331
   }
 }
