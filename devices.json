@@ -1461,5 +1461,20 @@
         "title": "IPC_MS2NO28MP"
       }
     ]
+  },
+  {
+    "id": 201,
+    "title": "RLC-823S2",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2024/01/240140161706060416.0631.png",
+    "productUrl": "https://reolink.com/product/rlc-823s2/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 336,
+        "title": "IPC_NT2NA48MPSD12"
+      }
+    ]
   }
 ]
