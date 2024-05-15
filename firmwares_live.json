@@ -4025,5 +4025,21 @@
     "display_time": "2024-08-19 00:00:00+08:00",
     "sha256_pak": "5e32f2dedb0ff373fb6c49568c56e0c77d697b235565f60045a256aedd6544a5",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.3633_2406134151",
+    "filename": "RLC_843WA_3633_2406134151",
+    "updated_at": "2024-07-27 17:55:15+08:00",
+    "note": "",
+    "firmware_id": 653,
+    "model": "RLC-843WA",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "1. Optimize the day and night switching effect",
+      "2. Solve other known bugs"
+    ],
+    "display_time": "2024-07-27 00:00:00+08:00",
+    "sha256_pak": "b79b893e975e40978c273ae12c1de3c951400c7eb08f5a7c124f98c0b60a4b03",
+    "source": "live"
   }
 ]

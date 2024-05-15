@@ -1476,5 +1476,20 @@
         "title": "IPC_NT2NA48MPSD12"
       }
     ]
+  },
+  {
+    "id": 202,
+    "title": "RLC-843WA",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/12/120329301702351770.7805.png",
+    "productUrl": "https://reolink.com/us/product/rlc-843wa/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 337,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
   }
 ]
