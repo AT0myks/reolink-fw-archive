@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 538
+Total: 541
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -400,6 +400,23 @@ Version | Date | Changes | Notes
 [v3.1.0.2447_23071263](https://drive.google.com/uc?id=1Yrl7F-ZjjAkAzVOhKFwFR-jouwOJHcqK&confirm=t) | 2023‑07‑12 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
 [v3.1.0.2272_23053066](https://drive.google.com/uc?id=11wcErBt1b5Iq_jPl24aP7tqAO_YDjodU&confirm=t)<br />[v3.1.0.2272_23053066](https://www.mediafire.com/file/oi6z4vj8v6r9fdb/IPC_NT1NA44MP.2272_23053066.CX410.OS04A10.4MP.REOLINK.pak/file) | 2023‑05‑30 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/176c12t/cx410_turn_on_spotlight_on_movement/k4ov4bg)
 [v3.1.0.2207_23051803](https://drive.google.com/uc?id=1Ta6vwhegTdYJImILwUtKeJVtWCVhKrhb&confirm=t)<br />[v3.1.0.2207_23051803](https://drive.google.com/uc?id=1aVW81oTflflONndPXeOEM_0_xVJvCiF_&confirm=t) | 2023‑05‑18 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />:information_source: Subsequent firmwares don't have proper settings for the light.<br />Check the source for details<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30)
+
+</details>
+
+<details>
+  <summary>CX410W</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2024/01/100256471704855407.0106.png" width="150">
+
+[Product page](https://reolink.com/us/product/cx410w/)
+
+  ### IPC_NT1NA44MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3429_2404181316](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220655151716360915.059.zip?download_name=CX410W_3429_2404181316.zip) | 2024‑04‑18 | <ol><li>Optimize HDR effect</li><li>Solve other known bugs</li></ol> | 
 
 </details>
 
@@ -1624,6 +1641,31 @@ Version | Date | Changes | Notes
 [v3.1.0.598_21091308](https://drive.google.com/uc?id=12q_sIyYAm_uY8nGpSrOK9HKeJhwS2NPU&confirm=t) | 2021‑09‑13 | Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/ptupxs/tester_wanted_for_the_beta_test_for_new_ai/)<br />[Source 2](https://drive.google.com/drive/folders/1S1KCRPH7u0BQ02D2drxLTmnsb7tyD17v)
 [v3.0.0.494_21073008](https://home-cdn.reolink.us/wp-content/uploads/2021/08/250156141629856574.003.zip) | 2021‑07‑30 |  | 
 [v3.0.0.250_21040808](https://home-cdn.reolink.us/wp-content/uploads/2021/06/170836261623918986.2035.zip) | 2021‑04‑08 |  | 
+
+  ### IPC_560B158MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3485_2405084342](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220653521716360832.9706.zip?download_name=RLC_811A_3485_2405084342.zip) | 2024‑05‑08 | <ol><li>Optimize image parameters</li><li>Solve other known issues</li></ol> | 
+
+</details>
+
+<details>
+  <summary>RLC-811WA</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2023/08/170659291692255569.2266.png" width="150">
+
+[Product page](https://reolink.com/us/product/rlc-811wa/)
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3485_2405084609](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220651581716360718.6895.zip?download_name=RLC_811WA_3485_2405084609.zip) | 2024‑05‑08 | <ol><li>Optimize image parameters</li><li>Solve other known issues</li></ol> | 
 
 </details>
 
