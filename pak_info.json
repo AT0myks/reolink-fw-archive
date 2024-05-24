@@ -3309,7 +3309,7 @@
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20210227firmware/E1-Outdoor.197_21022706..zip"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "389e763a84ef1b21cd56dd4e053c22e8a9243ab1f15ada5c743e6c070657b0b8": {
     "info": {
@@ -12790,7 +12790,7 @@
       "https://drive.google.com/uc?id=12gn4NVw4v_DABQ8b_XKmQJ3tUFId2n7y&confirm=t"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "9881e0fcca7684e03d336dc06714f6c2b37001127bd58a41e0da39fd977b6617": {
     "info": {
@@ -12826,7 +12826,7 @@
       "https://drive.google.com/uc?id=1iduVRpBXk2vw4L7V4cSASzkSbDl0upBX&confirm=t"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "af69d285a324f6fe971148d8c6463cc9bd0553c382bc00cc99624ddc4c815283": {
     "info": {
@@ -13188,7 +13188,7 @@
       "https://drive.google.com/uc?id=1piUxktFScSkI622ThgOzKexD1UdgFPI4&confirm=t"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040,
+    "hw_ver_id": 200,
     "user_hosted_only": true
   },
   "b896795eb05d79280620ff50278f0a0535c7dd880fbb965f523f0e55040c4a65": {
@@ -14340,7 +14340,7 @@
       "https://support.reolink.com/attachments/token/earovP2n9ndB7vFrzTAbtAQsS/?name=IPC_523SD8.1643_22122400.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "eeb50cd063f435455eeca756803db9765318d64e15f498806dc3e743aa3e8658": {
     "info": {
@@ -14517,7 +14517,7 @@
       "https://support.reolink.com/attachments/token/7k5v4dY8P7nXXGfNynLxQNkOh/?name=IPC_523SD8.804_22011506.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "0959973d59bd77bc08bad714426571bfe6e43a5d5ea34ad428e83afba2379f6e": {
     "info": {
@@ -14586,7 +14586,7 @@
       "https://support-d.reolink.com/attachments/token/rngyK0yBtNIqpdAEaAuUDtfVr/?name=IPC_523SD8.1584_22120966.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "3f475930b0684b56dd2677d1073d214cfa7685c43c0468161be55aff386f338c": {
     "info": {
@@ -14792,7 +14792,7 @@
       "https://support-d.reolink.com/attachments/token/3FVDyr7FnfXKiHrbI3ihfGwzW/?name=IPC_523SD8.804_22012406.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK%28open_ai_trace%29.pak"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "13cc3699e8df461da635dd10118b6571c175829b7ab4e1368ca49fab12d63eb1": {
     "info": {
@@ -15253,7 +15253,7 @@
       "https://support-d.reolink.com/attachments/token/OGUN4y1IYPT4H54LKgv4FrnPk/?name=IPC_523SD8.1643_23041100.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak"
     ],
     "model_id": 123,
-    "hw_ver_id": 100040
+    "hw_ver_id": 200
   },
   "d66603c28a4876da7c89aa335f914d74d2a9ed9940b93febd136ae65e42f9e37": {
     "info": {
@@ -18629,5 +18629,41 @@
     ],
     "model_id": 136,
     "hw_ver_id": 338
+  },
+  "f921274993b4fef181d57cab6f29dc30033ef89d7d65e47fb3c64a37de655f70": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523SD8",
+      "board_name": "IPC_523SD8",
+      "build_date": "240603",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_523SD8",
+      "type": "IPC",
+      "version_file": "3514_2406039634",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Oct 11 2021 - 12:40:43 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Tue Nov 1 14:15:12 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/06/201033401718879620.8576.zip"
+    ],
+    "model_id": 123,
+    "hw_ver_id": 200
   }
 }

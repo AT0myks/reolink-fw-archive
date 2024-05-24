@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 541
+Total: 542
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -583,10 +583,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523SD8
 
-Firmwares for this hardware version: 9
+Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3514_2406039634](https://home-cdn.reolink.us/wp-content/uploads/2024/06/201033401718879620.8576.zip?download_name=E1_Outdoor_3514_2406039634.zip) | 2024‑06‑03 | <ol><li>Improve smart detection, adding pet recognition.</li><li>Improve self-calibration.</li><li>Enhance tracking performance.</li><li>Optimize QR code scanning functionality.</li><li>Improve recording feature.</li><li>Address inaccuracies in guard position.</li><li>Resolve other known bugs.</li></ol> | 
 [v3.1.0.1643_23041100](https://support-d.reolink.com/attachments/token/OGUN4y1IYPT4H54LKgv4FrnPk/?name=IPC_523SD8.1643_23041100.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2023‑04‑11 |  | 
 [v3.1.0.1643_22122400](https://support.reolink.com/attachments/token/earovP2n9ndB7vFrzTAbtAQsS/?name=IPC_523SD8.1643_22122400.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2022‑12‑24 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/5)
 [v3.1.0.1584_22120966](https://support-d.reolink.com/attachments/token/rngyK0yBtNIqpdAEaAuUDtfVr/?name=IPC_523SD8.1584_22120966.E1-Outdoor.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2022‑12‑09 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/11)

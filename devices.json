@@ -978,7 +978,7 @@
     "productUrl": "https://reolink.com/product/e1-outdoor/",
     "hardwareVersions": [
       {
-        "id": 100040,
+        "id": 200,
         "title": "IPC_523SD8"
       },
       {
