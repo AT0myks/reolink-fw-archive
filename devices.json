@@ -1049,7 +1049,7 @@
     "discontinued": true
   },
   {
-    "id": 100055,
+    "id": 88,
     "title": "Reolink Lumus",
     "productImg": "https://home-cdn.reolink.us/wp-content/assets/2020/01/reolink-lumus-340.png",
     "productUrl": "https://reolink.com/product/reolink-lumus/",
@@ -1057,8 +1057,15 @@
       {
         "id": 100056,
         "title": "IPC_325C7"
+      },
+      {
+        "id": 340,
+        "title": "IPC_NT1NO24MP"
       }
-    ]
+    ],
+    "type": "IPC",
+    "variations": [],
+    "contains": []
   },
   {
     "id": 174,

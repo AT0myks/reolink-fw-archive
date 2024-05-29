@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 542
+Total: 543
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2302,6 +2302,14 @@ Version | Date | Changes | Notes
 [v2.0.0.684_20091500](https://reolink-storage.s3.amazonaws.com/website/firmware/20200915firmware/Reolink-Lumus_684_20091500.zip) | 2020‑09‑15 | <ol><li>Added multiple languages for the voice prompt when scanning the QR code to set up the camera</li><li>Added Normal recording schedule</li><li>Optimized motion detection performance to reduce false alarms</li><li>Fixed some other bugs.</li></ol> | [Archive](https://web.archive.org/web/20201021192944/https://support.reolink.com/hc/en-us/articles/900002618206-09-15-2020-Firmware-for-Reolink-Lumus-IPC-325C7-)
 [v2.0.0.680_20082500](https://reolink-storage.s3.amazonaws.com/website/firmware/20200825firmware/Reolink-Lumus_680_20082500.zip) | 2020‑08‑25 | <ol><li>Added multiple languages for the voice prompt when scanning the QR code to set up the camera</li><li>Added Normal recording schedule</li><li>Optimized motion detection performance to reduce false alarms</li><li>Fixed some other bugs.</li></ol> | [Archive](https://web.archive.org/web/20200919133639/https://support.reolink.com/hc/en-us/articles/900002618206-08-25-2020-Firmware-for-Reolink-Lumus-IPC-325C7-)
 [v2.0.0.642_20030600](https://reolink-storage.s3.amazonaws.com/website/firmware/20200306firmware/Reolink+Lumus_642_20030600.zip) | 2020‑03‑06 | <ol><li>Optimized WiFi connection ability</li><li>Optimized the Day&amp;Night mode feature.</li><li>Lowered down the volume of the speaker when setting up the camera.</li><li>Fixed the bug of camera auto-reboot when sending the email alert.</li></ol> | [Archive](https://web.archive.org/web/20200804203639/https://support.reolink.com/hc/en-us/articles/900000312623-03-06-2020-Firmware-for-Reolink-Lumus-IPC-325C7-)
+
+  ### IPC_NT1NO24MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3497_2405102255](https://home-cdn.reolink.us/wp-content/uploads/2024/05/290128251716946105.1024.zip?download_name=Reolink_Lumus_3497_2405102255.zip) | 2024‑05‑10 | <ol><li>Optimize the code scanning function</li><li>Optimize cloud storage function</li><li>Solve other known bugs</li></ol> | 
 
 </details>
 

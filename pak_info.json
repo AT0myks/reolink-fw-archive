@@ -2581,7 +2581,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20201028firmware/Reolink+Lumus_687_20102800.zip"
     ],
-    "model_id": 100055,
+    "model_id": 88,
     "hw_ver_id": 100056
   },
   "eb9293fd631377ada7cc7129d81049c4e52665c95e46cda49e49541417572af9": {
@@ -2677,7 +2677,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200825firmware/Reolink-Lumus_680_20082500.zip"
     ],
-    "model_id": 100055,
+    "model_id": 88,
     "hw_ver_id": 100056
   },
   "2adb2f2583759a39745e3c4abe635a335bb3c90d24e59b2483e28580353d70cd": {
@@ -2842,7 +2842,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200306firmware/Reolink+Lumus_642_20030600.zip"
     ],
-    "model_id": 100055,
+    "model_id": 88,
     "hw_ver_id": 100056
   },
   "35113ee52147125874eb8549b3d58d18b36bc132380354a0cda527e4bb60644f": {
@@ -3775,7 +3775,7 @@
     "download": [
       "https://reolink-storage.s3.amazonaws.com/website/firmware/20200915firmware/Reolink-Lumus_684_20091500.zip"
     ],
-    "model_id": 100055,
+    "model_id": 88,
     "hw_ver_id": 100056
   },
   "a01cc0daedf6fcb0d47950b93dbb29721a08d67508a30de11287d26b4f26f525": {
@@ -14371,7 +14371,7 @@
     "download": [
       "https://github.com/AT0myks/reolink-fw-archive/files/11149143/IPC_325C7.705_21052800.IMX307.2MP.WIFI7601.REOLINK.zip"
     ],
-    "model_id": 100055,
+    "model_id": 88,
     "hw_ver_id": 100056,
     "user_hosted_only": true
   },
@@ -18665,5 +18665,37 @@
     ],
     "model_id": 123,
     "hw_ver_id": 200
+  },
+  "26dd53c30e43e73032684b0e1b72861694d23c313974bfece4c6611506ae9f92": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT1NO24MP",
+      "board_name": "IPC_NT1NO24MP",
+      "build_date": "240510",
+      "display_type_info": "Reolink Lumus",
+      "detail_machine_type": "IPC_NT1NO24MP",
+      "type": "IPC",
+      "version_file": "3497_2405102255",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 22 2023 - 16:30:08 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #2 PREEMPT Tue Jun 27 20:59:25 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/05/290128251716946105.1024.zip"
+    ],
+    "model_id": 88,
+    "hw_ver_id": 340
   }
 }
