@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 543
+Total: 544
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1876,6 +1876,23 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.3016_2312052457](https://home-cdn.reolink.us/wp-content/uploads/2023/12/180151301702864290.4141.zip?download_name=RLC_833A_3016_2312052457.zip) | 2023‑12‑05 | <ol><li>Optimize Smart Detection</li><li>Optimize the image</li><li>Optimize CGI service</li><li>Fix some known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>RLC-840A</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2023/12/210300111703127611.4476.png" width="150">
+
+[Product page](https://reolink.com/product/rlc-840a/)
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3953_2409059414](https://home-cdn.reolink.us/wp-content/uploads/2024/09/140704371726297477.5627.zip?download_name=RLC_840A_v31039532409059414_IPC_NT2NA48MP.zip) | 2024‑09‑05 | <ol><li>Add webhook.</li><li>Optimize HTTPS.</li><li>Improve ONVIF functionality.</li><li>Enhance RTSP connection.</li><li>Fix bug in corridor mode.</li><li>Improve anti-flicker.</li></ol> | 
 
 </details>
 

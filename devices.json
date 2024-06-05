@@ -1532,5 +1532,20 @@
         "title": "IPC_NT1NA44MP"
       }
     ]
+  },
+  {
+    "id": 204,
+    "title": "RLC-840A",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/12/210300111703127611.4476.png",
+    "productUrl": "https://reolink.com/product/rlc-840a/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 341,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
   }
 ]
