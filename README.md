@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 544
+Total: 546
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2298,6 +2298,31 @@ Version | Date | Changes | Notes
 [v3.0.0.1388_22100601](https://home-cdn.reolink.us/wp-content/uploads/2022/10/110159161665453556.8234.zip?download_name=Reolink_Duo_WiFi_221006.zip) | 2022‑10‑06 | <ol><li>Update the web version</li><li>Optimize the AI detection function<ol type="a"><li>Upgrade AI model to support pets</li><li>Improve the recognition accuracy of people, cars, and pets, and optimize static AI false positives</li><li>Increase the AI delay alarm function, which can reduce the dynamic misjudgment caused by flying insects, rain and other reasons by adjusting the delay gear</li><li>Optimize the problem of false alarms caused by day and night switching and lighting changes, and solve the problem that white lights are repeatedly turned on and off in some scenes</li></ol></li><li>Optimize night vision images</li><li>Increase the AI detection type of intelligent white light</li><li>Add gop setting function</li><li>Add night vision frame drop function</li><li>Optimized related network protocols and some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.0.0.1171_22073001](https://drive.google.com/uc?id=1LESBv5_TQwMZWM8KRvDHXa1fjmA-Ekhq&confirm=t) | 2022‑07‑30 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
 [v3.0.0.684_21110101](https://drive.google.com/uc?id=11QQZYhNyTaNtXKoIYlcA9qUj0oK3F5Ts&confirm=t) | 2021‑11‑01 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
+
+</details>
+
+<details>
+  <summary>Reolink Home Hub (NVR)</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2024/05/310126421717118802.7559.jpg" width="150">
+
+[Product page](https://reolink.com/us/product/reolink-home-hub/)
+
+  ### BASE_WUNNT6NA5_E
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.333_24071210](https://home-cdn.reolink.us/wp-content/uploads/2024/07/160653271721112807.1899.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK333_24071210E.zip) | 2024‑07‑12 | <ol><li>Resolves battery camera disconnection issues</li><li>Addresses audio issues</li><li>Allows WiFi to be turned off on the Hub</li><li>Optimizes WiFi performance</li><li>Improves event log functionality</li></ol> | 
+
+  ### BASE_WUNNT6NA5_U
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.333_24071209](https://home-cdn.reolink.us/wp-content/uploads/2024/07/160652011721112721.3328.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK333_24071209U.zip) | 2024‑07‑12 | <ol><li>Resolves battery camera disconnection issues</li><li>Addresses audio issues</li><li>Allows WiFi to be turned off on the Hub</li><li>Optimizes WiFi performance</li><li>Improves event log functionality</li></ol> | 
 
 </details>
 

@@ -1547,5 +1547,24 @@
         "title": "IPC_NT2NA48MP"
       }
     ]
+  },
+  {
+    "id": 205,
+    "title": "Reolink Home Hub",
+    "type": "NVR",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2024/05/310126421717118802.7559.jpg",
+    "productUrl": "https://reolink.com/us/product/reolink-home-hub/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 342,
+        "title": "BASE_WUNNT6NA5_E"
+      },
+      {
+        "id": 343,
+        "title": "BASE_WUNNT6NA5_U"
+      }
+    ]
   }
 ]
