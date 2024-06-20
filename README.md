@@ -2304,7 +2304,7 @@ Version | Date | Changes | Notes
 <details>
   <summary>Reolink Home Hub (NVR)</summary>
 
-<img src="https://home-cdn.reolink.us/wp-content/uploads/2024/05/310126421717118802.7559.jpg" width="150">
+<img src="https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/Reolink%20Home%20Hub/product.png" width="150">
 
 [Product page](https://reolink.com/us/product/reolink-home-hub/)
 
