@@ -2877,9 +2877,9 @@
     "source": "live"
   },
   {
-    "version": "v3.1.0.2379_23062702",
-    "filename": "B800_v3102379_23062702",
-    "updated_at": "2024-03-21 12:31:17+08:00",
+    "version": "v3.1.0.3702_2406251218",
+    "filename": "B800_3702_2406251218",
+    "updated_at": "2024-06-28 12:05:51+08:00",
     "note": "",
     "firmware_id": 443,
     "model": "B800",
@@ -2892,7 +2892,7 @@
       "5. Optimze the Brightness & Shadows setting.",
       "6. Optimize some network features and fix some bugs"
     ],
-    "display_time": "2023-09-12 00:00:00+08:00",
+    "display_time": "2024-06-28 00:00:00+08:00",
     "sha256_pak": "d35830d481afbe12bdb24f0d6b7666bb0edc68fe9b4ce325231d42f44435ec1a",
     "source": "live"
   },
