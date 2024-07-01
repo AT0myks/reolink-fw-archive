@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 546
+Total: 548
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1806,6 +1806,40 @@ Version | Date | Changes | Notes
 [v3.1.0.2347_23061923](https://home-cdn.reolink.us/wp-content/uploads/2023/07/130312241689217944.9992.zip?download_name=RLC_823A_16X_23061923.zip) | 2023‑06‑19 | <ol><li>Optimize and solve the AF probabilistic focus failure</li><li>Optimize the FTP function</li><li>Optimize the Smart detection function</li><li>Optimize the ONVIF function</li><li>Solve some bugs with email alarms</li><li>Update Web Client content</li><li>Modify the cruise mechanism: If the cruise is interrupted by auto-tracking, the cruise will restart after the tracking stops and returns to the guard position for 10S.</li></ol> | 
 [v3.1.0.1933_23032822](https://home-cdn.reolink.us/wp-content/uploads/2023/04/110650141681195814.9281.zip?download_name=RLC_823A_16X_23032822.zip) | 2023‑03‑28 | <ol><li>Update content on Web Client</li><li>Optimize ONVIF function</li><li>Fix some bugs in email alerts</li></ol> | 
 [v3.1.0.1646_22122622](https://home-cdn.reolink.us/wp-content/uploads/2022/12/300258361672369116.5271.zip?download_name=RLC_823A_16X_22122622.zip) | 2022‑12‑26 | <ol><li>Added auto-tracking function</li><li>Optimized PT control effect</li><li>Added 3D Zoom function. (Supported on the Web Client, and will be supported on Reolink App/Client too after subsequent updates)</li><li>Added multiple image modes.</li><li>Optimized the image effect and solved the problem of color cast in some scenes</li><li>Optimized AF focusing effect</li><li>Solved other known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>RLC-823S1</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/assets/app/model-images/RLC-823S1/product.png" width="150">
+
+[Product page](https://reolink.com/us/product/rlc-823s1/)
+
+  ### IPC_NT2NA48MPSD12
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3688_24081510](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235531723811753.4232.zip?download_name=RLC_823S1_3688_24081510.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>RLC-823S1W</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/assets/app/model-images/RLC-823S1W/product.png" width="150">
+
+[Product page](https://reolink.com/us/product/rlc-823s1w/)
+
+  ### IPC_NT2NA48MPSD12
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3688_24081512](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235191723811719.669.zip?download_name=RLC_823S1W_3688_24081512.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
 
 </details>
 

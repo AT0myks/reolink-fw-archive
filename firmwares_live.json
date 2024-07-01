@@ -4185,5 +4185,49 @@
     "display_time": "2024-07-16 00:00:00+08:00",
     "sha256_pak": "5ef9dc982c833c9d3b1f2230566f7c79410d161f1d0fa7f3bdc2252f3ad9b44d",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.3688_24081512_v1.0.0.146",
+    "filename": "RLC_823S1W_3688_24081512",
+    "updated_at": "2024-08-19 14:28:43+08:00",
+    "note": "",
+    "firmware_id": 643,
+    "model": "RLC-823S1W",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.",
+      "2. Regular users do not have permission to modify system configurations or change WiFi settings.",
+      "3. Address abnormality in clip function.",
+      "4. Default support for authenticated device private keys.",
+      "5. Resolve issue of encoding frame rate reduction.",
+      "6. Modify default image orientation.",
+      "7. Resolve ineffectiveness of anti-flicker settings.",
+      "8. Fix issue of plaintext password printing when adding users."
+    ],
+    "display_time": "2024-08-16 00:00:00+08:00",
+    "sha256_pak": "0614a957e99fb6130b1ef7181cc7ddb5a0b1d8273e81934e3549e537ac0fe8c2",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3688_24081510_v1.0.0.146",
+    "filename": "RLC_823S1_3688_24081510",
+    "updated_at": "2024-08-19 14:28:56+08:00",
+    "note": "",
+    "firmware_id": 642,
+    "model": "RLC-823S1",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.",
+      "2. Regular users do not have permission to modify system configurations or change WiFi settings.",
+      "3. Address abnormality in clip function.",
+      "4. Default support for authenticated device private keys.",
+      "5. Resolve issue of encoding frame rate reduction.",
+      "6. Modify default image orientation.",
+      "7. Resolve ineffectiveness of anti-flicker settings.",
+      "8. Fix issue of plaintext password printing when adding users."
+    ],
+    "display_time": "2024-08-16 00:00:00+08:00",
+    "sha256_pak": "89d29fcd5d4860563f23feb0b839b1c7c384e83fb60771e618f3720fa8f11414",
+    "source": "live"
   }
 ]

@@ -1578,5 +1578,35 @@
         "title": "BASE_WUNNT6NA5"
       }
     ]
+  },
+  {
+    "id": 208,
+    "title": "RLC-823S1W",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/app/model-images/RLC-823S1W/product.png",
+    "productUrl": "https://reolink.com/us/product/rlc-823s1w/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 347,
+        "title": "IPC_NT2NA48MPSD12"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "title": "RLC-823S1",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/assets/app/model-images/RLC-823S1/product.png",
+    "productUrl": "https://reolink.com/us/product/rlc-823s1/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 346,
+        "title": "IPC_NT2NA48MPSD12"
+      }
+    ]
   }
 ]
