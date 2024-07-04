@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 548
+Total: 549
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2473,6 +2473,19 @@ Version | Date | Changes | Notes
 [v3.0.0.2017_23041200](https://home-cdn.reolink.us/wp-content/uploads/2023/04/121132011681299121.0701.zip?download_name=DB_WIFI_0412.zip) | 2023‑04‑12 | <ol><li>Release new smart home functions:</li><li>Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);</li><li>Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);</li><li>Support GOP settings.</li><li>Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function</li><li>Support adjustable range of CDS value</li><li>Support working with IOT devices</li><li>Add status light control button for doorbell camera (Available to the App version of 4.37 or later)</li><li>Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)</li><li>Fix known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.0.0.1859_23030900](https://home-cdn.reolink.us/wp-content/uploads/2023/04/030234101680489250.782.zip?download_name=Doorbell_WiFi_230309.zip) | 2023‑03‑09 | <ol><li>Release new smart home functions:</li><li>Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);</li><li>Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);</li><li>Support GOP settings.</li><li>Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function</li><li>Support adjustable range of CDS value</li><li>Support working with IOT devices</li><li>Add status light control button for doorbell camera (Available to the App version of 4.37 or later)</li><li>Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.0.0.1459_22102806](https://drive.google.com/uc?id=1ZAoBVMKyKzr6T6NMoZvI5MT2T4lgYCY_&confirm=t) | 2022‑10‑28 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/JimStar/reolink_cctv/issues/49#issuecomment-1305070003)
+
+</details>
+
+<details>
+  <summary>V800W</summary>
+
+  ### IPC_NT2NO28MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3114_2407022284](https://home-cdn.reolink.us/wp-content/uploads/2024/07/041123151720092195.4364.zip?download_name=V800W_3114_2407022284.zip) | 2024‑07‑02 | 1. Resolve known bugs | 
 
 </details>
 
