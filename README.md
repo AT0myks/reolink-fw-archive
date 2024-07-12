@@ -271,7 +271,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.2379_23062702](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120404371694491477.9399.zip?download_name=B800_3702_2406251218.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
+[v3.1.0.2379_23062702](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120404371694491477.9399.zip?download_name=B800_3702_2407087342.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
   ### IPC_5158MP8M
 
