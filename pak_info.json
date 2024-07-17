@@ -18909,5 +18909,41 @@
     ],
     "model_id": 209,
     "hw_ver_id": 348
+  },
+  "430e53eca559a94483e0eeed5e996af25961c0b791081fa8fe4dbb002fc71be9": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA44MP",
+      "board_name": "IPC_MS1NA44MP",
+      "build_date": "240627",
+      "display_type_info": "E1 Outdoor CX",
+      "detail_machine_type": "IPC_MS1NA44MP",
+      "type": "IPC",
+      "version_file": "3715_2406271290",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Jun 27 2024 - 09:27:17)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #6 PREEMPT Thu Jun 27 09:19:36 CST 2024",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/07/170154381721181278.2936.zip"
+    ],
+    "model_id": 210,
+    "hw_ver_id": 349
   }
 }

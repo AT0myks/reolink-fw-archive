@@ -1623,5 +1623,20 @@
         "title": "IPC_NT2NO28MP"
       }
     ]
+  },
+  {
+    "id": 210,
+    "title": "E1 Outdoor CX",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/E1%20Outdoor%20CX/product.png",
+    "productUrl": "https://reolink.com/product/e1-outdoor-cx/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 349,
+        "title": "IPC_MS1NA44MP"
+      }
+    ]
   }
 ]

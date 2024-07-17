@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 549
+Total: 550
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -605,6 +605,23 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip?download_name=E1Outdoor_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>E1 Outdoor CX</summary>
+
+<img src="https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/E1%20Outdoor%20CX/product.png" width="150">
+
+[Product page](https://reolink.com/product/e1-outdoor-cx/)
+
+  ### IPC_MS1NA44MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.3715_2406271290](https://home-cdn.reolink.us/wp-content/uploads/2024/07/170154381721181278.2936.zip?download_name=E1_Outdoor_CX_3715_2406271920.zip) | 2024‑06‑27 | <ol><li>Optimize night vision image effects.</li><li>Optimize tracking effects.</li><li>Solve some known bugs in live view and pre-record.</li><li>Optimize snapshot effects.</li><li>Solve other known bugs.</li></ol> | 
 
 </details>
 

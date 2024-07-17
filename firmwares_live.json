@@ -4244,5 +4244,24 @@
     "display_time": "2024-07-04 00:00:00+08:00",
     "sha256_pak": "21047d16df7a35a6d5fb1f0f9d07aaac28a7a40488847a2858676656fae22c33",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.3715_2406271290",
+    "filename": "E1_Outdoor_CX_3715_2406271920",
+    "updated_at": "2024-07-17 09:54:57+08:00",
+    "note": "",
+    "firmware_id": 651,
+    "model": "E1 Outdoor CX",
+    "hw_ver": "IPC_MS1NA44MP",
+    "changelog": [
+      "1. Optimize night vision image effects.",
+      "2. Optimize tracking effects.",
+      "3. Solve some known bugs in live view and pre-record.",
+      "4. Optimize snapshot effects.",
+      "5. Solve other known bugs."
+    ],
+    "display_time": "2024-07-17 00:00:00+08:00",
+    "sha256_pak": "430e53eca559a94483e0eeed5e996af25961c0b791081fa8fe4dbb002fc71be9",
+    "source": "live"
   }
 ]
