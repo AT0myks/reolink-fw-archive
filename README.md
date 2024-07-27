@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 550
+Total: 551
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1964,6 +1964,19 @@ Version | Date | Changes | Notes
 [v3.1.0.1643_22122317](https://support-d.reolink.com/attachments/token/zJUE4Mb1B0pSSvEzKfxDjA8ob/?name=IPC_523D98MP.1643_22122317.RLC-842A.IMX415.8MP.AF.REOLINK.pak) | 2022‑12‑23 |  | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/32)
 [v3.1.0.989_22051917](https://support.reolink.com/attachments/token/JH134V6um9pX3cfBwBhTz0l60/?name=IPC_523D98MP.989_22051917.RLC-842A.IMX415.8MP.AF.REOLINK.pak) | 2022‑05‑19 | Fixed ONVIF issue and I-frame switch button | [Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/13)
 [v3.1.0.764_21121717](https://home-cdn.reolink.us/wp-content/uploads/2022/01/191052081642589528.6241.zip?download_name=RLC_842A_21121717.zip) | 2021‑12‑17 | <ol><li>Optimized AI detection function<ol type="a"><li>Upgraded the AI model to improve the recognition accuracy of people, cars, and pets (the  new features of 8MP models), and optimized static AI false alarm issue</li><li>Increased the AI delay alarm function, which can reduce dynamic misjudgments caused by flying insects, rain, etc. by adjusting the delay gear</li><li>Optimized the alarm area settings to reduce false alarms in the shielded area</li><li>Optimized the AI sensitivity setting: It will not send AI alarm when the AI detection sensitivity is 0</li><li>Optimized the false alarms caused by day and night switching and lighting changes, and solved the problem that the spotlight will repeatedly turn on and off in some scenes</li><li>Optimized the automatic tracking function to solve the chaotic tracking problem of the camera in some scenarios</li><li>Added the vertical tracking function for RLC- 523WA, RLC-823A</li></ol></li><li>Added AI smart detection type option for spotlight, so you can choose AI type for the smart spotlight</li><li>Optimized FTP function<ol type="a"><li>Supported FTPS encryption to improve the security of FTP transfer files</li><li>Optimized the FTP transfer file type:You can choose to transfer only video, only pictures, and transfer both videos and pictures to the FTP server</li><li>Increased Overwrite function for picture only and video only function</li><li>Added 2s/5s/10s interval options for FTP capture picture</li><li>Optimized the upload file directory function: You can choose to folder by day/month, or save all files in the same folder</li></ol></li><li>Optimized the push function and increased the push interval setting function</li><li>Increased the Test error code function for the Email, FTP, push settings, which could help find the cause of the error</li><li>Added switch for RTSP, ONVIF, HTTP, HTTPS service. Users can turn on and off the corresponding network services as needed</li><li>Increased the function of locking the device: The device will be locked for 2 seconds after logging in with an incorrect password to improve login security and prevent malicious attacks</li><li>Added web certificate import function</li><li>Updated RTSP version</li><li>Optimized the AF algorithm to solve the problem of unclear focus in some scenes</li><li>Optimized pre-record time of videos and solved the problem of too long pre-record time in some scenes</li><li>Added day and night switching threshold adjustment function</li></ol> | 1. Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
+
+</details>
+
+<details>
+  <summary>RLC-843A</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3633_2406134111](https://home-cdn.reolink.us/wp-content/uploads/2024/07/271003231722074603.6578.zip?download_name=RLC_843A_3633_2406134111.zip) | 2024‑06‑13 | <ol><li>Optimize the day and night switching effect</li><li>Solve other known bugs</li></ol> | 
 
 </details>
 

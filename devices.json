@@ -1638,5 +1638,20 @@
         "title": "IPC_MS1NA44MP"
       }
     ]
+  },
+  {
+    "id": 211,
+    "title": "RLC-843A",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 350,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
   }
 ]
