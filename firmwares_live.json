@@ -4279,5 +4279,23 @@
     "display_time": "2024-07-27 00:00:00+08:00",
     "sha256_pak": "817e1f3e440bc4bd290d16a768eaafdc16e5596d3fb32b96687b93b32c32515f",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.3909_2408064516",
+    "filename": "CX810_3909_2408064516",
+    "updated_at": "2024-08-07 20:05:16+08:00",
+    "note": "",
+    "firmware_id": 657,
+    "model": "CX810",
+    "hw_ver": "IPC_NT2NA48MPB28",
+    "changelog": [
+      "1. Add audio noise reduction function",
+      "2. Add binning mode function",
+      "3. Optimize image effects",
+      "4. Solve other known BUGs"
+    ],
+    "display_time": "2024-08-07 00:00:00+08:00",
+    "sha256_pak": "83f951681b14a664d1611ad08f1c0a7ce01a921aeb6e799fae2625e45fde09c9",
+    "source": "live"
   }
 ]

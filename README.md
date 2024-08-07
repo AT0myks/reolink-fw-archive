@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 551
+Total: 552
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -417,6 +417,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.3429_2404181316](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220655151716360915.059.zip?download_name=CX410W_3429_2404181316.zip) | 2024‑04‑18 | <ol><li>Optimize HDR effect</li><li>Solve other known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>CX810</summary>
+
+  ### IPC_NT2NA48MPB28
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3909_2408064516](https://home-cdn.reolink.us/wp-content/uploads/2024/08/071205031723032303.9511.zip?download_name=CX810_3909_2408064516.zip) | 2024‑08‑06 | <ol><li>Add audio noise reduction function</li><li>Add binning mode function</li><li>Optimize image effects</li><li>Solve other known BUGs</li></ol> | 
 
 </details>
 

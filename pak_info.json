@@ -18981,5 +18981,41 @@
     ],
     "model_id": 211,
     "hw_ver_id": 350
+  },
+  "83f951681b14a664d1611ad08f1c0a7ce01a921aeb6e799fae2625e45fde09c9": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT2NA48MPB28",
+      "board_name": "IPC_NT2NA48MPB28",
+      "build_date": "240806",
+      "display_type_info": "CX810",
+      "detail_machine_type": "IPC_NT2NA48MPB28",
+      "type": "IPC",
+      "version_file": "3909_2408064516",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Sep 23 2023 - 17:45:11 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Tue Jul 11 16:08:50 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/08/071205031723032303.9511.zip"
+    ],
+    "model_id": 212,
+    "hw_ver_id": 351
   }
 }

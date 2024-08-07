@@ -1653,5 +1653,20 @@
         "title": "IPC_NT2NA48MP"
       }
     ]
+  },
+  {
+    "id": 212,
+    "title": "CX810",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 351,
+        "title": "IPC_NT2NA48MPB28"
+      }
+    ]
   }
 ]
