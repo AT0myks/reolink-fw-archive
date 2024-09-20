@@ -1698,5 +1698,35 @@
         "title": "DB_566128M5MP_W_W"
       }
     ]
+  },
+  {
+    "id": 213,
+    "title": "Reolink Video Doorbell PoE-W\uff08White POE\uff09",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/Reolink%20Video%20Doorbell%20PoE-W/product.png",
+    "productUrl": "https://reolink.com/us/product/reolink-video-doorbell-poe/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 353,
+        "title": "DB_566128M5MP_P_W"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Reolink Video Doorbell WiFi-W\uff08White WiFi\uff09",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/Reolink%20Video%20Doorbell%20WiFi-W/product.png",
+    "productUrl": "https://reolink.com/us/product/reolink-video-doorbell-wifi/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 352,
+        "title": "DB_566128M5MP_W_W"
+      }
+    ]
   }
 ]
