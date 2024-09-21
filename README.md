@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 574
+Total: 576
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -800,10 +800,11 @@ Version | Date | Changes | Notes
 
   ### N6MB01
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.4.0.304_24031823](https://home-cdn.reolink.us/wp-content/uploads/2024/04/080155521712541352.8735.zip?download_name=NVS16_304_24031823.zip) | 2024‑03‑18 | <ol><li>Add Motion Mark.</li><li>Preview and playback in full screen support mode selection: Full-Frame mode, 1:1 mode, Panning mode.</li><li>When DUO 3 PoE is added, the preview layout will be automatically adjusted to make sure that the camera shows two lenses (under expanded mode).</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
 [v3.3.0.282_23103154](https://home-cdn.reolink.us/wp-content/uploads/2024/02/190805511708329951.4053.zip?download_name=NVS16_282_23103154.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 
 </details>
@@ -813,10 +814,11 @@ Version | Date | Changes | Notes
 
   ### N7MB01
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.4.0.304_24031819](https://home-cdn.reolink.us/wp-content/uploads/2024/04/080154531712541293.6992.zip?download_name=NVS8_304_24031819.zip) | 2024‑03‑18 | <ol><li>Add Motion Mark.</li><li>Preview and playback in full screen support mode selection: Full-Frame mode, 1:1 mode, Panning mode.</li><li>When DUO 3 PoE is added, the preview layout will be automatically adjusted to make sure that the camera shows two lenses (under expanded mode).</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
 [v3.3.0.282_23103129](https://home-cdn.reolink.us/wp-content/uploads/2024/02/190756371708329397.3966.zip?download_name=NVS8_282_23103129.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 
 </details>
