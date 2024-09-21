@@ -3,3 +3,4 @@ lxml
 python-dateutil
 reolinkfw ~= 2.0.0
 waybackpy
+zstandard
