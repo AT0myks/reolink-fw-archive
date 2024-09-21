@@ -4332,5 +4332,409 @@
     "display_time": "2024-08-19 00:00:00+08:00",
     "sha256_pak": "d9a88d87ce2adb3dfabfe49f516489032ba195c2d33fdc16527a61df6b7c700e",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.3872_2407262057",
+    "filename": "E1_Outdoor_PoE_240726",
+    "updated_at": "2024-08-12 17:00:52+08:00",
+    "note": "",
+    "firmware_id": 658,
+    "model": "E1 Outdoor PoE",
+    "hw_ver": "IPC_560SD88MP",
+    "changelog": [
+      "1. Optimize tracking effect;",
+      "2. Optimize autofocus effect;",
+      "3. Optimize image effect;",
+      "4. Solve other known bugs"
+    ],
+    "display_time": "2024-08-12 00:00:00+08:00",
+    "sha256_pak": "13ebfb0b968e716b47912e5f5f016cbd9348e6fd73516c9bbbd244a74160c9d3",
+    "source": "live"
+  },
+  {
+    "version": "v3.4.0..304_24031823",
+    "filename": "NVS16_304_24031823",
+    "updated_at": "2024-04-08 09:59:28+08:00",
+    "note": "",
+    "firmware_id": 609,
+    "model": "NVS16",
+    "hw_ver": "N6MB01",
+    "changelog": [
+      "1.Add Motion Mark.",
+      "2.Preview and playback in full screen support mode selection: Full-Frame mode, 1:1 mode, Panning mode.",
+      "3.When DUO 3 PoE is added, the preview layout will be automatically adjusted to make sure that the camera shows two lenses (under expanded mode).",
+      "4.Solved other known bugs.",
+      "5.Optimize the interface and interaction."
+    ],
+    "display_time": "2024-04-08 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2024/04/080155521712541352.8735.zip",
+    "error": "No PAKs found in ZIP file",
+    "source": "live"
+  },
+  {
+    "version": "v3.4.0.304_24031819",
+    "filename": "NVS8_304_24031819",
+    "updated_at": "2024-04-08 09:59:38+08:00",
+    "note": "",
+    "firmware_id": 608,
+    "model": "NVS8",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1.Add Motion Mark.",
+      "2.Preview and playback in full screen support mode selection: Full-Frame mode, 1:1 mode, Panning mode.",
+      "3.When DUO 3 PoE is added, the preview layout will be automatically adjusted to make sure that the camera shows two lenses (under expanded mode).",
+      "4.Solved other known bugs.",
+      "5.Optimize the interface and interaction."
+    ],
+    "display_time": "2024-04-08 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2024/04/080154531712541293.6992.zip",
+    "error": "No PAKs found in ZIP file",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3429_24041813",
+    "filename": "E1Outdoor_3429_24041813",
+    "updated_at": "2024-05-10 15:18:27+08:00",
+    "note": "",
+    "firmware_id": 616,
+    "model": "E1 Outdoor",
+    "hw_ver": "IPC_566SD85MP",
+    "changelog": [
+      "1.Improve version compatibility between cameras"
+    ],
+    "display_time": "2024-05-10 00:00:00+08:00",
+    "sha256_pak": "3f13d7eddc8d64baf29e2d6478f2beb3fbe9ead3c22b42ac47b497cc6a4d7d38",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3429_2404181313",
+    "filename": "CX410_3429_2404181313",
+    "updated_at": "2024-05-22 14:57:32+08:00",
+    "note": "",
+    "firmware_id": 623,
+    "model": "CX410",
+    "hw_ver": "IPC_NT1NA44MP",
+    "changelog": [
+      "1. Optimize HDR effect",
+      "2. Solve other known bugs"
+    ],
+    "display_time": "2024-05-22 00:00:00+08:00",
+    "sha256_pak": "b29135dcebc2b27ee9578a69c83ae0af30e0670747f8ed49a1bcdb185da8a3aa",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3872_2407304781",
+    "filename": "E1_Outdoor_Pro_240730",
+    "updated_at": "2024-08-12 17:01:47+08:00",
+    "note": "",
+    "firmware_id": 659,
+    "model": "E1 Outdoor Pro",
+    "hw_ver": "IPC_560SD88MP",
+    "changelog": [
+      "1. Optimize tracking effect;",
+      "2. Optimize autofocus effect;",
+      "3. Optimize image effect;",
+      "4. Solve other known bugs"
+    ],
+    "display_time": "2024-08-12 00:00:00+08:00",
+    "sha256_pak": "9521bb812ed3a3ec06215bd200ca1f96ffa5385ee561e945f2d65a453fd238c0",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3308_2407315182",
+    "filename": "Reolink_Video_Doorbell_WiFi_v30033082407315182_DB_566128M5MP_W",
+    "updated_at": "2024-08-19 16:50:38+08:00",
+    "note": "",
+    "firmware_id": 665,
+    "model": "Reolink Video Doorbell WiFi",
+    "hw_ver": "DB_566128M5MP_W",
+    "changelog": [
+      "Add support for ONVIF audio-related commands.",
+      "Improve compatibility with Chime and Doorbell cameras.",
+      "Enhance wall penetration performance of 2.4GHz WiFi in certain scenarios.",
+      "Fix other known bugs"
+    ],
+    "display_time": "2024-08-19 00:00:00+08:00",
+    "sha256_pak": "78e01ee35dc315631eb26aecf57b4e853eb53d1b10b8fa3baa2b521717a6f343",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3308_2407315183",
+    "filename": "Reolink_Video_Doorbell_PoE_v30033082407315183_DB_566128M5MP_P",
+    "updated_at": "2024-08-19 16:51:30+08:00",
+    "note": "",
+    "firmware_id": 666,
+    "model": "Reolink Video Doorbell PoE",
+    "hw_ver": "DB_566128M5MP_P",
+    "changelog": [
+      "Add support for ONVIF audio-related commands.",
+      "Improve compatibility with Chime and Doorbell cameras.",
+      "Fix other known bugs"
+    ],
+    "display_time": "2024-08-19 00:00:00+08:00",
+    "sha256_pak": "7afd9f380bddc9f4e2da70bea25b8433480fdc7dcc2ca18f58554de39dd88a81",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3471_2406116681",
+    "filename": "Reolink_Duo_Floodlight_WiFi_3471_2406116681",
+    "updated_at": "2024-06-13 09:11:55+08:00",
+    "note": "",
+    "firmware_id": 627,
+    "model": "Reolink Duo Floodlight WiFi",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1. Add Bitrate Mode function",
+      "2. Optimize smart detection",
+      "3. The https function is disabled by default",
+      "4. Support webhook function on web browser",
+      "5. Optimize day and night switching effect",
+      "6. Add audio noise reduction function",
+      "7. Solve other known bugs"
+    ],
+    "display_time": "2024-06-13 00:00:00+08:00",
+    "sha256_pak": "ce94f6c9e7d76cfc85bdd16ca01af81fe6eab1dbfa2e9394eada24ab593e2bd4",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3471_2406116597",
+    "filename": "Reolink_Duo_Floodlight_PoE_3471_2406116597",
+    "updated_at": "2024-06-13 09:11:39+08:00",
+    "note": "",
+    "firmware_id": 628,
+    "model": "Reolink Duo Floodlight PoE",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1. Add Bitrate Mode function",
+      "2. Optimize smart detection",
+      "3. The https function is disabled by default",
+      "4. Support webhook function on web browser",
+      "5. Optimize day and night switching effect",
+      "6. Add audio noise reduction function",
+      "7. Solve other known bugs"
+    ],
+    "display_time": "2024-06-13 00:00:00+08:00",
+    "sha256_pak": "0674f273be41ea411ef63610f2c238ec34527dc009b8d9e4e2aeb50dc7edb833",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3748_2408281837",
+    "filename": "Reolink_TrackMix_WiFi_v30037482408281837_IPC_529SD78MP",
+    "updated_at": "2024-09-06 18:24:14+08:00",
+    "note": "",
+    "firmware_id": 668,
+    "model": "Reolink TrackMix WiFi",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "Optimize the recording function.",
+      "Optimize onvif service",
+      "Solve other known bugs"
+    ],
+    "display_time": "2024-09-06 00:00:00+08:00",
+    "sha256_pak": "73f3589a9ee53573cb841485c5f0d507f267c5677697831e742bf92d6689e92e",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3748_2408281835",
+    "filename": "Reolink_TrackMix_PoE_v30037482408281835_IPC_529SD78MP",
+    "updated_at": "2024-09-06 18:24:53+08:00",
+    "note": "",
+    "firmware_id": 667,
+    "model": "Reolink TrackMix PoE",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "Optimize the recording function.",
+      "Optimize onvif service",
+      "Solve other known bugs"
+    ],
+    "display_time": "2024-09-06 00:00:00+08:00",
+    "sha256_pak": "3dfd04810c3e4ee5ab6e10bd508a40d3e56afb3126825530a3d9ff2f33ba283e",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3471_2406116464",
+    "filename": "Reolink_Duo_2_WiFi_3471_2406116464",
+    "updated_at": "2024-06-13 09:11:24+08:00",
+    "note": "",
+    "firmware_id": 629,
+    "model": "Reolink Duo 2 WiFi",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1. Add Bitrate Mode function",
+      "2. Optimize smart detection",
+      "3. The https function is disabled by default",
+      "4. Support webhook function on web browser",
+      "5. Optimize day and night switching effect",
+      "6. Add audio noise reduction function",
+      "7. Solve other known bugs"
+    ],
+    "display_time": "2024-06-13 00:00:00+08:00",
+    "sha256_pak": "7ae0c614eb65df0cd7c46b3718c0183eece110e1691b648696feb7c68eeb776c",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3471_2406115691",
+    "filename": "Reolink_Duo_2_PoE_3471_2406115691",
+    "updated_at": "2024-06-13 09:11:06+08:00",
+    "note": "",
+    "firmware_id": 630,
+    "model": "Reolink Duo 2 POE",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1. Add Bitrate Mode function",
+      "2. Optimize smart detection",
+      "3. The https function is disabled by default",
+      "4. Support webhook function on web browser",
+      "5. Optimize day and night switching effect",
+      "6. Add audio noise reduction function",
+      "7. Solve other known bugs"
+    ],
+    "display_time": "2024-06-13 00:00:00+08:00",
+    "sha256_pak": "6124706d864686410f44b7feb1af3e998405597775f6c6c1f5994f6f74c15e82",
+    "source": "live"
+  },
+  {
+    "version": "v3.5.0.329_24061729",
+    "filename": "NT98333_NVR_36IP_L300_329_24061729",
+    "updated_at": "2024-07-08 12:12:37+08:00",
+    "note": "",
+    "firmware_id": 633,
+    "model": "RLN36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1.Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)",
+      "2.Solved other known bugs.",
+      "3.Optimize the interface and interaction."
+    ],
+    "display_time": "2024-06-18 00:00:00+08:00",
+    "sha256_pak": "d200fc6378d9c4cbb53c13bf7a3c9b2b371a1e343733e3d585282623349ced00",
+    "source": "live"
+  },
+  {
+    "version": "v3.5.0.321_24060750",
+    "filename": "RLN16_410_321_24060750",
+    "updated_at": "2024-06-07 19:39:16+08:00",
+    "note": "",
+    "firmware_id": 626,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "N6MB01",
+    "changelog": [
+      "1.Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)",
+      "2.Solved other known bugs",
+      "3.Optimize the interface and interaction"
+    ],
+    "display_time": "2024-06-07 00:00:00+08:00",
+    "sha256_pak": "1011029b5594b5dc319148e5117d413104d1f262dda3ce23cc002d3b3c14dc38",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3486_2405071840",
+    "filename": "RLC_510A_240507",
+    "updated_at": "2024-05-11 17:03:43+08:00",
+    "note": "",
+    "firmware_id": 618,
+    "model": "RLC-510A",
+    "hw_ver": "IPC_MS1NA45MP",
+    "changelog": [
+      "1. Enhance smart detection.",
+      "2. Optimize recording overwrite strategy.",
+      "3. Improve RTSP connection efficiency.",
+      "4. Support webhook on the web interface of the camera.",
+      "5. Address some known bugs."
+    ],
+    "display_time": "2024-05-11 00:00:00+08:00",
+    "sha256_pak": "1adee51d4575af2995993bd254944dc487e0f9e9bceb9cb27f138f8234887e45",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4054_2409131251",
+    "filename": "RLC_810A_4054_2409131251",
+    "updated_at": "2024-09-20 10:32:47+08:00",
+    "note": "",
+    "firmware_id": 671,
+    "model": "RLC-810A",
+    "hw_ver": "IPC_56064M8MP",
+    "changelog": [
+      "1.Optimize encoding and image parameter configuration",
+      "2.Add webhook function",
+      "3.Optimize image effect"
+    ],
+    "display_time": "2024-09-20 00:00:00+08:00",
+    "sha256_pak": "c69333c8b5783bf0702e609151c346dc7c91003261b42d613f75b245f3be3fa3",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4054_2409131254",
+    "filename": "RLC_820A_4054_2409131254",
+    "updated_at": "2024-09-20 10:34:24+08:00",
+    "note": "",
+    "firmware_id": 672,
+    "model": "RLC-820A",
+    "hw_ver": "IPC_56064M8MP",
+    "changelog": [
+      "1.Optimize encoding and image parameter configuration",
+      "2.Add webhook function",
+      "3.Optimize image effect"
+    ],
+    "display_time": "2024-09-20 00:00:00+08:00",
+    "sha256_pak": "bfee190609d5105b9405462cf5ba5aa750b0411852b255c1d5d0c200df22bf33",
+    "source": "live"
+  },
+  {
+    "version": "v3.5.0.321_24060733",
+    "filename": "RLN8_410_321_240607",
+    "updated_at": "2024-06-18 16:51:12+08:00",
+    "note": "",
+    "firmware_id": 632,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1.Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)",
+      "2.Solved other known bugs.",
+      "3.Optimize the interface and interaction."
+    ],
+    "display_time": "2024-06-12 00:00:00+08:00",
+    "sha256_pak": "d4d28153c8776dbcc67ad1591684e2298fd0bf37c1e9ea2b6db9de744519813e",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3382_2404177933",
+    "filename": "E1Zoom_v3103382_2404177933",
+    "updated_at": "2024-04-20 16:30:42+08:00",
+    "note": "",
+    "firmware_id": 614,
+    "model": "E1 Zoom",
+    "hw_ver": "IPC_566SD65MP",
+    "changelog": [
+      "1. Optimize cloud storage function",
+      "2. Upgrade push version",
+      "3. Optimize focus function",
+      "4. Support two-way audio by ONVIF",
+      "5. Solve bugs related with PT function",
+      "6. Solve other known bugs"
+    ],
+    "display_time": "2024-04-20 00:00:00+08:00",
+    "sha256_pak": "a598e177787eb648ef62908e05cd2fcb800dfd4bd4b64b6fdc12eb2ca4f09090",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3382_2404178024",
+    "filename": "E1Zoom_v3103382_2404178024",
+    "updated_at": "2024-04-20 16:10:10+08:00",
+    "note": "",
+    "firmware_id": 613,
+    "model": "E1 Zoom",
+    "hw_ver": "IPC_566SD664M5MP",
+    "changelog": [
+      "1. Optimize cloud storage function",
+      "2. Upgrade push version",
+      "3. Optimize focus function",
+      "4. Support two-way audio by ONVIF",
+      "5. Solve bugs related with PT function",
+      "6. Solve other known bugs"
+    ],
+    "display_time": "2024-04-20 00:00:00+08:00",
+    "sha256_pak": "9bdfe76b0819e844f23137341e48fc53111702b5fe2f939421d7da0c39278f78",
+    "source": "live"
   }
 ]

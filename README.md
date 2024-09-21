@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 554
+Total: 574
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -391,10 +391,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NA44MP
 
-Firmwares for this hardware version: 5
+Firmwares for this hardware version: 6
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3429_2404181313](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220656021716360962.0295.zip?download_name=CX410_3429_2404181313.zip) | 2024‑04‑18 | <ol><li>Optimize HDR effect</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2948_23112703](https://home-cdn.reolink.us/wp-content/uploads/2023/11/300416521701317812.3796.zip?download_name=CX410_2948_23112703.zip) | 2023‑11‑27 | <ol><li>Add Motion Mark</li><li>Optimize audio</li><li>Optimize smart detection</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2501_23072503](https://home-cdn.reolink.us/wp-content/uploads/2023/09/010311281693537888.5417.zip?download_name=CX410_2501_23072503.zip) | 2023‑07‑25 | <ol><li>Optimize the Spolight modes</li><li>Optimize the night vision</li><li>Add HDR switch</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2447_23071263](https://drive.google.com/uc?id=1Yrl7F-ZjjAkAzVOhKFwFR-jouwOJHcqK&confirm=t) | 2023‑07‑12 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
@@ -613,10 +614,11 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD85MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3429_2404181319](https://home-cdn.reolink.us/wp-content/uploads/2024/05/100708301715324910.3385.zip?download_name=E1Outdoor_3429_24041813.zip) | 2024‑04‑18 | 1.Improve version compatibility between cameras | 
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip?download_name=E1Outdoor_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 
 </details>
@@ -647,10 +649,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560SD88MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3872_2407262057](https://home-cdn.reolink.us/wp-content/uploads/2024/08/120859341723453174.6233.zip?download_name=E1_Outdoor_PoE_240726.zip) | 2024‑07‑26 | <ol><li>Optimize tracking effect;</li><li>Optimize autofocus effect;</li><li>Optimize image effect;</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2448_23071200](https://home-cdn.reolink.us/wp-content/uploads/2023/11/300742551701330175.9865.zip?download_name=E1_Outdoor_PoE_2448_23071200.zip) | 2023‑07‑12 | <ol><li>Opitmize Auto Focus</li><li>Optimize Smart Detetion and Auto Tracking</li><li>Fix some known bugs</li></ol> | 
 
 </details>
@@ -664,10 +667,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560SD88MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3872_2407304781](https://home-cdn.reolink.us/wp-content/uploads/2024/08/120901271723453287.4817.zip?download_name=E1_Outdoor_Pro_240730.zip) | 2024‑07‑30 | <ol><li>Optimize tracking effect;</li><li>Optimize autofocus effect;</li><li>Optimize image effect;</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2838_23102510](https://home-cdn.reolink.us/wp-content/uploads/2023/11/151140371700048437.7588.zip?download_name=E1_Outdoor_Pro_2838_23102510.zip) | 2023‑10‑25 | <ol><li>Optimize smart detection</li><li>Optimize Auto Focus and Auto Tracking</li><li>Optimize night vision</li><li>Optimize switch between day and night mode</li><li>Fix some bugs related to the FTP feature</li><li>Optimize Audio</li><li>Fix some other known bugs</li></ol> | 
 [v3.1.0.2515_23072809](https://home-cdn.reolink.us/wp-content/uploads/2023/08/291037231693305443.7283.zip?download_name=E1_Outdoor_Pro_2515_23072809.zip) | 2023‑07‑28 |  | 1. Optimize and solve some known bugs of the WiFi connection<br />2. Optimize Auto-tracking <br />3. Optimize Auto-focus<br />4. Optimzie Email Alert<br />5. Solve other known bugs
 
@@ -754,19 +758,21 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD65MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3382_2404177933](https://home-cdn.reolink.us/wp-content/uploads/2024/04/200827531713601673.7315.zip?download_name=E1Zoom_v3103382_2404177933.zip) | 2024‑04‑17 | <ol><li>Optimize cloud storage function</li><li>Upgrade push version</li><li>Optimize focus function</li><li>Support two-way audio by ONVIF</li><li>Solve bugs related with PT function</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090251351696819895.8968.zip?download_name=E1Zoom_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.1975_23042102](https://home-cdn.reolink.us/wp-content/uploads/2023/05/310820071685521207.4716.zip?download_name=E1_Zoom_v3101975_23042102_IPC_566SD65MP.zip) | 2023‑04‑21 | <ol><li>Optimize the focusing effect under night vision.</li><li>Solve other known bugs.</li></ol> | 
 
   ### IPC_566SD664M5MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3382_2404178024](https://home-cdn.reolink.us/wp-content/uploads/2024/04/200809141713600554.3801.zip?download_name=E1Zoom_v3103382_2404178024.zip) | 2024‑04‑17 | <ol><li>Optimize cloud storage function</li><li>Upgrade push version</li><li>Optimize focus function</li><li>Support two-way audio by ONVIF</li><li>Solve bugs related with PT function</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2649_23083101](https://home-cdn.reolink.us/wp-content/uploads/2023/09/190238051695091085.1403.zip?download_name=E1Zoom_v3102649_23083101.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.1975_23041200](https://home-cdn.reolink.us/wp-content/uploads/2023/04/150416541681532214.4008.zip?download_name=E1_Zoom_v3101975_23041200_IPC_566SD664M5MP.zip) | 2023‑04‑12 | <ol><li>Optimize the focusing effect under night vision.</li><li>Optimize some network functions.</li><li>Optimize the PTZ function.</li><li>Solve other known bugs.</li></ol> | 
 
@@ -1377,10 +1383,11 @@ Version | Date | Changes | Notes
 
   ### IPC_MS1NA45MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3486_2405071840](https://home-cdn.reolink.us/wp-content/uploads/2024/05/110900381715418038.0131.zip?download_name=RLC_510A_240507.zip) | 2024‑05‑07 | <ol><li>Enhance smart detection.</li><li>Optimize recording overwrite strategy.</li><li>Improve RTSP connection efficiency.</li><li>Support webhook on the web interface of the camera.</li><li>Address some known bugs.</li></ol> | 
 [v3.0.0.2839_23102300](https://home-cdn.reolink.us/wp-content/uploads/2023/12/040703291701673409.733.zip?download_name=RLC_510A_v300242923102300_IPC_MS1NA45MP.zip) | 2023‑10‑23 | <ol><li>Solved the problem that the camera's mainstream disconnects from SecuritySpy automatically</li><li>Optimize the image performance</li><li>Optimize the audio</li><li>Fix some known bugs</li></ol> | 
 
 </details>
@@ -1641,10 +1648,11 @@ Version | Date | Changes | Notes
 
   ### IPC_56064M8MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4054_2409131251](https://home-cdn.reolink.us/wp-content/uploads/2024/09/200232001726799520.6853.zip?download_name=RLC_810A_4054_2409131251.zip) | 2024‑09‑13 | <ol><li>Optimize encoding and image parameter configuration</li><li>Add webhook function</li><li>Optimize image effect</li></ol> | 
 [v3.1.0.2368_23062505](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip?download_name=RLC_810A_2368_23062505.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
 
 </details>
@@ -1763,10 +1771,11 @@ Version | Date | Changes | Notes
 
   ### IPC_56064M8MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4054_2409131254](https://home-cdn.reolink.us/wp-content/uploads/2024/09/200233471726799627.6589.zip?download_name=RLC_820A_4054_2409131254.zip) | 2024‑09‑13 | <ol><li>Optimize encoding and image parameter configuration</li><li>Add webhook function</li><li>Optimize image effect</li></ol> | 
 [v3.1.0.2368_23062508](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110430021691728202.6612.zip?download_name=RLC_820A_2368_23062508.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
 
 </details>
@@ -2085,10 +2094,11 @@ Version | Date | Changes | Notes
 
   ### N6MB01
 
-Firmwares for this hardware version: 5
+Firmwares for this hardware version: 6
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.5.0.321_24060750](https://home-cdn.reolink.us/wp-content/uploads/2024/06/071138381717760318.6292.zip?download_name=RLN16_410_321_24060750.zip) | 2024‑06‑07 | <ol><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Solved other known bugs</li><li>Optimize the interface and interaction</li></ol> | 
 [v3.3.0.282_23103153](https://home-cdn.reolink.us/wp-content/uploads/2023/11/031055561699008956.9318.zip?download_name=RLN16_410_282_23103153.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.3.0.226_23031621](https://home-cdn.reolink.us/wp-content/uploads/2023/03/171057041679050624.0931.zip?download_name=RLN16_410_226_23031621.zip) | 2023‑03‑16 | <ol><li>Optimize the interface and interaction.</li><li>Compatible with fisheye series models.</li><li>Compatible with RLC-81PA model.</li><li>Support configuring auto-tracking and AI audio noise reduction settings for TrackMix series camera.</li><li>Support configuring splicing settings for Duo 2 series.</li><li>Support the 3D positioning function for RLC-823A 16X.</li><li>Support switches to control status light and the visitor button not trigger the horn control for Reolink Doorbell series.</li><li>Optimize privacy mask UI.</li><li>Add login lock function.</li><li>Add downlink port network segment configuration function.</li><li>Add IOT device timing constant light time point sorting.</li><li>Update RTSP.</li><li>Upgrade ONVIF version.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.2.0.218_23011215](https://home-cdn.reolink.us/wp-content/uploads/2023/01/131015231673604923.4271.zip?download_name=RLN16_410_23011215.zip) | 2023‑01‑12 | <ol><li>Optimize the interface and interaction.</li><li>Optimized experience for preview and playback.</li><li>Add the function of keeping video recordings for the latest 1day.</li><li>Adapted to Reolink Video Doorbell.</li><li>Adapted to Reolink Floodlight series cameras.</li><li>Adapted to RLC-81MA models.</li><li>Solved the adaptation problem of TrackMix series and Duo2 series cameras.</li><li>Solved the problem that common users cannot enable push.</li><li>Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR.</li><li>Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App.</li><li>Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function.</li><li>Optimize network related settings.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -2106,10 +2116,11 @@ Version | Date | Changes | Notes
 
   ### N5MB01
 
-Firmwares for this hardware version: 5
+Firmwares for this hardware version: 6
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.5.0.329_24061729](https://home-cdn.reolink.us/wp-content/uploads/2024/06/181126381718709998.5385.zip?download_name=NT98333_NVR_36IP_L300_329_24061729.zip) | 2024‑06‑17 | <ol><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
 [v3.3.0.282_23103105](https://home-cdn.reolink.us/wp-content/uploads/2023/11/031057131699009033.4348.zip?download_name=RLN36_282_23103105.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Support playback recordings simultaneously up to four 8MP cameras.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.3.0.226_23031612](https://home-cdn.reolink.us/wp-content/uploads/2023/03/171057511679050671.2953.zip?download_name=RLN36_226_23031612.zip) | 2023‑03‑16 | <ol><li>Optimize the interface and interaction.</li><li>Compatible with fisheye series models.</li><li>Compatible with RLC-81PA model.</li><li>Support configuring auto-tracking and AI audio noise reduction settings for TrackMix series camera.</li><li>Support configuring splicing settings for Duo 2 series.</li><li>Support the 3D positioning function for RLC-823A 16X.</li><li>Support switches to control status light and the visitor button not trigger the horn control for Reolink Doorbell series.</li><li>Optimize privacy mask UI.</li><li>Add login lock function.</li><li>Add downlink port network segment configuration function.</li><li>Add IOT device timing constant light time point sorting.</li><li>Update RTSP.</li><li>Upgrade ONVIF version.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.2.0.218_23011219](https://home-cdn.reolink.us/wp-content/uploads/2023/01/131012031673604723.2428.zip?download_name=RLN36_218_23011219.zip) | 2023‑01‑12 | <ol><li>Optimize the interface and interaction.</li><li>Optimized experience for preview and playback.</li><li>Add the function of keeping video recordings for the latest 1day.</li><li>Adapted to Reolink Video Doorbell.</li><li>Adapted to Reolink Floodlight series cameras.</li><li>Adapted to RLC-81MA models.</li><li>Solved the adaptation problem of TrackMix series and Duo2 series cameras.</li><li>Solved the problem that common users cannot enable push.</li><li>Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR.</li><li>Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App.</li><li>Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function.</li><li>Optimize network related settings.</li><li>Update IO Alarm related settings.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -2239,10 +2250,11 @@ Version | Date | Changes | Notes
 
   ### N7MB01
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.5.0.321_24060733](https://home-cdn.reolink.us/wp-content/uploads/2024/06/180850241718700624.0223.zip?download_name=RLN8_410_321_240607.zip) | 2024‑06‑07 | <ol><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
 [v3.3.0.282_23103128](https://home-cdn.reolink.us/wp-content/uploads/2023/11/031052161699008736.4583.zip?download_name=RLN8_410_282_23103128.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.3.0.226_23031632](https://home-cdn.reolink.us/wp-content/uploads/2023/03/171053171679050397.8891.zip?download_name=RLN8_410_226_23031632.zip) | 2023‑03‑16 | <ol><li>Optimize the interface and interaction.</li><li>Compatible with fisheye series models.</li><li>Compatible with RLC-81PA model.</li><li>Support configuring auto-tracking and AI audio noise reduction settings for TrackMix series camera.</li><li>Support configuring splicing settings for Duo 2 series.</li><li>Support the 3D positioning function for RLC-823A 16X.</li><li>Support switches to control status light and the visitor button not trigger the horn control for Reolink Doorbell series.</li><li>Optimize privacy mask UI.</li><li>Add login lock function.</li><li>Add downlink port network segment configuration function.</li><li>Add IOT device timing constant light time point sorting.</li><li>Update RTSP.</li><li>Upgrade ONVIF version.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.2.0.218_23011221](https://home-cdn.reolink.us/wp-content/uploads/2023/01/131018291673605109.1073.zip?download_name=RLN8_410_23011221.zip) | 2023‑01‑12 | <ol><li>Optimize the interface and interaction.</li><li>Optimized experience for preview and playback.</li><li>Add the function of keeping video recordings for the latest 1day.</li><li>Adapted to Reolink Video Doorbell.</li><li>Adapted to Reolink Floodlight series cameras.</li><li>Adapted to RLC-81MA models.</li><li>Solved the adaptation problem of TrackMix series and Duo2 series cameras.</li><li>Solved the problem that common users cannot enable push.</li><li>Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR.</li><li>Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App.</li><li>Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function.</li><li>Optimize network related settings.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -2259,10 +2271,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3471_2406115691](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120913361718183616.5288.zip?download_name=Reolink_Duo_2_PoE_3471_2406115691.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031700](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241045311679654731.5333.zip?download_name=Reolink_Duo_2_PoE_23031700.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1337_22091900](https://home-cdn.reolink.us/wp-content/uploads/2022/09/221016131663841773.7559.zip?download_name=Reolink_Duo_2_POE_220919.zip) | 2022‑09‑19 | <ol><li>Solved the problem of AI probabilistic failure under night vision</li><li>Solved the problem of failure to capture picture by alert email in complex scenarios</li><li>Optimized the search strategy for playback</li><li>Optimized the MD sensitivity under night vision</li><li>Solved the problem that the number of WiFi signals cannot display on Reolink Client when the camera is connected by WiFi</li><li>Solved the problem that there is no pet mark in playback after enabling pet detection</li><li>Optimized the lighting speed of the spotlight under night vision</li></ol> | Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.
 
@@ -2277,10 +2290,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3471_2406116464](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120917151718183835.8809.zip?download_name=Reolink_Duo_2_WiFi_3471_2406116464.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031701](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip?download_name=Reolink_Duo_2_WiFi_23031701.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1391_22101061](https://drive.google.com/uc?id=1YOtVF851NRX9AuRx_o7rtchyJMRMnXDm&confirm=t) | 2022‑10‑10 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
 [v3.0.0.1337_22091901](https://home-cdn.reolink.us/wp-content/uploads/2022/09/221021161663842076.2251.zip?download_name=Reolink_Duo_2_WiFi_220919.zip) | 2022‑09‑19 | <ol><li>Solved the problem of AI probabilistic failure under night vision</li><li>Solved the problem of failure to capture picture by alert email in complex scenarios</li><li>Optimized the search strategy for playback</li><li>Optimized the MD sensitivity under night vision</li><li>Solved the problem that the number of WiFi signals cannot display on Reolink Client when the camera is connected by WiFi</li><li>Solved the problem that there is no pet mark in playback after enabling pet detection</li><li>Optimized the lighting speed of the spotlight under night vision</li></ol> | Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.
@@ -2313,10 +2327,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3471_2406116597](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120920051718184005.9294.zip?download_name=Reolink_Duo_Floodlight_PoE_3471_2406116597.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031702](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241052211679655141.5445.zip?download_name=Reolink_Duo_Floodlight_PoE_23031702.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 
 </details>
@@ -2330,10 +2345,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3471_2406116681](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120922311718184151.045.zip?download_name=Reolink_Duo_Floodlight_WiFi_3471_2406116681.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031703](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241054031679655243.856.zip?download_name=Reolink_Duo_Floodlight_WiFi_23031703.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 
 </details>
@@ -2441,10 +2457,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529SD78MP
 
-Firmwares for this hardware version: 7
+Firmwares for this hardware version: 8
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3748_2408281835](https://home-cdn.reolink.us/wp-content/uploads/2024/09/061020581725618058.088.zip?download_name=Reolink_TrackMix_PoE_v30037482408281835_IPC_529SD78MP.zip) | 2024‑08‑28 | <ol><li>Optimize the recording function.</li><li>Optimize onvif service</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.2769_23100900](https://home-cdn.reolink.us/wp-content/uploads/2023/11/080300421699412442.0292.zip?download_name=Reolink_TrackMix_PoE_2769_23100900.zip) | 2023‑10‑09 | <ol><li>Support setting Wi-Fi Band Preference</li><li>Optimize Auto-tracking</li><li>Support Webhook</li><li>Optimize some network features</li><li>Optimize smart detection. Animal detction is added.</li><li>Fix some bugs</li></ol> | 
 [v3.0.0.1817_23022700](https://home-cdn.reolink.us/wp-content/uploads/2023/02/280900161677574816.5116.zip?download_name=Reolink_TrackMix_PoE_23022700.zip) | 2023‑02‑27 | <ol><li>Added intelligent audio noise reduction function</li><li>Optimized auto-tracking function</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs.</li></ol> | 
 [v3.0.0.1584_22120100](https://home-cdn.reolink.us/wp-content/uploads/2022/12/120355501670817350.5671.zip?download_name=Reolink_TrackMix_PoE_22120100.zip) | 2022‑12‑01 | <ol><li>Added intelligent audio noise reduction function.</li><li>Optimized auto-tracking function.</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs.</li></ol> | 
@@ -2464,10 +2481,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529SD78MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3748_2408281837](https://home-cdn.reolink.us/wp-content/uploads/2024/09/061022151725618135.7777.zip?download_name=Reolink_TrackMix_WiFi_v30037482408281837_IPC_529SD78MP.zip) | 2024‑08‑28 | <ol><li>Optimize the recording function.</li><li>Optimize onvif service</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.2769_23100901](https://home-cdn.reolink.us/wp-content/uploads/2023/11/080302101699412530.5626.zip?download_name=Reolink_TrackMix_WiFi_2769_23100901.zip) | 2023‑10‑09 | <ol><li>Support setting Wi-Fi Band Preference</li><li>Optimize Auto-tracking</li><li>Support Webhook</li><li>Optimize some network features</li><li>Optimize smart detection. Animal detction is added.</li><li>Fix some bugs</li></ol> | 
 [v3.0.0.1817_23022701](https://home-cdn.reolink.us/wp-content/uploads/2023/02/280858031677574683.5361.zip?download_name=Reolink_TrackMix_WiFi_23022701.zip) | 2023‑02‑27 | <ol><li>Added intelligent audio noise reduction function</li><li>Optimized auto-tracking function</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs</li></ol> | 
 [v3.0.0.1584_22120101](https://home-cdn.reolink.us/wp-content/uploads/2022/12/120357311670817451.1817.zip?download_name=Reolink_TrackMix_WiFi_22120101.zip) | 2022‑12‑01 | <ol><li>Added intelligent audio noise reduction function.</li><li>Optimized auto-tracking function.</li><li>Fixed the problem that the brightness cannot recover after you change it from Manual back to Auto mode in the Brightness&amp;Shadows settings.</li><li>Fixed other known bugs.</li></ol> | 
@@ -2484,10 +2502,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P
 
-Firmwares for this hardware version: 6
+Firmwares for this hardware version: 7
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3308_2407315183](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190851131724057473.93.zip?download_name=Reolink_Video_Doorbell_PoE_v30033082407315183_DB_566128M5MP_P.zip) | 2024‑07‑31 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.3215_2401262241](https://home-cdn.reolink.us/wp-content/uploads/2024/03/010147201709257640.8976.zip?download_name=Reolink_video_doorbell_POE_v30032152401262241_IPC_DB.zip) | 2024‑01‑26 |  | 1. Optimize the status light illumination logic of the Doorbell to indicate network connectivity status.2. Support more options for Overwrite Recordings, like 1 Day(s).3. Fix the bug that there are continuous visitor push triggers during two-way audio usage.4. Support showing Motion Mark on the Playback page.5. Support Cloud encryption.6. Support calling via Doorbell ring.7. Fixed some bugs.
 [v3.0.0.2555_23080702](https://drive.google.com/uc?id=1x0OEBOnMWt3zCDu32Ncux5bYHBUUkMh9&confirm=t) | 2023‑08‑07 | Beta test: improved echo cancellation for the two-way audio feature. Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/15h2kar/testers_wanted_for_doorbell_camera_new_firmware/)
 [v3.0.0.2033_23041302](https://home-cdn.reolink.us/wp-content/uploads/2023/05/080159231683511163.4286.zip?download_name=DB_POE_v3002033_23041302.zip) | 2023‑04‑13 | <ol><li>Release new smart home functions:</li><li>Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);</li><li>Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);</li><li>Support GOP settings.</li><li>Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function</li><li>Support adjustable range of CDS value</li><li>Support working with IOT devices</li><li>Add status light control button for doorbell camera (Available to the App version of 4.37 or later)</li><li>Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)</li><li>Fix known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -2523,10 +2542,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W
 
-Firmwares for this hardware version: 6
+Firmwares for this hardware version: 7
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.3308_2407315182](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190849391724057379.4602.zip?download_name=Reolink_Video_Doorbell_WiFi_v30033082407315182_DB_566128M5MP_W.zip) | 2024‑07‑31 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Enhance wall penetration performance of 2.4GHz WiFi in certain scenarios.</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.3215_2401262240](https://home-cdn.reolink.us/wp-content/uploads/2024/03/010156211709258181.3009.zip?download_name=Reolink_video_doorbell_wifi_v30032152401262240_IPC_DB.zip) | 2024‑01‑26 |  | 1. Optimize the status light illumination logic of the Doorbell to indicate network connectivity status.2. Support more options for Overwrite Recordings, like 1 Day(s).3. Fix the bug that there are continuous visitor push triggers during two-way audio usage.4. Support showing Motion Mark on the Playback page.5. Support Cloud encryption.6. Support calling via Doorbell ring.7. Fixed some bugs.
 [v3.0.0.2555_23080700](https://drive.google.com/uc?id=1wPLWWGnRJGuGb360V7C1MCavP-Zv0l7L&confirm=t) | 2023‑08‑07 | Beta test: improved echo cancellation for the two-way audio feature. Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/15h2kar/testers_wanted_for_doorbell_camera_new_firmware/)
 [v3.0.0.2033_23041300](https://home-cdn.reolink.us/wp-content/uploads/2023/05/080150541683510654.3453.zip?download_name=DB_WIFI_v3002033_23041300.zip) | 2023‑04‑13 | <ol><li>Release new smart home functions:</li><li>Support preview, 2-way audio, notification, voice wake-up on Alexa (notification will be available after finishing Cloud update);</li><li>Support preview, notification, and voice wake-up on Google Home (notification will be available after finishing Cloud update);</li><li>Support GOP settings.</li><li>Remove the original automatic frame drop, incorporate multi-level frame drop, and support frame rate control function</li><li>Support adjustable range of CDS value</li><li>Support working with IOT devices</li><li>Add status light control button for doorbell camera (Available to the App version of 4.37 or later)</li><li>Add ringing control switch for doorbell camera (Available to the App version of 4.37 or later)</li><li>Fix known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
