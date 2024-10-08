@@ -4734,5 +4734,45 @@
     "display_time": "2024-04-20 00:00:00+08:00",
     "sha256_pak": "9bdfe76b0819e844f23137341e48fc53111702b5fe2f939421d7da0c39278f78",
     "source": "live"
+  },
+  {
+    "version": "v3.3.0.352_24092630",
+    "filename": "NT98560_HBBASE_WENNT6NA58IPREOLINK352_24092630E",
+    "updated_at": "2024-10-08 17:52:01+08:00",
+    "note": "",
+    "firmware_id": 675,
+    "model": "Reolink Home Hub",
+    "hw_ver": "BASE_WENNT6NA5",
+    "changelog": [
+      "1. Playing back recordings stored on the IPC's microSD card supported (requires updated app release).",
+      "2. Live viewing in H.265 and playing back encrypted recordings supported on the web interface.",
+      "3. Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.",
+      "4. Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.",
+      "5. IPC initialization process via Reolink Home Hub streamlined.",
+      "6. Known Bugs Fixed."
+    ],
+    "display_time": "2024-10-08 00:00:00+08:00",
+    "sha256_pak": "0a33db0039fb52bba5a9190dcb3d71eeab723c37023257e954452fe245a26411",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.352_24092629",
+    "filename": "NT98560_HBBASE_WUNNT6NA58IPREOLINK352_24092629U",
+    "updated_at": "2024-10-08 17:52:26+08:00",
+    "note": "",
+    "firmware_id": 674,
+    "model": "Reolink Home Hub",
+    "hw_ver": "BASE_WUNNT6NA5",
+    "changelog": [
+      "1. Playing back recordings stored on the IPC's microSD card supported (requires updated app release).",
+      "2. Live viewing in H.265 and playing back encrypted recordings supported on the web interface.",
+      "3. Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.",
+      "4. Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.",
+      "5. IPC initialization process via Reolink Home Hub streamlined.",
+      "6. Known Bugs Fixed."
+    ],
+    "display_time": "2024-10-08 00:00:00+08:00",
+    "sha256_pak": "802d84dfe847a35f2ae452547b36a7403af1e8b7663c6ce689d676b7d3862f27",
+    "source": "live"
   }
 ]
