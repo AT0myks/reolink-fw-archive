@@ -4301,7 +4301,7 @@
   {
     "version": "v3.0.0.3308_2408051176",
     "filename": "Reolink_Video_Doorbell_PoE_W_v30033082408051176_DB_566128M5MP_P_W",
-    "updated_at": "2024-08-19 16:47:23+08:00",
+    "updated_at": "2024-10-24 11:39:28+08:00",
     "note": "",
     "firmware_id": 663,
     "model": "Reolink Video Doorbell PoE-W\uff08White POE\uff09",
@@ -4309,16 +4309,17 @@
     "changelog": [
       "Add support for ONVIF audio-related commands.",
       "Improve compatibility with Chime and Doorbell cameras.",
-      "Fix other known bugs"
+      "Fix other known bugs",
+      "Without Halloween festival reply audio."
     ],
-    "display_time": "2024-08-19 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "21d7aa82b4918557233b1407d179c2c4dd1fc24370928843924007fdce8c6c8b",
     "source": "live"
   },
   {
     "version": "v3.0.0.3308_2408051175",
     "filename": "Reolink_Video_Doorbell_WiFi_W_v30033082408051175_DB_566128M5MP_W_W",
-    "updated_at": "2024-08-19 16:48:42+08:00",
+    "updated_at": "2024-10-24 11:39:57+08:00",
     "note": "",
     "firmware_id": 664,
     "model": "Reolink Video Doorbell WiFi-W\uff08White WiFi\uff09",
@@ -4326,10 +4327,10 @@
     "changelog": [
       "Add support for ONVIF audio-related commands.",
       "Improve compatibility with Chime and Doorbell cameras.",
-      "Enhance wall penetration performance of 2.4GHz WiFi in certain scenarios.",
-      "Fix other known bugs"
+      "Fix other known bugs",
+      "Without Halloween festival reply audio."
     ],
-    "display_time": "2024-08-19 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "d9a88d87ce2adb3dfabfe49f516489032ba195c2d33fdc16527a61df6b7c700e",
     "source": "live"
   },
@@ -4441,7 +4442,7 @@
   {
     "version": "v3.0.0.3308_2407315182",
     "filename": "Reolink_Video_Doorbell_WiFi_v30033082407315182_DB_566128M5MP_W",
-    "updated_at": "2024-08-19 16:50:38+08:00",
+    "updated_at": "2024-10-24 11:39:43+08:00",
     "note": "",
     "firmware_id": 665,
     "model": "Reolink Video Doorbell WiFi",
@@ -4449,17 +4450,17 @@
     "changelog": [
       "Add support for ONVIF audio-related commands.",
       "Improve compatibility with Chime and Doorbell cameras.",
-      "Enhance wall penetration performance of 2.4GHz WiFi in certain scenarios.",
-      "Fix other known bugs"
+      "Fix other known bugs",
+      "Without Halloween festival reply audio."
     ],
-    "display_time": "2024-08-19 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "78e01ee35dc315631eb26aecf57b4e853eb53d1b10b8fa3baa2b521717a6f343",
     "source": "live"
   },
   {
     "version": "v3.0.0.3308_2407315183",
     "filename": "Reolink_Video_Doorbell_PoE_v30033082407315183_DB_566128M5MP_P",
-    "updated_at": "2024-08-19 16:51:30+08:00",
+    "updated_at": "2024-10-24 11:38:25+08:00",
     "note": "",
     "firmware_id": 666,
     "model": "Reolink Video Doorbell PoE",
@@ -4467,9 +4468,10 @@
     "changelog": [
       "Add support for ONVIF audio-related commands.",
       "Improve compatibility with Chime and Doorbell cameras.",
-      "Fix other known bugs"
+      "Fix other known bugs",
+      "Without Halloween festival reply audio."
     ],
-    "display_time": "2024-08-19 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "7afd9f380bddc9f4e2da70bea25b8433480fdc7dcc2ca18f58554de39dd88a81",
     "source": "live"
   },
@@ -4778,80 +4780,72 @@
   {
     "version": "v3.0.0.41102410111128",
     "filename": "Reolink_Video_Doorbell_PoE_W_v30041102410111128_DB_566128M5MP_P_W",
-    "updated_at": "2024-10-18 18:43:35+08:00",
+    "updated_at": "2024-10-24 11:57:40+08:00",
     "note": "",
     "firmware_id": 678,
     "model": "Reolink Video Doorbell PoE-W\uff08White POE\uff09",
     "hw_ver": "DB_566128M5MP_P_W",
     "changelog": [
-      "Integrate Halloween festival reply audio.",
+      "Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)",
       "Integrate Reolink Chime silent mode.",
       "Integrate device-sharing feature.",
-      "Add AI vehicle detection.",
-      "Integrate webhook function.",
-      "Solve the issue of difficult switching from black-and-white mode to color mode."
+      "Add AI vehicle detection."
     ],
-    "display_time": "2024-10-18 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "d20b721c922b36c38dd5598796c20760b853def25b967f4f615ce62354a6840f",
     "source": "live"
   },
   {
     "version": "v3.0.0.4110_2410111127",
     "filename": "Reolink_Video_Doorbell_WiFi_W_v30041102410111127_DB_566128M5MP_W_W",
-    "updated_at": "2024-10-18 18:44:37+08:00",
+    "updated_at": "2024-10-24 11:57:24+08:00",
     "note": "",
     "firmware_id": 679,
     "model": "Reolink Video Doorbell WiFi-W\uff08White WiFi\uff09",
     "hw_ver": "DB_566128M5MP_W_W",
     "changelog": [
-      "Integrate Halloween festival reply audio.",
+      "Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)",
       "Integrate Reolink Chime silent mode.",
       "Integrate device-sharing feature.",
-      "Add AI vehicle detection.",
-      "Integrate webhook function.",
-      "Solve the issue of difficult switching from black-and-white mode to color mode."
+      "Add AI vehicle detection."
     ],
-    "display_time": "2024-10-18 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "dbd222523baf49c47372d06b9c1b91ace9e34bce72b98487b1b521ac787a17b9",
     "source": "live"
   },
   {
     "version": "v3.0.0.4110_2410111119",
     "filename": "Reolink_Video_Doorbell_WiFi_v30041102410111119_DB_566128M5MP_W",
-    "updated_at": "2024-10-18 18:42:23+08:00",
+    "updated_at": "2024-10-24 11:58:04+08:00",
     "note": "",
     "firmware_id": 677,
     "model": "Reolink Video Doorbell WiFi",
     "hw_ver": "DB_566128M5MP_W",
     "changelog": [
-      "Integrate Halloween festival reply audio.",
+      "Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)",
       "Integrate Reolink Chime silent mode.",
       "Integrate device-sharing feature.",
-      "Add AI vehicle detection.",
-      "Integrate webhook function.",
-      "Solve the issue of difficult switching from black-and-white mode to color mode."
+      "Add AI vehicle detection."
     ],
-    "display_time": "2024-10-18 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "daa19d516253457724061e28ed32ddc579804e567f04e4186a5ed25a9c6ade6d",
     "source": "live"
   },
   {
     "version": "v3.0.0.4110_2410111120",
     "filename": "Reolink_Video_Doorbell_PoE_v30041102410111120_DB_566128M5MP_P",
-    "updated_at": "2024-10-18 18:41:03+08:00",
+    "updated_at": "2024-10-24 11:58:22+08:00",
     "note": "",
     "firmware_id": 676,
     "model": "Reolink Video Doorbell PoE",
     "hw_ver": "DB_566128M5MP_P",
     "changelog": [
-      "Integrate Halloween festival reply audio.",
+      "Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)",
       "Integrate Reolink Chime silent mode.",
       "Integrate device-sharing feature.",
-      "Add AI vehicle detection.",
-      "Integrate webhook function.",
-      "Solve the issue of difficult switching from black-and-white mode to color mode."
+      "Add AI vehicle detection."
     ],
-    "display_time": "2024-10-18 00:00:00+08:00",
+    "display_time": "2024-10-24 00:00:00+08:00",
     "sha256_pak": "e15b6283d8a8d6795cb6333f13ec88f36838e359fc68a07bcf3eede492a902ce",
     "source": "live"
   }
