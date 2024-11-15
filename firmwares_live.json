@@ -3630,8 +3630,7 @@
       "12. Solved other known bugs."
     ],
     "display_time": "2024-02-19 00:00:00+08:00",
-    "file": "https://home-cdn.reolink.us/wp-content/uploads/2024/02/190805511708329951.4053.zip",
-    "error": "No PAKs found in ZIP file",
+    "sha256_pak": "eff0f62d5240fe722e5cacee694d508a23f6ebf115e083ecf64b1fbb0e812193",
     "source": "live"
   },
   {
@@ -3657,8 +3656,7 @@
       "12. Solved other known bugs."
     ],
     "display_time": "2024-02-19 00:00:00+08:00",
-    "file": "https://home-cdn.reolink.us/wp-content/uploads/2024/02/190756371708329397.3966.zip",
-    "error": "No PAKs found in ZIP file",
+    "sha256_pak": "82cb6ba86146ad73342ca17c83451ab85466d92711367e0a24eb07cc920f8078",
     "source": "live"
   },
   {
