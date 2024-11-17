@@ -66,9 +66,9 @@ def make_changes(changes: Iterable[str]) -> str:
     subitems: list[HtmlElement] = []
     for idx, change in enumerate(changes):
         if change[0].isdigit() or change[0].isupper():
-            items.append(LI(re.sub("^[0-9\s\W]{2,4}", '', change)))
+            items.append(LI(re.sub(r"^[0-9\s\W]{2,4}", '', change)))
         elif change[0].islower():
-            subitems.append(LI(re.sub("^[a-z\s\W]{2,3}", '', change)))
+            subitems.append(LI(re.sub(r"^[a-z\s\W]{2,3}", '', change)))
             if (idx + 1) == len(changes) or not changes[idx + 1][0].islower():  # If end of list or next item is not a subitem.
                 items[-1].append(OL(*subitems, type='a'))
                 subitems = []  # Reset.
@@ -222,12 +222,12 @@ async def get_archives_v1_firmware_links(limit_per_host: int = WAYBACK_MAX_CONN)
 
 
 def parse_old_support_page_changes(text: str) -> list[str]:
-    match = re.search("(?:\s*What's new:?)?(.*?)(?:Note:|Before upgrading)", text, re.DOTALL)
+    match = re.search(r"(?:\s*What's new:?)?(.*?)(?:Note:|Before upgrading)", text, re.DOTALL)
     if not match:
         return []
     new = match.group(1).strip()
     by_lf = new.split('\n')
-    by_nb = re.split("[0-9]{1,2}\. ", new)[1:]
+    by_nb = re.split(r"[0-9]{1,2}\. ", new)[1:]
     # If lengths are equal, take by_nb because it's the one without the numbers.
     return [sanitize(t) for t in (by_lf if len(by_lf) > len(by_nb) else by_nb)]
 
@@ -390,7 +390,7 @@ async def add_archives_v3_firmwares() -> None:
     ]
     urls = set()
     for prefix in prefixes:
-        cdx = WaybackMachineCDXServerAPI(prefix + '*', filters=["original:.*\.zip"])
+        cdx = WaybackMachineCDXServerAPI(prefix + '*', filters=[r"original:.*\.zip"])
         for snap in cdx.snapshots():
             url = snap.original.replace("%2F", '/').split('?')[0]
             if url not in existingurls:
