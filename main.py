@@ -465,8 +465,9 @@ async def add_firmware_manually(args: Namespace) -> None:
 def write_readme() -> None:
     with open("readme_header.md", 'r', encoding="utf8") as f:
         header = f.read()
+    body = make_readme(load_firmwares())
     with open("README.md", 'w', encoding="utf8") as f:
-        f.write(header + '\n' + make_readme(load_firmwares()))
+        f.write(header + '\n' + body)
 
 
 if __name__ == "__main__":
