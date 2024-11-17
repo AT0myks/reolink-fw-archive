@@ -99,8 +99,10 @@ def make_readme(firmwares: Iterable[Mapping[str, Any]]) -> str:
         hw_title = clean_hw_ver(hw_title)
         pak_infos.setdefault(model_title, {}).setdefault(hw_title, []).append(pi)
 
-    def sort_pak_info(pak_info: Mapping[str, Any]) -> str:
-        return pak_info["info"]["build_date"]
+    def sort_pak_info(pak_info: Mapping[str, Any]) -> tuple[str, str]:
+        info = pak_info["info"]
+        ver = info["firmware_version_prefix"] + '.' + info["version_file"]
+        return (info["build_date"], ver)
 
     text = f"Total: {len(pis)}\n\n"
     for model in sorted(pak_infos):
