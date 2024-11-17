@@ -337,9 +337,13 @@ def add_and_clean(pak_infos: Iterable[Iterable[dict[str, Any]]], dicts: Iterable
         for info in infos:
             if "sha256" in info:
                 add_pak_info(info, model_id, hw_ver_id, beta, user_hosted_only)
-                firmwares.append({**fw, "sha256_pak": info["sha256"], "source": source})
+                firmware = fw | {"sha256_pak": info["sha256"], "source": source}
             else:
-                firmwares.append({**fw, **info, "source": source})
+                firmware = fw | info | {"source": source}
+                if source == "live":
+                    firmware["model_id"] = model_id
+                    firmware["hw_ver_id"] = hw_ver_id
+            firmwares.append(firmware)
     return firmwares
 
 
