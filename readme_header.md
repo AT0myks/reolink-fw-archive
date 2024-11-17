@@ -81,7 +81,7 @@ the `_V2` suffix.
 
 A few things:
 - models are sorted in alphanumeric order
-- firmwares are sorted by date in descending order
+- firmwares are sorted by date first and then by version, in descending order
 - the date shown is not the release date of the firmware but its build date
 - a PAK file is a firmware file
 - a PAK file targets a single combination of device model/hardware version.
