@@ -19,7 +19,7 @@ pyfdt==0.3
 PySquashfsImage==0.9.0
 python-dateutil==2.9.0.post0
 python-lzo==1.15
-reolinkfw==2.0.0
+reolinkfw @ git+https://github.com/AT0myks/reolink-fw.git@94c3f90d324643885c5ae9d2c232ddd5f7b0cc21
 requests==2.32.3
 six==1.16.0
 ubi-reader==0.8.9
