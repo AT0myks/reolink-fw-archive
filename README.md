@@ -41,7 +41,7 @@ All I can say is that it comes straight from the sources with minimal edits in s
 Twice a day at around 4:20 AM and PM UTC, information about the devices and
 their firmwares is pulled from Reolink's website. New items are merged into the
 existing `devices.json` and `firmwares_live.json` files.
-Then, for each new firmware, details about the PAK file is retrieved by
+Then, for each new firmware, details about the PAK file are retrieved with
 [reolinkfw](https://github.com/AT0myks/reolink-fw) and added to `pak_info.json`.
 If there are new firmwares, the readme is recreated and a new release is made.
 
