@@ -13,14 +13,14 @@ jobs:
       new-firmwares: ${{ steps.changes.outputs.firmwares }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           persist-credentials: false
           fetch-depth: 0
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.13"
           cache: pip
       - name: Install dependencies
         run: |
@@ -49,14 +49,14 @@ jobs:
       contents: write
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3 # https://github.com/actions/checkout/issues/439
+        uses: actions/checkout@v4 # https://github.com/actions/checkout/issues/439
         with:
           fetch-depth: 0
-          ref: main
+          ref: ${{ github.ref }}
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.13"
       - name: Create release body
         run: python release.py '${{ needs.auto-update.outputs.new-firmwares }}'
       - name: Get time and date
@@ -64,6 +64,7 @@ jobs:
           echo "DATE=$(date +%Y.%m.%d -u)" >> $GITHUB_ENV
           echo "UNIX_TS=$(date +%s)" >> $GITHUB_ENV
       - name: Create release
+        if: github.ref == 'refs/heads/main'
         uses: ncipollo/release-action@v1
         with:
           tag: ${{ env.UNIX_TS }}
