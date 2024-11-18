@@ -22,7 +22,12 @@ def get_item_index(items: Iterable[Mapping[str, Any]], key: str, value: Any) -> 
 
 
 def clean_model(model: str) -> str:
-    return model.removesuffix("-5MP").removesuffix(" (NVR)").replace(' ', '-').lower()
+    return model \
+        .removesuffix("-5MP") \
+        .removesuffix(" (NVR)") \
+        .split('\uff08')[0] \
+        .replace(' ', '-') \
+        .lower()
 
 
 def clean_hw_ver(hw_ver: str) -> str:
