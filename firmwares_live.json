@@ -4918,5 +4918,39 @@
     "display_time": "2024-11-25 00:00:00+08:00",
     "sha256_pak": "e89b3a0f313d3604d69fa3e76b42143062800a006270c44f2818d48dd89be8f8",
     "source": "live"
+  },
+  {
+    "version": "v3.5.1.356_24110148",
+    "filename": "RLN36_v351356_24110148_N5MB01",
+    "updated_at": "2024-11-26 21:04:05+08:00",
+    "note": "",
+    "firmware_id": 682,
+    "model": "RLN36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1. User interactions optimized and upgraded.",
+      "2. Event History feature added.",
+      "3.Pattern Unlock feature added.",
+      "4. Screen resolution recommendation added for HDMI display (monitor support required).",
+      "5. Safe Ejection feature for USB drives added.",
+      "6. Network Topology page added.",
+      "7. Configurations retained by default during version upgrade (option to retain UID).",
+      "8. Physical keyboard support added (limited to English and numeric input).",
+      "9.  Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).",
+      "10. Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE",
+      "11. Wireless chime pairing added for battery doorbell.",
+      "12. Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.",
+      "13. Setup wizard optimized.",
+      "14. Live view interface optimized.",
+      "15. Network settings interface optimized.",
+      "16. Email feature interface and interactions optimized.",
+      "17. Video loss push notification disabled.",
+      "18. Fixed issue with camera name changes not applying reliably in Reolink App.",
+      "19. Web client updated.",
+      "20. Other known bugs fixed."
+    ],
+    "display_time": "2024-11-26 00:00:00+08:00",
+    "sha256_pak": "026ee3d4853a04dc6827ede44d672433d7b249e00be96b1335923f02accfd253",
+    "source": "live"
   }
 ]
