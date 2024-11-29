@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 585
+Total: 586
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -768,10 +768,11 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD664M5MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4187_2411071868](https://home-cdn.reolink.us/wp-content/uploads/2024/11/290252251732848745.796.zip?download_name=E1_Zoom_4187_2411071868.zip) | 2024‑11‑07 | <ol><li>Crying Sound Detection feature added</li><li>Auto-Tracking performance improved</li><li>Bugs on some third-party clients fixed</li><li>Other known bugs resolved</li></ol> | 
 [v3.1.0.3382_2404178024](https://home-cdn.reolink.us/wp-content/uploads/2024/04/200809141713600554.3801.zip?download_name=E1Zoom_v3103382_2404178024.zip) | 2024‑04‑17 | <ol><li>Optimize cloud storage function</li><li>Upgrade push version</li><li>Optimize focus function</li><li>Support two-way audio by ONVIF</li><li>Solve bugs related with PT function</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2649_23083101](https://home-cdn.reolink.us/wp-content/uploads/2023/09/190238051695091085.1403.zip?download_name=E1Zoom_v3102649_23083101.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.1975_23041200](https://home-cdn.reolink.us/wp-content/uploads/2023/04/150416541681532214.4008.zip?download_name=E1_Zoom_v3101975_23041200_IPC_566SD664M5MP.zip) | 2023‑04‑12 | <ol><li>Optimize the focusing effect under night vision.</li><li>Optimize some network functions.</li><li>Optimize the PTZ function.</li><li>Solve other known bugs.</li></ol> | 
