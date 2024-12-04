@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 586
+Total: 588
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2424,6 +2424,31 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.352_24092629](https://home-cdn.reolink.us/wp-content/uploads/2024/10/080940341728380434.6068.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK352_24092629U.zip) | 2024‑09‑26 | <ol><li>Playing back recordings stored on the IPC's microSD card supported (requires updated app release).</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.</li><li>IPC initialization process via Reolink Home Hub streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
 [v3.3.0.333_24071209](https://home-cdn.reolink.us/wp-content/uploads/2024/07/160652011721112721.3328.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK333_24071209U.zip) | 2024‑07‑12 | <ol><li>Resolves battery camera disconnection issues</li><li>Addresses audio issues</li><li>Allows WiFi to be turned off on the Hub</li><li>Optimizes WiFi performance</li><li>Improves event log functionality</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Reolink Home Hub Pro (NVR)</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Home+Hub+Pro/product.png" width="150">
+
+[Product page](https://reolink.com/us/product/reolink-home-hub-pro/)
+
+  ### BASE_WENNT3NA5
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.369_24112932](https://home-cdn.reolink.us/wp-content/uploads/2024/12/040758301733299110.6268.zip?download_name=NT98331_HBBASE_WENNT3NA516IPREOLINK369_24112932E.zip) | 2024‑11‑29 | <ol><li>Playing back recordings stored on the IPC's microSD card supported .</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub Pro.</li><li>IPC initialization process via Reolink Home Hub Pro streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
+
+  ### BASE_WUNNT3NA5
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.369_24112931](https://home-cdn.reolink.us/wp-content/uploads/2024/12/040759141733299154.2608.zip?download_name=NT98331_HBBASE_WUNNT3NA516IPREOLINK369_24112931U.zip) | 2024‑11‑29 | <ol><li>Playing back recordings stored on the IPC's microSD card supported .</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub Pro.</li><li>IPC initialization process via Reolink Home Hub Pro streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
 
 </details>
 

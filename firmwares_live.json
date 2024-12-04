@@ -4970,5 +4970,45 @@
     "display_time": "2024-11-29 00:00:00+08:00",
     "sha256_pak": "734f57417c88aeb619694e977a69bc5be8d26add119af5ed904ae196ee0f288d",
     "source": "live"
+  },
+  {
+    "version": "v3.3.0.369_24112932",
+    "filename": "NT98331_HBBASE_WENNT3NA516IPREOLINK369_24112932E",
+    "updated_at": "2024-12-04 15:58:42+08:00",
+    "note": "",
+    "firmware_id": 684,
+    "model": "Reolink Home Hub Pro",
+    "hw_ver": "BASE_WENNT3NA5",
+    "changelog": [
+      "1. Playing back recordings stored on the IPC's microSD card supported .",
+      "2. Live viewing in H.265 and playing back encrypted recordings supported on the web interface.",
+      "3. Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.",
+      "4. Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub Pro.",
+      "5. IPC initialization process via Reolink Home Hub Pro streamlined.",
+      "6. Known Bugs Fixed."
+    ],
+    "display_time": "2024-12-04 00:00:00+08:00",
+    "sha256_pak": "0bc5f4fbdf94f5dcffe7f5d00594ca52a91b4128dee014800db2138eed098863",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.369_24112931",
+    "filename": "NT98331_HBBASE_WUNNT3NA516IPREOLINK369_24112931U",
+    "updated_at": "2024-12-04 15:59:23+08:00",
+    "note": "",
+    "firmware_id": 685,
+    "model": "Reolink Home Hub Pro",
+    "hw_ver": "BASE_WUNNT3NA5",
+    "changelog": [
+      "1. Playing back recordings stored on the IPC's microSD card supported .",
+      "2. Live viewing in H.265 and playing back encrypted recordings supported on the web interface.",
+      "3. Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.",
+      "4. Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub Pro.",
+      "5. IPC initialization process via Reolink Home Hub Pro streamlined.",
+      "6. Known Bugs Fixed."
+    ],
+    "display_time": "2024-12-04 00:00:00+08:00",
+    "sha256_pak": "0d85e9a54c2c7a23f6c79f72de00097740bd4a48038a127defa186a9572f12a4",
+    "source": "live"
   }
 ]

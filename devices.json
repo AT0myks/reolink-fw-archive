@@ -1728,5 +1728,24 @@
         "title": "DB_566128M5MP_W_W"
       }
     ]
+  },
+  {
+    "id": 206,
+    "title": "Reolink Home Hub Pro",
+    "type": "NVR",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Home+Hub+Pro/product.png",
+    "productUrl": "https://reolink.com/us/product/reolink-home-hub-pro/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 345,
+        "title": "BASE_WENNT3NA5"
+      },
+      {
+        "id": 344,
+        "title": "BASE_WUNNT3NA5"
+      }
+    ]
   }
 ]
