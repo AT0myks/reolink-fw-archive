@@ -1705,5 +1705,20 @@
         "title": "BASE_WUNNT3NA5"
       }
     ]
+  },
+  {
+    "id": 215,
+    "title": "RLC-810WA",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 355,
+        "title": "IPC_MS2NA48MP"
+      }
+    ]
   }
 ]
