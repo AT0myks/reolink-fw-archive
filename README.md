@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 590
+Total: 594
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -413,10 +413,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NA44MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3429_2409235402](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091003341733738614.0845.zip?download_name=CX410W_3429_2409235402.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3429_2404181316](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220655151716360915.059.zip?download_name=CX410W_3429_2404181316.zip) | 2024‑04‑18 | <ol><li>Optimize HDR effect</li><li>Solve other known bugs</li></ol> | 
 
 </details>
@@ -1663,6 +1664,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>RLC-810WA</summary>
+
+  ### IPC_MS2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4348_2411261893](https://home-cdn.reolink.us/wp-content/uploads/2024/12/050933011733391181.0099.zip?download_name=RLC_810WA_4348_2411261893.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
   <summary>RLC-811A</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/uploads/2021/03/050713171614928397.8822.png" width="150">
@@ -1705,10 +1719,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3927_2409231464](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091008081733738888.1997.zip?download_name=RLC_811WA_240923.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3485_2405084609](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220651581716360718.6895.zip?download_name=RLC_811WA_3485_2405084609.zip) | 2024‑05‑08 | <ol><li>Optimize image parameters</li><li>Solve other known issues</li></ol> | 
 
 </details>
@@ -2016,10 +2031,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.3633_2409231412](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091006151733738775.0607.zip?download_name=RLC_843WA_240923.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3633_2406134151](https://home-cdn.reolink.us/wp-content/uploads/2024/07/270954211722074061.7206.zip?download_name=RLC_843WA_3633_2406134151.zip) | 2024‑06‑13 | <ol><li>Optimize the day and night switching effect</li><li>Solve other known bugs</li></ol> | 
 
 </details>
