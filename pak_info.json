@@ -20313,5 +20313,77 @@
     ],
     "model_id": 206,
     "hw_ver_id": 344
+  },
+  "5f071d198135b8532acc0d61554a8b982b6ef03b6e043b864fa6f1966fd89d8a": {
+    "info": {
+      "firmware_version_prefix": "v3.5.1",
+      "board_type": "N6MB01",
+      "board_name": "N6MB01",
+      "build_date": "241202",
+      "display_type_info": "NVS16",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "368_24120207",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Sep 10 2024 - 09:57:43 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-19-g5259632)) #1 SMP Mon Aug 5 17:56:32 CST 2024",
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/090353441733716424.7607.zip"
+    ],
+    "model_id": 193,
+    "hw_ver_id": 329
+  },
+  "a0bcf0516a147ef668ff3241d863df0f6ec1fe08217117489b2d97a9bcb63eff": {
+    "info": {
+      "firmware_version_prefix": "v3.5.1",
+      "board_type": "N7MB01",
+      "board_name": "N7MB01",
+      "build_date": "241202",
+      "display_type_info": "NVS8",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "368_24120243",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Sep 10 2024 - 09:59:37 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-19-g5259632)) #1 SMP Tue Sep 12 17:12:10 CST 2023",
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/090349141733716154.5435.zip"
+    ],
+    "model_id": 192,
+    "hw_ver_id": 328
   }
 }
