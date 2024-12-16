@@ -5146,5 +5146,152 @@
     "display_time": "2024-12-09 00:00:00+08:00",
     "sha256_pak": "800176c91145a9d879b31ebed0a844a6afcef61884b4bf24d90469ef0fa0ec06",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.4348_2411261180",
+    "filename": "RLC_540A_241126",
+    "updated_at": "2024-12-16 12:26:46+08:00",
+    "note": "",
+    "firmware_id": 699,
+    "model": "RLC-540A",
+    "hw_ver": "IPC_MS1NA45MP",
+    "changelog": [
+      "1. Camera security improved.",
+      "2. Overall camera performance optimized."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "8edfb183638800251578d3aba7647bbdf5d273a703051adeeed65bcd25aacf07",
+    "source": "live"
+  },
+  {
+    "version": "v3.5.1.368_24120239",
+    "filename": "NVS36_v351368_24120239_N5MB01",
+    "updated_at": "2024-12-16 10:06:05+08:00",
+    "note": "",
+    "firmware_id": 692,
+    "model": "NVS36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1. User interactions optimized and upgraded.",
+      "2.Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)",
+      "3. Event History feature added.",
+      "4.Pattern Unlock feature added.",
+      "5. Screen resolution recommendation added for HDMI display (monitor support required).",
+      "6. Safe Ejection feature for USB drives added.",
+      "7. Network Topology page added.",
+      "8. Configurations retained by default during version upgrade (option to retain UID).",
+      "9. Physical keyboard support added (limited to English and numeric input).",
+      "10. Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).",
+      "11. Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE",
+      "12. Wireless chime pairing added for battery doorbell.",
+      "13. Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.",
+      "14. Setup wizard optimized.",
+      "15. Live view interface optimized.",
+      "16. Network settings interface optimized.",
+      "17. Email feature interface and interactions optimized.",
+      "18. Video loss push notification disabled.",
+      "19. Fixed issue with camera name changes not applying reliably in Reolink App.",
+      "20. Web client updated.",
+      "21. Other known bugs fixed."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "382bf36ca3384c87dd80df2d6b32d8017374b3fb8c8489fc11f3678a07d4a092",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4348_2411261883",
+    "filename": "E1_Outdoor_CX_241126",
+    "updated_at": "2024-12-16 12:17:51+08:00",
+    "note": "",
+    "firmware_id": 695,
+    "model": "E1 Outdoor CX",
+    "hw_ver": "IPC_MS1NA44MP",
+    "changelog": [
+      "1. Camera security improved.",
+      "2. Overall camera performance optimized."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "4bd3c3ba9bc62cab0bcb2407c088566f9eeb4561f81ee649eba8bd808eae233a",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4255_2411271222",
+    "filename": "Reolink_TrackMix_WiFi_v30042552411271222_IPC_529SD78MP",
+    "updated_at": "2024-12-16 12:08:06+08:00",
+    "note": "",
+    "firmware_id": 693,
+    "model": "Reolink TrackMix WiFi",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "Optimize network services.",
+      "Minor bug fixes and improvements."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "94925b0908a4c19044e71ac678e4c04b5d4373bdd9b77d96ff65a7fbd0504b93",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4255_2411271220",
+    "filename": "Reolink_TrackMix_PoE_v30042552411271220_IPC_529SD78MP",
+    "updated_at": "2024-12-16 12:08:49+08:00",
+    "note": "",
+    "firmware_id": 694,
+    "model": "Reolink TrackMix PoE",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "Optimize network services.",
+      "Minor bug fixes and improvements."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "89539cc3346024b6d20ae43e3fc886674f98f6b5ced5da1cad252b7be98f987e",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4348_2411261178",
+    "filename": "RLC_510WA_241126",
+    "updated_at": "2024-12-16 12:22:15+08:00",
+    "note": "",
+    "firmware_id": 698,
+    "model": "RLC-510WA",
+    "hw_ver": "IPC_MS1NA45MP",
+    "changelog": [
+      "1. Camera security improved.",
+      "2. Overall camera performance optimized."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "0f19f84bc343591b9d359ee0d92c130f9f6eb1bb35148d090bba6dac94e9276f",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4348_2411261176",
+    "filename": "RLC_510A_241126",
+    "updated_at": "2024-12-16 12:19:26+08:00",
+    "note": "",
+    "firmware_id": 696,
+    "model": "RLC-510A",
+    "hw_ver": "IPC_MS1NA45MP",
+    "changelog": [
+      "1. Camera security improved.",
+      "2. Overall camera performance optimized."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "0ba5dbacfde3635bb3a548b8fb381150945172e30c6c0500fdf97a6300f9dfba",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4348_2411261177",
+    "filename": "RLC_520A_241126",
+    "updated_at": "2024-12-16 12:20:48+08:00",
+    "note": "",
+    "firmware_id": 697,
+    "model": "RLC-520A",
+    "hw_ver": "IPC_MS1NA45MP",
+    "changelog": [
+      "1. Camera security improved.",
+      "2. Overall camera performance optimized."
+    ],
+    "display_time": "2024-12-16 00:00:00+08:00",
+    "sha256_pak": "018c726d26cdbf9e20473e99edef1b1d16dc96191ed87cd0eed066d4cca56ab3",
+    "source": "live"
   }
 ]

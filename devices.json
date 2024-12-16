@@ -1762,5 +1762,35 @@
         "title": "IPC_MS2NA48MP"
       }
     ]
+  },
+  {
+    "id": 217,
+    "title": "RLC-540A",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 357,
+        "title": "IPC_MS1NA45MP"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "title": "NVS36",
+    "type": "NVR",
+    "productImg": "https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/NVS36/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 356,
+        "title": "N5MB01"
+      }
+    ]
   }
 ]

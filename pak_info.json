@@ -20529,5 +20529,293 @@
     ],
     "model_id": 199,
     "hw_ver_id": 334
+  },
+  "8edfb183638800251578d3aba7647bbdf5d273a703051adeeed65bcd25aacf07": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA45MP",
+      "board_name": "IPC_MS1NA45MP",
+      "build_date": "241126",
+      "display_type_info": "RLC-540A",
+      "detail_machine_type": "IPC_MS1NA45MP",
+      "type": "IPC",
+      "version_file": "4348_2411261180",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Sep 09 2024 - 10:09:48)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #6 PREEMPT Wed Jun 26 20:30:00 CST 2024",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160426121734323172.7638.zip"
+    ],
+    "model_id": 217,
+    "hw_ver_id": 357
+  },
+  "382bf36ca3384c87dd80df2d6b32d8017374b3fb8c8489fc11f3678a07d4a092": {
+    "info": {
+      "firmware_version_prefix": "v3.5.1",
+      "board_type": "N5MB01",
+      "board_name": "N5MB01",
+      "build_date": "241202",
+      "display_type_info": "NVS36",
+      "detail_machine_type": "NVR6704",
+      "type": "NVR",
+      "version_file": "368_24120239",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Sep 06 2024 - 10:04:22 +0800)",
+      "uboot_compiler": "aarch64-ca53-linux-gnu-gcc.br_real (Buildroot 2020.02.9-1-g49f3ce4) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-1-g49f3ce4)) #1 SMP Fri May 6 09:10:44 CST 2022",
+      "board": "Novatek NA51090",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160203291734314609.0972.zip"
+    ],
+    "model_id": 216,
+    "hw_ver_id": 356
+  },
+  "4bd3c3ba9bc62cab0bcb2407c088566f9eeb4561f81ee649eba8bd808eae233a": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA44MP",
+      "board_name": "IPC_MS1NA44MP",
+      "build_date": "241126",
+      "display_type_info": "E1 Outdoor CX",
+      "detail_machine_type": "IPC_MS1NA44MP",
+      "type": "IPC",
+      "version_file": "4348_2411261883",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Nov 11 2024 - 18:29:06)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #6 PREEMPT Thu Jun 27 09:19:36 CST 2024",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160417081734322628.0237.zip"
+    ],
+    "model_id": 210,
+    "hw_ver_id": 349
+  },
+  "94925b0908a4c19044e71ac678e4c04b5d4373bdd9b77d96ff65a7fbd0504b93": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "241127",
+      "display_type_info": "Reolink TrackMix WiFi",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "4255_2411271222",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 25 2024 - 15:56:28 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Mon Nov 25 09:06:17 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160407391734322059.7337.zip"
+    ],
+    "model_id": 174,
+    "hw_ver_id": 295
+  },
+  "89539cc3346024b6d20ae43e3fc886674f98f6b5ced5da1cad252b7be98f987e": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "241127",
+      "display_type_info": "Reolink TrackMix PoE",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "4255_2411271220",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 25 2024 - 15:56:28 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Mon Nov 25 09:06:17 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160408401734322120.3641.zip"
+    ],
+    "model_id": 173,
+    "hw_ver_id": 294
+  },
+  "0f19f84bc343591b9d359ee0d92c130f9f6eb1bb35148d090bba6dac94e9276f": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA45MP",
+      "board_name": "IPC_MS1NA45MP",
+      "build_date": "241126",
+      "display_type_info": "RLC-510WA",
+      "detail_machine_type": "IPC_MS1NA45MP",
+      "type": "IPC",
+      "version_file": "4348_2411261178",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Sep 09 2024 - 09:53:26)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #6 PREEMPT Wed Jun 26 20:30:00 CST 2024",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160421301734322890.2864.zip"
+    ],
+    "model_id": 163,
+    "hw_ver_id": 324
+  },
+  "0ba5dbacfde3635bb3a548b8fb381150945172e30c6c0500fdf97a6300f9dfba": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA45MP",
+      "board_name": "IPC_MS1NA45MP",
+      "build_date": "241126",
+      "display_type_info": "RLC-510A",
+      "detail_machine_type": "IPC_MS1NA45MP",
+      "type": "IPC",
+      "version_file": "4348_2411261176",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Sep 09 2024 - 09:53:26)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #6 PREEMPT Wed Jun 26 20:30:00 CST 2024",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160418301734322710.6645.zip"
+    ],
+    "model_id": 1,
+    "hw_ver_id": 325
+  },
+  "018c726d26cdbf9e20473e99edef1b1d16dc96191ed87cd0eed066d4cca56ab3": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_MS1NA45MP",
+      "board_name": "IPC_MS1NA45MP",
+      "build_date": "241126",
+      "display_type_info": "RLC-520A",
+      "detail_machine_type": "IPC_MS1NA45MP",
+      "type": "IPC",
+      "version_file": "4348_2411261177",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Sep 09 2024 - 09:53:26)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #6 PREEMPT Wed Jun 26 20:30:00 CST 2024",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/160420051734322805.6261.zip"
+    ],
+    "model_id": 6,
+    "hw_ver_id": 326
   }
 }
