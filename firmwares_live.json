@@ -5293,5 +5293,23 @@
     "display_time": "2024-12-16 00:00:00+08:00",
     "sha256_pak": "018c726d26cdbf9e20473e99edef1b1d16dc96191ed87cd0eed066d4cca56ab3",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4417_2412122130",
+    "filename": "E1_Pro_241212",
+    "updated_at": "2024-12-19 15:13:07+08:00",
+    "note": "",
+    "firmware_id": 700,
+    "model": "E1 Pro",
+    "hw_ver": "IPC_NT1NA45MP",
+    "changelog": [
+      "1. Crying Sound Detection feature added.",
+      "2. Privacy Mode added.",
+      "3. Noise reduction performance improved.",
+      "4. Smart Playback performance enhanced."
+    ],
+    "display_time": "2024-12-19 00:00:00+08:00",
+    "sha256_pak": "c4f4e8d787e077d32e8c5f03c857cf295b6cfdbe07c617cb375131d67e22bdd6",
+    "source": "live"
   }
 ]

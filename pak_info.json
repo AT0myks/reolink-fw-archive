@@ -20817,5 +20817,41 @@
     ],
     "model_id": 6,
     "hw_ver_id": 326
+  },
+  "c4f4e8d787e077d32e8c5f03c857cf295b6cfdbe07c617cb375131d67e22bdd6": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT1NA45MP",
+      "board_name": "IPC_NT1NA45MP",
+      "build_date": "241212",
+      "display_type_info": "E1 Pro",
+      "detail_machine_type": "IPC_NT1NA45MP",
+      "type": "IPC",
+      "version_file": "4417_2412122130",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Apr 23 2024 - 14:42:07 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #3 PREEMPT Sun Jun 25 16:45:28 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/190712181734592338.8949.zip"
+    ],
+    "model_id": 81,
+    "hw_ver_id": 358
   }
 }
