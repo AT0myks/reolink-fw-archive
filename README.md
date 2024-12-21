@@ -241,7 +241,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.2379_23062900](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120318021694488682.1128.zip?download_name=B500_v3102379_23062900.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
+[v3.1.0.2379_23062900](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120318021694488682.1128.zip?download_name=B500_v3102379_23062900.zip)<br />[v3.1.0.2379_23062900](https://home-cdn.reolink.us/wp-content/uploads/2024/03/210607581711001278.9156.zip?download_name=B500_v3102379_23062900.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
 </details>
 
@@ -529,7 +529,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.2379_23062901](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120313091694488389.8595.zip?download_name=D500_v3102379_23062901.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
+[v3.1.0.2379_23062901](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120313091694488389.8595.zip?download_name=D500_v3102379_23062901.zip)<br />[v3.1.0.2379_23062901](https://home-cdn.reolink.us/wp-content/uploads/2024/03/210609161711001356.4594.zip?download_name=D500_v3102379_23062901.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
 </details>
 
@@ -546,7 +546,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.2379_23062703](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120401221694491282.9054.zip?download_name=D800_v3102379_23062703.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
+[v3.1.0.2379_23062703](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120401221694491282.9054.zip?download_name=D800_v3102379_23062703.zip)<br />[v3.1.0.2379_23062703](https://home-cdn.reolink.us/wp-content/uploads/2024/03/210432321710995552.3232.zip?download_name=D800_v3102379_23062703.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
   ### IPC_5158MP8M
 
