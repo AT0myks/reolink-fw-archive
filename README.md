@@ -2611,7 +2611,7 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
-  <summary>Reolink Video Doorbell PoE-W</summary>
+  <summary>Reolink Video Doorbell PoE-W（White POE）</summary>
 
 <img src="https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/Reolink%20Video%20Doorbell%20PoE-W/product.png" width="150">
 
@@ -2653,7 +2653,7 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
-  <summary>Reolink Video Doorbell WiFi-W</summary>
+  <summary>Reolink Video Doorbell WiFi-W（White WiFi）</summary>
 
 <img src="https://reolink-storage.s3.amazonaws.com/website/uploads/assets/app/model-images/Reolink%20Video%20Doorbell%20WiFi-W/product.png" width="150">
 
