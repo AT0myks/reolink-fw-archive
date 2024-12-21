@@ -2465,7 +2465,7 @@ Version | Date | Changes | Notes
 
 [Product page](https://reolink.com/us/product/reolink-home-hub/)
 
-  ### BASE_WUNNT6NA5_E
+  ### BASE_WENNT6NA5
 
 Firmwares for this hardware version: 2
 
@@ -2474,7 +2474,7 @@ Version | Date | Changes | Notes
 [v3.3.0.352_24092630](https://home-cdn.reolink.us/wp-content/uploads/2024/10/080942181728380538.4702.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK352_24092630E.zip) | 2024‑09‑26 | <ol><li>Playing back recordings stored on the IPC's microSD card supported (requires updated app release).</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.</li><li>IPC initialization process via Reolink Home Hub streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
 [v3.3.0.333_24071210](https://home-cdn.reolink.us/wp-content/uploads/2024/07/160653271721112807.1899.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK333_24071210E.zip) | 2024‑07‑12 | <ol><li>Resolves battery camera disconnection issues</li><li>Addresses audio issues</li><li>Allows WiFi to be turned off on the Hub</li><li>Optimizes WiFi performance</li><li>Improves event log functionality</li></ol> | 
 
-  ### BASE_WUNNT6NA5_U
+  ### BASE_WUNNT6NA5
 
 Firmwares for this hardware version: 2
 
