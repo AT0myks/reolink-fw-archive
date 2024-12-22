@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 603
+Total: 604
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -267,11 +267,12 @@ Version | Date | Changes | Notes
 
   ### IPC_5158M8M_V2
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.2379_23062702](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120404371694491477.9399.zip?download_name=B800_3702_2407087342.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
+[v3.1.0.3702_2407087342](https://home-cdn.reolink.us/wp-content/uploads/2024/07/121110161720782616.943.zip?download_name=B800_3702_2407087342.zip) | 2024‑07‑08 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
+[v3.1.0.2379_23062702](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120404371694491477.9399.zip?download_name=B800_v3102379_23062702.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
   ### IPC_5158MP8M
 

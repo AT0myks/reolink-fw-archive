@@ -18809,6 +18809,38 @@
     "model_id": 205,
     "hw_ver_id": 343
   },
+  "fefd6adca6455dab58839983fb7d2f579a74e598f407e4e69820077abe7f603d": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_5158M8M_V2",
+      "board_name": "IPC_5158M8M_V2",
+      "build_date": "240708",
+      "display_type_info": "B800",
+      "detail_machine_type": "IPC_5158M8M_V2",
+      "type": "IPC",
+      "version_file": "3702_2407087342",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Apr 14 2022 - 20:32:33 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Thu Apr 6 14:58:36 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/07/121110161720782616.943.zip"
+    ],
+    "model_id": 157,
+    "hw_ver_id": 316
+  },
   "0614a957e99fb6130b1ef7181cc7ddb5a0b1d8273e81934e3549e537ac0fe8c2": {
     "info": {
       "firmware_version_prefix": "v3.1.0",

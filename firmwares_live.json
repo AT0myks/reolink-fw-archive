@@ -2877,11 +2877,11 @@
     "source": "live"
   },
   {
-    "version": "v3.1.0.3702_2407087342",
-    "filename": "B800_3702_2407087342",
-    "updated_at": "2024-07-12 19:10:47+08:00",
+    "version": "v3.1.0.2379_23062702",
+    "filename": "B800_v3102379_23062702",
+    "updated_at": "2023-09-12 12:09:05+08:00",
     "note": "",
-    "firmware_id": 443,
+    "firmware_id": 100443,
     "model": "B800",
     "hw_ver": "IPC_5158M8M_V2",
     "changelog": [
@@ -2892,7 +2892,7 @@
       "5. Optimze the Brightness & Shadows setting.",
       "6. Optimize some network features and fix some bugs"
     ],
-    "display_time": "2024-06-28 00:00:00+08:00",
+    "display_time": "2023-09-12 00:00:00+08:00",
     "sha256_pak": "d35830d481afbe12bdb24f0d6b7666bb0edc68fe9b4ce325231d42f44435ec1a",
     "source": "live"
   },
@@ -4184,6 +4184,26 @@
     ],
     "display_time": "2024-07-16 00:00:00+08:00",
     "sha256_pak": "5ef9dc982c833c9d3b1f2230566f7c79410d161f1d0fa7f3bdc2252f3ad9b44d",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3702_2407087342",
+    "filename": "B800_3702_2407087342",
+    "updated_at": "2024-07-12 19:10:47+08:00",
+    "note": "",
+    "firmware_id": 443,
+    "model": "B800",
+    "hw_ver": "IPC_5158M8M_V2",
+    "changelog": [
+      "1. Optimize smart detection. Animal detction is added.",
+      "2. Optimize recording.",
+      "3. Optimize night vision.",
+      "4. Optimize the detection zone setting.",
+      "5. Optimze the Brightness & Shadows setting.",
+      "6. Optimize some network features and fix some bugs"
+    ],
+    "display_time": "2024-06-28 00:00:00+08:00",
+    "sha256_pak": "fefd6adca6455dab58839983fb7d2f579a74e598f407e4e69820077abe7f603d",
     "source": "live"
   },
   {
