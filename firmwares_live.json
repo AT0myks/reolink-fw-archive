@@ -5331,5 +5331,23 @@
     "display_time": "2024-12-19 00:00:00+08:00",
     "sha256_pak": "c4f4e8d787e077d32e8c5f03c857cf295b6cfdbe07c617cb375131d67e22bdd6",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4162_2410252116",
+    "filename": "RLC_840A_4162_2410252116",
+    "updated_at": "2024-12-23 12:29:03+08:00",
+    "note": "",
+    "firmware_id": 701,
+    "model": "RLC-840A",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "1. Two-Way Talk performance enhanced.",
+      "2. Noise reduction for audio and video improved.",
+      "3. Smart Event Detection feature added.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2024-12-23 00:00:00+08:00",
+    "sha256_pak": "f83d211cd9f8ab56f7a1739d380787926802d075d5db6f9ac47d18ee3621ec4f",
+    "source": "live"
   }
 ]
