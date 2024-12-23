@@ -1754,5 +1754,24 @@
         "title": "N5MB01"
       }
     ]
+  },
+  {
+    "id": 218,
+    "title": "NVS12W",
+    "type": "NVR",
+    "productImg": "",
+    "productUrl": "https://reolink.com/us/product/nvs12w/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 359,
+        "title": "NVR_NNT3NA58W_E"
+      },
+      {
+        "id": 360,
+        "title": "NVR_NNT3NA58W_U"
+      }
+    ]
   }
 ]

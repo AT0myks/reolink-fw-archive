@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 605
+Total: 609
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -804,6 +804,29 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1901_23032202](https://drive.google.com/uc?id=1Z82fGjHO9l_yy9f5iH1jdLzjXZFy8s4x&confirm=t) | 2023‑03‑22 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
+
+</details>
+
+<details>
+  <summary>NVS12W (NVR)</summary>
+
+[Product page](https://reolink.com/us/product/nvs12w/)
+
+  ### NVR_NNT3NA58W_E
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.5.1.368_24120611](https://home-cdn.reolink.us/wp-content/uploads/2024/12/230646091734936369.0777.zip?download_name=NVS12W_v351368_24120611_NVR_NNT3NA58W_E.zip) | 2024‑12‑06 | <ol><li>User interactions optimized and upgraded.</li><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR).</li><li>Compatible with Reolink WiFi Extender.</li><li>Channel selection supported.</li><li>Event History feature added.</li><li>Pattern Unlock feature added.</li><li>Screen resolution recommendation added for HDMI display (monitor support required).</li><li>Safe Ejection feature for USB drives added.</li><li>Network Topology page added.</li><li>Configurations retained by default during version upgrade (option to retain UID).</li><li>Physical keyboard support added (limited to English and numeric input).</li><li>Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).</li><li>Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE.</li><li>Wireless chime pairing added for battery doorbell.</li><li>Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.</li><li>Setup wizard optimized.</li><li>Live view interface optimized.</li><li>Network settings interface optimized.</li><li>Email feature interface and interactions optimized.</li><li>Video loss push notification disabled.</li><li>Fixed issue with camera name changes not applying reliably in Reolink App.</li><li>Web client updated.</li><li>Other known bugs fixed.</li></ol> | 
+
+  ### NVR_NNT3NA58W_U
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.5.1.368_24120610](https://home-cdn.reolink.us/wp-content/uploads/2024/12/230645301734936330.1011.zip?download_name=NVS12W_v351368_24120610_NVR_NNT3NA58W_U.zip) | 2024‑12‑06 | <ol><li>User interactions optimized and upgraded.</li><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR).</li><li>Compatible with Reolink WiFi Extender.</li><li>Channel selection supported.</li><li>Event History feature added.</li><li>Pattern Unlock feature added.</li><li>Screen resolution recommendation added for HDMI display (monitor support required).</li><li>Safe Ejection feature for USB drives added.</li><li>Network Topology page added.</li><li>Configurations retained by default during version upgrade (option to retain UID).</li><li>Physical keyboard support added (limited to English and numeric input).</li><li>Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).</li><li>Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE.</li><li>Wireless chime pairing added for battery doorbell.</li><li>Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.</li><li>Setup wizard optimized.</li><li>Live view interface optimized.</li><li>Network settings interface optimized.</li><li>Email feature interface and interactions optimized.</li><li>Video loss push notification disabled.</li><li>Fixed issue with camera name changes not applying reliably in Reolink App.</li><li>Web client updated.</li><li>Other known bugs fixed.</li></ol> | 
 
 </details>
 
@@ -2091,18 +2114,20 @@ Version | Date | Changes | Notes
 
   ### NVR_NNT3NA58W_E
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.5.1.368_24120609](https://home-cdn.reolink.us/wp-content/uploads/2024/12/230638151734935895.1046.zip?download_name=RLN12W_v351368_24120609_NVR_NNT3NA58W_E.zip) | 2024‑12‑06 | <ol><li>User interactions optimized and upgraded.</li><li>Compatible with Reolink WiFi Extender.</li><li>Channel selection supported.</li><li>Event History feature added.</li><li>Pattern Unlock feature added.</li><li>Screen resolution recommendation added for HDMI display (monitor support required).</li><li>Safe Ejection feature for USB drives added.</li><li>Network Topology page added.</li><li>Configurations retained by default during version upgrade (option to retain UID).</li><li>Physical keyboard support added (limited to English and numeric input).</li><li>Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).</li><li>Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE.</li><li>Wireless chime pairing added for battery doorbell.</li><li>Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.</li><li>Setup wizard optimized.</li><li>Live view interface optimized.</li><li>Network settings interface optimized.</li><li>Email feature interface and interactions optimized.</li><li>Video loss push notification disabled.</li><li>Fixed issue with camera name changes not applying reliably in Reolink App.</li><li>Web client updated.</li><li>Other known bugs fixed.</li></ol> | 
 [v3.5.0.331_24071009](https://home-cdn.reolink.us/wp-content/uploads/2024/07/260113361721956416.7139.zip?download_name=NVR_NNT3NA58W_E_331_24071009_E.zip) | 2024‑07‑10 | <ol><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
 
   ### NVR_NNT3NA58W_U
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.5.1.368_24120608](https://home-cdn.reolink.us/wp-content/uploads/2024/12/230636431734935803.7694.zip?download_name=RLN12W_v351368_24120608_NVR_NNT3NA58W_U.zip) | 2024‑12‑06 | <ol><li>User interactions optimized and upgraded.</li><li>Compatible with Reolink WiFi Extender.</li><li>Channel selection supported.</li><li>Event History feature added.</li><li>Pattern Unlock feature added.</li><li>Screen resolution recommendation added for HDMI display (monitor support required).</li><li>Safe Ejection feature for USB drives added.</li><li>Network Topology page added.</li><li>Configurations retained by default during version upgrade (option to retain UID).</li><li>Physical keyboard support added (limited to English and numeric input).</li><li>Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).</li><li>Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE.</li><li>Wireless chime pairing added for battery doorbell.</li><li>Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.</li><li>Setup wizard optimized.</li><li>Live view interface optimized.</li><li>Network settings interface optimized.</li><li>Email feature interface and interactions optimized.</li><li>Video loss push notification disabled.</li><li>Fixed issue with camera name changes not applying reliably in Reolink App.</li><li>Web client updated.</li><li>Other known bugs fixed.</li></ol> | 
 [v3.5.0.331_24071008](https://home-cdn.reolink.us/wp-content/uploads/2024/07/221027281721644048.0355.zip?download_name=NVR_NNT3NA58W_U_331_24071008_U.zip) | 2024‑07‑10 | <ol><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
 
 </details>
