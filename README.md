@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 609
+Total: 610
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -616,10 +616,11 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD85MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4366_2412021482](https://home-cdn.reolink.us/wp-content/uploads/2024/12/250152441735091564.2546.zip?download_name=E1_Outdoor_4366_2412021482.zip) | 2024‑12‑02 | <ol><li>Pan &amp; Tilt performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3429_2404181319](https://home-cdn.reolink.us/wp-content/uploads/2024/05/100708301715324910.3385.zip?download_name=E1Outdoor_3429_24041813.zip) | 2024‑04‑18 | 1.Improve version compatibility between cameras | 
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip?download_name=E1Outdoor_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 

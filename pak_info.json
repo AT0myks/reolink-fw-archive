@@ -21068,5 +21068,41 @@
     ],
     "model_id": 198,
     "hw_ver_id": 333
+  },
+  "acfc1eba20df92d0f90892f0bba44d98aeeaa054e17133289f741584f3407a5f": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD85MP",
+      "board_name": "IPC_566SD85MP",
+      "build_date": "241202",
+      "display_type_info": "E1 Outdoor",
+      "detail_machine_type": "IPC_566SD85MP",
+      "type": "IPC",
+      "version_file": "4366_2412021482",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Dec 08 2023 - 11:07:35 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #2 PREEMPT Mon Nov 14 11:37:02 CST 2022",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2024/12/250152441735091564.2546.zip"
+    ],
+    "model_id": 123,
+    "hw_ver_id": 320
   }
 }

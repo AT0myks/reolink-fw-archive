@@ -5495,5 +5495,21 @@
     "display_time": "2024-12-23 00:00:00+08:00",
     "sha256_pak": "148770a7721f13eb795ce1d6db8aabf02f6ab7ff986b49348b51ef54ecaf9c6a",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4366_2412021482",
+    "filename": "E1_Outdoor_4366_2412021482",
+    "updated_at": "2024-12-25 09:52:58+08:00",
+    "note": "",
+    "firmware_id": 706,
+    "model": "E1 Outdoor",
+    "hw_ver": "IPC_566SD85MP",
+    "changelog": [
+      "1. Pan & Tilt performance optimized.",
+      "2. Other known bugs resolved."
+    ],
+    "display_time": "2024-12-25 00:00:00+08:00",
+    "sha256_pak": "acfc1eba20df92d0f90892f0bba44d98aeeaa054e17133289f741584f3407a5f",
+    "source": "live"
   }
 ]
