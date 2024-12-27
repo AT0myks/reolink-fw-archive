@@ -5511,5 +5511,41 @@
     "display_time": "2024-12-25 00:00:00+08:00",
     "sha256_pak": "acfc1eba20df92d0f90892f0bba44d98aeeaa054e17133289f741584f3407a5f",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4381_2411301864",
+    "filename": "RLC_511WA_4381_2411301864",
+    "updated_at": "2024-12-27 10:39:23+08:00",
+    "note": "",
+    "firmware_id": 707,
+    "model": "RLC-511WA",
+    "hw_ver": "IPC_523128M5MP",
+    "changelog": [
+      "1. Cloud service and Cloud File Encryption feature added.",
+      "2. Animal AI Recognition feature added.",
+      "3. Focusing performance optimized.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2024-12-27 00:00:00+08:00",
+    "sha256_pak": "721c716f5d81bced30b2b4fd7f04bd72a37b021dd0e062dd316ba367bb9cba4a",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4381_2411301871",
+    "filename": "RLC_542WA_4381_2411301871",
+    "updated_at": "2024-12-27 10:40:50+08:00",
+    "note": "",
+    "firmware_id": 708,
+    "model": "RLC-542WA",
+    "hw_ver": "IPC_523D95MP",
+    "changelog": [
+      "1. Cloud service and Cloud File Encryption feature added.",
+      "2. Animal AI Recognition feature added.",
+      "3. Focusing performance optimized.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2024-12-27 00:00:00+08:00",
+    "sha256_pak": "b5b9ff2b29f37c0a7b0a9e0397b59634b6816b575b6442b84e26a318d2ca2389",
+    "source": "live"
   }
 ]

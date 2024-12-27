@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 610
+Total: 612
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1536,10 +1536,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4381_2411301864](https://home-cdn.reolink.us/wp-content/uploads/2024/12/270238581735267138.5583.zip?download_name=RLC_511WA_4381_2411301864.zip) | 2024‑11‑30 | <ol><li>Cloud service and Cloud File Encryption feature added.</li><li>Animal AI Recognition feature added.</li><li>Focusing performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.1643_2402218998](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230711381708672298.608.zip?download_name=RLC_511WA_1643_2402218998.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.956_22041509](https://home-cdn.reolink.us/wp-content/uploads/2022/04/220905421650618342.128.zip?download_name=RLC_511WA_22041509.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
 
@@ -1684,10 +1685,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523D95MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4381_2411301871](https://home-cdn.reolink.us/wp-content/uploads/2024/12/270240231735267223.3648.zip?download_name=RLC_542WA_4381_2411301871.zip) | 2024‑11‑30 | <ol><li>Cloud service and Cloud File Encryption feature added.</li><li>Animal AI Recognition feature added.</li><li>Focusing performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.1643_2402219273](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230651161708671076.0649.zip?download_name=RLC_542WA_1643_2402219273.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1983_23040623](https://drive.google.com/uc?id=1RCume3f77oYMbZ3oD06cyD9O6F--uFiC&confirm=t) | 2023‑04‑06 | Add the option to change the I-frame interval | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/14)
 [v3.1.0.764_21121718](https://home-cdn.reolink.us/wp-content/uploads/2022/01/191102001642590120.5321.zip?download_name=RLC_542WA_21121718.zip) | 2021‑12‑17 | <ol><li>Optimized AI detection function<ol type="a"><li>Upgraded the AI model to improve the recognition accuracy of people, cars, and pets (the  new features of 8MP models), and optimized static AI false alarm issue</li><li>Increased the AI delay alarm function, which can reduce dynamic misjudgments caused by flying insects, rain, etc. by adjusting the delay gear</li><li>Optimized the alarm area settings to reduce false alarms in the shielded area</li><li>Optimized the AI sensitivity setting: It will not send AI alarm when the AI detection sensitivity is 0</li><li>Optimized the false alarms caused by day and night switching and lighting changes, and solved the problem that the spotlight will repeatedly turn on and off in some scenes</li><li>Optimized the automatic tracking function to solve the chaotic tracking problem of the camera in some scenarios</li><li>Added the vertical tracking function for RLC- 523WA, RLC-823A</li></ol></li><li>Added AI smart detection type option for spotlight, so you can choose AI type for the smart spotlight</li><li>Optimized FTP function<ol type="a"><li>Supported FTPS encryption to improve the security of FTP transfer files</li><li>Optimized the FTP transfer file type:You can choose to transfer only video, only pictures, and transfer both videos and pictures to the FTP server</li><li>Increased Overwrite function for picture only and video only function</li><li>Added 2s/5s/10s interval options for FTP capture picture</li><li>Optimized the upload file directory function: You can choose to folder by day/month, or save all files in the same folder</li></ol></li><li>Optimized the push function and increased the push interval setting function</li><li>Increased the Test error code function for the Email, FTP, push settings, which could help find the cause of the error</li><li>Added switch for RTSP, ONVIF, HTTP, HTTPS service. Users can turn on and off the corresponding network services as needed</li><li>Increased the function of locking the device: The device will be locked for 2 seconds after logging in with an incorrect password to improve login security and prevent malicious attacks</li><li>Added web certificate import function</li><li>Updated RTSP version</li><li>Optimized the AF algorithm to solve the problem of unclear focus in some scenes</li><li>Optimized pre-record time of videos and solved the problem of too long pre-record time in some scenes</li><li>Added day and night switching threshold adjustment function</li></ol> | 1. Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
