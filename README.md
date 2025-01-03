@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 612
+Total: 615
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1944,10 +1944,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4366_24121214](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030157501735869470.483.zip?download_name=RLC_823S1_v310436624121214_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3688_24081510](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235531723811753.4232.zip?download_name=RLC_823S1_3688_24081510.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
 
 </details>
@@ -1961,10 +1962,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4366_24121216](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030159161735869556.2615.zip?download_name=RLC_823S1W_v310436624121216_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3688_24081512](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235191723811719.669.zip?download_name=RLC_823S1W_3688_24081512.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
 
 </details>
@@ -1978,10 +1980,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4366_24121218](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030202061735869726.9768.zip?download_name=RLC_823S2_v310436624121218_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3795_24081508](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190719511724051991.4724.zip?download_name=RLC_823S2_3795_24081508.zip) | 2024‑08‑15 | <ol><li>Optimize smart detection</li><li>Improve image effect</li><li>Enhance Auto Focus</li><li>Optimize network performance</li><li>Fix other known bugs</li></ol> | 
 
 </details>

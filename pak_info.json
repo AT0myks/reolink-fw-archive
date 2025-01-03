@@ -21176,5 +21176,113 @@
     ],
     "model_id": 148,
     "hw_ver_id": 248
+  },
+  "4207011fcacfd2d0e9ac0896d9db4bfbff4308a008101c4b83bdd88ba342e52e": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT2NA48MPSD12",
+      "board_name": "IPC_NT2NA48MPSD12",
+      "build_date": "241212",
+      "display_type_info": "RLC-823S1W",
+      "detail_machine_type": "IPC_NT2NA48MPSD12",
+      "type": "IPC",
+      "version_file": "4366_24121216",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Aug 11 2023 - 14:53:36 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Tue Jul 11 16:08:50 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/030159161735869556.2615.zip"
+    ],
+    "model_id": 208,
+    "hw_ver_id": 347
+  },
+  "4eab17c19b4a7b9b28d7223f24aca0a229e2a9242982df6fa37216c54873af43": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT2NA48MPSD12",
+      "board_name": "IPC_NT2NA48MPSD12",
+      "build_date": "241212",
+      "display_type_info": "RLC-823S1",
+      "detail_machine_type": "IPC_NT2NA48MPSD12",
+      "type": "IPC",
+      "version_file": "4366_24121214",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Aug 11 2023 - 14:53:36 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Tue Jul 11 16:08:50 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/030157501735869470.483.zip"
+    ],
+    "model_id": 207,
+    "hw_ver_id": 346
+  },
+  "5c582dcfc7006958c7a5da314782e6deb0c452ece56c39f8fa59b406f1fdc132": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT2NA48MPSD12",
+      "board_name": "IPC_NT2NA48MPSD12",
+      "build_date": "241212",
+      "display_type_info": "RLC-823S2",
+      "detail_machine_type": "IPC_NT2NA48MPSD12",
+      "type": "IPC",
+      "version_file": "4366_24121218",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Aug 11 2023 - 14:53:36 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Tue Jul 11 16:08:50 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/030202061735869726.9768.zip"
+    ],
+    "model_id": 201,
+    "hw_ver_id": 336
   }
 }
