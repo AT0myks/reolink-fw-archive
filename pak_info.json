@@ -21284,5 +21284,113 @@
     ],
     "model_id": 201,
     "hw_ver_id": 336
+  },
+  "0c03e003e2664858ea557a8f7462d48848f972a2b0614d11fa8000943766bc96": {
+    "info": {
+      "firmware_version_prefix": "v3.5.1",
+      "board_type": "H3MB18",
+      "board_name": "H3MB18",
+      "build_date": "250103",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "368_25010327",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.9.44",
+      "uboot_version": "U-Boot 2016.07 (Sep 29 2022 - 09:47:12 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2017.11.2) 6.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.29.1",
+      "linux_banner": "Linux version 4.9.44 (mdq@ubuntu) (gcc version 6.4.0 (Buildroot 2017.11.2) ) #3 SMP Wed Jun 1 11:12:17 CST 2022",
+      "board": "NOVATEK NA51039 series",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "cramfs"
+        },
+        {
+          "name": "app",
+          "type": "cramfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/080843311736325811.6074.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 196
+  },
+  "a128198410e3667772a6ef55b9228a4ce395b165a87927381b64f6a52c1f2f37": {
+    "info": {
+      "firmware_version_prefix": "v3.5.1",
+      "board_type": "N2MB02",
+      "board_name": "N2MB02",
+      "build_date": "250103",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "368_25010326",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.9.44",
+      "uboot_version": "U-Boot 2016.07 (Sep 29 2022 - 09:59:04 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2017.11.2) 6.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.29.1",
+      "linux_banner": "Linux version 4.9.44 (mdq@ubuntu) (gcc version 6.4.0 (Buildroot 2017.11.2) ) #1 SMP Sat Oct 9 09:53:54 CST 2021",
+      "board": "NOVATEK NA51039 series",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "cramfs"
+        },
+        {
+          "name": "app",
+          "type": "cramfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/080826521736324812.9692.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 231
+  },
+  "801f94cf69c8f259853896aa9b1cb333853228b2fb5b94254eb39a4e4e2fcf8f": {
+    "info": {
+      "firmware_version_prefix": "v3.5.1",
+      "board_type": "N3MB01",
+      "board_name": "N3MB01",
+      "build_date": "250103",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "368_25010352",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.9.118",
+      "uboot_version": "U-Boot 2016.07 (Nov 26 2021 - 20:03:00 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.9.118 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2) ) #1 SMP Fri Nov 26 20:01:44 CST 2021",
+      "board": "Novatek NA51068",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/080845461736325946.4423.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 208
   }
 }
