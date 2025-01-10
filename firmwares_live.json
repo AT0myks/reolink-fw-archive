@@ -5718,5 +5718,38 @@
     "source": "live",
     "model_id": 76,
     "hw_ver_id": 361
+  },
+  {
+    "version": "v3.1.0.4163_2411251398",
+    "filename": "RLC_510WA_4163_2411251398",
+    "updated_at": "2025-01-10 16:24:14+08:00",
+    "note": "",
+    "firmware_id": 717,
+    "model": "RLC-510WA",
+    "hw_ver": "IPC_523128M5MP",
+    "changelog": [
+      "1. Cloud service and Cloud File Encryption feature added.",
+      "2. Animal AI Recognition feature added.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-01-10 00:00:00+08:00",
+    "sha256_pak": "360a001c4454fa9ce0ce7255ac25ee67ab3bc9eda00832d93061bfafcca47293",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4417_2412122178",
+    "filename": "E1_Zoom_4417_2412122178",
+    "updated_at": "2025-01-10 16:07:46+08:00",
+    "note": "",
+    "firmware_id": 716,
+    "model": "E1 Zoom",
+    "hw_ver": "IPC_566SD664M5MP",
+    "changelog": [
+      "1. Privacy Mode added.",
+      "2. Other known bugs resolved."
+    ],
+    "display_time": "2025-01-10 00:00:00+08:00",
+    "sha256_pak": "ae1227a89eae4d801381490c95b3fbc38e5e0040d7c839d90f1993ec0b771d5c",
+    "source": "live"
   }
 ]

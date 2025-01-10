@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 618
+Total: 620
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -780,10 +780,11 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD664M5MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4417_2412122178](https://home-cdn.reolink.us/wp-content/uploads/2025/01/100806121736496372.6461.zip?download_name=E1_Zoom_4417_2412122178.zip) | 2024‑12‑12 | <ol><li>Privacy Mode added.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4187_2411071868](https://home-cdn.reolink.us/wp-content/uploads/2024/11/290252251732848745.796.zip?download_name=E1_Zoom_4187_2411071868.zip) | 2024‑11‑07 | <ol><li>Crying Sound Detection feature added</li><li>Auto-Tracking performance improved</li><li>Bugs on some third-party clients fixed</li><li>Other known bugs resolved</li></ol> | 
 [v3.1.0.3382_2404178024](https://home-cdn.reolink.us/wp-content/uploads/2024/04/200809141713600554.3801.zip?download_name=E1Zoom_v3103382_2404178024.zip) | 2024‑04‑17 | <ol><li>Optimize cloud storage function</li><li>Upgrade push version</li><li>Optimize focus function</li><li>Support two-way audio by ONVIF</li><li>Solve bugs related with PT function</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2649_23083101](https://home-cdn.reolink.us/wp-content/uploads/2023/09/190238051695091085.1403.zip?download_name=E1Zoom_v3102649_23083101.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
@@ -1457,10 +1458,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 5
+Firmwares for this hardware version: 6
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4163_2411251398](https://home-cdn.reolink.us/wp-content/uploads/2025/01/100824011736497441.357.zip?download_name=RLC_510WA_4163_2411251398.zip) | 2024‑11‑25 | <ol><li>Cloud service and Cloud File Encryption feature added.</li><li>Animal AI Recognition feature added.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.764_2402204770](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230704161708671856.2393.zip?download_name=RLC_510WA_764_2402204770.zip) | 2024‑02‑20 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1387_22100633](https://support.reolink.com/attachments/token/1ISbkfiJ3uJ2rganejlK6JUvG/?name=IPC_523128M5MP.1387_22100633.RLC-510WA.OV05A10.5MP.WIFI1021.REOLINK.pak) | 2022‑10‑06 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/10iv3di/comment/j5osusf)
 [v3.1.0.956_22041512](https://drive.google.com/uc?id=1ENIQ_7cGWGygM1wSZjiIHuRPD_IrIuCz&confirm=t)<br />[v3.1.0.956_22041512](https://drive.google.com/uc?id=1Ja75a3z85qZpcpoTwcDVzPGUtTGtTEj6&confirm=t) | 2022‑04‑15 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />If you get an error when updating, see [here](https://github.com/AT0myks/reolink-fw-archive/issues/2#issuecomment-1416773844).<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/issues/2)

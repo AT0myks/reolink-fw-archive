@@ -21392,5 +21392,77 @@
     ],
     "model_id": 33,
     "hw_ver_id": 208
+  },
+  "360a001c4454fa9ce0ce7255ac25ee67ab3bc9eda00832d93061bfafcca47293": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_523128M5MP",
+      "board_name": "IPC_523128M5MP",
+      "build_date": "241125",
+      "display_type_info": "RLC-510WA",
+      "detail_machine_type": "IPC_523128M5MP",
+      "type": "IPC",
+      "version_file": "4163_2411251398",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Oct 11 2021 - 12:40:43 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Tue Nov 1 14:15:12 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/100824011736497441.357.zip"
+    ],
+    "model_id": 163,
+    "hw_ver_id": 273
+  },
+  "ae1227a89eae4d801381490c95b3fbc38e5e0040d7c839d90f1993ec0b771d5c": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD664M5MP",
+      "board_name": "IPC_566SD664M5MP",
+      "build_date": "241212",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_566SD664M5MP",
+      "type": "IPC",
+      "version_file": "4417_2412122178",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Oct 25 2024 - 18:08:52 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #3 PREEMPT Sun Jun 25 16:45:28 CST 2023",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/100806121736496372.6461.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 303
   }
 }
