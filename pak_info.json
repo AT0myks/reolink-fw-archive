@@ -21464,5 +21464,41 @@
     ],
     "model_id": 91,
     "hw_ver_id": 303
+  },
+  "910b575e3e4a8ced144eff1bb01eed5d5bf6f132ae5233177efb07bdbf9f1ec4": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT15NA416MPW",
+      "board_name": "IPC_NT15NA416MPW",
+      "build_date": "250107",
+      "display_type_info": "Reolink Duo 3 WiFi",
+      "detail_machine_type": "IPC_NT15NA416MPW",
+      "type": "IPC",
+      "version_file": "4518_2501071706",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Sep 26 2024 - 18:41:15 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Jan 3 17:38:57 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/01/140339231736825963.0423.zip"
+    ],
+    "model_id": 220,
+    "hw_ver_id": 362
   }
 }

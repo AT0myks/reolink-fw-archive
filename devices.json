@@ -1777,5 +1777,20 @@
         "title": "NVR_NNT3NA58W_U"
       }
     ]
+  },
+  {
+    "id": 220,
+    "title": "Reolink Duo 3 WiFi",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 362,
+        "title": "IPC_NT15NA416MPW"
+      }
+    ]
   }
 ]

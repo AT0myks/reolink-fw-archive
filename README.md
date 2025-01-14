@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 620
+Total: 621
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2417,6 +2417,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.3632_2406192112](https://home-cdn.reolink.us/wp-content/uploads/2024/06/280355001719546900.0793.zip?download_name=Reolink_Duo_3_PoE_3632_2406192112.zip) | 2024‑06‑19 | <ol><li>Improve day-night transition effects.</li><li>Enhance audio noise reduction capabilities.</li><li>Enhance the actual performance of Motion Track.</li><li>Improve image quality in specific scenarios.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Reolink Duo 3 WiFi</summary>
+
+  ### IPC_NT15NA416MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4518_2501071706](https://home-cdn.reolink.us/wp-content/uploads/2025/01/140339231736825963.0423.zip?download_name=Reolink_Duo_3_WiFi_4518_2501071706.zip) | 2025‑01‑07 | <ol><li>Wi-Fi performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
