@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 621
+Total: 622
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1649,10 +1649,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523128M5MP
 
-Firmwares for this hardware version: 9
+Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4541_25021200](https://home-cdn.reolink.us/wp-content/uploads/2025/02/170759481739779188.6587.zip?download_name=RLC_523WA_4541_25021200.zip) | 2025‑02‑12 |  | 
 [v3.1.0.2831_23102508](https://home-cdn.reolink.us/wp-content/uploads/2023/11/140140231699926023.7448.zip?download_name=523WA_v3102831_23102508_v10031.zip) | 2023‑10‑25 | <ol><li>Solve the problem that the PT operation might fail</li><li>Sovle the problem that the monitor point might be shifted to a different position</li><li>Optimize the Push Notification</li><li>Optimize the network feature</li><li>Optimize the Auto Tracking</li><li>Optimize the FTP pre-recording</li><li>Update the web interface</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2447_23071208](https://home-cdn.reolink.us/wp-content/uploads/2023/08/220431011692678661.2779.zip?download_name=RLC_523WA_2447_23071208.zip) | 2023‑07‑12 | <ol><li>Optimize WiFi Connection</li><li>Optimize the Patrol Feature</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2217_23051710](https://home-cdn.reolink.us/wp-content/uploads/2023/06/130205271686621927.9606.zip?download_name=523WA_v3102217_23051710_v10031.zip)<br />[v3.1.0.2217_23051710](https://support-d.reolink.com/attachments/token/KCvCCwPiYAQo4QMF77Bx6LAO6/?name=IPC_523128M5MP.2217_23051710.RLC-523WA.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2023‑05‑17 | <ol><li>Optimize network connection effect</li><li>Optimize the smart tracking effect</li><li>Optimize the AF focus function</li><li>Update the web version and optimize some UI displays</li><li>Fix some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
