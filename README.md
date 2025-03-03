@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 622
+Total: 624
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -414,10 +414,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NA44MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4366_2412021479](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030732291740987149.8376.zip?download_name=CX410W_4366_2412021479.zip) | 2024‑12‑02 |  | 
 [v3.1.0.3429_2409235402](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091003341733738614.0845.zip?download_name=CX410W_3429_2409235402.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3429_2404181316](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220655151716360915.059.zip?download_name=CX410W_3429_2404181316.zip) | 2024‑04‑18 | <ol><li>Optimize HDR effect</li><li>Solve other known bugs</li></ol> | 
 
@@ -2583,10 +2584,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NO24MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4551_2501171940](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030728521740986932.2463.zip?download_name=Reolink_Lumus_4551_2501171940.zip) | 2025‑01‑17 |  | 
 [v3.1.0.3497_2405102255](https://home-cdn.reolink.us/wp-content/uploads/2024/05/290128251716946105.1024.zip?download_name=Reolink_Lumus_3497_2405102255.zip) | 2024‑05‑10 | <ol><li>Optimize the code scanning function</li><li>Optimize cloud storage function</li><li>Solve other known bugs</li></ol> | 
 
 </details>
