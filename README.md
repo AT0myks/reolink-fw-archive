@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 624
+Total: 626
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2394,10 +2394,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4428_2412183304](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051011471741169507.6798.zip?download_name=Reolink_Duo_2_WiFi_4428_2412183304.zip) | 2024‑12‑18 |  | 
 [v3.0.0.3471_2406116464](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120917151718183835.8809.zip?download_name=Reolink_Duo_2_WiFi_3471_2406116464.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031701](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip?download_name=Reolink_Duo_2_WiFi_23031701.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1391_22101061](https://drive.google.com/uc?id=1YOtVF851NRX9AuRx_o7rtchyJMRMnXDm&confirm=t) | 2022‑10‑10 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
@@ -2462,10 +2463,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4428_2412183476](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051013401741169620.2298.zip?download_name=Reolink_Duo_Floodlight_WiFi_4428_2412183476.zip) | 2024‑12‑18 |  | 
 [v3.0.0.3471_2406116681](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120922311718184151.045.zip?download_name=Reolink_Duo_Floodlight_WiFi_3471_2406116681.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031703](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241054031679655243.856.zip?download_name=Reolink_Duo_Floodlight_WiFi_23031703.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 

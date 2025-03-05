@@ -21604,5 +21604,77 @@
     ],
     "model_id": 88,
     "hw_ver_id": 340
+  },
+  "675c96d8952bf00d930d190afe35544f3db1ad0d1dbd3e764e6792d7baa5a810": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529B17B8MP",
+      "board_name": "IPC_529B17B8MP",
+      "build_date": "241218",
+      "display_type_info": "Reolink Duo Floodlight WiFi",
+      "detail_machine_type": "IPC_529B17B8MP",
+      "type": "IPC",
+      "version_file": "4428_2412183476",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jul 09 2024 - 11:03:00 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Wed Jan 17 10:37:48 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/03/051013401741169620.2298.zip"
+    ],
+    "model_id": 179,
+    "hw_ver_id": 300
+  },
+  "021e8a3c442f8d27274c33483503beac01874b3ba4bf10f9f2dfceb7e379baa4": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529B17B8MP",
+      "board_name": "IPC_529B17B8MP",
+      "build_date": "241218",
+      "display_type_info": "Reolink Duo 2 WiFi",
+      "detail_machine_type": "IPC_529B17B8MP",
+      "type": "IPC",
+      "version_file": "4428_2412183304",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jul 09 2024 - 11:03:00 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Wed Jan 17 10:37:48 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/03/051011471741169507.6798.zip"
+    ],
+    "model_id": 169,
+    "hw_ver_id": 288
   }
 }
