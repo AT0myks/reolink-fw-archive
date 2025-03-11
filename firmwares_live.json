@@ -5832,5 +5832,18 @@
     "display_time": "2025-03-05 00:00:00+08:00",
     "sha256_pak": "021e8a3c442f8d27274c33483503beac01874b3ba4bf10f9f2dfceb7e379baa4",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4460_2412192223",
+    "filename": "RLC_840WA_4460_2412192223",
+    "updated_at": "2025-03-11 17:17:26+08:00",
+    "note": "",
+    "firmware_id": 724,
+    "model": "RLC-840WA",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [],
+    "display_time": "2025-03-11 00:00:00+08:00",
+    "sha256_pak": "ade5927a82c6ab3de82d27170db8769c348b53817cce9d96997295c13214f7b7",
+    "source": "live"
   }
 ]

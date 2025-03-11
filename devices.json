@@ -1792,5 +1792,20 @@
         "title": "IPC_NT15NA416MPW"
       }
     ]
+  },
+  {
+    "id": 221,
+    "title": "RLC-840WA",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2024/01/220146061705887966.0638.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 363,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
   }
 ]
