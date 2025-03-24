@@ -1807,5 +1807,60 @@
         "title": "IPC_NT2NA48MP"
       }
     ]
+  },
+  {
+    "id": 224,
+    "title": "D340P-White",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/D340P-White/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 367,
+        "title": "DB_566128M5MP_P_W"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "title": "D340W-White",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/D340W-White/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 366,
+        "title": "DB_566128M5MP_W_W"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "title": "D340W",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/D340W/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": []
+  },
+  {
+    "id": 222,
+    "title": "D340P",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/D340P/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 364,
+        "title": "DB_566128M5MP_P"
+      }
+    ]
   }
 ]
