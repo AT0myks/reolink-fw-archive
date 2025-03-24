@@ -484,6 +484,21 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>D340W</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/D340W/product.png" width="150">
+
+  ### DB_566128M5MP_W
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4662_2503182270](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240423021742790182.6454.zip?download_name=D340W_v30046622503182270_DB_566128M5MP_W.zip) | 2025‑03‑18 |  | 
+
+</details>
+
+<details>
   <summary>D340W-White</summary>
 
 <img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/D340W-White/product.png" width="150">

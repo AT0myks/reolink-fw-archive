@@ -1846,7 +1846,12 @@
     "productUrl": "",
     "variations": [],
     "contains": [],
-    "hardwareVersions": []
+    "hardwareVersions": [
+      {
+        "id": 365,
+        "title": "DB_566128M5MP_W"
+      }
+    ]
   },
   {
     "id": 222,
