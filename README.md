@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 636
+Total: 637
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2662,10 +2662,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NO24MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4713_2503191383](https://home-cdn.reolink.us/wp-content/uploads/2025/04/030430051743654605.8843.zip?download_name=Reolink_Lumus_4713_2503191383.zip) | 2025‑03‑19 |  | 
 [v3.1.0.4551_2501171940](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030728521740986932.2463.zip?download_name=Reolink_Lumus_4551_2501171940.zip) | 2025‑01‑17 |  | 
 [v3.1.0.3497_2405102255](https://home-cdn.reolink.us/wp-content/uploads/2024/05/290128251716946105.1024.zip?download_name=Reolink_Lumus_3497_2405102255.zip) | 2024‑05‑10 | <ol><li>Optimize the code scanning function</li><li>Optimize cloud storage function</li><li>Solve other known bugs</li></ol> | 
 
