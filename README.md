@@ -418,7 +418,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4366_2412021479](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030732291740987149.8376.zip?download_name=CX410W_4366_2412021479.zip) | 2024‑12‑02 |  | 
+[v3.1.0.4366_2412021479](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030732291740987149.8376.zip?download_name=CX410W_4366_2412021479.zip) | 2024‑12‑02 | 1.Other known bugs resolved. | 
 [v3.1.0.3429_2409235402](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091003341733738614.0845.zip?download_name=CX410W_3429_2409235402.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3429_2404181316](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220655151716360915.059.zip?download_name=CX410W_3429_2404181316.zip) | 2024‑04‑18 | <ol><li>Optimize HDR effect</li><li>Solve other known bugs</li></ol> | 
 
@@ -1714,7 +1714,7 @@ Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4541_25021200](https://home-cdn.reolink.us/wp-content/uploads/2025/02/170759481739779188.6587.zip?download_name=RLC_523WA_4541_25021200.zip) | 2025‑02‑12 |  | 
+[v3.1.0.4541_25021200](https://home-cdn.reolink.us/wp-content/uploads/2025/02/170759481739779188.6587.zip?download_name=RLC_523WA_4541_25021200.zip) | 2025‑02‑12 | <ol><li>Cloud service and Cloud File Encryption added.</li><li>Tracking priority settings added.</li><li>Surveillance settings added to patrol mode.</li><li>New web version available.</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.2831_23102508](https://home-cdn.reolink.us/wp-content/uploads/2023/11/140140231699926023.7448.zip?download_name=523WA_v3102831_23102508_v10031.zip) | 2023‑10‑25 | <ol><li>Solve the problem that the PT operation might fail</li><li>Sovle the problem that the monitor point might be shifted to a different position</li><li>Optimize the Push Notification</li><li>Optimize the network feature</li><li>Optimize the Auto Tracking</li><li>Optimize the FTP pre-recording</li><li>Update the web interface</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2447_23071208](https://home-cdn.reolink.us/wp-content/uploads/2023/08/220431011692678661.2779.zip?download_name=RLC_523WA_2447_23071208.zip) | 2023‑07‑12 | <ol><li>Optimize WiFi Connection</li><li>Optimize the Patrol Feature</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2217_23051710](https://home-cdn.reolink.us/wp-content/uploads/2023/06/130205271686621927.9606.zip?download_name=523WA_v3102217_23051710_v10031.zip)<br />[v3.1.0.2217_23051710](https://support-d.reolink.com/attachments/token/KCvCCwPiYAQo4QMF77Bx6LAO6/?name=IPC_523128M5MP.2217_23051710.RLC-523WA.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2023‑05‑17 | <ol><li>Optimize network connection effect</li><li>Optimize the smart tracking effect</li><li>Optimize the AF focus function</li><li>Update the web version and optimize some UI displays</li><li>Fix some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -1789,7 +1789,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4569_2502181272](https://home-cdn.reolink.us/wp-content/uploads/2025/03/280810531743149453.5928.zip?download_name=810A_4569_2502181272.zip) | 2025‑02‑18 |  | 
+[v3.1.0.4569_2502181272](https://home-cdn.reolink.us/wp-content/uploads/2025/03/280810531743149453.5928.zip?download_name=810A_4569_2502181272.zip) | 2025‑02‑18 | <ol><li>Two-way talk performance optimized.</li><li>Other known bugs resolved</li></ol> | 
 [v3.1.0.4054_2409131251](https://home-cdn.reolink.us/wp-content/uploads/2024/09/200232001726799520.6853.zip?download_name=RLC_810A_4054_2409131251.zip) | 2024‑09‑13 | <ol><li>Optimize encoding and image parameter configuration</li><li>Add webhook function</li><li>Optimize image effect</li></ol> | 
 [v3.1.0.2368_23062505](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip?download_name=RLC_810A_2368_23062505.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
 
@@ -2136,7 +2136,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4460_2412192223](https://home-cdn.reolink.us/wp-content/uploads/2025/03/110916131741684573.449.zip?download_name=RLC_840WA_4460_2412192223.zip) | 2024‑12‑19 |  | 
+[v3.1.0.4460_2412192223](https://home-cdn.reolink.us/wp-content/uploads/2025/03/110916131741684573.449.zip?download_name=RLC_840WA_4460_2412192223.zip) | 2024‑12‑19 | <ol><li>Cloud service added.</li><li>Wi-Fi performance improved.</li><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -2474,7 +2474,7 @@ Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4428_2412183304](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051011471741169507.6798.zip?download_name=Reolink_Duo_2_WiFi_4428_2412183304.zip) | 2024‑12‑18 |  | 
+[v3.0.0.4428_2412183304](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051011471741169507.6798.zip?download_name=Reolink_Duo_2_WiFi_4428_2412183304.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
 [v3.0.0.3471_2406116464](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120917151718183835.8809.zip?download_name=Reolink_Duo_2_WiFi_3471_2406116464.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031701](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip?download_name=Reolink_Duo_2_WiFi_23031701.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1391_22101061](https://drive.google.com/uc?id=1YOtVF851NRX9AuRx_o7rtchyJMRMnXDm&confirm=t) | 2022‑10‑10 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
@@ -2543,7 +2543,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4428_2412183476](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051013401741169620.2298.zip?download_name=Reolink_Duo_Floodlight_WiFi_4428_2412183476.zip) | 2024‑12‑18 |  | 
+[v3.0.0.4428_2412183476](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051013401741169620.2298.zip?download_name=Reolink_Duo_Floodlight_WiFi_4428_2412183476.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
 [v3.0.0.3471_2406116681](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120922311718184151.045.zip?download_name=Reolink_Duo_Floodlight_WiFi_3471_2406116681.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031703](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241054031679655243.856.zip?download_name=Reolink_Duo_Floodlight_WiFi_23031703.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 
@@ -2666,7 +2666,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4713_2503191383](https://home-cdn.reolink.us/wp-content/uploads/2025/04/030430051743654605.8843.zip?download_name=Reolink_Lumus_4713_2503191383.zip) | 2025‑03‑19 |  | 
+[v3.1.0.4713_2503191383](https://home-cdn.reolink.us/wp-content/uploads/2025/04/030430051743654605.8843.zip?download_name=Reolink_Lumus_4713_2503191383.zip) | 2025‑03‑19 | <ol><li>Wi-Fi connection process streamlined.</li><li>Day-to-night transition effect improved.</li></ol> | 
 [v3.1.0.4551_2501171940](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030728521740986932.2463.zip?download_name=Reolink_Lumus_4551_2501171940.zip) | 2025‑01‑17 |  | 
 [v3.1.0.3497_2405102255](https://home-cdn.reolink.us/wp-content/uploads/2024/05/290128251716946105.1024.zip?download_name=Reolink_Lumus_3497_2405102255.zip) | 2024‑05‑10 | <ol><li>Optimize the code scanning function</li><li>Optimize cloud storage function</li><li>Solve other known bugs</li></ol> | 
 
