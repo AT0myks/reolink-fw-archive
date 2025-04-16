@@ -22068,5 +22068,77 @@
     ],
     "model_id": 88,
     "hw_ver_id": 340
+  },
+  "7572ee07ab49e0c5e2276dba86fd119e1165881e89a21c6947cae91b0bfad2c4": {
+    "info": {
+      "firmware_version_prefix": "v3.6.0",
+      "board_type": "N6MB01",
+      "board_name": "N6MB01",
+      "build_date": "250320",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "384_25032021",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Dec 17 2024 - 16:47:52 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/04/160751261744789886.8237.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 285
+  },
+  "cac06f68c69c36c354946f05ee0348baf9765780795790790eff8b32ea77cec9": {
+    "info": {
+      "firmware_version_prefix": "v3.6.0",
+      "board_type": "N7MB01",
+      "board_name": "N7MB01",
+      "build_date": "250320",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "384_25032055",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Dec 17 2024 - 16:45:51 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/04/160749481744789788.3586.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 292
   }
 }
