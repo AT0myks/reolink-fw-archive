@@ -1429,6 +1429,10 @@
       {
         "id": 335,
         "title": "IPC_NT13NA416MP"
+      },
+      {
+        "id": 369,
+        "title": "IPC_NT15NA416MP"
       }
     ]
   },
@@ -1865,6 +1869,21 @@
       {
         "id": 364,
         "title": "DB_566128M5MP_P"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Reolink Duo 3V PoE",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 370,
+        "title": "IPC_NT15NA416MP"
       }
     ]
   }

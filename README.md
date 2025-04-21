@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 642
+Total: 645
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2500,6 +2500,14 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.3632_2406192112](https://home-cdn.reolink.us/wp-content/uploads/2024/06/280355001719546900.0793.zip?download_name=Reolink_Duo_3_PoE_3632_2406192112.zip) | 2024‑06‑19 | <ol><li>Improve day-night transition effects.</li><li>Enhance audio noise reduction capabilities.</li><li>Enhance the actual performance of Motion Track.</li><li>Improve image quality in specific scenarios.</li></ol> | 
 
+  ### IPC_NT15NA416MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4669_2503101442](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211031041745231464.2044.zip?download_name=Reolink_Duo_3_PoE_4669_2503101442.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
+
 </details>
 
 <details>
@@ -2507,11 +2515,25 @@ Version | Date | Changes | Notes
 
   ### IPC_NT15NA416MPW
 
+Firmwares for this hardware version: 2
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4669_2503101444](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211029231745231363.3509.zip?download_name=Reolink_Duo_3_WiFi_4669_2503101444.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4518_2501071706](https://home-cdn.reolink.us/wp-content/uploads/2025/01/140339231736825963.0423.zip?download_name=Reolink_Duo_3_WiFi_4518_2501071706.zip) | 2025‑01‑07 | <ol><li>Wi-Fi performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Reolink Duo 3V PoE</summary>
+
+  ### IPC_NT15NA416MP
+
 Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4518_2501071706](https://home-cdn.reolink.us/wp-content/uploads/2025/01/140339231736825963.0423.zip?download_name=Reolink_Duo_3_WiFi_4518_2501071706.zip) | 2025‑01‑07 | <ol><li>Wi-Fi performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4669_2503101441](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211027261745231246.8398.zip?download_name=Reolink_Duo_3V_PoE_4669_2503101441.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 

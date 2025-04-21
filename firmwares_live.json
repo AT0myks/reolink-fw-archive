@@ -6159,5 +6159,59 @@
     "display_time": "2025-04-18 00:00:00+08:00",
     "sha256_pak": "ed2c1da598b4f32f528518093ec52522f00cb817fc3798e8a71626faff4c383f",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.4669_2503101441",
+    "filename": "Reolink_Duo_3V_PoE_4669_2503101441",
+    "updated_at": "2025-04-21 18:28:37+08:00",
+    "note": "",
+    "firmware_id": 740,
+    "model": "Reolink Duo 3V PoE",
+    "hw_ver": "IPC_NT15NA416MP",
+    "changelog": [
+      "1. Smart AI feature added.",
+      "2. AI alarm performance optimized.",
+      "3. Web version updated.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-04-21 00:00:00+08:00",
+    "sha256_pak": "ffcf141e54389e0605ef7488c29e8948d4b4e159b5567fdce885e0afbf147d6b",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4669_2503101444",
+    "filename": "Reolink_Duo_3_WiFi_4669_2503101444",
+    "updated_at": "2025-04-21 18:30:17+08:00",
+    "note": "",
+    "firmware_id": 741,
+    "model": "Reolink Duo 3 WiFi",
+    "hw_ver": "IPC_NT15NA416MPW",
+    "changelog": [
+      "1. Smart AI feature added.",
+      "2. AI alarm performance optimized.",
+      "3. Web version updated.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-04-21 00:00:00+08:00",
+    "sha256_pak": "69c9170d9a9089780631d778ae1ff7c6c6ba781f3831f37dbc5692d092aebf90",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4669_2503101442",
+    "filename": "Reolink_Duo_3_PoE_4669_2503101442",
+    "updated_at": "2025-04-21 18:31:54+08:00",
+    "note": "",
+    "firmware_id": 742,
+    "model": "Reolink Duo 3 PoE",
+    "hw_ver": "IPC_NT15NA416MP",
+    "changelog": [
+      "1. Smart AI feature added.",
+      "2. AI alarm performance optimized.",
+      "3. Web version updated.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-04-21 00:00:00+08:00",
+    "sha256_pak": "40d5ac81bebaf7dcdf871b36027d649afd987bae48ab9c619bdc29231d7ba034",
+    "source": "live"
   }
 ]
