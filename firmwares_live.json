@@ -5335,7 +5335,7 @@
   {
     "version": "v3.1.0.4162_2410252116",
     "filename": "RLC_840A_4162_2410252116",
-    "updated_at": "2024-12-23 12:29:03+08:00",
+    "updated_at": "2025-04-25 11:06:07+08:00",
     "note": "",
     "firmware_id": 701,
     "model": "RLC-840A",
@@ -5343,7 +5343,7 @@
     "changelog": [
       "1. Two-Way Talk performance enhanced.",
       "2. Noise reduction for audio and video improved.",
-      "3. Smart Event Detection feature added.",
+      "3.  Perimeter Protection feature added.",
       "4. Other known bugs resolved."
     ],
     "display_time": "2024-12-23 00:00:00+08:00",
