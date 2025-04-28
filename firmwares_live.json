@@ -6213,5 +6213,41 @@
     "display_time": "2025-04-21 00:00:00+08:00",
     "sha256_pak": "40d5ac81bebaf7dcdf871b36027d649afd987bae48ab9c619bdc29231d7ba034",
     "source": "live"
+  },
+  {
+    "version": "v3.3.0.387_25041745",
+    "filename": "Hub_1BASE_WUNNT6NA5387_25041745U",
+    "updated_at": "2025-04-28 18:05:25+08:00",
+    "note": "",
+    "firmware_id": 745,
+    "model": "Hub 1",
+    "hw_ver": "BASE_WUNNT6NA5",
+    "changelog": [
+      "1. Doorbell and Chime connection supported.",
+      "2. Time-lapse recording for Altas PT Ultra supported.",
+      "3. Repeater connection supported.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-04-28 00:00:00+08:00",
+    "sha256_pak": "937109c1051f4a9177f6f635c440299ad3da0910098b244b929d84883113a907",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.387_25041772",
+    "filename": "Hub_1BASE_WENNT6NA5387_25041772E",
+    "updated_at": "2025-04-28 18:05:13+08:00",
+    "note": "",
+    "firmware_id": 746,
+    "model": "Hub 1",
+    "hw_ver": "BASE_WENNT6NA5",
+    "changelog": [
+      "1. Doorbell and Chime connection supported.",
+      "2. Time-lapse recording for Altas PT Ultra supported.",
+      "3. Repeater connection supported.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-04-28 00:00:00+08:00",
+    "sha256_pak": "424885077646c9f2f1b4ab8876d9e1af838aea6fededfa2061e780f01cfd5b26",
+    "source": "live"
   }
 ]

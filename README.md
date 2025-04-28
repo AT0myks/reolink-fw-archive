@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 645
+Total: 647
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -868,6 +868,27 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.1901_23032202](https://drive.google.com/uc?id=1Z82fGjHO9l_yy9f5iH1jdLzjXZFy8s4x&confirm=t) | 2023‑03‑22 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
+
+</details>
+
+<details>
+  <summary>Hub 1 (NVR)</summary>
+
+  ### BASE_WENNT6NA5
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.387_25041772](https://home-cdn.reolink.us/wp-content/uploads/2025/04/280959311745834371.438.zip?download_name=Hub_1BASE_WENNT6NA5387_25041772E.zip) | 2025‑04‑17 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
+
+  ### BASE_WUNNT6NA5
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.387_25041745](https://home-cdn.reolink.us/wp-content/uploads/2025/04/280945431745833543.8374.zip?download_name=Hub_1BASE_WUNNT6NA5387_25041745U.zip) | 2025‑04‑17 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 

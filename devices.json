@@ -1886,5 +1886,24 @@
         "title": "IPC_NT15NA416MP"
       }
     ]
+  },
+  {
+    "id": 227,
+    "title": "Hub 1",
+    "type": "NVR",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 371,
+        "title": "BASE_WENNT6NA5"
+      },
+      {
+        "id": 372,
+        "title": "BASE_WUNNT6NA5"
+      }
+    ]
   }
 ]
