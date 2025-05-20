@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 648
+Total: 649
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1946,10 +1946,11 @@ Version | Date | Changes | Notes
 
   ### IPC_56064M8MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4695_2503141937](https://home-cdn.reolink.us/wp-content/uploads/2025/05/200256051747709765.0649.zip?download_name=RLC_820A_250314.zip) | 2025‑03‑14 | Other known bugs resolved. | 
 [v3.1.0.4054_2409131254](https://home-cdn.reolink.us/wp-content/uploads/2024/09/200233471726799627.6589.zip?download_name=RLC_820A_4054_2409131254.zip) | 2024‑09‑13 | <ol><li>Optimize encoding and image parameter configuration</li><li>Add webhook function</li><li>Optimize image effect</li></ol> | 
 [v3.1.0.2368_23062508](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110430021691728202.6612.zip?download_name=RLC_820A_2368_23062508.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
 

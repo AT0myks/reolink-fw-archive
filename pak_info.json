@@ -22464,5 +22464,41 @@
     ],
     "model_id": 185,
     "hw_ver_id": 311
+  },
+  "e975ba095fe11fac8911839e1693acca22191d07928dff69d39669aef0176bcf": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_56064M8MP",
+      "board_name": "IPC_56064M8MP",
+      "build_date": "250314",
+      "display_type_info": "RLC-820A",
+      "detail_machine_type": "IPC_56064M8MP",
+      "type": "IPC",
+      "version_file": "4695_2503141937",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 25 2025 - 20:13:13 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Tue Feb 11 21:49:09 CST 2025",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/05/200256051747709765.0649.zip"
+    ],
+    "model_id": 18,
+    "hw_ver_id": 310
   }
 }
