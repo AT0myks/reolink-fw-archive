@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 649
+Total: 650
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2140,10 +2140,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4731_2503212217](https://home-cdn.reolink.us/wp-content/uploads/2025/05/260925351748251535.4205.zip?download_name=RLC_840A_4731_2503212217.zip) | 2025‑03‑21 | <ol><li>Two-way talk performance enhanced.</li><li>H.265/H.264 switching supported for both main and sub streams.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4162_2410252116](https://home-cdn.reolink.us/wp-content/uploads/2024/12/230428541734928134.2539.zip?download_name=RLC_840A_4162_2410252116.zip) | 2024‑10‑25 | <ol><li>Two-Way Talk performance enhanced.</li><li>Noise reduction for audio and video improved.</li><li>Perimeter Protection feature added.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3953_2409059414](https://home-cdn.reolink.us/wp-content/uploads/2024/09/140704371726297477.5627.zip?download_name=RLC_840A_v31039532409059414_IPC_NT2NA48MP.zip) | 2024‑09‑05 | <ol><li>Add webhook.</li><li>Optimize HTTPS.</li><li>Improve ONVIF functionality.</li><li>Enhance RTSP connection.</li><li>Fix bug in corridor mode.</li><li>Improve anti-flicker.</li></ol> | 
 
