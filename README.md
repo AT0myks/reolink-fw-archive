@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 650
+Total: 653
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1857,10 +1857,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560B158MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4695_2504301440](https://home-cdn.reolink.us/wp-content/uploads/2025/06/050426031749097563.0274.zip?download_name=RLC_811A_250430.zip) | 2025‑04‑30 | Other known bugs resolved. | 
 [v3.1.0.3485_2405084342](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220653521716360832.9706.zip?download_name=RLC_811A_3485_2405084342.zip) | 2024‑05‑08 | <ol><li>Optimize image parameters</li><li>Solve other known issues</li></ol> | 
 
 </details>
@@ -2190,10 +2191,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4695_2505052209](https://home-cdn.reolink.us/wp-content/uploads/2025/06/050425161749097516.058.zip?download_name=RLC_843A_250505.zip) | 2025‑05‑05 | Other known bugs resolved. | 
 [v3.1.0.3633_2406134111](https://home-cdn.reolink.us/wp-content/uploads/2024/07/271003231722074603.6578.zip?download_name=RLC_843A_3633_2406134111.zip) | 2024‑06‑13 | <ol><li>Optimize the day and night switching effect</li><li>Solve other known bugs</li></ol> | 
 
 </details>
@@ -2207,10 +2209,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4695_2505052213](https://home-cdn.reolink.us/wp-content/uploads/2025/06/050424131749097453.3853.zip?download_name=RLC_843WA_250505.zip) | 2025‑05‑05 | Other known bugs resolved | 
 [v3.1.0.3633_2409231412](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091006151733738775.0607.zip?download_name=RLC_843WA_240923.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3633_2406134151](https://home-cdn.reolink.us/wp-content/uploads/2024/07/270954211722074061.7206.zip?download_name=RLC_843WA_3633_2406134151.zip) | 2024‑06‑13 | <ol><li>Optimize the day and night switching effect</li><li>Solve other known bugs</li></ol> | 
 
