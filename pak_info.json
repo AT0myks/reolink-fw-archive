@@ -22644,5 +22644,113 @@
     ],
     "model_id": 136,
     "hw_ver_id": 338
+  },
+  "695872f5a19bd55fe17aa09d12d6884804dda218d01c4bf5c769cd562cf2e73b": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT15NA416MP",
+      "board_name": "IPC_NT15NA416MP",
+      "build_date": "250507",
+      "display_type_info": "Reolink Duo 3V PoE",
+      "detail_machine_type": "IPC_NT15NA416MP",
+      "type": "IPC",
+      "version_file": "4867_2505072123",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jul 24 2024 - 12:11:14 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Jan 3 17:38:57 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/06/100322061749525726.2417.zip"
+    ],
+    "model_id": 226,
+    "hw_ver_id": 370
+  },
+  "6c68a7d0f0bacebae1dcceed42652606215400d346271e8babdc1d55091ee77d": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT15NA416MPW",
+      "board_name": "IPC_NT15NA416MPW",
+      "build_date": "250507",
+      "display_type_info": "Reolink Duo 3 WiFi",
+      "detail_machine_type": "IPC_NT15NA416MPW",
+      "type": "IPC",
+      "version_file": "4867_2505072126",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Sep 26 2024 - 18:41:15 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Jan 3 17:38:57 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/06/100321021749525662.2492.zip"
+    ],
+    "model_id": 220,
+    "hw_ver_id": 362
+  },
+  "1668c9df546b238de2a47c422d73555761cf4812af50fbb67dc2b6f5402bc235": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT15NA416MP",
+      "board_name": "IPC_NT15NA416MP",
+      "build_date": "250507",
+      "display_type_info": "Reolink Duo 3 PoE",
+      "detail_machine_type": "IPC_NT15NA416MP",
+      "type": "IPC",
+      "version_file": "4867_2505072124",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jul 24 2024 - 12:11:14 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Jan 3 17:38:57 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/06/100319361749525576.1062.zip"
+    ],
+    "model_id": 200,
+    "hw_ver_id": 369
   }
 }

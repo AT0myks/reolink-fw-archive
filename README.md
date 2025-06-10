@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 653
+Total: 656
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2529,10 +2529,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT15NA416MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4867_2505072124](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100319361749525576.1062.zip?download_name=Reolink_Duo_3_PoE_2505072124.zip) | 2025‑05‑07 | <ol><li>Smart AI feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101442](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211031041745231464.2044.zip?download_name=Reolink_Duo_3_PoE_4669_2503101442.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
@@ -2542,10 +2543,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT15NA416MPW
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4867_2505072126](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100321021749525662.2492.zip?download_name=Reolink_Duo_3_WiFi_2505072126.zip) | 2025‑05‑07 | <ol><li>Smart AI feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101444](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211029231745231363.3509.zip?download_name=Reolink_Duo_3_WiFi_4669_2503101444.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4518_2501071706](https://home-cdn.reolink.us/wp-content/uploads/2025/01/140339231736825963.0423.zip?download_name=Reolink_Duo_3_WiFi_4518_2501071706.zip) | 2025‑01‑07 | <ol><li>Wi-Fi performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 
@@ -2554,12 +2556,15 @@ Version | Date | Changes | Notes
 <details>
   <summary>Reolink Duo 3V PoE</summary>
 
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2024/10/Duo-3V-PoE.png" width="150">
+
   ### IPC_NT15NA416MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4867_2505072123](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100322061749525726.2417.zip?download_name=Reolink_Duo_3V_PoE_2505072123.zip) | 2025‑05‑07 | <ol><li>Smart AI feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101441](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211027261745231246.8398.zip?download_name=Reolink_Duo_3V_PoE_4669_2503101441.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
