@@ -6502,5 +6502,285 @@
     "display_time": "2025-06-13 00:00:00+08:00",
     "sha256_pak": "3084cbf9aec490675f5c2be4534a65db6f8f922284ae6b3e9bdbe9332f17f21f",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4713_2503191384",
+    "filename": "E430_4713_2503191384",
+    "updated_at": "2025-06-13 16:49:02+08:00",
+    "note": "",
+    "firmware_id": 779,
+    "model": "Lumus Series E430",
+    "hw_ver": "IPC_NT1NO24MP",
+    "changelog": [
+      "1. Wi-Fi connection process streamlined.",
+      "2. Day-to-night transition effect improved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "00d847aaf628b790bfebcb528e23b3b681bf8760e18edf919f51cfb65f12e6b6",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4348_2411261894",
+    "filename": "W330_4348_2411261894",
+    "updated_at": "2025-06-13 16:43:00+08:00",
+    "note": "",
+    "firmware_id": 778,
+    "model": "W330",
+    "hw_ver": "IPC_MS2NA48MP",
+    "changelog": [
+      "1. Two-way Audio feature enhanced.",
+      "2. Smart Detection feature improved.",
+      "3. Push notification feature enhanced.",
+      "4. Cloud service and Cloud File Encryption feature added.",
+      "5. Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "ec339e8270591e2ee56813b70785f0ff38701954c025706fb1cad2e2736d10bc",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4348_2411261179",
+    "filename": "W320_4348_2411261179",
+    "updated_at": "2025-06-13 16:37:05+08:00",
+    "note": "",
+    "firmware_id": 777,
+    "model": "W320",
+    "hw_ver": "IPC_MS1NA45MP",
+    "changelog": [
+      "1. Camera security improved.",
+      "2. Overall camera performance optimized."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "7fc397fcefeb20fb9355e2ab1a12191842fea8dcba8a7ab05259f93c78cfcb33",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4366_2412021483",
+    "filename": "E540_4366_2412021483",
+    "updated_at": "2025-06-13 16:29:09+08:00",
+    "note": "",
+    "firmware_id": 776,
+    "model": "E Series E540",
+    "hw_ver": "IPC_566SD85MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "942a4575bc55e41f158c98c3909c6c1f27998eebcb3e1a337faf1dc7061536d1",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4417_2412122179",
+    "filename": "E340_4417_2412122179",
+    "updated_at": "2025-06-13 16:23:15+08:00",
+    "note": "",
+    "firmware_id": 773,
+    "model": "E Series E340",
+    "hw_ver": "IPC_566SD664M5MP",
+    "changelog": [
+      "1. Privacy Mode added.",
+      "2. Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "1cd09291e05ce5a9a7ec11f86a4d695e9a11ccadb675cf86d898758d9f53b472",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4255_2411271223",
+    "filename": "Trackmix_Series_W760_v3004255_2411271223_IPC_529SD78MP",
+    "updated_at": "2025-06-13 16:23:59+08:00",
+    "note": "",
+    "firmware_id": 774,
+    "model": "TrackMix Series W760",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "The first version"
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "388af351892c9ab8f65e51b264cd9dafbd64279208796cd962540dd52f1aeef0",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4255_2411271221",
+    "filename": "TrackMix_Series_P760_v3004255_2411271221_IPC_529SD78MP",
+    "updated_at": "2025-06-13 16:26:00+08:00",
+    "note": "",
+    "firmware_id": 775,
+    "model": "TrackMix Series P760",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "The first version"
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "971979f2a05aa5153d4a16f2d0b0307573b4cddcb32b805ecd890db30da04650",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4450_2412236463",
+    "filename": "E320_4450_2412236463",
+    "updated_at": "2025-06-13 15:36:55+08:00",
+    "note": "",
+    "firmware_id": 772,
+    "model": "E Series E320",
+    "hw_ver": "IPC_561SD53MP",
+    "changelog": [
+      "Solve some known bugs"
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2025/06/130736271749800187.4193.zip",
+    "error": "Unknown algo 11",
+    "source": "live",
+    "model_id": 244,
+    "hw_ver_id": 390
+  },
+  {
+    "version": "v3.0.0.4867_2505072125",
+    "filename": "P750_4867_2505072125",
+    "updated_at": "2025-06-13 15:27:46+08:00",
+    "note": "",
+    "firmware_id": 771,
+    "model": "Duo Series P750",
+    "hw_ver": "IPC_NT15NA416MP",
+    "changelog": [
+      "1.Smart AI feature added.",
+      "2.Connection with third-party platforms enhanced.",
+      "3.Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "f861fa8981dcd1305987f456ffc9789034f64f6a1d924cdbc5ecfb7a9aed1d44",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.369_24120281",
+    "filename": "Hub_P1_BASE_WENNT3NA5369_24120281E",
+    "updated_at": "2025-06-13 15:24:22+08:00",
+    "note": "",
+    "firmware_id": 760,
+    "model": "Hub P1",
+    "hw_ver": "BASE_WENNT3NA5",
+    "changelog": [
+      "The first version"
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "77b9fc8b957135275344abd7a0e8ac018814a7ec2c5b67ce4383d1c6b4d10d7b",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.369_24120256",
+    "filename": "Hub_P1_BASE_WUNNT3NA5369_24120256U",
+    "updated_at": "2025-06-13 15:22:49+08:00",
+    "note": "",
+    "firmware_id": 761,
+    "model": "Hub P1",
+    "hw_ver": "BASE_WUNNT3NA5",
+    "changelog": [
+      "The first version"
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "03967a7b52a892d30ec6a7e4e4240b906202911951b99a6c8f52e2e67412c5bc",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4731_2503212218",
+    "filename": "P337_4731_2503212218",
+    "updated_at": "2025-06-13 15:15:50+08:00",
+    "note": "",
+    "firmware_id": 770,
+    "model": "P337",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "1. Two-way talk performance enhanced.",
+      "2. H.265/H.264 switching supported for both main and sub streams.",
+      "3. Web version updated.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "ee2dab3e81f966b2116a3726c445e5fadff67ed9169104d87fcc646eeb1afe52",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4695_2505052214",
+    "filename": "W437_4695_2505052214",
+    "updated_at": "2025-06-13 15:05:07+08:00",
+    "note": "",
+    "firmware_id": 768,
+    "model": "W437",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "bf035af857975b879793b7f6ca7c126104b245e677b2bfa06fb70b4eef5d1929",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4695_2505052210",
+    "filename": "P437_4695_2505052210",
+    "updated_at": "2025-06-13 15:07:59+08:00",
+    "note": "",
+    "firmware_id": 769,
+    "model": "P437",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "1576e2e90db96a9d83b41f1ed73ce6626c1d11b10ae8aa7f6c9923794e3d78c5",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4428_2412183532",
+    "filename": "F750W_4428_2412183532",
+    "updated_at": "2025-06-13 14:53:04+08:00",
+    "note": "",
+    "firmware_id": 767,
+    "model": "Floodlight Series F750W",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Added support for Reolink Cloud Service.",
+      "2.Optimized the image stitching performance.",
+      "3.Fixed some known bugs."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "918bd8eaffeb77f2689125399793111d361190df912a673d8ef79d0f29efc81e",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4428_2412183419",
+    "filename": "W730_4428_2412183419",
+    "updated_at": "2025-06-13 14:44:11+08:00",
+    "note": "",
+    "firmware_id": 766,
+    "model": "Duo Series W730",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Added support for Reolink Cloud Service.",
+      "2.Optimized the image stitching performance.",
+      "3.Fixed some known bugs."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "ea6c8d3e41bb06011c427bca00d9f1f6c6299215d2f945da0a382e2c0bc29481",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3471_2406115760",
+    "filename": "P730_3471_2406115760",
+    "updated_at": "2025-06-13 14:40:48+08:00",
+    "note": "",
+    "firmware_id": 765,
+    "model": "Duo Series P730",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1. Add Bitrate Mode function",
+      "2. Optimize smart detection",
+      "3. The https function is disabled by default",
+      "4. Support webhook function on web browser",
+      "5. Optimize day and night switching effect",
+      "6. Add audio noise reduction function",
+      "7. Solve other known bugs"
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "1985b8c80a7dfd7c4fde86fb2bb1ffaa7e04cf407f3c611dabce27bc4903b2ce",
+    "source": "live"
   }
 ]

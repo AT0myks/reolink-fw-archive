@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 663
+Total: 679
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -624,6 +624,71 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>Duo Series P730</summary>
+
+  ### IPC_529B17B8MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.3471_2406115760](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130640271749796827.481.zip?download_name=P730_3471_2406115760.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Duo Series P750</summary>
+
+  ### IPC_NT15NA416MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4867_2505072125](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130727261749799646.0323.zip?download_name=P750_4867_2505072125.zip) | 2025‑05‑07 | <ol><li>Smart AI feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Duo Series W730</summary>
+
+  ### IPC_529B17B8MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4428_2412183419](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130643561749797036.1692.zip?download_name=W730_4428_2412183419.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>E Series E340</summary>
+
+  ### IPC_566SD664M5MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4417_2412122179](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130811071749802267.6691.zip?download_name=E340_4417_2412122179.zip) | 2024‑12‑12 | <ol><li>Privacy Mode added.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>E Series E540</summary>
+
+  ### IPC_566SD85MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4366_2412021483](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130828551749803335.1628.zip?download_name=E540_4366_2412021483.zip) | 2024‑12‑02 | Other known bugs resolved. | 
+
+</details>
+
+<details>
   <summary>E Series E560P</summary>
 
   ### IPC_560SD88MP
@@ -886,6 +951,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>Floodlight Series F750W</summary>
+
+  ### IPC_529B17B8MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4428_2412183532](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130651001749797460.8496.zip?download_name=F750W_4428_2412183532.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
+
+</details>
+
+<details>
   <summary>Hub 1 (NVR)</summary>
 
   ### BASE_WENNT6NA5
@@ -903,6 +981,40 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.387_25041745](https://home-cdn.reolink.us/wp-content/uploads/2025/04/280945431745833543.8374.zip?download_name=Hub_1BASE_WUNNT6NA5387_25041745U.zip) | 2025‑04‑17 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Hub P1 (NVR)</summary>
+
+  ### BASE_WENNT3NA5
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.369_24120281](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130723271749799407.3691.zip?download_name=Hub_P1_BASE_WENNT3NA5369_24120281E.zip) | 2024‑12‑02 | The first version | 
+
+  ### BASE_WUNNT3NA5
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.369_24120256](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130721391749799299.3215.zip?download_name=Hub_P1_BASE_WUNNT3NA5369_24120256U.zip) | 2024‑12‑02 | The first version | 
+
+</details>
+
+<details>
+  <summary>Lumus Series E430</summary>
+
+  ### IPC_NT1NO24MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4713_2503191384](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130848441749804524.0686.zip?download_name=E430_4713_2503191384.zip) | 2025‑03‑19 | <ol><li>Wi-Fi connection process streamlined.</li><li>Day-to-night transition effect improved.</li></ol> | 
 
 </details>
 
@@ -1027,6 +1139,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>P337</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4731_2503212218](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130715411749798941.4617.zip?download_name=P337_4731_2503212218.zip) | 2025‑03‑21 | <ol><li>Two-way talk performance enhanced.</li><li>H.265/H.264 switching supported for both main and sub streams.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
   <summary>P430</summary>
 
   ### IPC_560B158MP
@@ -1036,6 +1161,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4695_2504301441](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130247271749782847.4879.zip?download_name=P430_4695_2504301441.zip) | 2025‑04‑30 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>P437</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4695_2505052210](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130707361749798456.1464.zip?download_name=P437_4695_2505052210.zip) | 2025‑05‑05 | Other known bugs resolved. | 
 
 </details>
 
@@ -2958,6 +3096,32 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>TrackMix Series P760</summary>
+
+  ### IPC_529SD78MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4255_2411271221](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130824401749803080.8753.zip?download_name=TrackMix_Series_P760_v3004255_2411271221_IPC_529SD78MP.zip) | 2024‑11‑27 | The first version | 
+
+</details>
+
+<details>
+  <summary>TrackMix Series W760</summary>
+
+  ### IPC_529SD78MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4255_2411271223](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130817241749802644.0352.zip?download_name=Trackmix_Series_W760_v3004255_2411271223_IPC_529SD78MP.zip) | 2024‑11‑27 | The first version | 
+
+</details>
+
+<details>
   <summary>V800W</summary>
 
   ### IPC_NT2NO28MP
@@ -2967,6 +3131,45 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.3114_2407022284](https://home-cdn.reolink.us/wp-content/uploads/2024/07/041123151720092195.4364.zip?download_name=V800W_3114_2407022284.zip) | 2024‑07‑02 | 1. Resolve known bugs | 
+
+</details>
+
+<details>
+  <summary>W320</summary>
+
+  ### IPC_MS1NA45MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4348_2411261179](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130836511749803811.4835.zip?download_name=W320_4348_2411261179.zip) | 2024‑11‑26 | <ol><li>Camera security improved.</li><li>Overall camera performance optimized.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>W330</summary>
+
+  ### IPC_MS2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4348_2411261894](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130842501749804170.0482.zip?download_name=W330_4348_2411261894.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>W437</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4695_2505052214](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130704581749798298.4633.zip?download_name=W437_4695_2505052214.zip) | 2025‑05‑05 | Other known bugs resolved. | 
 
 </details>
 

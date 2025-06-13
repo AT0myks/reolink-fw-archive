@@ -2010,5 +2010,249 @@
         "title": "IPC_NT2NA48MPSD12"
       }
     ]
+  },
+  {
+    "id": 251,
+    "title": "Lumus Series E430",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 397,
+        "title": "IPC_NT1NO24MP"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "title": "W330",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 396,
+        "title": "IPC_MS2NA48MP"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "title": "W320",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 395,
+        "title": "IPC_MS1NA45MP"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "title": "E Series E540",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 394,
+        "title": "IPC_566SD85MP"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "title": "E Series E340",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 393,
+        "title": "IPC_566SD664M5MP"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "title": "TrackMix Series W760",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 392,
+        "title": "IPC_529SD78MP"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "title": "TrackMix Series P760",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 391,
+        "title": "IPC_529SD78MP"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "title": "E Series E320",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 390,
+        "title": "IPC_561SD53MP"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "title": "Duo Series P750",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 389,
+        "title": "IPC_NT15NA416MP"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Hub P1",
+    "type": "NVR",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 387,
+        "title": "BASE_WENNT3NA5"
+      },
+      {
+        "id": 388,
+        "title": "BASE_WUNNT3NA5"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "title": "P337",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 386,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "title": "W437",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 384,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "title": "P437",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 385,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Floodlight Series F750W",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 383,
+        "title": "IPC_529B17B8MP"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Duo Series W730",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 381,
+        "title": "IPC_529B17B8MP"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Duo Series P730",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 382,
+        "title": "IPC_529B17B8MP"
+      }
+    ]
   }
 ]
