@@ -6393,5 +6393,114 @@
     "display_time": "2025-06-10 00:00:00+08:00",
     "sha256_pak": "1668c9df546b238de2a47c422d73555761cf4812af50fbb67dc2b6f5402bc235",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4020_2409116881",
+    "filename": "E_Series_E560P_4020_2409116881",
+    "updated_at": "2025-06-13 12:15:12+08:00",
+    "note": "",
+    "firmware_id": 764,
+    "model": "E Series E560P",
+    "hw_ver": "IPC_560SD88MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "12d395acedb9c14ee260e6527146a54b7dc0acec02aa6ad9602bffb311b02245",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4695_2504024454",
+    "filename": "P324_4695_2504024454",
+    "updated_at": "2025-06-13 11:40:13+08:00",
+    "note": "",
+    "firmware_id": 763,
+    "model": "P324",
+    "hw_ver": "IPC_NT1NA45MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "6bef7784f0b84f4046499e2540c0beecaeac07285b3c235cadb459fd7e959d4d",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.3646_2406143592",
+    "filename": "P320_3646_2406143592",
+    "updated_at": "2025-06-13 11:31:13+08:00",
+    "note": "",
+    "firmware_id": 762,
+    "model": "P320",
+    "hw_ver": "IPC_NT1NA45MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "1cb937dda222bde1baf922c03bd2e0f5f9a5a952975b4dfb6e4326446df11d66",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4666_2503071925",
+    "filename": "P334_4666_2503071925",
+    "updated_at": "2025-06-13 11:00:29+08:00",
+    "note": "",
+    "firmware_id": 759,
+    "model": "P334",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "eb703bfc0712971624f0ed265bb91925d5dc71469c3a6b4b18641395302e8ace",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4054_2409141128",
+    "filename": "P330_4054_2409141128",
+    "updated_at": "2025-06-13 10:57:41+08:00",
+    "note": "",
+    "firmware_id": 758,
+    "model": "P330",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "7db2fb0bbe7151b3b2dc6bcb904ea2181ab80b1e9d4ebf8c16ee7e9c40011cdd",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4695_2504301441",
+    "filename": "P430_4695_2504301441",
+    "updated_at": "2025-06-13 10:48:38+08:00",
+    "note": "",
+    "firmware_id": 757,
+    "model": "P430",
+    "hw_ver": "IPC_560B158MP",
+    "changelog": [
+      "Other known bugs resolved."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "46d07308aecf1a40901095f9af8e4f8d657ebc20f424a1339d8f3e60b0081c1e",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4366_24121219",
+    "filename": "P850_4366_24121219",
+    "updated_at": "2025-06-13 10:42:26+08:00",
+    "note": "",
+    "firmware_id": 756,
+    "model": "P850",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "Tracking added in patrol mode.",
+      "Surveillance settings added in patrol mode.",
+      "Audio noise reduction configuration enabled.",
+      "Focusing speed improved.",
+      "RED certification integrated."
+    ],
+    "display_time": "2025-06-13 00:00:00+08:00",
+    "sha256_pak": "3084cbf9aec490675f5c2be4534a65db6f8f922284ae6b3e9bdbe9332f17f21f",
+    "source": "live"
   }
 ]

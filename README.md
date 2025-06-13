@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 656
+Total: 663
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -624,6 +624,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>E Series E560P</summary>
+
+  ### IPC_560SD88MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4020_2409116881](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130414411749788081.5807.zip?download_name=E_Series_E560P_4020_2409116881.zip) | 2024‑09‑11 | Other known bugs resolved. | 
+
+</details>
+
+<details>
   <summary>E1</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/assets/2019/05/e1-pro-400.png" width="150">
@@ -958,6 +971,84 @@ Version | Date | Changes | Notes
 [v3.5.1.368_24120243](https://home-cdn.reolink.us/wp-content/uploads/2024/12/090349141733716154.5435.zip?download_name=NVS8_v351368_24120243_N7MB01.zip) | 2024‑12‑02 | <ol><li>User interactions optimized and upgraded.</li><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Event History feature added.</li><li>HyBridge Mode added.</li><li>Pattern Unlock feature added.</li><li>Screen resolution recommendation added for HDMI display (monitor support required).</li><li>Safe Ejection feature for USB drives added.</li><li>Network Topology page added.</li><li>Configurations retained by default during version upgrade (option to retain UID).</li><li>Physical keyboard support added (limited to English and numeric input).</li><li>Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).</li><li>Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE</li><li>Wireless chime pairing added for battery doorbell.</li><li>Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.</li><li>Setup wizard optimized.</li><li>Live view interface optimized.</li><li>Network settings interface optimized.</li><li>Email feature interface and interactions optimized.</li><li>Video loss push notification disabled.</li><li>Fixed issue with camera name changes not applying reliably in Reolink App.</li><li>Web client updated.</li><li>Other known bugs fixed.</li></ol> | 
 [v3.4.0.304_24031819](https://home-cdn.reolink.us/wp-content/uploads/2024/04/080154531712541293.6992.zip?download_name=NVS8_304_24031819.zip) | 2024‑03‑18 | <ol><li>Add Motion Mark.</li><li>Preview and playback in full screen support mode selection: Full-Frame mode, 1:1 mode, Panning mode.</li><li>When DUO 3 PoE is added, the preview layout will be automatically adjusted to make sure that the camera shows two lenses (under expanded mode).</li><li>Solved other known bugs.</li><li>Optimize the interface and interaction.</li></ol> | 
 [v3.3.0.282_23103129](https://home-cdn.reolink.us/wp-content/uploads/2024/02/190756371708329397.3966.zip?download_name=NVS8_282_23103129.zip) | 2023‑10‑31 | <ol><li>Optimize the interface and interaction.</li><li>Support setting up Night Mode Focus Enhancement for the camera RLC-823A-16X.</li><li>Support setting up Bining Mode for 12MP cameras (only for cetain models).</li><li>Support setting up spolight mode and HDR for cameras like CX410.</li><li>Support Time Lapse.</li><li>Support setting up Interframe Space and Bitrate Mode for cameras.</li><li>Optimize the thumbnail pictures of Horizontal Tracking Range.</li><li>Optimize TrackMix series and the model RLC-81MA when working with the NVR.</li><li>Support upgrading firmware via the Reolink Client for those cameras added to the NVR.</li><li>Support importing HTTPS certicate for the NVR via the Reolink Client.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
+
+</details>
+
+<details>
+  <summary>P320</summary>
+
+  ### IPC_NT1NA45MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3646_2406143592](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130330511749785451.5417.zip?download_name=P320_3646_2406143592.zip) | 2024‑06‑14 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>P324</summary>
+
+  ### IPC_NT1NA45MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4695_2504024454](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130339381749785978.5691.zip?download_name=P324_4695_2504024454.zip) | 2025‑04‑02 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>P330</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4054_2409141128](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130257191749783439.2648.zip?download_name=P330_4054_2409141128.zip) | 2024‑09‑14 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>P334</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4666_2503071925](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130300161749783616.2797.zip?download_name=P334_4666_2503071925.zip) | 2025‑03‑07 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>P430</summary>
+
+  ### IPC_560B158MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4695_2504301441](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130247271749782847.4879.zip?download_name=P430_4695_2504301441.zip) | 2025‑04‑30 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>P850</summary>
+
+  ### IPC_NT2NA48MPSD12
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4366_24121219](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130240311749782431.0823.zip?download_name=P850_4366_24121219.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 
 </details>
 
