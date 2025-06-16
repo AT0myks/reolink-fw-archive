@@ -4373,9 +4373,9 @@
     "source": "live"
   },
   {
-    "version": "v3.4.0..304_24031823",
+    "version": "v3.4.0.304_24031823",
     "filename": "NVS16_304_24031823",
-    "updated_at": "2024-04-08 09:59:28+08:00",
+    "updated_at": "2025-06-16 10:39:42+08:00",
     "note": "",
     "firmware_id": 609,
     "model": "NVS16",
@@ -6781,6 +6781,38 @@
     ],
     "display_time": "2025-06-13 00:00:00+08:00",
     "sha256_pak": "1985b8c80a7dfd7c4fde86fb2bb1ffaa7e04cf407f3c611dabce27bc4903b2ce",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.0.384_25051918",
+    "filename": "NVS8_v360384_25051918_N7MB01",
+    "updated_at": "2025-06-16 11:04:55+08:00",
+    "note": "",
+    "firmware_id": 780,
+    "model": "NVS8",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1.File Encryption feature added.",
+      "2.Home Page for settings added.",
+      "3.6-screen live view supported.",
+      "4.Password recovery via recovery email supported.",
+      "5.Independent USB Flash Drive management page added.",
+      "6.Supported Devices list page added.",
+      "7.Long-press to clear input via soft keyboard enabled.",
+      "8.Device offline status supported.",
+      "9.Dual mouse support added.",
+      "10.Crying Sound Detection feature for some IPC models supported.",
+      "11.UI and interaction experience optimized.",
+      "12.Device sharing from app supported.",
+      "13.Chime mute for doorbells from app supported.",
+      "14.Battery modes for battery-powered doorbells from app supported.",
+      "15.Privacy Mode for some IPC models from app supported.",
+      "16.Smart Event Detection for some IPC models from app supported.",
+      "17.Patrol surveillance for some IPC models like RLC-823S1 from app supported.",
+      "18.Other known bugs resolved."
+    ],
+    "display_time": "2025-06-16 00:00:00+08:00",
+    "sha256_pak": "13932235d17d15d343cdcb7d7ed8d1d2c106a676c218da6c434f556517738636",
     "source": "live"
   }
 ]
