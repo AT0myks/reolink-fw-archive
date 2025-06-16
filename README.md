@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 680
+Total: 682
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2105,10 +2105,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4460_2412192213](https://home-cdn.reolink.us/wp-content/uploads/2025/06/160822091750062129.7723.zip?download_name=RLC_811WA_4460_2412192213.zip) | 2024‑12‑19 | <ol><li>Cloud service and Cloud File Encryption added.</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3927_2409231464](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091008081733738888.1997.zip?download_name=RLC_811WA_240923.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3485_2405084609](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220651581716360718.6895.zip?download_name=RLC_811WA_3485_2405084609.zip) | 2024‑05‑08 | <ol><li>Optimize image parameters</li><li>Solve other known issues</li></ol> | 
 
@@ -3158,6 +3159,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.4348_2411261894](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130842501749804170.0482.zip?download_name=W330_4348_2411261894.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>W430</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4460_2412192214](https://home-cdn.reolink.us/wp-content/uploads/2025/06/160826171750062377.8411.zip?download_name=W430_4460_2412192214.zip) | 2024‑12‑19 | <ol><li>Cloud service and Cloud File Encryption added.</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 

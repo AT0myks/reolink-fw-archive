@@ -2254,5 +2254,20 @@
         "title": "IPC_529B17B8MP"
       }
     ]
+  },
+  {
+    "id": 252,
+    "title": "W430",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 398,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
   }
 ]

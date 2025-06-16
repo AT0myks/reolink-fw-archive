@@ -6814,5 +6814,39 @@
     "display_time": "2025-06-16 00:00:00+08:00",
     "sha256_pak": "13932235d17d15d343cdcb7d7ed8d1d2c106a676c218da6c434f556517738636",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4460_2412192214",
+    "filename": "W430_4460_2412192214",
+    "updated_at": "2025-06-16 16:26:38+08:00",
+    "note": "",
+    "firmware_id": 782,
+    "model": "W430",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "1. Cloud service and Cloud File Encryption added.",
+      "2. Focusing performance improved.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-06-16 00:00:00+08:00",
+    "sha256_pak": "5c18c16408d46d5213037e486a71d10637c831220d113d9dd261517c96c47689",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4460_2412192213",
+    "filename": "RLC_811WA_4460_2412192213",
+    "updated_at": "2025-06-16 16:22:37+08:00",
+    "note": "",
+    "firmware_id": 781,
+    "model": "RLC-811WA",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "1. Cloud service and Cloud File Encryption added.",
+      "2. Focusing performance improved.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-06-16 00:00:00+08:00",
+    "sha256_pak": "9cfb4d193b6f7d73e4d53b0b362695be82f5d2d3a1aa1862c51c77218ca4f21b",
+    "source": "live"
   }
 ]
