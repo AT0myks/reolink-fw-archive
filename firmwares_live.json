@@ -6848,5 +6848,73 @@
     "display_time": "2025-06-16 00:00:00+08:00",
     "sha256_pak": "9cfb4d193b6f7d73e4d53b0b362695be82f5d2d3a1aa1862c51c77218ca4f21b",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.4885_25051907",
+    "filename": "W840_4885_25051907",
+    "updated_at": "2025-06-17 14:52:27+08:00",
+    "note": "",
+    "firmware_id": 783,
+    "model": "W840",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.",
+      "2. H.265/H.264 switching supported.",
+      "3. Cloud service and Cloud File Encryption feature added."
+    ],
+    "display_time": "2025-06-17 00:00:00+08:00",
+    "sha256_pak": "5f01c0864052a70f24e5bbce33e4fe1d9b09dc02855d4433ce425f5402163555",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4885_25051905",
+    "filename": "P840_4885_25051905",
+    "updated_at": "2025-06-17 14:53:44+08:00",
+    "note": "",
+    "firmware_id": 784,
+    "model": "P840",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.",
+      "2. H.265/H.264 switching supported.",
+      "3. Cloud service and Cloud File Encryption feature added."
+    ],
+    "display_time": "2025-06-17 00:00:00+08:00",
+    "sha256_pak": "6dbf8f1115bbe0c5751ab362eca23d14305508586d3eb91654ab810abbe4117c",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4885_25051906",
+    "filename": "RLC_823S1W_4885_25051906",
+    "updated_at": "2025-06-17 15:01:07+08:00",
+    "note": "",
+    "firmware_id": 786,
+    "model": "RLC-823S1W",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.",
+      "2. H.265/H.264 switching supported.",
+      "3. Cloud service and Cloud File Encryption feature added."
+    ],
+    "display_time": "2025-06-17 00:00:00+08:00",
+    "sha256_pak": "b2381b53dd09522a44fa73db8afb3754e7213e3c691e8b31cd9bfe05431257f1",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4885_25051904_v1.0.0.146",
+    "filename": "RLC_823S1_4885_25051904",
+    "updated_at": "2025-06-17 14:59:43+08:00",
+    "note": "",
+    "firmware_id": 785,
+    "model": "RLC-823S1",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.",
+      "2. H.265/H.264 switching supported.",
+      "3. Cloud service and Cloud File Encryption feature added."
+    ],
+    "display_time": "2025-06-17 00:00:00+08:00",
+    "sha256_pak": "a9425c3f459dad26b23eac924a98b8f4639e900d207b256396e211886a9b5e66",
+    "source": "live"
   }
 ]

@@ -2269,5 +2269,35 @@
         "title": "IPC_NT2NA48MP"
       }
     ]
+  },
+  {
+    "id": 253,
+    "title": "W840",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 399,
+        "title": "IPC_NT2NA48MPSD12"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "title": "P840",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 377,
+        "title": "IPC_NT2NA48MPSD12"
+      }
+    ]
   }
 ]
