@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 686
+Total: 687
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1015,6 +1015,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4713_2503191384](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130848441749804524.0686.zip?download_name=E430_4713_2503191384.zip) | 2025‑03‑19 | <ol><li>Wi-Fi connection process streamlined.</li><li>Day-to-night transition effect improved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>NVC-D12M</summary>
+
+  ### IPC_NT5NO212MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.3702_2501209008](https://home-cdn.reolink.us/wp-content/uploads/2025/06/180217141750213034.3372.zip?download_name=NVC_D12M_3702_2501209008.zip) | 2025‑01‑20 | Other known bugs resolved. | 
 
 </details>
 

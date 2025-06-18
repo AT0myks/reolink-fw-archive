@@ -2299,5 +2299,20 @@
         "title": "IPC_NT2NA48MPSD12"
       }
     ]
+  },
+  {
+    "id": 254,
+    "title": "NVC-D12M",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 400,
+        "title": "IPC_NT5NO212MP"
+      }
+    ]
   }
 ]

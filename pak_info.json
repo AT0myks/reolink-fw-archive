@@ -23828,5 +23828,37 @@
     ],
     "model_id": 207,
     "hw_ver_id": 346
+  },
+  "6e57c6f24cad892fcfb8a3d67415c07bb34eefe31e277479fb024dd12e89a7b1": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT5NO212MP",
+      "board_name": "IPC_NT5NO212MP",
+      "build_date": "250120",
+      "display_type_info": "NVC-D12M",
+      "detail_machine_type": "IPC_NT5NO212MP",
+      "type": "IPC",
+      "version_file": "3702_2501209008",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Dec 23 2021 - 10:42:32 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #2 SMP PREEMPT Wed Mar 8 19:45:25 CST 2023",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/06/180217141750213034.3372.zip"
+    ],
+    "model_id": 254,
+    "hw_ver_id": 400
   }
 }
