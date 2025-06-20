@@ -6047,7 +6047,7 @@
   {
     "version": "v3.6.0.384_25032021",
     "filename": "RLN16_410_v360384_25032021_N6MB01",
-    "updated_at": "2025-05-23 15:25:23+08:00",
+    "updated_at": "2025-06-20 10:06:30+08:00",
     "note": "",
     "firmware_id": 736,
     "model": "RLN16-410 (NVR)",
@@ -6068,7 +6068,7 @@
       "13.Chime mute for doorbells from app supported.",
       "14.Battery modes for battery-powered doorbells from app supported.",
       "15.Privacy Mode for some IPC models from app supported.",
-      "16.Smart Event Detection for some IPC models from app supported.",
+      "16.Perimeter Protection for some IPC models from app supported.",
       "17.Patrol surveillance for some IPC models like RLC-823S1 from app supported.",
       "18.Other known bugs resolved."
     ],
@@ -6079,7 +6079,7 @@
   {
     "version": "v3.6.0.384_25032055",
     "filename": "RLN8_410_v360384_25032055_N7MB01",
-    "updated_at": "2025-05-23 15:25:05+08:00",
+    "updated_at": "2025-06-20 10:06:49+08:00",
     "note": "",
     "firmware_id": 735,
     "model": "RLN8-410 (NVR)",
@@ -6100,7 +6100,7 @@
       "13.Chime mute for doorbells from app supported.",
       "14.Battery modes for battery-powered doorbells from app supported.",
       "15.Privacy Mode for some IPC models from app supported.",
-      "16.Smart Event Detection for some IPC models from app supported.",
+      "16.Perimeter Protection for some IPC models from app supported.",
       "17.Patrol surveillance for some IPC models like RLC-823S1 from app supported.",
       "18.Other known bugs resolved."
     ],
@@ -6786,7 +6786,7 @@
   {
     "version": "v3.6.0.384_25051918",
     "filename": "NVS8_v360384_25051918_N7MB01",
-    "updated_at": "2025-06-16 11:04:55+08:00",
+    "updated_at": "2025-06-20 10:05:20+08:00",
     "note": "",
     "firmware_id": 780,
     "model": "NVS8",
@@ -6807,7 +6807,7 @@
       "13.Chime mute for doorbells from app supported.",
       "14.Battery modes for battery-powered doorbells from app supported.",
       "15.Privacy Mode for some IPC models from app supported.",
-      "16.Smart Event Detection for some IPC models from app supported.",
+      "16.Perimeter Protection for some IPC models from app supported.",
       "17.Patrol surveillance for some IPC models like RLC-823S1 from app supported.",
       "18.Other known bugs resolved."
     ],
