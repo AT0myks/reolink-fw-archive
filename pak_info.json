@@ -23896,5 +23896,41 @@
     ],
     "model_id": 33,
     "hw_ver_id": 292
+  },
+  "ba42648362e934dd4fc91688296cca0566774398fdf5c8bdeb98818e1b92bbb8": {
+    "info": {
+      "firmware_version_prefix": "v3.6.2",
+      "board_type": "NVR_NNT3NA78P",
+      "board_name": "NVR_NNT3NA78P",
+      "build_date": "250618",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "385_25061848",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:14:08 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/06/250253521750820032.6279.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 401
   }
 }

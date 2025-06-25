@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 688
+Total: 689
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2729,6 +2729,14 @@ Version | Date | Changes | Notes
 [v3.3.0.226_23031632](https://home-cdn.reolink.us/wp-content/uploads/2023/03/171053171679050397.8891.zip?download_name=RLN8_410_226_23031632.zip) | 2023‑03‑16 | <ol><li>Optimize the interface and interaction.</li><li>Compatible with fisheye series models.</li><li>Compatible with RLC-81PA model.</li><li>Support configuring auto-tracking and AI audio noise reduction settings for TrackMix series camera.</li><li>Support configuring splicing settings for Duo 2 series.</li><li>Support the 3D positioning function for RLC-823A 16X.</li><li>Support switches to control status light and the visitor button not trigger the horn control for Reolink Doorbell series.</li><li>Optimize privacy mask UI.</li><li>Add login lock function.</li><li>Add downlink port network segment configuration function.</li><li>Add IOT device timing constant light time point sorting.</li><li>Update RTSP.</li><li>Upgrade ONVIF version.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.2.0.218_23011221](https://home-cdn.reolink.us/wp-content/uploads/2023/01/131018291673605109.1073.zip?download_name=RLN8_410_23011221.zip) | 2023‑01‑12 | <ol><li>Optimize the interface and interaction.</li><li>Optimized experience for preview and playback.</li><li>Add the function of keeping video recordings for the latest 1day.</li><li>Adapted to Reolink Video Doorbell.</li><li>Adapted to Reolink Floodlight series cameras.</li><li>Adapted to RLC-81MA models.</li><li>Solved the adaptation problem of TrackMix series and Duo2 series cameras.</li><li>Solved the problem that common users cannot enable push.</li><li>Solved the problem that Doorbell cameras cannot load the audio interface on iOS App when connected to Reolink NVR.</li><li>Solved the problem that the FTP function of the NVR can not be saved when setting it via iOS App.</li><li>Solved the problem that the video section after 00:00(UTC) cannot be searched out when using  the Clip function.</li><li>Optimize network related settings.</li><li>Update web client.</li><li>Solved other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.0.0.211_22102113](https://home-cdn.reolink.us/wp-content/uploads/2022/10/240908121666602492.1096.zip?download_name=RLN8_410_22102113.zip) | 2022‑10‑21 | <ol><li>Optimize the interface and interaction.</li><li>Support RTSP url access with the h264 field.</li><li>Update web client.</li><li>Add the function of keeping video recordings for the latest 2days, 3days, 7 days, 14 days and 30 days.</li><li>Added three full-screen playback modes for TrackMix series.</li><li>Added person, vehicle and pet options for Spotlight Auto Night mode.</li><li>Added configuration options of Fixed Frame Rate and Auto Frame Rate.</li><li>Solved the adaptation problem of TrackMix series and Duo 2 series.</li><li>Added interface copywriting to solve interface text errors.</li><li>Fix other known bugs.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
+
+  ### NVR_NNT3NA78P
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.6.2.385_25061848](https://home-cdn.reolink.us/wp-content/uploads/2025/06/250253521750820032.6279.zip?download_name=RLN8_410_v362385_25061848_NVR_NNT3NA78P.zip) | 2025‑06‑18 | <ol><li>Parameter settings for smart features adjusted.</li><li>New AI categories added for push notifications.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
