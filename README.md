@@ -1027,7 +1027,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.3702_2501209008](https://home-cdn.reolink.us/wp-content/uploads/2025/06/180217141750213034.3372.zip?download_name=NVC_D12M_3702_2501209008.zip) | 2025‑01‑20 | Other known bugs resolved. | 
+[v3.1.0.3702_2501209008](https://home-cdn.reolink.us/wp-content/uploads/2025/06/180217141750213034.3372.zip?download_name=NVC_D12M_3702_2501209008.zip) | 2025‑01‑20 | <ol><li>Update watermark Reolink logo</li><li>Support motion mark</li><li>Fix some software bugs</li></ol> | 
 
 </details>
 
