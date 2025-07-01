@@ -6982,5 +6982,50 @@
     "display_time": "2025-06-25 00:00:00+08:00",
     "sha256_pak": "ba42648362e934dd4fc91688296cca0566774398fdf5c8bdeb98818e1b92bbb8",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.2379_2412249791",
+    "filename": "D500_2379_2412249791",
+    "updated_at": "2025-07-01 12:09:08+08:00",
+    "note": "",
+    "firmware_id": 790,
+    "model": "D500",
+    "hw_ver": "IPC_515B8M5M_V2",
+    "changelog": [
+      "1.Other known bugs resolved."
+    ],
+    "display_time": "2025-07-01 00:00:00+08:00",
+    "sha256_pak": "72b9f264e9436154c43b7fecbd94135e67cabf7c8ec8287a9746a678eb4a5b73",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4057_2409132132",
+    "filename": "D800_4057_2409132132",
+    "updated_at": "2025-07-01 12:10:58+08:00",
+    "note": "",
+    "firmware_id": 792,
+    "model": "D800",
+    "hw_ver": "IPC_5158M8M_V2",
+    "changelog": [
+      "1.Other known bugs resolved."
+    ],
+    "display_time": "2025-07-01 00:00:00+08:00",
+    "sha256_pak": "60a399f7497f039415d4e39553efa921365100dbaf0b997f158a61112bb2e9d0",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4057_2409132131",
+    "filename": "B800_4057_2409132131",
+    "updated_at": "2025-07-01 12:09:58+08:00",
+    "note": "",
+    "firmware_id": 791,
+    "model": "B800",
+    "hw_ver": "IPC_5158M8M_V2",
+    "changelog": [
+      "1.Other known bugs resolved."
+    ],
+    "display_time": "2025-07-01 00:00:00+08:00",
+    "sha256_pak": "033bf627ed6de98fdc726ac1ddab2795ffd4ae24688d8e6b0dbbee4cbe16edc3",
+    "source": "live"
   }
 ]

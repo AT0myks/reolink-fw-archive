@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 689
+Total: 692
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -267,10 +267,11 @@ Version | Date | Changes | Notes
 
   ### IPC_5158M8M_V2
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4057_2409132131](https://home-cdn.reolink.us/wp-content/uploads/2025/07/010409441751342984.3706.zip?download_name=B800_4057_2409132131.zip) | 2024‑09‑13 | 1.Other known bugs resolved. | 
 [v3.1.0.3702_2407087342](https://home-cdn.reolink.us/wp-content/uploads/2024/07/121110161720782616.943.zip?download_name=B800_3702_2407087342.zip) | 2024‑07‑08 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 [v3.1.0.2379_23062702](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120404371694491477.9399.zip?download_name=B800_v3102379_23062702.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
@@ -588,10 +589,11 @@ Version | Date | Changes | Notes
 
   ### IPC_515B8M5M_V2
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.2379_2412249791](https://home-cdn.reolink.us/wp-content/uploads/2025/07/010409011751342941.4902.zip?download_name=D500_2379_2412249791.zip) | 2024‑12‑24 | 1.Other known bugs resolved. | 
 [v3.1.0.2379_23062901](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120313091694488389.8595.zip?download_name=D500_v3102379_23062901.zip)<br />[v3.1.0.2379_23062901](https://home-cdn.reolink.us/wp-content/uploads/2024/03/210609161711001356.4594.zip?download_name=D500_v3102379_23062901.zip) | 2023‑06‑29 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
 </details>
@@ -605,10 +607,11 @@ Version | Date | Changes | Notes
 
   ### IPC_5158M8M_V2
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4057_2409132132](https://home-cdn.reolink.us/wp-content/uploads/2025/07/010410421751343042.5678.zip?download_name=D800_4057_2409132132.zip) | 2024‑09‑13 | 1.Other known bugs resolved. | 
 [v3.1.0.2379_23062703](https://home-cdn.reolink.us/wp-content/uploads/2023/09/120401221694491282.9054.zip?download_name=D800_v3102379_23062703.zip)<br />[v3.1.0.2379_23062703](https://home-cdn.reolink.us/wp-content/uploads/2024/03/210432321710995552.3232.zip?download_name=D800_v3102379_23062703.zip) | 2023‑06‑27 | <ol><li>Optimize smart detection. Animal detction is added.</li><li>Optimize recording.</li><li>Optimize night vision.</li><li>Optimize the detection zone setting.</li><li>Optimze the Brightness &amp; Shadows setting.</li><li>Optimize some network features and fix some bugs</li></ol> | 
 
   ### IPC_5158MP8M
