@@ -24028,5 +24028,77 @@
     ],
     "model_id": 157,
     "hw_ver_id": 316
+  },
+  "5a4aa651b3223954d02b0a2d3e4d5428ee30c10a624504f718d4d07b126d55a1": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT14NA48MPSD6",
+      "board_name": "IPC_NT14NA48MPSD6",
+      "build_date": "250328",
+      "display_type_info": "E Series E340",
+      "detail_machine_type": "IPC_NT14NA48MPSD6",
+      "type": "IPC",
+      "version_file": "4741_2503281993",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Aug 27 2024 - 09:20:08 +0800)",
+      "uboot_compiler": "arm-ca7-linux-gnueabihf-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.38",
+      "linux_banner": "Linux version 5.10.168 (cys@ubuntu) (arm-ca7-linux-gnueabihf-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Thu Aug 22 20:29:51 CST 2024",
+      "board": "Novatek NS02301",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/040244201751597060.9616.zip"
+    ],
+    "model_id": 247,
+    "hw_ver_id": 403
+  },
+  "3293802b0b7679c47e385e10b08c90f1d2f9b91295ccc9b02a09f66e1c41eb70": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT14NA48MPSD6",
+      "board_name": "IPC_NT14NA48MPSD6",
+      "build_date": "250328",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_NT14NA48MPSD6",
+      "type": "IPC",
+      "version_file": "4741_2503281992",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Aug 27 2024 - 09:20:08 +0800)",
+      "uboot_compiler": "arm-ca7-linux-gnueabihf-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.38",
+      "linux_banner": "Linux version 5.10.168 (cys@ubuntu) (arm-ca7-linux-gnueabihf-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Thu Aug 22 20:29:51 CST 2024",
+      "board": "Novatek NS02301",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/040243151751596995.9938.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 402
   }
 }
