@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 694
+Total: 695
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -804,10 +804,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560SD88MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4020_2409116832](https://home-cdn.reolink.us/wp-content/uploads/2025/07/040956221751622982.9644.zip?download_name=E1_Outdoor_PoE_240911.zip) | 2024‑09‑11 | <ol><li>Abnormal AI detection issues fixed.</li><li>Image processing optimized.</li><li>Two-way talk issues resolved.</li><li>ONVIF compatibility improved.</li><li>Other known bugs fixed.</li></ol> | 
 [v3.1.0.3872_2407262057](https://home-cdn.reolink.us/wp-content/uploads/2024/08/120859341723453174.6233.zip?download_name=E1_Outdoor_PoE_240726.zip) | 2024‑07‑26 | <ol><li>Optimize tracking effect;</li><li>Optimize autofocus effect;</li><li>Optimize image effect;</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2448_23071200](https://home-cdn.reolink.us/wp-content/uploads/2023/11/300742551701330175.9865.zip?download_name=E1_Outdoor_PoE_2448_23071200.zip) | 2023‑07‑12 | <ol><li>Opitmize Auto Focus</li><li>Optimize Smart Detetion and Auto Tracking</li><li>Fix some known bugs</li></ol> | 
 
