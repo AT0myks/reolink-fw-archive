@@ -7082,5 +7082,20 @@
     "display_time": "2025-07-04 00:00:00+08:00",
     "sha256_pak": "ba6f6cc5b600896ff08aee8554e901c37d5aebf0728d4dddfb17164163ce7509",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.4410_2506058704",
+    "filename": "Reolink_Duo_Floodlight_WiFi_v2_4410_2506058704",
+    "updated_at": "2025-07-14 11:32:59+08:00",
+    "note": "",
+    "firmware_id": 796,
+    "model": "Reolink Duo Floodlight WiFi v2",
+    "hw_ver": "IPC_NT7NA58MP",
+    "changelog": [
+      "1.Fixed some known bugs."
+    ],
+    "display_time": "2025-07-14 00:00:00+08:00",
+    "sha256_pak": "a50ca6b9432bb31290166c39efa5aad74b532be76810d67c682871c031e60452",
+    "source": "live"
   }
 ]

@@ -2326,5 +2326,20 @@
         "title": "IPC_NT5NO212MP"
       }
     ]
+  },
+  {
+    "id": 255,
+    "title": "Reolink Duo Floodlight WiFi v2",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 404,
+        "title": "IPC_NT7NA58MP"
+      }
+    ]
   }
 ]

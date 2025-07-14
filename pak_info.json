@@ -24136,5 +24136,41 @@
     ],
     "model_id": 190,
     "hw_ver_id": 323
+  },
+  "a50ca6b9432bb31290166c39efa5aad74b532be76810d67c682871c031e60452": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT7NA58MP",
+      "board_name": "IPC_NT7NA58MP",
+      "build_date": "250605",
+      "display_type_info": "Reolink Duo Floodlight WiFi v2",
+      "detail_machine_type": "IPC_NT7NA58MP",
+      "type": "IPC",
+      "version_file": "4410_2506058704",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jul 09 2024 - 11:03:00 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Wed Jan 17 10:37:48 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/140332331752463953.1168.zip"
+    ],
+    "model_id": 255,
+    "hw_ver_id": 404
   }
 }

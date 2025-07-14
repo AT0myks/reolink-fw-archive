@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 695
+Total: 696
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -2891,6 +2891,19 @@ Version | Date | Changes | Notes
 [v3.0.0.4428_2412183476](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051013401741169620.2298.zip?download_name=Reolink_Duo_Floodlight_WiFi_4428_2412183476.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
 [v3.0.0.3471_2406116681](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120922311718184151.045.zip?download_name=Reolink_Duo_Floodlight_WiFi_3471_2406116681.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031703](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241054031679655243.856.zip?download_name=Reolink_Duo_Floodlight_WiFi_23031703.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Reolink Duo Floodlight WiFi v2</summary>
+
+  ### IPC_NT7NA58MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4410_2506058704](https://home-cdn.reolink.us/wp-content/uploads/2025/07/140332331752463953.1168.zip?download_name=Reolink_Duo_Floodlight_WiFi_v2_4410_2506058704.zip) | 2025‑06‑05 | 1.Fixed some known bugs. | 
 
 </details>
 
