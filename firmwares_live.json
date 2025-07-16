@@ -7133,5 +7133,39 @@
     "source": "live",
     "model_id": 76,
     "hw_ver_id": 361
+  },
+  {
+    "version": "v3.1.0.5047_2506271411",
+    "filename": "E430_5047_2506271411",
+    "updated_at": "2025-07-16 16:51:46+08:00",
+    "note": "",
+    "firmware_id": 803,
+    "model": "Lumus Series E430",
+    "hw_ver": "IPC_NT1NO24MP",
+    "changelog": [
+      "1.ONVIF supported.",
+      "2.Day/night mode switching enhanced.",
+      "3.Rich Notification supported."
+    ],
+    "display_time": "2025-07-16 00:00:00+08:00",
+    "sha256_pak": "fcc066e10f1035db80cac12f8c5bcf6243f9692ef98aaa0093cd46e267f16c00",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5047_2506271410",
+    "filename": "Reolink_Lumus_5047_2506271410",
+    "updated_at": "2025-07-16 16:50:40+08:00",
+    "note": "",
+    "firmware_id": 802,
+    "model": "Reolink Lumus",
+    "hw_ver": "IPC_NT1NO24MP",
+    "changelog": [
+      "1.ONVIF supported.",
+      "2.Day/night mode switching enhanced.",
+      "3.Rich Notification supported."
+    ],
+    "display_time": "2025-07-16 00:00:00+08:00",
+    "sha256_pak": "682114e548b8d59f45511be26a48e9507932f8a1e5cdc8141a4c98890f043fc2",
+    "source": "live"
   }
 ]
