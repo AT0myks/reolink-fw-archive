@@ -7167,5 +7167,201 @@
     "display_time": "2025-07-16 00:00:00+08:00",
     "sha256_pak": "682114e548b8d59f45511be26a48e9507932f8a1e5cdc8141a4c98890f043fc2",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.5036_2506276946",
+    "filename": "P3405036_2506276946",
+    "updated_at": "2025-07-22 11:16:30+08:00",
+    "note": "",
+    "firmware_id": 814,
+    "model": "P340",
+    "hw_ver": "IPC_523B18128M12MP",
+    "changelog": [
+      "1. Cloud service added.",
+      "2. Smart AI feature added.",
+      "3. Rich Notification supported.",
+      "4. Day/night mode switching enhanced.",
+      "5. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "cd12d4dbe310d5d48d4a63d87bb0528590cb59f54fc3d002a90eecb5e0d8dad5",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5031_2506270556",
+    "filename": "W330C_5031_2506270556",
+    "updated_at": "2025-07-22 11:08:44+08:00",
+    "note": "",
+    "firmware_id": 810,
+    "model": "W330C",
+    "hw_ver": "IPC_MS2NO28MP",
+    "changelog": [
+      "1. Image quality optimized.",
+      "2. Wi-Fi performance improved.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "8d4f6976453b0e856c6985fe085f9915d62662285d5289f862d44b10e01faf2b",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5026_2507101419",
+    "filename": "Elite_Floodlight_WiFI_v32050262507101419_IPC_NT15NA68MPW",
+    "updated_at": "2025-07-22 11:08:11+08:00",
+    "note": "",
+    "firmware_id": 809,
+    "model": "Elite Floodlight WiFi",
+    "hw_ver": "IPC_NT15NA68MPW",
+    "changelog": [
+      "Add AI Video Search function.",
+      "Solve other known bugs."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "bf123f0a97f0ef8e27309c752526fead93730d92838beb42c6e81a8d9c578efe",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5032_2506271741",
+    "filename": "W330_5032_2506271741",
+    "updated_at": "2025-07-22 11:06:30+08:00",
+    "note": "",
+    "firmware_id": 807,
+    "model": "W330",
+    "hw_ver": "IPC_MS2NA48MP",
+    "changelog": [
+      "1. Image quality optimized.",
+      "2. Wi-Fi performance improved.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "e2d5b6c163c6caf899925285d794fa21f0a337f8baef9b49d4437481f5357c9a",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5046_2506251383",
+    "filename": "P3205046_2506251383",
+    "updated_at": "2025-07-22 11:10:43+08:00",
+    "note": "",
+    "firmware_id": 811,
+    "model": "P320",
+    "hw_ver": "IPC_NT1NA45MP",
+    "changelog": [
+      "1. Cloud service added.",
+      "2. Smart AI feature added.",
+      "3. Rich Notification supported.",
+      "4. Day/night mode switching enhanced.",
+      "5. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "290052378506abf131d3d0be49c1fa63b72f776a92003cf6937e112ca9c2c2f7",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4972_2506051567",
+    "filename": "P330_4972_2506051567",
+    "updated_at": "2025-07-22 10:59:12+08:00",
+    "note": "",
+    "firmware_id": 805,
+    "model": "P330",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "1. H.265/H.264 switching supported for both main and sub-streams.",
+      "2. Cloud service enabled.",
+      "3. Rich Notification supported.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "52ca576c18d614dd9d18e63c4fe058ac2f7c1c0747504bd7174f1e6a07bc3ec1",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5032_2506271657",
+    "filename": "810WA_5032_2506271657",
+    "updated_at": "2025-07-22 11:03:43+08:00",
+    "note": "",
+    "firmware_id": 806,
+    "model": "RLC-810WA",
+    "hw_ver": "IPC_MS2NA48MP",
+    "changelog": [
+      "1. Image quality optimized.",
+      "2. Wi-Fi performance improved.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "423f5fa36f5e8bfb2acc8034345d45b106f98b3c191d88a24b060995fbcc28cd",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5031_2506270516",
+    "filename": "B800W_5031_2506270516",
+    "updated_at": "2025-07-22 11:07:14+08:00",
+    "note": "",
+    "firmware_id": 808,
+    "model": "B800W",
+    "hw_ver": "IPC_MS2NO28MP",
+    "changelog": [
+      "1. Image quality optimized.",
+      "2. Wi-Fi performance improved.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "17c82280af93a0b70462776929dacce24692d63b54c90f120de8372d18968e95",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5036_2506279222",
+    "filename": "B12005036_2506279222",
+    "updated_at": "2025-07-22 11:12:27+08:00",
+    "note": "",
+    "firmware_id": 813,
+    "model": "B1200",
+    "hw_ver": "IPC_52316M12MP",
+    "changelog": [
+      "1. Cloud service added.",
+      "2. Smart AI feature added.",
+      "3. Rich Notification supported.",
+      "4. Day/night mode switching enhanced.",
+      "5. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "a21af4919bfea320b08d926cf642ca2e602e9ba37601c2b485f435561663d265",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5036_2506276719",
+    "filename": "1212A_5036_2506276719",
+    "updated_at": "2025-07-22 11:11:44+08:00",
+    "note": "",
+    "firmware_id": 812,
+    "model": "RLC-1212A",
+    "hw_ver": "IPC_523B18128M12MP",
+    "changelog": [
+      "1. Cloud service added.",
+      "2. Smart AI feature added.",
+      "3. Rich Notification supported.",
+      "4. Day/night mode switching enhanced.",
+      "5. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "a738d8b5afa26cf61caa7897fc2542bf775e4e78a3af48b8d8095d8df0edd532",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4972_2506051543",
+    "filename": "810A_4972_2506051543",
+    "updated_at": "2025-07-22 10:58:27+08:00",
+    "note": "",
+    "firmware_id": 804,
+    "model": "RLC-810A",
+    "hw_ver": "IPC_56064M8MP",
+    "changelog": [
+      "1. H.265/H.264 switching supported for both main and sub-streams.",
+      "2. Cloud service enabled.",
+      "3. Rich Notification supported.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-22 00:00:00+08:00",
+    "sha256_pak": "4c19c1ac426f94e97a74f20676ea32062b8d2987643c567708c1b77feab45dca",
+    "source": "live"
   }
 ]

@@ -2341,5 +2341,50 @@
         "title": "IPC_NT7NA58MP"
       }
     ]
+  },
+  {
+    "id": 258,
+    "title": "P340",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 407,
+        "title": "IPC_523B18128M12MP"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "title": "W330C",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 406,
+        "title": "IPC_MS2NO28MP"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "title": "Elite Floodlight WiFi",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "https://reolink.com/product/elite-floodlight-wifi/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 405,
+        "title": "IPC_NT15NA68MPW"
+      }
+    ]
   }
 ]

@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 698
+Total: 709
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -176,10 +176,11 @@ Total: 698
 
   ### IPC_52316M12MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5036_2506279222](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220312201753153940.7755.zip?download_name=B12005036_2506279222.zip) | 2025‑06‑27 | <ol><li>Cloud service added.</li><li>Smart AI feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.2174_23050800](https://home-cdn.reolink.us/wp-content/uploads/2023/05/110627161683786436.5166.zip?download_name=B1200_23050800.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | 
 [v3.1.0.1105_23030900](https://home-cdn.reolink.us/wp-content/uploads/2023/03/141102511678791771.4471.zip?download_name=B1200_23030900.zip) | 2023‑03‑09 | Optimized the image quality of some scenes and fixed other known bugs | 
 
@@ -292,10 +293,11 @@ Version | Date | Changes | Notes
 
   ### IPC_MS2NO28MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5031_2506270516](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220307041753153624.7039.zip?download_name=B800W_5031_2506270516.zip) | 2025‑06‑27 | <ol><li>Image quality optimized.</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.3078_2407031328](https://home-cdn.reolink.us/wp-content/uploads/2024/07/041113461720091626.7586.zip?download_name=B800W_3078_2407031328.zip) | 2024‑07‑03 | 1. Resolve known bugs | 
 
 </details>
@@ -954,6 +956,21 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>Elite Floodlight WiFi</summary>
+
+[Product page](https://reolink.com/product/elite-floodlight-wifi/)
+
+  ### IPC_NT15NA68MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5026_2507101419](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220306051753153565.9173.zip?download_name=Elite_Floodlight_WiFI_v32050262507101419_IPC_NT15NA68MPW.zip) | 2025‑07‑10 | <ol><li>Add AI Video Search function.</li><li>Solve other known bugs.</li></ol> | 
+
+</details>
+
+<details>
   <summary>FE-P</summary>
 
 <img src="https://home-cdn.reolink.us/wp-content/uploads/2023/03/010407401677643660.6613.png" width="150">
@@ -1126,10 +1143,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NA45MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5046_2506251383](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220310371753153837.0199.zip?download_name=P3205046_2506251383.zip) | 2025‑06‑25 | <ol><li>Cloud service added.</li><li>Smart AI feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3646_2406143592](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130330511749785451.5417.zip?download_name=P320_3646_2406143592.zip) | 2024‑06‑14 | Other known bugs resolved. | 
 
 </details>
@@ -1152,10 +1170,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4972_2506051567](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220259051753153145.0653.zip?download_name=P330_4972_2506051567.zip) | 2025‑06‑05 | <ol><li>H.265/H.264 switching supported for both main and sub-streams.</li><li>Cloud service enabled.</li><li>Rich Notification supported.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4054_2409141128](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130257191749783439.2648.zip?download_name=P330_4054_2409141128.zip) | 2024‑09‑14 | Other known bugs resolved. | 
 
 </details>
@@ -1183,6 +1202,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4731_2503212218](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130715411749798941.4617.zip?download_name=P337_4731_2503212218.zip) | 2025‑03‑21 | <ol><li>Two-way talk performance enhanced.</li><li>H.265/H.264 switching supported for both main and sub streams.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>P340</summary>
+
+  ### IPC_523B18128M12MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5036_2506276946](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220313321753154012.6393.zip?download_name=P3405036_2506276946.zip) | 2025‑06‑27 | <ol><li>Cloud service added.</li><li>Smart AI feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -1268,10 +1300,11 @@ Version | Date | Changes | Notes
 
   ### IPC_523B18128M12MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5036_2506276504](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220311281753153888.2117.zip?download_name=1212A_5036_2506276719.zip) | 2025‑06‑27 | <ol><li>Cloud service added.</li><li>Smart AI feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.2174_23050815](https://home-cdn.reolink.us/wp-content/uploads/2023/06/050705371685948737.5325.zip?download_name=RLC_1212A_23050815.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Update the web Client version.</li><li>Require new version of Reolink Client.Reolink Client(versions released before 20210805) connection is not supported.</li><li>Optimize RTSP, ONVIF connection performance.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize video recording strategy.</li><li>Optimize email alarm accuracy.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of probabilistic certificate import failure.</li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Optimize related network protocols and some known bugs.</li><li>Solve the probabilistic problem that the number of videos or pictures generated by time-lapse snapshots is inaccurate.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 
   ### IPC_523B1812MP
@@ -2085,10 +2118,11 @@ Version | Date | Changes | Notes
 
   ### IPC_56064M8MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4972_2506051543](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220258051753153085.7187.zip?download_name=810A_4972_2506051543.zip) | 2025‑06‑05 | <ol><li>H.265/H.264 switching supported for both main and sub-streams.</li><li>Cloud service enabled.</li><li>Rich Notification supported.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4569_2502181272](https://home-cdn.reolink.us/wp-content/uploads/2025/03/280810531743149453.5928.zip?download_name=810A_4569_2502181272.zip) | 2025‑02‑18 | <ol><li>Two-way talk performance optimized.</li><li>Other known bugs resolved</li></ol> | 
 [v3.1.0.4054_2409131251](https://home-cdn.reolink.us/wp-content/uploads/2024/09/200232001726799520.6853.zip?download_name=RLC_810A_4054_2409131251.zip) | 2024‑09‑13 | <ol><li>Optimize encoding and image parameter configuration</li><li>Add webhook function</li><li>Optimize image effect</li></ol> | 
 [v3.1.0.2368_23062505](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip?download_name=RLC_810A_2368_23062505.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
@@ -2100,10 +2134,11 @@ Version | Date | Changes | Notes
 
   ### IPC_MS2NA48MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5032_2506271657](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220303281753153408.2804.zip?download_name=810WA_5032_2506271657.zip) | 2025‑06‑27 | <ol><li>Image quality optimized.</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4348_2411261893](https://home-cdn.reolink.us/wp-content/uploads/2024/12/050933011733391181.0099.zip?download_name=RLC_810WA_4348_2411261893.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
@@ -3226,11 +3261,25 @@ Version | Date | Changes | Notes
 
   ### IPC_MS2NA48MP
 
+Firmwares for this hardware version: 2
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.5032_2506271741](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220306231753153583.3019.zip?download_name=W330_5032_2506271741.zip) | 2025‑06‑27 | <ol><li>Image quality optimized.</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4348_2411261894](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130842501749804170.0482.zip?download_name=W330_4348_2411261894.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>W330C</summary>
+
+  ### IPC_MS2NO28MP
+
 Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4348_2411261894](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130842501749804170.0482.zip?download_name=W330_4348_2411261894.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.5031_2506270556](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220308361753153716.1139.zip?download_name=W330C_5031_2506270556.zip) | 2025‑06‑27 | <ol><li>Image quality optimized.</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
