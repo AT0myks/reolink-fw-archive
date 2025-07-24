@@ -6346,13 +6346,13 @@
   {
     "version": "v3.0.0.4867_2505072123",
     "filename": "Reolink_Duo_3V_PoE_2505072123",
-    "updated_at": "2025-07-23 17:41:34+08:00",
+    "updated_at": "2025-07-24 16:27:54+08:00",
     "note": "",
     "firmware_id": 755,
     "model": "Reolink Duo 3V PoE",
     "hw_ver": "IPC_NT15NA416MP",
     "changelog": [
-      "1.Smart AI feature added.",
+      "1.Perimeter Protection and Smart Event Detection feature added.",
       "2.Connection with third-party platforms enhanced.",
       "3.Cloud service added.",
       "4.Other known bugs resolved."
@@ -6364,13 +6364,13 @@
   {
     "version": "v3.0.0.4867_2505072126",
     "filename": "Reolink_Duo_3_WiFi_2505072126",
-    "updated_at": "2025-07-23 17:40:30+08:00",
+    "updated_at": "2025-07-24 16:28:14+08:00",
     "note": "",
     "firmware_id": 754,
     "model": "Reolink Duo 3 WiFi",
     "hw_ver": "IPC_NT15NA416MPW",
     "changelog": [
-      "1.Smart AI feature added.",
+      "1.Perimeter Protection and Smart Event Detection feature added.",
       "2.Connection with third-party platforms enhanced.",
       "3.Cloud service added.",
       "4.Other known bugs resolved."
@@ -6382,13 +6382,13 @@
   {
     "version": "v3.0.0.4867_2505072124",
     "filename": "Reolink_Duo_3_PoE_2505072124",
-    "updated_at": "2025-07-23 17:41:09+08:00",
+    "updated_at": "2025-07-24 16:28:39+08:00",
     "note": "",
     "firmware_id": 753,
     "model": "Reolink Duo 3 PoE",
     "hw_ver": "IPC_NT15NA416MP",
     "changelog": [
-      "1.Smart AI feature added.",
+      "1.Perimeter Protection and Smart Event Detection feature added.",
       "2.Connection with third-party platforms enhanced.",
       "3.Cloud service added.",
       "4.Other known bugs resolved."
@@ -6639,13 +6639,13 @@
   {
     "version": "v3.0.0.4867_2505072125",
     "filename": "P750_4867_2505072125",
-    "updated_at": "2025-07-23 17:42:05+08:00",
+    "updated_at": "2025-07-24 16:27:33+08:00",
     "note": "",
     "firmware_id": 771,
     "model": "Duo Series P750",
     "hw_ver": "IPC_NT15NA416MP",
     "changelog": [
-      "1.Smart AI feature added.",
+      "1.Perimeter Protection and Smart Event Detection feature added.",
       "2.Connection with third-party platforms enhanced.",
       "3.Cloud service added.",
       "4.Other known bugs resolved."
@@ -7175,17 +7175,17 @@
   {
     "version": "v3.1.0.5036_2506276946",
     "filename": "P3405036_2506276946",
-    "updated_at": "2025-07-22 11:16:30+08:00",
+    "updated_at": "2025-07-24 16:29:58+08:00",
     "note": "",
     "firmware_id": 814,
     "model": "P340",
     "hw_ver": "IPC_523B18128M12MP",
     "changelog": [
       "1. Cloud service added.",
-      "2. Smart AI feature added.",
+      "2. Perimeter Protection and Smart Event Detection feature added.",
       "3. Rich Notification supported.",
       "4. Day/night mode switching enhanced.",
-      "5. Other known bugs resolved."
+      "5 Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "cd12d4dbe310d5d48d4a63d87bb0528590cb59f54fc3d002a90eecb5e0d8dad5",
@@ -7244,17 +7244,17 @@
   {
     "version": "v3.1.0.5046_2506251383",
     "filename": "P3205046_2506251383",
-    "updated_at": "2025-07-22 11:10:43+08:00",
+    "updated_at": "2025-07-24 16:30:45+08:00",
     "note": "",
     "firmware_id": 811,
     "model": "P320",
     "hw_ver": "IPC_NT1NA45MP",
     "changelog": [
       "1. Cloud service added.",
-      "2. Smart AI feature added.",
+      "2. Perimeter Protection and Smart Event Detection feature added.",
       "3. Rich Notification supported.",
       "4. Day/night mode switching enhanced.",
-      "5. Other known bugs resolved."
+      "5 Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "290052378506abf131d3d0be49c1fa63b72f776a92003cf6937e112ca9c2c2f7",
@@ -7315,17 +7315,17 @@
   {
     "version": "v3.1.0.5036_2506279222",
     "filename": "B12005036_2506279222",
-    "updated_at": "2025-07-22 11:12:27+08:00",
+    "updated_at": "2025-07-24 16:30:15+08:00",
     "note": "",
     "firmware_id": 813,
     "model": "B1200",
     "hw_ver": "IPC_52316M12MP",
     "changelog": [
       "1. Cloud service added.",
-      "2. Smart AI feature added.",
+      "2. Perimeter Protection and Smart Event Detection feature added.",
       "3. Rich Notification supported.",
       "4. Day/night mode switching enhanced.",
-      "5. Other known bugs resolved."
+      "5 Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "a21af4919bfea320b08d926cf642ca2e602e9ba37601c2b485f435561663d265",
@@ -7334,17 +7334,17 @@
   {
     "version": "v3.1.0.5036_2506276719",
     "filename": "1212A_5036_2506276719",
-    "updated_at": "2025-07-22 11:11:44+08:00",
+    "updated_at": "2025-07-24 16:30:29+08:00",
     "note": "",
     "firmware_id": 812,
     "model": "RLC-1212A",
     "hw_ver": "IPC_523B18128M12MP",
     "changelog": [
       "1. Cloud service added.",
-      "2. Smart AI feature added.",
+      "2. Perimeter Protection and Smart Event Detection feature added.",
       "3. Rich Notification supported.",
       "4. Day/night mode switching enhanced.",
-      "5. Other known bugs resolved."
+      "5 Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "a738d8b5afa26cf61caa7897fc2542bf775e4e78a3af48b8d8095d8df0edd532",
