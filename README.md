@@ -180,7 +180,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5036_2506279222](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220312201753153940.7755.zip?download_name=B12005036_2506279222.zip) | 2025‑06‑27 | <ol><li>Cloud service added.</li><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.5036_2506279222](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220312201753153940.7755.zip?download_name=B12005036_2506279222.zip) | 2025‑06‑27 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.2174_23050800](https://home-cdn.reolink.us/wp-content/uploads/2023/05/110627161683786436.5166.zip?download_name=B1200_23050800.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | 
 [v3.1.0.1105_23030900](https://home-cdn.reolink.us/wp-content/uploads/2023/03/141102511678791771.4471.zip?download_name=B1200_23030900.zip) | 2023‑03‑09 | Optimized the image quality of some scenes and fixed other known bugs | 
 
@@ -422,7 +422,7 @@ Firmwares for this hardware version: 3
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4366_2412021479](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030732291740987149.8376.zip?download_name=CX410W_4366_2412021479.zip) | 2024‑12‑02 | 1.Other known bugs resolved. | 
-[v3.1.0.3429_2409235402](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091003341733738614.0845.zip?download_name=CX410W_3429_2409235402.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
+[v3.1.0.3429_2409235402](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091003341733738614.0845.zip?download_name=CX410W_3429_2409235402.zip) | 2024‑09‑23 | 1.Cloud storage supported (Actural service provided depends on the subscription plan). | 
 [v3.1.0.3429_2404181316](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220655151716360915.059.zip?download_name=CX410W_3429_2404181316.zip) | 2024‑04‑18 | <ol><li>Optimize HDR effect</li><li>Solve other known bugs</li></ol> | 
 
 </details>
@@ -650,7 +650,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4867_2505072125](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130727261749799646.0323.zip?download_name=P750_4867_2505072125.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud service added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4867_2505072125](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130727261749799646.0323.zip?download_name=P750_4867_2505072125.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -849,7 +849,7 @@ Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.2356_23062004](https://home-cdn.reolink.us/wp-content/uploads/2023/08/301124021693394642.2934.zip?download_name=513_SD5_2356_23062004.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
+[v3.0.0.2356_23062004](https://home-cdn.reolink.us/wp-content/uploads/2023/08/301124021693394642.2934.zip?download_name=513_SD5_2356_23062004.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
 [v3.0.0.716_21112404](https://home-cdn.reolink.us/wp-content/uploads/2021/11/291041471638182507.8213.zip?download_name=E1_Pro_v30021112404_IPC_513SD5.zip) | 2021‑11‑24 | <ol><li>Modify the initialization process, prompting the scan to be modified from the sound effect to five languages.</li><li>Optimize the P2P connection and modify the P2P connection failure problem in some scenarios.</li><li>Modify the blueish problem of the image in some specific scenes.</li></ol> | This firmware is ONLY for E1 Pro(with hardware version IPC_513SD5).<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
 [v3.0.0.660_21102001](https://drive.google.com/uc?id=1OxQCm36F1QbiDukz-NLZX8i6CloN8C7-&confirm=t) | 2021‑10‑20 | I-frame beta test. Check the source for details | :warning: This is a beta firmware<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/qkdgyr/beta_firmware_test_for_iframe_iframe_for_nonai/)<br />[Source 2](https://drive.google.com/drive/folders/16IwkW1C_jHfOG34pe6RSn9kpNZ36lT_G)
 [v3.0.0.597_21091001](https://drive.google.com/uc?id=1SzB1uQotnCk47q2iDTFJnV3-9faJ0xOC&confirm=t) | 2021‑09‑10 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/)<br />[Source 2](https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb)
@@ -866,7 +866,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.2356_23062013](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071023341696674214.9101.zip?download_name=515_E1_Pro_v3002356_23062013.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Update the web UI version</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
+[v3.0.0.2356_23062013](https://home-cdn.reolink.us/wp-content/uploads/2023/10/071023341696674214.9101.zip?download_name=515_E1_Pro_v3002356_23062013.zip) | 2023‑06‑20 | <ol><li>Optimize the network feature</li><li>Optimize the PTZ function</li><li>Optimize the WiFi connection</li><li>Fix some known bugs</li></ol> | 
 [v3.0.0.716_21112413](https://home-cdn.reolink.us/wp-content/uploads/2021/11/291057541638183474.2118.zip?download_name=E1_Pro_v30071621112413_IPC_515SD5.zip) | 2021‑11‑24 | <ol><li>Modify the initialization process, prompting the scan to be modified from the sound effect to five languages.</li><li>Optimize the P2P connection and modify the P2P connection failure problem in some scenarios.</li><li>Modify the blueish problem of the image in some specific scenes.</li></ol> | This firmware is ONLY for E1 Pro(with hardware version IPC_515SD5).<br />If you don't want to restore your camera settings to factory status, please uncheck/ don't enable the" update configuration File" option.
 [v3.0.0.597_21091002](https://drive.google.com/uc?id=1UVDXKww4SU8MOvSZBP0uCL7o3dTgzZiH&confirm=t) | 2021‑09‑10 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/rdm8cl/where_is_the_firmware_for_e1_wifi_camera/hofyqqt/)<br />[Source 2](https://drive.google.com/drive/folders/1hqBOSZ_KK6UUR6km2smkAWADVogVTAyb)
 
@@ -996,7 +996,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4428_2412183532](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130651001749797460.8496.zip?download_name=F750W_4428_2412183532.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
+[v3.0.0.4428_2412183532](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130651001749797460.8496.zip?download_name=F750W_4428_2412183532.zip) | 2024‑12‑18 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
 
 </details>
 
@@ -1051,7 +1051,7 @@ Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5047_2506271411](https://home-cdn.reolink.us/wp-content/uploads/2025/07/160851361752655896.6786.zip?download_name=E430_5047_2506271411.zip) | 2025‑06‑27 | <ol><li>ONVIF supported.</li><li>Day/night mode switching enhanced.</li><li>Rich Notification supported.</li></ol> | 
+[v3.1.0.5047_2506271411](https://home-cdn.reolink.us/wp-content/uploads/2025/07/160851361752655896.6786.zip?download_name=E430_5047_2506271411.zip) | 2025‑06‑27 | <ol><li>ONVIF supported.</li><li>Day/night mode switching enhanced.</li></ol> | 
 [v3.1.0.4713_2503191384](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130848441749804524.0686.zip?download_name=E430_4713_2503191384.zip) | 2025‑03‑19 | <ol><li>Wi-Fi connection process streamlined.</li><li>Day-to-night transition effect improved.</li></ol> | 
 
 </details>
@@ -1147,7 +1147,7 @@ Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5046_2506251383](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220310371753153837.0199.zip?download_name=P3205046_2506251383.zip) | 2025‑06‑25 | <ol><li>Cloud service added.</li><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.5046_2506251383](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220310371753153837.0199.zip?download_name=P3205046_2506251383.zip) | 2025‑06‑25 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3646_2406143592](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130330511749785451.5417.zip?download_name=P320_3646_2406143592.zip) | 2024‑06‑14 | Other known bugs resolved. | 
 
 </details>
@@ -1174,7 +1174,7 @@ Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4972_2506051567](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220259051753153145.0653.zip?download_name=P330_4972_2506051567.zip) | 2025‑06‑05 | <ol><li>H.265/H.264 switching supported for both main and sub-streams.</li><li>Cloud service enabled.</li><li>Rich Notification supported.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4972_2506051567](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220259051753153145.0653.zip?download_name=P330_4972_2506051567.zip) | 2025‑06‑05 | <ol><li>H.265/H.264 switching supported for both main and sub-streams.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4054_2409141128](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130257191749783439.2648.zip?download_name=P330_4054_2409141128.zip) | 2024‑09‑14 | Other known bugs resolved. | 
 
 </details>
@@ -1214,7 +1214,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5036_2506276946](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220313321753154012.6393.zip?download_name=P3405036_2506276946.zip) | 2025‑06‑27 | <ol><li>Cloud service added.</li><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.5036_2506276946](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220313321753154012.6393.zip?download_name=P3405036_2506276946.zip) | 2025‑06‑27 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -1304,7 +1304,7 @@ Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5036_2506276504](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220311281753153888.2117.zip?download_name=1212A_5036_2506276719.zip) | 2025‑06‑27 | <ol><li>Cloud service added.</li><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Rich Notification supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.5036_2506276504](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220311281753153888.2117.zip?download_name=1212A_5036_2506276719.zip) | 2025‑06‑27 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.2174_23050815](https://home-cdn.reolink.us/wp-content/uploads/2023/06/050705371685948737.5325.zip?download_name=RLC_1212A_23050815.zip) | 2023‑05‑08 | <ol><li>Add four-in-one (binning_mode) function, which provides image mode selection in night mode. This function can be found in the Advanced settings of the Display interface.</li><li>Update the web Client version.</li><li>Require new version of Reolink Client.Reolink Client(versions released before 20210805) connection is not supported.</li><li>Optimize RTSP, ONVIF connection performance.</li><li>Optimize the clarity of OSD strokes; solve the problem that the OSD display is not clear in some scenarios.</li><li>Optimize the day and night switching function.</li><li>Optimize video recording strategy.</li><li>Optimize email alarm accuracy.</li><li>Optimize the Smart detection function.<ol type="a"><li>Upgrade the smart model.</li><li>Improve the recognition accuracy of person, vehicle, and pets, and optimize the problem of static smart false positives.</li></ol></li><li>Solve the problem of probabilistic certificate import failure.</li><li>Solve the problem of deviation in adjusting the brightness of the screen.</li><li>Solve the problem that the detection area does not fit after the mirror image is flipped.</li><li>Optimize related network protocols and some known bugs.</li><li>Solve the probabilistic problem that the number of videos or pictures generated by time-lapse snapshots is inaccurate.</li><li>Fix the bug that the night vision frame rate is incorrect in some scenes.</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 
   ### IPC_523B1812MP
@@ -1856,7 +1856,7 @@ Firmwares for this hardware version: 6
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4163_2411251398](https://home-cdn.reolink.us/wp-content/uploads/2025/01/100824011736497441.357.zip?download_name=RLC_510WA_4163_2411251398.zip) | 2024‑11‑25 | <ol><li>Cloud service and Cloud File Encryption feature added.</li><li>Animal AI Recognition feature added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4163_2411251398](https://home-cdn.reolink.us/wp-content/uploads/2025/01/100824011736497441.357.zip?download_name=RLC_510WA_4163_2411251398.zip) | 2024‑11‑25 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Animal AI Recognition feature added.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.764_2402204770](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230704161708671856.2393.zip?download_name=RLC_510WA_764_2402204770.zip) | 2024‑02‑20 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1387_22100633](https://support.reolink.com/attachments/token/1ISbkfiJ3uJ2rganejlK6JUvG/?name=IPC_523128M5MP.1387_22100633.RLC-510WA.OV05A10.5MP.WIFI1021.REOLINK.pak) | 2022‑10‑06 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/10iv3di/comment/j5osusf)
 [v3.1.0.956_22041512](https://drive.google.com/uc?id=1ENIQ_7cGWGygM1wSZjiIHuRPD_IrIuCz&confirm=t)<br />[v3.1.0.956_22041512](https://drive.google.com/uc?id=1Ja75a3z85qZpcpoTwcDVzPGUtTGtTEj6&confirm=t) | 2022‑04‑15 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />If you get an error when updating, see [here](https://github.com/AT0myks/reolink-fw-archive/issues/2#issuecomment-1416773844).<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/issues/2)
@@ -1936,7 +1936,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4381_2411301864](https://home-cdn.reolink.us/wp-content/uploads/2024/12/270238581735267138.5583.zip?download_name=RLC_511WA_4381_2411301864.zip) | 2024‑11‑30 | <ol><li>Cloud service and Cloud File Encryption feature added.</li><li>Animal AI Recognition feature added.</li><li>Focusing performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4381_2411301864](https://home-cdn.reolink.us/wp-content/uploads/2024/12/270238581735267138.5583.zip?download_name=RLC_511WA_4381_2411301864.zip) | 2024‑11‑30 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Animal AI Recognition feature added.</li><li>Focusing performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.1643_2402218998](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230711381708672298.608.zip?download_name=RLC_511WA_1643_2402218998.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.956_22041509](https://home-cdn.reolink.us/wp-content/uploads/2022/04/220905421650618342.128.zip?download_name=RLC_511WA_22041509.zip) | 2022‑04‑15 | <ol><li>Upgraded ONVIF protocol to version 21.06</li><li>Solved the issue of no audio output on some platforms using ONVIF</li><li>Added the fixed FPS setting: The FPS won't be reduced automatically at night</li><li>Added multiple selection for the iFrame setting</li><li>Solved the problem that FTP parameters do not take effect under WEB access</li><li>Upgraded AI model to reduce false negatives and false positives</li><li>Added the function of synchronously prohibiting Push after disabling the UID</li><li>Added the security policy of login lockout</li><li>Solved some bugs of FTP</li><li>Solved some bugs of Email alert</li><li>Solved the problem of failing to adjust the threshold setting</li><li>Modified the display script of anti-flicker</li></ol> | 1.Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
 
@@ -2047,7 +2047,7 @@ Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4541_25021200](https://home-cdn.reolink.us/wp-content/uploads/2025/02/170759481739779188.6587.zip?download_name=RLC_523WA_4541_25021200.zip) | 2025‑02‑12 | <ol><li>Cloud service and Cloud File Encryption added.</li><li>Tracking priority settings added.</li><li>Surveillance settings added to patrol mode.</li><li>New web version available.</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4541_25021200](https://home-cdn.reolink.us/wp-content/uploads/2025/02/170759481739779188.6587.zip?download_name=RLC_523WA_4541_25021200.zip) | 2025‑02‑12 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Tracking priority settings added.</li><li>Surveillance settings added to patrol mode.</li><li>New web version available.</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.2831_23102508](https://home-cdn.reolink.us/wp-content/uploads/2023/11/140140231699926023.7448.zip?download_name=523WA_v3102831_23102508_v10031.zip) | 2023‑10‑25 | <ol><li>Solve the problem that the PT operation might fail</li><li>Sovle the problem that the monitor point might be shifted to a different position</li><li>Optimize the Push Notification</li><li>Optimize the network feature</li><li>Optimize the Auto Tracking</li><li>Optimize the FTP pre-recording</li><li>Update the web interface</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2447_23071208](https://home-cdn.reolink.us/wp-content/uploads/2023/08/220431011692678661.2779.zip?download_name=RLC_523WA_2447_23071208.zip) | 2023‑07‑12 | <ol><li>Optimize WiFi Connection</li><li>Optimize the Patrol Feature</li><li>Fix some known bugs</li></ol> | 
 [v3.1.0.2217_23051710](https://home-cdn.reolink.us/wp-content/uploads/2023/06/130205271686621927.9606.zip?download_name=523WA_v3102217_23051710_v10031.zip)<br />[v3.1.0.2217_23051710](https://support-d.reolink.com/attachments/token/KCvCCwPiYAQo4QMF77Bx6LAO6/?name=IPC_523128M5MP.2217_23051710.RLC-523WA.OV05A10.5MP.WIFI1021.PTZ.REOLINK.pak) | 2023‑05‑17 | <ol><li>Optimize network connection effect</li><li>Optimize the smart tracking effect</li><li>Optimize the AF focus function</li><li>Update the web version and optimize some UI displays</li><li>Fix some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
@@ -2086,7 +2086,7 @@ Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4381_2411301871](https://home-cdn.reolink.us/wp-content/uploads/2024/12/270240231735267223.3648.zip?download_name=RLC_542WA_4381_2411301871.zip) | 2024‑11‑30 | <ol><li>Cloud service and Cloud File Encryption feature added.</li><li>Animal AI Recognition feature added.</li><li>Focusing performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4381_2411301871](https://home-cdn.reolink.us/wp-content/uploads/2024/12/270240231735267223.3648.zip?download_name=RLC_542WA_4381_2411301871.zip) | 2024‑11‑30 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Animal AI Recognition feature added.</li><li>Focusing performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.1643_2402219273](https://home-cdn.reolink.us/wp-content/uploads/2024/02/230651161708671076.0649.zip?download_name=RLC_542WA_1643_2402219273.zip) | 2024‑02‑21 | Optimize related network protocols and some known bugs | 
 [v3.1.0.1983_23040623](https://drive.google.com/uc?id=1RCume3f77oYMbZ3oD06cyD9O6F--uFiC&confirm=t) | 2023‑04‑06 | Add the option to change the I-frame interval | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/14)
 [v3.1.0.764_21121718](https://home-cdn.reolink.us/wp-content/uploads/2022/01/191102001642590120.5321.zip?download_name=RLC_542WA_21121718.zip) | 2021‑12‑17 | <ol><li>Optimized AI detection function<ol type="a"><li>Upgraded the AI model to improve the recognition accuracy of people, cars, and pets (the  new features of 8MP models), and optimized static AI false alarm issue</li><li>Increased the AI delay alarm function, which can reduce dynamic misjudgments caused by flying insects, rain, etc. by adjusting the delay gear</li><li>Optimized the alarm area settings to reduce false alarms in the shielded area</li><li>Optimized the AI sensitivity setting: It will not send AI alarm when the AI detection sensitivity is 0</li><li>Optimized the false alarms caused by day and night switching and lighting changes, and solved the problem that the spotlight will repeatedly turn on and off in some scenes</li><li>Optimized the automatic tracking function to solve the chaotic tracking problem of the camera in some scenarios</li><li>Added the vertical tracking function for RLC- 523WA, RLC-823A</li></ol></li><li>Added AI smart detection type option for spotlight, so you can choose AI type for the smart spotlight</li><li>Optimized FTP function<ol type="a"><li>Supported FTPS encryption to improve the security of FTP transfer files</li><li>Optimized the FTP transfer file type:You can choose to transfer only video, only pictures, and transfer both videos and pictures to the FTP server</li><li>Increased Overwrite function for picture only and video only function</li><li>Added 2s/5s/10s interval options for FTP capture picture</li><li>Optimized the upload file directory function: You can choose to folder by day/month, or save all files in the same folder</li></ol></li><li>Optimized the push function and increased the push interval setting function</li><li>Increased the Test error code function for the Email, FTP, push settings, which could help find the cause of the error</li><li>Added switch for RTSP, ONVIF, HTTP, HTTPS service. Users can turn on and off the corresponding network services as needed</li><li>Increased the function of locking the device: The device will be locked for 2 seconds after logging in with an incorrect password to improve login security and prevent malicious attacks</li><li>Added web certificate import function</li><li>Updated RTSP version</li><li>Optimized the AF algorithm to solve the problem of unclear focus in some scenes</li><li>Optimized pre-record time of videos and solved the problem of too long pre-record time in some scenes</li><li>Added day and night switching threshold adjustment function</li></ol> | 1. Due to the addition of new functions and the modification of some functions, it's suggested  to check the Update Configuration File option when upgrading, or restore the camera after the firmware upgrading
@@ -2122,7 +2122,7 @@ Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4972_2506051543](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220258051753153085.7187.zip?download_name=810A_4972_2506051543.zip) | 2025‑06‑05 | <ol><li>H.265/H.264 switching supported for both main and sub-streams.</li><li>Cloud service enabled.</li><li>Rich Notification supported.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4972_2506051543](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220258051753153085.7187.zip?download_name=810A_4972_2506051543.zip) | 2025‑06‑05 | <ol><li>H.265/H.264 switching supported for both main and sub-streams.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4569_2502181272](https://home-cdn.reolink.us/wp-content/uploads/2025/03/280810531743149453.5928.zip?download_name=810A_4569_2502181272.zip) | 2025‑02‑18 | <ol><li>Two-way talk performance optimized.</li><li>Other known bugs resolved</li></ol> | 
 [v3.1.0.4054_2409131251](https://home-cdn.reolink.us/wp-content/uploads/2024/09/200232001726799520.6853.zip?download_name=RLC_810A_4054_2409131251.zip) | 2024‑09‑13 | <ol><li>Optimize encoding and image parameter configuration</li><li>Add webhook function</li><li>Optimize image effect</li></ol> | 
 [v3.1.0.2368_23062505](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip?download_name=RLC_810A_2368_23062505.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 
@@ -2139,7 +2139,7 @@ Firmwares for this hardware version: 2
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.5032_2506271657](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220303281753153408.2804.zip?download_name=810WA_5032_2506271657.zip) | 2025‑06‑27 | <ol><li>Image quality optimized.</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li></ol> | 
-[v3.0.0.4348_2411261893](https://home-cdn.reolink.us/wp-content/uploads/2024/12/050933011733391181.0099.zip?download_name=RLC_810WA_4348_2411261893.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4348_2411261893](https://home-cdn.reolink.us/wp-content/uploads/2024/12/050933011733391181.0099.zip?download_name=RLC_810WA_4348_2411261893.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -2191,7 +2191,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4460_2412192213](https://home-cdn.reolink.us/wp-content/uploads/2025/06/160822091750062129.7723.zip?download_name=RLC_811WA_4460_2412192213.zip) | 2024‑12‑19 | <ol><li>Cloud service and Cloud File Encryption added.</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4460_2412192213](https://home-cdn.reolink.us/wp-content/uploads/2025/06/160822091750062129.7723.zip?download_name=RLC_811WA_4460_2412192213.zip) | 2024‑12‑19 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3927_2409231464](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091008081733738888.1997.zip?download_name=RLC_811WA_240923.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
 [v3.1.0.3485_2405084609](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220651581716360718.6895.zip?download_name=RLC_811WA_3485_2405084609.zip) | 2024‑05‑08 | <ol><li>Optimize image parameters</li><li>Solve other known issues</li></ol> | 
 
@@ -2351,7 +2351,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4885_25051904](https://home-cdn.reolink.us/wp-content/uploads/2025/06/170657421750143462.9397.zip?download_name=RLC_823S1_4885_25051904.zip) | 2025‑05‑19 | <ol><li>Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.</li><li>H.265/H.264 switching supported.</li><li>Cloud service and Cloud File Encryption feature added.</li></ol> | 
+[v3.1.0.4885_25051904](https://home-cdn.reolink.us/wp-content/uploads/2025/06/170657421750143462.9397.zip?download_name=RLC_823S1_4885_25051904.zip) | 2025‑05‑19 | <ol><li>Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.</li><li>H.265/H.264 switching supported.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li></ol> | 
 [v3.1.0.4366_24121214](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030157501735869470.483.zip?download_name=RLC_823S1_v310436624121214_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3688_24081510](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235531723811753.4232.zip?download_name=RLC_823S1_3688_24081510.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
 
@@ -2370,7 +2370,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4885_25051906](https://home-cdn.reolink.us/wp-content/uploads/2025/06/170700511750143651.9977.zip?download_name=RLC_823S1W_4885_25051906.zip) | 2025‑05‑19 | <ol><li>Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.</li><li>H.265/H.264 switching supported.</li><li>Cloud service and Cloud File Encryption feature added.</li></ol> | 
+[v3.1.0.4885_25051906](https://home-cdn.reolink.us/wp-content/uploads/2025/06/170700511750143651.9977.zip?download_name=RLC_823S1W_4885_25051906.zip) | 2025‑05‑19 | <ol><li>Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.</li><li>H.265/H.264 switching supported.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li></ol> | 
 [v3.1.0.4366_24121216](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030159161735869556.2615.zip?download_name=RLC_823S1W_v310436624121216_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3688_24081512](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235191723811719.669.zip?download_name=RLC_823S1W_3688_24081512.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
 
@@ -2477,7 +2477,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4460_2412192223](https://home-cdn.reolink.us/wp-content/uploads/2025/03/110916131741684573.449.zip?download_name=RLC_840WA_4460_2412192223.zip) | 2024‑12‑19 | <ol><li>Cloud service added.</li><li>Wi-Fi performance improved.</li><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4460_2412192223](https://home-cdn.reolink.us/wp-content/uploads/2025/03/110916131741684573.449.zip?download_name=RLC_840WA_4460_2412192223.zip) | 2024‑12‑19 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Wi-Fi performance improved.</li><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -2529,7 +2529,7 @@ Firmwares for this hardware version: 3
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4695_2505052213](https://home-cdn.reolink.us/wp-content/uploads/2025/06/050424131749097453.3853.zip?download_name=RLC_843WA_250505.zip) | 2025‑05‑05 | Other known bugs resolved | 
-[v3.1.0.3633_2409231412](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091006151733738775.0607.zip?download_name=RLC_843WA_240923.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
+[v3.1.0.3633_2409231412](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091006151733738775.0607.zip?download_name=RLC_843WA_240923.zip) | 2024‑09‑23 | 1.Cloud storage supported (Actural service provided depends on the subscription plan). | 
 [v3.1.0.3633_2406134151](https://home-cdn.reolink.us/wp-content/uploads/2024/07/270954211722074061.7206.zip?download_name=RLC_843WA_3633_2406134151.zip) | 2024‑06‑13 | <ol><li>Optimize the day and night switching effect</li><li>Solve other known bugs</li></ol> | 
 
 </details>
@@ -2828,7 +2828,7 @@ Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4428_2412183304](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051011471741169507.6798.zip?download_name=Reolink_Duo_2_WiFi_4428_2412183304.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
+[v3.0.0.4428_2412183304](https://home-cdn.reolink.us/wp-content/uploads/2025/03/051011471741169507.6798.zip?download_name=Reolink_Duo_2_WiFi_4428_2412183304.zip) | 2024‑12‑18 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
 [v3.0.0.3471_2406116464](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120917151718183835.8809.zip?download_name=Reolink_Duo_2_WiFi_3471_2406116464.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031701](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241046301679654790.9233.zip?download_name=Reolink_Duo_2_WiFi_23031701.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1391_22101061](https://drive.google.com/uc?id=1YOtVF851NRX9AuRx_o7rtchyJMRMnXDm&confirm=t) | 2022‑10‑10 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)
@@ -2857,7 +2857,7 @@ Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4867_2505072124](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100319361749525576.1062.zip?download_name=Reolink_Duo_3_PoE_2505072124.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud service added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4867_2505072124](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100319361749525576.1062.zip?download_name=Reolink_Duo_3_PoE_2505072124.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101442](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211031041745231464.2044.zip?download_name=Reolink_Duo_3_PoE_4669_2503101442.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
@@ -2871,7 +2871,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4867_2505072126](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100321021749525662.2492.zip?download_name=Reolink_Duo_3_WiFi_2505072126.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud service added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4867_2505072126](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100321021749525662.2492.zip?download_name=Reolink_Duo_3_WiFi_2505072126.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101444](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211029231745231363.3509.zip?download_name=Reolink_Duo_3_WiFi_4669_2503101444.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4518_2501071706](https://home-cdn.reolink.us/wp-content/uploads/2025/01/140339231736825963.0423.zip?download_name=Reolink_Duo_3_WiFi_4518_2501071706.zip) | 2025‑01‑07 | <ol><li>Wi-Fi performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 
@@ -2888,7 +2888,7 @@ Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.4867_2505072123](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100322061749525726.2417.zip?download_name=Reolink_Duo_3V_PoE_2505072123.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud service added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4867_2505072123](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100322061749525726.2417.zip?download_name=Reolink_Duo_3V_PoE_2505072123.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101441](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211027261745231246.8398.zip?download_name=Reolink_Duo_3V_PoE_4669_2503101441.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
@@ -3062,7 +3062,7 @@ Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5047_2506271410](https://home-cdn.reolink.us/wp-content/uploads/2025/07/160850191752655819.6577.zip?download_name=Reolink_Lumus_5047_2506271410.zip) | 2025‑06‑27 | <ol><li>ONVIF supported.</li><li>Day/night mode switching enhanced.</li><li>Rich Notification supported.</li></ol> | 
+[v3.1.0.5047_2506271410](https://home-cdn.reolink.us/wp-content/uploads/2025/07/160850191752655819.6577.zip?download_name=Reolink_Lumus_5047_2506271410.zip) | 2025‑06‑27 | <ol><li>ONVIF supported.</li><li>Day/night mode switching enhanced.</li></ol> | 
 [v3.1.0.4713_2503191383](https://home-cdn.reolink.us/wp-content/uploads/2025/04/030430051743654605.8843.zip?download_name=Reolink_Lumus_4713_2503191383.zip) | 2025‑03‑19 | <ol><li>Wi-Fi connection process streamlined.</li><li>Day-to-night transition effect improved.</li></ol> | 
 [v3.1.0.4551_2501171940](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030728521740986932.2463.zip?download_name=Reolink_Lumus_4551_2501171940.zip) | 2025‑01‑17 |  | 
 [v3.1.0.3497_2405102255](https://home-cdn.reolink.us/wp-content/uploads/2024/05/290128251716946105.1024.zip?download_name=Reolink_Lumus_3497_2405102255.zip) | 2024‑05‑10 | <ol><li>Optimize the code scanning function</li><li>Optimize cloud storage function</li><li>Solve other known bugs</li></ol> | 
@@ -3266,7 +3266,7 @@ Firmwares for this hardware version: 2
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.5032_2506271741](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220306231753153583.3019.zip?download_name=W330_5032_2506271741.zip) | 2025‑06‑27 | <ol><li>Image quality optimized.</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li></ol> | 
-[v3.0.0.4348_2411261894](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130842501749804170.0482.zip?download_name=W330_4348_2411261894.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud service and Cloud File Encryption feature added.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.0.0.4348_2411261894](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130842501749804170.0482.zip?download_name=W330_4348_2411261894.zip) | 2024‑11‑26 | <ol><li>Two-way Audio feature enhanced.</li><li>Smart Detection feature improved.</li><li>Push notification feature enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -3292,7 +3292,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4460_2412192214](https://home-cdn.reolink.us/wp-content/uploads/2025/06/160826171750062377.8411.zip?download_name=W430_4460_2412192214.zip) | 2024‑12‑19 | <ol><li>Cloud service and Cloud File Encryption added.</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4460_2412192214](https://home-cdn.reolink.us/wp-content/uploads/2025/06/160826171750062377.8411.zip?download_name=W430_4460_2412192214.zip) | 2024‑12‑19 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 

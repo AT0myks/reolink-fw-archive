@@ -2761,19 +2761,18 @@
     "source": "live"
   },
   {
-    "version": "v3.0.0.2356",
+    "version": "v3.0.0.2356_23062004",
     "filename": "513_SD5_2356_23062004",
-    "updated_at": "2023-08-30 19:24:11+08:00",
+    "updated_at": "2025-07-25 12:22:49+08:00",
     "note": "",
     "firmware_id": 436,
     "model": "E1 Pro",
     "hw_ver": "IPC_513SD5",
     "changelog": [
       "1. Optimize the network feature",
-      "2. Update the web UI version",
-      "3. Optimize the PTZ function",
-      "4. Optimize the WiFi connection",
-      "5. Fix some known bugs"
+      "2. Optimize the PTZ function",
+      "3. Optimize the WiFi connection",
+      "4. Fix some known bugs"
     ],
     "display_time": "2023-08-30 00:00:00+08:00",
     "sha256_pak": "f479ac78352b6ed31da63eae0dd6050160acc501dd711872ac94b32a8806280d",
@@ -3077,17 +3076,16 @@
   {
     "version": "v3.0.0.2356_23062013",
     "filename": "515_E1_Pro_v3002356_23062013",
-    "updated_at": "2023-10-08 10:11:26+08:00",
+    "updated_at": "2025-07-25 12:23:27+08:00",
     "note": "",
     "firmware_id": 452,
     "model": "E1 Pro",
     "hw_ver": "IPC_515SD5",
     "changelog": [
       "1. Optimize the network feature",
-      "2. Update the web UI version",
-      "3. Optimize the PTZ function",
-      "4. Optimize the WiFi connection",
-      "5. Fix some known bugs"
+      "2. Optimize the PTZ function",
+      "3. Optimize the WiFi connection",
+      "4. Fix some known bugs"
     ],
     "display_time": "2023-10-07 00:00:00+08:00",
     "sha256_pak": "027deb1f5c37749ca0d3e2aa818e98aa5e0dd8283d8b6eb52ea83a077dea1d80",
@@ -5106,7 +5104,7 @@
   {
     "version": "v3.0.0.4348_2411261893",
     "filename": "RLC_810WA_4348_2411261893",
-    "updated_at": "2024-12-09 17:25:53+08:00",
+    "updated_at": "2025-07-25 10:45:38+08:00",
     "note": "",
     "firmware_id": 686,
     "model": "RLC-810WA",
@@ -5115,7 +5113,7 @@
       "1. Two-way Audio feature enhanced.",
       "2. Smart Detection feature improved.",
       "3. Push notification feature enhanced.",
-      "4. Cloud service and Cloud File Encryption feature added.",
+      "4. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "5. Other known bugs resolved."
     ],
     "display_time": "2024-12-05 00:00:00+08:00",
@@ -5140,13 +5138,13 @@
   {
     "version": "v3.1.0.3633_2409231412",
     "filename": "RLC_843WA_240923",
-    "updated_at": "2024-12-09 18:06:48+08:00",
+    "updated_at": "2025-07-25 10:21:31+08:00",
     "note": "",
     "firmware_id": 690,
     "model": "RLC-843WA",
     "hw_ver": "IPC_NT2NA48MP",
     "changelog": [
-      "1.Cloud service and Cloud File Encryption feature added."
+      "1.Cloud storage supported (Actural service provided depends on the subscription plan)."
     ],
     "display_time": "2024-12-09 00:00:00+08:00",
     "sha256_pak": "0afed6ee5491db5b4be0606766c4b00f59a3ed5ff0a3eaabe13425a350b9de05",
@@ -5155,13 +5153,13 @@
   {
     "version": "v3.1.0.3429_2409235402",
     "filename": "CX410W_3429_2409235402",
-    "updated_at": "2024-12-09 18:04:20+08:00",
+    "updated_at": "2025-07-25 10:19:26+08:00",
     "note": "",
     "firmware_id": 689,
     "model": "CX410W",
     "hw_ver": "IPC_NT1NA44MP",
     "changelog": [
-      "1.Cloud service and Cloud File Encryption feature added."
+      "1.Cloud storage supported (Actural service provided depends on the subscription plan)."
     ],
     "display_time": "2024-12-09 00:00:00+08:00",
     "sha256_pak": "800176c91145a9d879b31ebed0a844a6afcef61884b4bf24d90469ef0fa0ec06",
@@ -5515,13 +5513,13 @@
   {
     "version": "v3.1.0.4381_2411301864",
     "filename": "RLC_511WA_4381_2411301864",
-    "updated_at": "2024-12-27 10:39:23+08:00",
+    "updated_at": "2025-07-25 10:40:56+08:00",
     "note": "",
     "firmware_id": 707,
     "model": "RLC-511WA",
     "hw_ver": "IPC_523128M5MP",
     "changelog": [
-      "1. Cloud service and Cloud File Encryption feature added.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2. Animal AI Recognition feature added.",
       "3. Focusing performance optimized.",
       "4. Other known bugs resolved."
@@ -5533,13 +5531,13 @@
   {
     "version": "v3.1.0.4381_2411301871",
     "filename": "RLC_542WA_4381_2411301871",
-    "updated_at": "2024-12-27 10:40:50+08:00",
+    "updated_at": "2025-07-25 10:41:20+08:00",
     "note": "",
     "firmware_id": 708,
     "model": "RLC-542WA",
     "hw_ver": "IPC_523D95MP",
     "changelog": [
-      "1. Cloud service and Cloud File Encryption feature added.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2. Animal AI Recognition feature added.",
       "3. Focusing performance optimized.",
       "4. Other known bugs resolved."
@@ -5722,13 +5720,13 @@
   {
     "version": "v3.1.0.4163_2411251398",
     "filename": "RLC_510WA_4163_2411251398",
-    "updated_at": "2025-01-10 16:24:14+08:00",
+    "updated_at": "2025-07-25 10:22:16+08:00",
     "note": "",
     "firmware_id": 717,
     "model": "RLC-510WA",
     "hw_ver": "IPC_523128M5MP",
     "changelog": [
-      "1. Cloud service and Cloud File Encryption feature added.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2. Animal AI Recognition feature added.",
       "3. Other known bugs resolved."
     ],
@@ -5771,13 +5769,13 @@
   {
     "version": "v3.1.0.4541_25021200_v1.0.0.32",
     "filename": "RLC_523WA_4541_25021200",
-    "updated_at": "2025-04-08 15:56:27+08:00",
+    "updated_at": "2025-07-25 10:40:28+08:00",
     "note": "",
     "firmware_id": 719,
     "model": "RLC-523WA",
     "hw_ver": "IPC_523128M5MP",
     "changelog": [
-      "1. Cloud service and Cloud File Encryption added.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2. Tracking priority settings added.",
       "3. Surveillance settings added to patrol mode.",
       "4. New web version available.",
@@ -5836,13 +5834,13 @@
   {
     "version": "v3.0.0.4428_2412183304",
     "filename": "Reolink_Duo_2_WiFi_4428_2412183304",
-    "updated_at": "2025-04-08 15:20:38+08:00",
+    "updated_at": "2025-07-25 10:42:59+08:00",
     "note": "",
     "firmware_id": 722,
     "model": "Reolink Duo 2 WiFi",
     "hw_ver": "IPC_529B17B8MP",
     "changelog": [
-      "1.Added support for Reolink Cloud Service.",
+      "1.Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2.Optimized the image stitching performance.",
       "3.Fixed some known bugs."
     ],
@@ -5853,13 +5851,13 @@
   {
     "version": "v3.1.0.4460_2412192223",
     "filename": "RLC_840WA_4460_2412192223",
-    "updated_at": "2025-04-08 15:21:41+08:00",
+    "updated_at": "2025-07-25 10:42:13+08:00",
     "note": "",
     "firmware_id": 724,
     "model": "RLC-840WA",
     "hw_ver": "IPC_NT2NA48MP",
     "changelog": [
-      "1. Cloud service added.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2. Wi-Fi performance improved.",
       "3. Connection with third-party platforms enhanced.",
       "4. Other known bugs resolved."
@@ -6346,16 +6344,17 @@
   {
     "version": "v3.0.0.4867_2505072123",
     "filename": "Reolink_Duo_3V_PoE_2505072123",
-    "updated_at": "2025-07-24 16:27:54+08:00",
+    "updated_at": "2025-07-25 10:06:51+08:00",
     "note": "",
     "firmware_id": 755,
     "model": "Reolink Duo 3V PoE",
     "hw_ver": "IPC_NT15NA416MP",
     "changelog": [
-      "1.Perimeter Protection and Smart Event Detection feature added.",
-      "2.Connection with third-party platforms enhanced.",
-      "3.Cloud service added.",
-      "4.Other known bugs resolved."
+      "1.Perimeter Protection Added.",
+      "2.Smart Event Detection Added.",
+      "3.Connection with third-party platforms enhanced.",
+      "4.Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "5.Other known bugs resolved."
     ],
     "display_time": "2025-06-10 00:00:00+08:00",
     "sha256_pak": "695872f5a19bd55fe17aa09d12d6884804dda218d01c4bf5c769cd562cf2e73b",
@@ -6364,16 +6363,17 @@
   {
     "version": "v3.0.0.4867_2505072126",
     "filename": "Reolink_Duo_3_WiFi_2505072126",
-    "updated_at": "2025-07-24 16:28:14+08:00",
+    "updated_at": "2025-07-25 10:07:52+08:00",
     "note": "",
     "firmware_id": 754,
     "model": "Reolink Duo 3 WiFi",
     "hw_ver": "IPC_NT15NA416MPW",
     "changelog": [
-      "1.Perimeter Protection and Smart Event Detection feature added.",
-      "2.Connection with third-party platforms enhanced.",
-      "3.Cloud service added.",
-      "4.Other known bugs resolved."
+      "1.Perimeter Protection Added.",
+      "2.Smart Event Detection Added.",
+      "3.Connection with third-party platforms enhanced.",
+      "4.Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "5.Other known bugs resolved."
     ],
     "display_time": "2025-06-10 00:00:00+08:00",
     "sha256_pak": "6c68a7d0f0bacebae1dcceed42652606215400d346271e8babdc1d55091ee77d",
@@ -6382,16 +6382,17 @@
   {
     "version": "v3.0.0.4867_2505072124",
     "filename": "Reolink_Duo_3_PoE_2505072124",
-    "updated_at": "2025-07-24 16:28:39+08:00",
+    "updated_at": "2025-07-25 10:08:06+08:00",
     "note": "",
     "firmware_id": 753,
     "model": "Reolink Duo 3 PoE",
     "hw_ver": "IPC_NT15NA416MP",
     "changelog": [
-      "1.Perimeter Protection and Smart Event Detection feature added.",
-      "2.Connection with third-party platforms enhanced.",
-      "3.Cloud service added.",
-      "4.Other known bugs resolved."
+      "1.Perimeter Protection Added.",
+      "2.Smart Event Detection Added.",
+      "3.Connection with third-party platforms enhanced.",
+      "4.Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "5.Other known bugs resolved."
     ],
     "display_time": "2025-06-10 00:00:00+08:00",
     "sha256_pak": "1668c9df546b238de2a47c422d73555761cf4812af50fbb67dc2b6f5402bc235",
@@ -6525,7 +6526,7 @@
   {
     "version": "v3.0.0.4348_2411261894",
     "filename": "W330_4348_2411261894",
-    "updated_at": "2025-06-13 16:43:00+08:00",
+    "updated_at": "2025-07-25 10:46:37+08:00",
     "note": "",
     "firmware_id": 778,
     "model": "W330",
@@ -6534,7 +6535,7 @@
       "1. Two-way Audio feature enhanced.",
       "2. Smart Detection feature improved.",
       "3. Push notification feature enhanced.",
-      "4. Cloud service and Cloud File Encryption feature added.",
+      "4. Cloud storage supported (Actural service provided depends on the subscription plan)",
       "5. Other known bugs resolved."
     ],
     "display_time": "2025-06-13 00:00:00+08:00",
@@ -6639,16 +6640,17 @@
   {
     "version": "v3.0.0.4867_2505072125",
     "filename": "P750_4867_2505072125",
-    "updated_at": "2025-07-24 16:27:33+08:00",
+    "updated_at": "2025-07-25 10:06:23+08:00",
     "note": "",
     "firmware_id": 771,
     "model": "Duo Series P750",
     "hw_ver": "IPC_NT15NA416MP",
     "changelog": [
-      "1.Perimeter Protection and Smart Event Detection feature added.",
-      "2.Connection with third-party platforms enhanced.",
-      "3.Cloud service added.",
-      "4.Other known bugs resolved."
+      "1.Perimeter Protection Added.",
+      "2.Smart Event Detection Added.",
+      "3.Connection with third-party platforms enhanced.",
+      "4.Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "5.Other known bugs resolved."
     ],
     "display_time": "2025-06-13 00:00:00+08:00",
     "sha256_pak": "f861fa8981dcd1305987f456ffc9789034f64f6a1d924cdbc5ecfb7a9aed1d44",
@@ -6735,13 +6737,13 @@
   {
     "version": "v3.0.0.4428_2412183532",
     "filename": "F750W_4428_2412183532",
-    "updated_at": "2025-06-13 14:53:04+08:00",
+    "updated_at": "2025-07-25 10:27:36+08:00",
     "note": "",
     "firmware_id": 767,
     "model": "Floodlight Series F750W",
     "hw_ver": "IPC_529B17B8MP",
     "changelog": [
-      "1.Added support for Reolink Cloud Service.",
+      "1.Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2.Optimized the image stitching performance.",
       "3.Fixed some known bugs."
     ],
@@ -6822,13 +6824,13 @@
   {
     "version": "v3.1.0.4460_2412192214",
     "filename": "W430_4460_2412192214",
-    "updated_at": "2025-06-16 16:26:38+08:00",
+    "updated_at": "2025-07-25 10:20:24+08:00",
     "note": "",
     "firmware_id": 782,
     "model": "W430",
     "hw_ver": "IPC_NT2NA48MP",
     "changelog": [
-      "1. Cloud service and Cloud File Encryption added.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2. Focusing performance improved.",
       "3. Other known bugs resolved."
     ],
@@ -6839,13 +6841,13 @@
   {
     "version": "v3.1.0.4460_2412192213",
     "filename": "RLC_811WA_4460_2412192213",
-    "updated_at": "2025-06-16 16:22:37+08:00",
+    "updated_at": "2025-07-25 10:20:40+08:00",
     "note": "",
     "firmware_id": 781,
     "model": "RLC-811WA",
     "hw_ver": "IPC_NT2NA48MP",
     "changelog": [
-      "1. Cloud service and Cloud File Encryption added.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
       "2. Focusing performance improved.",
       "3. Other known bugs resolved."
     ],
@@ -6890,7 +6892,7 @@
   {
     "version": "v3.1.0.4885_25051906",
     "filename": "RLC_823S1W_4885_25051906",
-    "updated_at": "2025-06-17 15:01:07+08:00",
+    "updated_at": "2025-07-25 10:15:17+08:00",
     "note": "",
     "firmware_id": 786,
     "model": "RLC-823S1W",
@@ -6898,7 +6900,7 @@
     "changelog": [
       "1. Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.",
       "2. H.265/H.264 switching supported.",
-      "3. Cloud service and Cloud File Encryption feature added."
+      "3. Cloud storage supported (Actural service provided depends on the subscription plan)."
     ],
     "display_time": "2025-06-17 00:00:00+08:00",
     "sha256_pak": "b2381b53dd09522a44fa73db8afb3754e7213e3c691e8b31cd9bfe05431257f1",
@@ -6907,7 +6909,7 @@
   {
     "version": "v3.1.0.4885_25051904_v1.0.0.146",
     "filename": "RLC_823S1_4885_25051904",
-    "updated_at": "2025-06-17 14:59:43+08:00",
+    "updated_at": "2025-07-25 10:15:32+08:00",
     "note": "",
     "firmware_id": 785,
     "model": "RLC-823S1",
@@ -6915,7 +6917,7 @@
     "changelog": [
       "1. Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.",
       "2. H.265/H.264 switching supported.",
-      "3. Cloud service and Cloud File Encryption feature added."
+      "3. Cloud storage supported (Actural service provided depends on the subscription plan)."
     ],
     "display_time": "2025-06-17 00:00:00+08:00",
     "sha256_pak": "a9425c3f459dad26b23eac924a98b8f4639e900d207b256396e211886a9b5e66",
@@ -7141,15 +7143,14 @@
   {
     "version": "v3.1.0.5047_2506271411",
     "filename": "E430_5047_2506271411",
-    "updated_at": "2025-07-16 16:51:46+08:00",
+    "updated_at": "2025-07-25 10:17:50+08:00",
     "note": "",
     "firmware_id": 803,
     "model": "Lumus Series E430",
     "hw_ver": "IPC_NT1NO24MP",
     "changelog": [
       "1.ONVIF supported.",
-      "2.Day/night mode switching enhanced.",
-      "3.Rich Notification supported."
+      "2.Day/night mode switching enhanced."
     ],
     "display_time": "2025-07-16 00:00:00+08:00",
     "sha256_pak": "fcc066e10f1035db80cac12f8c5bcf6243f9692ef98aaa0093cd46e267f16c00",
@@ -7158,15 +7159,14 @@
   {
     "version": "v3.1.0.5047_2506271410",
     "filename": "Reolink_Lumus_5047_2506271410",
-    "updated_at": "2025-07-16 16:50:40+08:00",
+    "updated_at": "2025-07-25 10:18:03+08:00",
     "note": "",
     "firmware_id": 802,
     "model": "Reolink Lumus",
     "hw_ver": "IPC_NT1NO24MP",
     "changelog": [
       "1.ONVIF supported.",
-      "2.Day/night mode switching enhanced.",
-      "3.Rich Notification supported."
+      "2.Day/night mode switching enhanced."
     ],
     "display_time": "2025-07-16 00:00:00+08:00",
     "sha256_pak": "682114e548b8d59f45511be26a48e9507932f8a1e5cdc8141a4c98890f043fc2",
@@ -7175,17 +7175,17 @@
   {
     "version": "v3.1.0.5036_2506276946",
     "filename": "P3405036_2506276946",
-    "updated_at": "2025-07-24 16:29:58+08:00",
+    "updated_at": "2025-07-25 10:10:02+08:00",
     "note": "",
     "firmware_id": 814,
     "model": "P340",
     "hw_ver": "IPC_523B18128M12MP",
     "changelog": [
-      "1. Cloud service added.",
-      "2. Perimeter Protection and Smart Event Detection feature added.",
-      "3. Rich Notification supported.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "2. Perimeter Protection Added.",
+      "3.Smart Event Detection Added.",
       "4. Day/night mode switching enhanced.",
-      "5 Other known bugs resolved."
+      "5. Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "cd12d4dbe310d5d48d4a63d87bb0528590cb59f54fc3d002a90eecb5e0d8dad5",
@@ -7244,17 +7244,17 @@
   {
     "version": "v3.1.0.5046_2506251383",
     "filename": "P3205046_2506251383",
-    "updated_at": "2025-07-24 16:30:45+08:00",
+    "updated_at": "2025-07-25 10:11:11+08:00",
     "note": "",
     "firmware_id": 811,
     "model": "P320",
     "hw_ver": "IPC_NT1NA45MP",
     "changelog": [
-      "1. Cloud service added.",
-      "2. Perimeter Protection and Smart Event Detection feature added.",
-      "3. Rich Notification supported.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "2. Perimeter Protection Added.",
+      "3.Smart Event Detection Added.",
       "4. Day/night mode switching enhanced.",
-      "5 Other known bugs resolved."
+      "5. Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "290052378506abf131d3d0be49c1fa63b72f776a92003cf6937e112ca9c2c2f7",
@@ -7263,16 +7263,15 @@
   {
     "version": "v3.1.0.4972_2506051567",
     "filename": "P330_4972_2506051567",
-    "updated_at": "2025-07-22 10:59:12+08:00",
+    "updated_at": "2025-07-25 10:13:24+08:00",
     "note": "",
     "firmware_id": 805,
     "model": "P330",
     "hw_ver": "IPC_NT2NA48MP",
     "changelog": [
       "1. H.265/H.264 switching supported for both main and sub-streams.",
-      "2. Cloud service enabled.",
-      "3. Rich Notification supported.",
-      "4. Other known bugs resolved."
+      "2. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "3. Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "52ca576c18d614dd9d18e63c4fe058ac2f7c1c0747504bd7174f1e6a07bc3ec1",
@@ -7315,17 +7314,17 @@
   {
     "version": "v3.1.0.5036_2506279222",
     "filename": "B12005036_2506279222",
-    "updated_at": "2025-07-24 16:30:15+08:00",
+    "updated_at": "2025-07-25 10:10:23+08:00",
     "note": "",
     "firmware_id": 813,
     "model": "B1200",
     "hw_ver": "IPC_52316M12MP",
     "changelog": [
-      "1. Cloud service added.",
-      "2. Perimeter Protection and Smart Event Detection feature added.",
-      "3. Rich Notification supported.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "2. Perimeter Protection Added.",
+      "3.Smart Event Detection Added.",
       "4. Day/night mode switching enhanced.",
-      "5 Other known bugs resolved."
+      "5. Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "a21af4919bfea320b08d926cf642ca2e602e9ba37601c2b485f435561663d265",
@@ -7334,17 +7333,17 @@
   {
     "version": "v3.1.0.5036_2506276719",
     "filename": "1212A_5036_2506276719",
-    "updated_at": "2025-07-24 16:30:29+08:00",
+    "updated_at": "2025-07-25 10:10:43+08:00",
     "note": "",
     "firmware_id": 812,
     "model": "RLC-1212A",
     "hw_ver": "IPC_523B18128M12MP",
     "changelog": [
-      "1. Cloud service added.",
-      "2. Perimeter Protection and Smart Event Detection feature added.",
-      "3. Rich Notification supported.",
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "2. Perimeter Protection Added.",
+      "3.Smart Event Detection Added.",
       "4. Day/night mode switching enhanced.",
-      "5 Other known bugs resolved."
+      "5. Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "a738d8b5afa26cf61caa7897fc2542bf775e4e78a3af48b8d8095d8df0edd532",
@@ -7353,16 +7352,15 @@
   {
     "version": "v3.1.0.4972_2506051543",
     "filename": "810A_4972_2506051543",
-    "updated_at": "2025-07-22 10:58:27+08:00",
+    "updated_at": "2025-07-25 10:13:39+08:00",
     "note": "",
     "firmware_id": 804,
     "model": "RLC-810A",
     "hw_ver": "IPC_56064M8MP",
     "changelog": [
       "1. H.265/H.264 switching supported for both main and sub-streams.",
-      "2. Cloud service enabled.",
-      "3. Rich Notification supported.",
-      "4. Other known bugs resolved."
+      "2. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "3. Other known bugs resolved."
     ],
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "4c19c1ac426f94e97a74f20676ea32062b8d2987643c567708c1b77feab45dca",
