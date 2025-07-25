@@ -2192,7 +2192,7 @@ Firmwares for this hardware version: 3
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4460_2412192213](https://home-cdn.reolink.us/wp-content/uploads/2025/06/160822091750062129.7723.zip?download_name=RLC_811WA_4460_2412192213.zip) | 2024‑12‑19 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Focusing performance improved.</li><li>Other known bugs resolved.</li></ol> | 
-[v3.1.0.3927_2409231464](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091008081733738888.1997.zip?download_name=RLC_811WA_240923.zip) | 2024‑09‑23 | 1.Cloud service and Cloud File Encryption feature added. | 
+[v3.1.0.3927_2409231464](https://home-cdn.reolink.us/wp-content/uploads/2024/12/091008081733738888.1997.zip?download_name=RLC_811WA_240923.zip) | 2024‑09‑23 | 1.Cloud storage supported (Actural service provided depends on the subscription plan). | 
 [v3.1.0.3485_2405084609](https://home-cdn.reolink.us/wp-content/uploads/2024/05/220651581716360718.6895.zip?download_name=RLC_811WA_3485_2405084609.zip) | 2024‑05‑08 | <ol><li>Optimize image parameters</li><li>Solve other known issues</li></ol> | 
 
 </details>
