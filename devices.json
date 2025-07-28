@@ -2155,6 +2155,10 @@
       {
         "id": 389,
         "title": "IPC_NT15NA416MP"
+      },
+      {
+        "id": 408,
+        "title": "IPC_NT13NA416MP"
       }
     ]
   },
@@ -2384,6 +2388,21 @@
       {
         "id": 405,
         "title": "IPC_NT15NA68MPW"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "title": "E Series E330",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 409,
+        "title": "IPC_566SD54MP"
       }
     ]
   }

@@ -7365,5 +7365,77 @@
     "display_time": "2025-07-22 00:00:00+08:00",
     "sha256_pak": "4c19c1ac426f94e97a74f20676ea32062b8d2987643c567708c1b77feab45dca",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.5112_2507081476",
+    "filename": "E_Series_E330_5112_2507081476",
+    "updated_at": "2025-07-28 14:54:34+08:00",
+    "note": "",
+    "firmware_id": 819,
+    "model": "E Series E330",
+    "hw_ver": "IPC_566SD54MP",
+    "changelog": [
+      "1. Privacy Mode supported.",
+      "2. ONVIF protocol supported.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-28 00:00:00+08:00",
+    "sha256_pak": "ad6763a1a430b60e654dbd08f9dbb2e878199cf4d8e976c479cd8c6f59712a1c",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5049_2506302189",
+    "filename": "Duo_Series_P750_5049_2506302189",
+    "updated_at": "2025-07-28 15:02:06+08:00",
+    "note": "",
+    "firmware_id": 817,
+    "model": "Duo Series P750",
+    "hw_ver": "IPC_NT13NA416MP",
+    "changelog": [
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "2. Local Video Encryption feature added.",
+      "3. Perimeter Protection feature supported.",
+      "4.Smart Event Detection Added.",
+      "5. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-28 00:00:00+08:00",
+    "sha256_pak": "c2842ebcd41a2fae3d428b4988f1c924346a7fe24bff4363724e0fc12bc6bc47",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5049_2506302188",
+    "filename": "Reolink_Duo_3_PoE_5049_2506302188",
+    "updated_at": "2025-07-28 15:02:22+08:00",
+    "note": "",
+    "firmware_id": 816,
+    "model": "Reolink Duo 3 PoE",
+    "hw_ver": "IPC_NT13NA416MP",
+    "changelog": [
+      "1. Cloud storage supported (Actural service provided depends on the subscription plan).",
+      "2. Local Video Encryption feature added.",
+      "3. Perimeter Protection feature supported.",
+      "4.Smart Event Detection Added.",
+      "5. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-28 00:00:00+08:00",
+    "sha256_pak": "291217a9e6df8939da118e62dcca8f1b28db5fc918eedfd6496627a289a57e56",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5112_2507081475",
+    "filename": "E1_Pro_5112_2507081475",
+    "updated_at": "2025-07-28 14:52:55+08:00",
+    "note": "",
+    "firmware_id": 818,
+    "model": "E1 Pro",
+    "hw_ver": "IPC_566SD54MP",
+    "changelog": [
+      "1. Privacy Mode supported.",
+      "2. ONVIF protocol supported.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-07-28 00:00:00+08:00",
+    "sha256_pak": "ace6f0bdda09c1509f0492f604236bb16e0b9ce66d03d7914c2ebbe0e4e1c787",
+    "source": "live"
   }
 ]

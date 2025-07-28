@@ -24620,5 +24620,141 @@
     ],
     "model_id": 9,
     "hw_ver_id": 309
+  },
+  "ad6763a1a430b60e654dbd08f9dbb2e878199cf4d8e976c479cd8c6f59712a1c": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD54MP",
+      "board_name": "IPC_566SD54MP",
+      "build_date": "250708",
+      "display_type_info": "E Series E330",
+      "detail_machine_type": "IPC_566SD54MP",
+      "type": "IPC",
+      "version_file": "5112_2507081476",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 22 2023 - 16:28:23 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #2 PREEMPT Tue Aug 23 18:36:45 CST 2022",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/280654271753685667.7423.zip"
+    ],
+    "model_id": 259,
+    "hw_ver_id": 409
+  },
+  "c2842ebcd41a2fae3d428b4988f1c924346a7fe24bff4363724e0fc12bc6bc47": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT13NA416MP",
+      "board_name": "IPC_NT13NA416MP",
+      "build_date": "250630",
+      "display_type_info": "Duo Series P750",
+      "detail_machine_type": "IPC_NT13NA416MP",
+      "type": "IPC",
+      "version_file": "5049_2506302189",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Jul 09 2024 - 11:55:15 +0800)",
+      "uboot_compiler": "aarch64-ca53-linux-gnu-gcc.br_real (Buildroot 2020.02.9-1-g49f3ce4) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (lmy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-1-g49f3ce4)) #3 SMP PREEMPT Wed Jun 25 10:12:25 CST 2025",
+      "board": "Novatek NA51102",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/280649401753685380.3722.zip"
+    ],
+    "model_id": 243,
+    "hw_ver_id": 408
+  },
+  "291217a9e6df8939da118e62dcca8f1b28db5fc918eedfd6496627a289a57e56": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT13NA416MP",
+      "board_name": "IPC_NT13NA416MP",
+      "build_date": "250630",
+      "display_type_info": "Reolink Duo 3 PoE",
+      "detail_machine_type": "IPC_NT13NA416MP",
+      "type": "IPC",
+      "version_file": "5049_2506302188",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Jul 09 2024 - 11:55:15 +0800)",
+      "uboot_compiler": "aarch64-ca53-linux-gnu-gcc.br_real (Buildroot 2020.02.9-1-g49f3ce4) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (lmy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-1-g49f3ce4)) #3 SMP PREEMPT Wed Jun 25 10:12:25 CST 2025",
+      "board": "Novatek NA51102",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/280647331753685253.8867.zip"
+    ],
+    "model_id": 200,
+    "hw_ver_id": 335
+  },
+  "ace6f0bdda09c1509f0492f604236bb16e0b9ce66d03d7914c2ebbe0e4e1c787": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_566SD54MP",
+      "board_name": "IPC_566SD54MP",
+      "build_date": "250708",
+      "display_type_info": "E1 Pro",
+      "detail_machine_type": "IPC_566SD54MP",
+      "type": "IPC",
+      "version_file": "5112_2507081475",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 22 2023 - 16:28:23 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #2 PREEMPT Tue Aug 23 18:36:45 CST 2022",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/280652461753685566.7753.zip"
+    ],
+    "model_id": 81,
+    "hw_ver_id": 321
   }
 }

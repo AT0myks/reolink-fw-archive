@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 709
+Total: 713
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -644,6 +644,14 @@ Version | Date | Changes | Notes
 <details>
   <summary>Duo Series P750</summary>
 
+  ### IPC_NT13NA416MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.5049_2506302189](https://home-cdn.reolink.us/wp-content/uploads/2025/07/280649401753685380.3722.zip?download_name=Duo_Series_P750_5049_2506302189.zip) | 2025‑06‑30 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Local Video Encryption feature added.</li><li>Perimeter Protection feature supported.</li><li>Smart Event Detection Added.</li><li>Other known bugs resolved.</li></ol> | 
+
   ### IPC_NT15NA416MP
 
 Firmwares for this hardware version: 1
@@ -664,6 +672,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.4428_2412183419](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130643561749797036.1692.zip?download_name=W730_4428_2412183419.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>E Series E330</summary>
+
+  ### IPC_566SD54MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5112_2507081476](https://home-cdn.reolink.us/wp-content/uploads/2025/07/280654271753685667.7423.zip?download_name=E_Series_E330_5112_2507081476.zip) | 2025‑07‑08 | <ol><li>Privacy Mode supported.</li><li>ONVIF protocol supported.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -872,10 +893,11 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD54MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5112_2507081475](https://home-cdn.reolink.us/wp-content/uploads/2025/07/280652461753685566.7753.zip?download_name=E1_Pro_5112_2507081475.zip) | 2025‑07‑08 | <ol><li>Privacy Mode supported.</li><li>ONVIF protocol supported.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3149_2401092478](https://home-cdn.reolink.us/wp-content/uploads/2024/01/110927511704965271.5799.zip?download_name=E1_Pro_3149_2401092478.zip) | 2024‑01‑09 | <ol><li>Optimize smart detection.</li><li>Support two-way audio under ONVIF connection.</li><li>Enhance firmware upgrade speed.</li><li>Improve recording audio and two-way audio effects.</li><li>Optimize PT (Pan-Tilt), addressing inaccuracies in PT positioning in certain scenarios.</li></ol> | 
 [v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090405421696824342.4095.zip?download_name=E1Pro_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
 
@@ -2845,10 +2867,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT13NA416MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5049_2506302188](https://home-cdn.reolink.us/wp-content/uploads/2025/07/280647331753685253.8867.zip?download_name=Reolink_Duo_3_PoE_5049_2506302188.zip) | 2025‑06‑30 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Local Video Encryption feature added.</li><li>Perimeter Protection feature supported.</li><li>Smart Event Detection Added.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.3632_2406192112](https://home-cdn.reolink.us/wp-content/uploads/2024/06/280355001719546900.0793.zip?download_name=Reolink_Duo_3_PoE_3632_2406192112.zip) | 2024‑06‑19 | <ol><li>Improve day-night transition effects.</li><li>Enhance audio noise reduction capabilities.</li><li>Enhance the actual performance of Motion Track.</li><li>Improve image quality in specific scenarios.</li></ol> | 
 
   ### IPC_NT15NA416MP
