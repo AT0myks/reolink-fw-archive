@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 713
+Total: 715
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1075,6 +1075,19 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.5047_2506271411](https://home-cdn.reolink.us/wp-content/uploads/2025/07/160851361752655896.6786.zip?download_name=E430_5047_2506271411.zip) | 2025‑06‑27 | <ol><li>ONVIF supported.</li><li>Day/night mode switching enhanced.</li></ol> | 
 [v3.1.0.4713_2503191384](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130848441749804524.0686.zip?download_name=E430_4713_2503191384.zip) | 2025‑03‑19 | <ol><li>Wi-Fi connection process streamlined.</li><li>Day-to-night transition effect improved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Lumus Series E450</summary>
+
+  ### IPC_FH1NA48MPC7
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4243_2507079897](https://home-cdn.reolink.us/wp-content/uploads/2025/07/310624291753943069.4882.zip?download_name=Lumus_Series_E450_4243_2507079897.zip) | 2025‑07‑07 | 1. Solve  known issues | 
 
 </details>
 
@@ -3089,6 +3102,19 @@ Version | Date | Changes | Notes
 [v3.1.0.4713_2503191383](https://home-cdn.reolink.us/wp-content/uploads/2025/04/030430051743654605.8843.zip?download_name=Reolink_Lumus_4713_2503191383.zip) | 2025‑03‑19 | <ol><li>Wi-Fi connection process streamlined.</li><li>Day-to-night transition effect improved.</li></ol> | 
 [v3.1.0.4551_2501171940](https://home-cdn.reolink.us/wp-content/uploads/2025/03/030728521740986932.2463.zip?download_name=Reolink_Lumus_4551_2501171940.zip) | 2025‑01‑17 |  | 
 [v3.1.0.3497_2405102255](https://home-cdn.reolink.us/wp-content/uploads/2024/05/290128251716946105.1024.zip?download_name=Reolink_Lumus_3497_2405102255.zip) | 2024‑05‑10 | <ol><li>Optimize the code scanning function</li><li>Optimize cloud storage function</li><li>Solve other known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Reolink Lumus Pro</summary>
+
+  ### IPC_FH1NA48MPC7
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4243_2507035499](https://home-cdn.reolink.us/wp-content/uploads/2025/07/310623341753943014.185.zip?download_name=Reolink_Lumus_Pro_4243_2507035499.zip) | 2025‑07‑03 | 1. Solve  known issues | 
 
 </details>
 

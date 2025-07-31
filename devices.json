@@ -2405,5 +2405,35 @@
         "title": "IPC_566SD54MP"
       }
     ]
+  },
+  {
+    "id": 261,
+    "title": "Lumus Series E450",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 410,
+        "title": "IPC_FH1NA48MPC7"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "title": "Reolink Lumus Pro",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 411,
+        "title": "IPC_FH1NA48MPC7"
+      }
+    ]
   }
 ]

@@ -24756,5 +24756,77 @@
     ],
     "model_id": 81,
     "hw_ver_id": 321
+  },
+  "43ffab6863f3aed9938f7c0364f352b333e7a1048297f2e4e83981da978208d7": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_FH1NA48MPC7",
+      "board_name": "IPC_FH1NA48MPC7",
+      "build_date": "250707",
+      "display_type_info": "Lumus Series E450",
+      "detail_machine_type": "IPC_FH1NA48MPC7",
+      "type": "IPC",
+      "version_file": "4243_2507079897",
+      "os": null,
+      "architecture": null,
+      "kernel_image_name": null,
+      "uboot_version": "U-Boot 2017.09 (Aug 19 2024 - 19:00:32 +0800)",
+      "uboot_compiler": "arm-fhv512-linux-uclibcgnueabihf-gcc (arm_fhv512-uclibc-ng_20240109) 6.5.0",
+      "uboot_linker": "GNU ld (arm_fhv512-uclibc-ng_20240109) 2.40",
+      "linux_banner": "Linux version 5.10.144 (d@d-VirtualBox) (arm-fhv512-linux-uclibcgnueabihf-gcc (arm_fhv512-uclibc-ng_20240109) 6.5.0, GNU ld (arm_fhv512-uclibc-ng_20240109) 2.40) #28 SMP Wed Jul 2 17:40:53 CST 2025",
+      "board": "XC01",
+      "board_vendor": "arm",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/310624291753943069.4882.zip"
+    ],
+    "model_id": 261,
+    "hw_ver_id": 410
+  },
+  "3215b9b250f515bff954e9e53d36564b17f5cd1efd0383c4e79fc3571ff657e1": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_FH1NA48MPC7",
+      "board_name": "IPC_FH1NA48MPC7",
+      "build_date": "250703",
+      "display_type_info": "Reolink Lumus Pro",
+      "detail_machine_type": "IPC_FH1NA48MPC7",
+      "type": "IPC",
+      "version_file": "4243_2507035499",
+      "os": null,
+      "architecture": null,
+      "kernel_image_name": null,
+      "uboot_version": "U-Boot 2017.09 (Aug 19 2024 - 19:00:32 +0800)",
+      "uboot_compiler": "arm-fhv512-linux-uclibcgnueabihf-gcc (arm_fhv512-uclibc-ng_20240109) 6.5.0",
+      "uboot_linker": "GNU ld (arm_fhv512-uclibc-ng_20240109) 2.40",
+      "linux_banner": "Linux version 5.10.144 (d@d-VirtualBox) (arm-fhv512-linux-uclibcgnueabihf-gcc (arm_fhv512-uclibc-ng_20240109) 6.5.0, GNU ld (arm_fhv512-uclibc-ng_20240109) 2.40) #28 SMP Wed Jul 2 17:40:53 CST 2025",
+      "board": "XC01",
+      "board_vendor": "arm",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/07/310623341753943014.185.zip"
+    ],
+    "model_id": 260,
+    "hw_ver_id": 411
   }
 }

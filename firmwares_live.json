@@ -7437,5 +7437,35 @@
     "display_time": "2025-07-28 00:00:00+08:00",
     "sha256_pak": "ace6f0bdda09c1509f0492f604236bb16e0b9ce66d03d7914c2ebbe0e4e1c787",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.4243_2507079897",
+    "filename": "Lumus_Series_E450_4243_2507079897",
+    "updated_at": "2025-07-31 14:25:39+08:00",
+    "note": "",
+    "firmware_id": 821,
+    "model": "Lumus Series E450",
+    "hw_ver": "IPC_FH1NA48MPC7",
+    "changelog": [
+      "1. Solve  known issues"
+    ],
+    "display_time": "2025-07-31 00:00:00+08:00",
+    "sha256_pak": "43ffab6863f3aed9938f7c0364f352b333e7a1048297f2e4e83981da978208d7",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.4243_2507035499",
+    "filename": "Reolink_Lumus_Pro_4243_2507035499",
+    "updated_at": "2025-07-31 14:23:54+08:00",
+    "note": "",
+    "firmware_id": 820,
+    "model": "Reolink Lumus Pro",
+    "hw_ver": "IPC_FH1NA48MPC7",
+    "changelog": [
+      "1. Solve  known issues"
+    ],
+    "display_time": "2025-07-31 00:00:00+08:00",
+    "sha256_pak": "3215b9b250f515bff954e9e53d36564b17f5cd1efd0383c4e79fc3571ff657e1",
+    "source": "live"
   }
 ]
