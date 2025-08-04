@@ -24828,5 +24828,41 @@
     ],
     "model_id": 260,
     "hw_ver_id": 411
+  },
+  "bb549f46e75fa612185fe10be333a75a4138abb1961eb7a457fb78e64287550f": {
+    "info": {
+      "firmware_version_prefix": "v3.6.0",
+      "board_type": "N5MB01",
+      "board_name": "N5MB01",
+      "build_date": "250628",
+      "display_type_info": "RLN36",
+      "detail_machine_type": "NVR6704",
+      "type": "NVR",
+      "version_file": "415_25062842",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Dec 18 2024 - 14:49:23 +0800)",
+      "uboot_compiler": "aarch64-ca53-linux-gnu-gcc.br_real (Buildroot 2020.02.9-1-g49f3ce4) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.148 (xyy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-1-g49f3ce4)) #1 SMP Tue Feb 11 18:34:04 CST 2025",
+      "board": "Novatek NA51090",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/08/040406241754280384.3784.zip"
+    ],
+    "model_id": 167,
+    "hw_ver_id": 286
   }
 }
