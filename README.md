@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 716
+Total: 720
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -432,12 +432,26 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPB28
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5129_2507172222](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150645501755240350.6254.zip?download_name=CX810_5129_2507172222.zip) | 2025‑07‑17 | <ol><li>Perimeter Protection added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4666_2503072060](https://home-cdn.reolink.us/wp-content/uploads/2025/04/180157251744941445.7933.zip?download_name=CX810_4666_2503072060.zip) | 2025‑03‑07 | <ol><li>HDR feature toggle added.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3909_2408064516](https://home-cdn.reolink.us/wp-content/uploads/2024/08/071205031723032303.9511.zip?download_name=CX810_3909_2408064516.zip) | 2024‑08‑06 | <ol><li>Add audio noise reduction function</li><li>Add binning mode function</li><li>Optimize image effects</li><li>Solve other known BUGs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>ColorX Series P330X</summary>
+
+  ### IPC_NT2NA48MPB28
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5129_2507172223](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150647231755240443.3133.zip?download_name=ColorX_Series_P330X_5129_2507172223.zip) | 2025‑07‑17 | <ol><li>Perimeter Protection added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -1297,10 +1311,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4885_25051309](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150644511755240291.8912.zip?download_name=P850_4885_25051309.zip) | 2025‑05‑13 | <ol><li>H.264/H.265 switching supported.</li><li>Tracking performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4366_24121219](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130240311749782431.0823.zip?download_name=P850_4366_24121219.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 
 </details>
@@ -2420,10 +2435,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.4885_25051308](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150643571755240237.2774.zip?download_name=RLC_823S2_4885_25051308.zip) | 2025‑05‑13 | <ol><li>H.264/H.265 switching supported.</li><li>Tracking performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4366_24121218](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030202061735869726.9768.zip?download_name=RLC_823S2_v310436624121218_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3795_24081508](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190719511724051991.4724.zip?download_name=RLC_823S2_3795_24081508.zip) | 2024‑08‑15 | <ol><li>Optimize smart detection</li><li>Improve image effect</li><li>Enhance Auto Focus</li><li>Optimize network performance</li><li>Fix other known bugs</li></ol> | 
 

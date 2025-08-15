@@ -7499,5 +7499,75 @@
     "display_time": "2025-08-04 00:00:00+08:00",
     "sha256_pak": "bb549f46e75fa612185fe10be333a75a4138abb1961eb7a457fb78e64287550f",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.5129_2507172223",
+    "filename": "ColorX_Series_P330X_5129_2507172223",
+    "updated_at": "2025-08-15 14:47:36+08:00",
+    "note": "",
+    "firmware_id": 828,
+    "model": "ColorX Series P330X",
+    "hw_ver": "IPC_NT2NA48MPB28",
+    "changelog": [
+      "1. Perimeter Protection added.",
+      "2. Cloud storage supported (Actural service depends on the subscription plan).",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-08-15 00:00:00+08:00",
+    "sha256_pak": "492b37e82f28e369043f8c0e63e597027b90d65182a5f7a2947c4eba8c2029c6",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4885_25051309_v1.0.0.146",
+    "filename": "P850_4885_25051309",
+    "updated_at": "2025-08-15 14:45:10+08:00",
+    "note": "",
+    "firmware_id": 826,
+    "model": "P850",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. H.264/H.265 switching supported.",
+      "2. Tracking performance optimized.",
+      "3. Web version updated.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-08-15 00:00:00+08:00",
+    "sha256_pak": "68bda1cd204da3343d21533fd905e60df87226d8b3af26dec5e223e6882c6002",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5129_2507172222",
+    "filename": "CX810_5129_2507172222",
+    "updated_at": "2025-08-15 14:45:58+08:00",
+    "note": "",
+    "firmware_id": 827,
+    "model": "CX810",
+    "hw_ver": "IPC_NT2NA48MPB28",
+    "changelog": [
+      "1. Perimeter Protection added.",
+      "2. Cloud storage supported (Actural service depends on the subscription plan).",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-08-15 00:00:00+08:00",
+    "sha256_pak": "d9df1d020e638704aaeb87463f8dc0216a93bc34b7110974bb6aa4637267d48b",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4885_25051308_v1.0.0.146",
+    "filename": "RLC_823S2_4885_25051308",
+    "updated_at": "2025-08-15 14:44:09+08:00",
+    "note": "",
+    "firmware_id": 825,
+    "model": "RLC-823S2",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1. H.264/H.265 switching supported.",
+      "2. Tracking performance optimized.",
+      "3. Web version updated.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-08-15 00:00:00+08:00",
+    "sha256_pak": "7c48d6c28ac1137d39cb58feede201f894a1d0488b5ef74b00d7af7a1c29612a",
+    "source": "live"
   }
 ]
