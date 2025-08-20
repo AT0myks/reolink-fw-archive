@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 722
+Total: 730
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -478,10 +478,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508131283](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201059171755687557.0638.zip?download_name=D340P_v30046622508131283_DB_566128M5MP_P.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503182271](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240409591742789399.9338.zip?download_name=D340P_v30046622503182271_DB_566128M5MP_P.zip) | 2025‑03‑18 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
 </details>
@@ -493,10 +494,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P_W
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508131302](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201103461755687826.8543.zip?download_name=D340P_White_v30046622508131302_DB_566128M5MP_P_W.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503202284](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240415121742789712.4222.zip?download_name=D340P_White_v30046622503202284_DB_566128M5MP_P_W.zip) | 2025‑03‑20 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
 </details>
@@ -508,10 +510,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508131282](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201102491755687769.7386.zip?download_name=D340W_v30046622508131282_DB_566128M5MP_W.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503182270](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240423021742790182.6454.zip?download_name=D340W_v30046622503182270_DB_566128M5MP_W.zip) | 2025‑03‑18 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
 </details>
@@ -523,10 +526,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W_W
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508131301](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201104591755687899.9223.zip?download_name=D340W_White_v30046622508131301_DB_566128M5MP_W_W.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503202283](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240415511742789751.8914.zip?download_name=D340W_White_v30046622503202283_DB_566128M5MP_W_W.zip) | 2025‑03‑20 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
 </details>
@@ -3193,10 +3197,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P
 
-Firmwares for this hardware version: 9
+Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508071283](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201045301755686730.5046.zip?download_name=Reolink_Video_Doorbell_PoE_v30046622508071283_DB_566128M5MP_P.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122271](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240357421742788662.3377.zip?download_name=Reolink_Video_Doorbell_PoE_v30046622503122271_DB_566128M5MP_P.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111120](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181040331729248033.5364.zip?download_name=Reolink_Video_Doorbell_PoE_v30041102410111120_DB_566128M5MP_P.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
 [v3.0.0.3308_2407315183](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190851131724057473.93.zip?download_name=Reolink_Video_Doorbell_PoE_v30033082407315183_DB_566128M5MP_P.zip) | 2024‑07‑31 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Fix other known bugs</li><li>Without Halloween festival reply audio.</li></ol> | 
@@ -3218,10 +3223,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P_W
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508071302](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201047041755686824.7013.zip?download_name=Reolink_Video_Doorbell_PoE_W_v30046622508071302_DB_566128M5MP_P_W.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122284](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240401331742788893.7466.zip?download_name=Reolink_Video_Doorbell_PoE_W_v30046622503122284_DB_566128M5MP_P_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111128](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181043081729248188.5317.zip?download_name=Reolink_Video_Doorbell_PoE_W_v30041102410111128_DB_566128M5MP_P_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
 [v3.0.0.3308_2408051176](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190847041724057224.7904.zip?download_name=Reolink_Video_Doorbell_PoE_W_v30033082408051176_DB_566128M5MP_P_W.zip) | 2024‑08‑05 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Fix other known bugs</li><li>Without Halloween festival reply audio.</li></ol> | 
@@ -3237,10 +3243,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W
 
-Firmwares for this hardware version: 9
+Firmwares for this hardware version: 10
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508071282](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201046281755686788.162.zip?download_name=Reolink_Video_Doorbell_WiFi_v30046622508071282_DB_566128M5MP_W.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122270](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240400161742788816.8163.zip?download_name=Reolink_Video_Doorbell_WiFi_v30046622503122270_DB_566128M5MP_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111119](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181041501729248110.7924.zip?download_name=Reolink_Video_Doorbell_WiFi_v30041102410111119_DB_566128M5MP_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
 [v3.0.0.3308_2407315182](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190849391724057379.4602.zip?download_name=Reolink_Video_Doorbell_WiFi_v30033082407315182_DB_566128M5MP_W.zip) | 2024‑07‑31 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Fix other known bugs</li><li>Without Halloween festival reply audio.</li></ol> | 
@@ -3262,10 +3269,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W_W
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.4662_2508071301](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201048121755686892.2854.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30046622508071301_DB_566128M5MP_W_W.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122283](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240402331742788953.4429.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30046622503122283_DB_566128M5MP_W_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111127](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181044141729248254.7736.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30041102410111127_DB_566128M5MP_W_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
 [v3.0.0.3308_2408051175](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190848211724057301.9162.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30033082408051175_DB_566128M5MP_W_W.zip) | 2024‑08‑05 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Fix other known bugs</li><li>Without Halloween festival reply audio.</li></ol> | 

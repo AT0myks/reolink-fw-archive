@@ -7633,5 +7633,149 @@
     "display_time": "2025-08-18 00:00:00+08:00",
     "sha256_pak": "749619e42f062a572a5bfb42e55a030919abc409bb878d6d733a024e459fec95",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_2508131302",
+    "filename": "D340P_White_v30046622508131302_DB_566128M5MP_P_W",
+    "updated_at": "2025-08-20 19:03:55+08:00",
+    "note": "",
+    "firmware_id": 838,
+    "model": "D340P-White",
+    "hw_ver": "DB_566128M5MP_P_W",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "8e5e6fe5fb4bbbdf8628ca2c0c3a924af258f4ef25d5ddbce6644047d0935ecf",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_2508131301",
+    "filename": "D340W_White_v30046622508131301_DB_566128M5MP_W_W",
+    "updated_at": "2025-08-20 19:05:07+08:00",
+    "note": "",
+    "firmware_id": 839,
+    "model": "D340W-White",
+    "hw_ver": "DB_566128M5MP_W_W",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "fc05ee2438a21ab1e8b214252f7673e84439d5b5de7eb942fb817da297938797",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_2508131282",
+    "filename": "D340W_v30046622508131282_DB_566128M5MP_W",
+    "updated_at": "2025-08-20 19:03:01+08:00",
+    "note": "",
+    "firmware_id": 837,
+    "model": "D340W",
+    "hw_ver": "DB_566128M5MP_W",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "4b9e5a9eb5dc831bf322bfd84cc3b3d688016192ce29dff6788cae41edee5d86",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_2508131283",
+    "filename": "D340P_v30046622508131283_DB_566128M5MP_P",
+    "updated_at": "2025-08-20 18:59:26+08:00",
+    "note": "",
+    "firmware_id": 836,
+    "model": "D340P",
+    "hw_ver": "DB_566128M5MP_P",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "f5d53dad9dfbd898a00b29c4f4cf60d638e65ef2dd363f341c69c3d1b3102331",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_2508071302",
+    "filename": "Reolink_Video_Doorbell_PoE_W_v30046622508071302_DB_566128M5MP_P_W",
+    "updated_at": "2025-08-20 18:47:12+08:00",
+    "note": "",
+    "firmware_id": 834,
+    "model": "Reolink Video Doorbell PoE-W\uff08White POE\uff09",
+    "hw_ver": "DB_566128M5MP_P_W",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "c8a1c748e00f0bccfb9f5f57af2d2a6378642c840083b810557447ff17790dba",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_2508071301",
+    "filename": "Reolink_Video_Doorbell_WiFi_W_v30046622508071301_DB_566128M5MP_W_W",
+    "updated_at": "2025-08-20 18:48:20+08:00",
+    "note": "",
+    "firmware_id": 835,
+    "model": "Reolink Video Doorbell WiFi-W\uff08White WiFi\uff09",
+    "hw_ver": "DB_566128M5MP_W_W",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "833171a1776eee232d13578108d2f9e0e208a71268130e38f182a802d038a1b4",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_250807128",
+    "filename": "Reolink_Video_Doorbell_WiFi_v30046622508071282_DB_566128M5MP_W",
+    "updated_at": "2025-08-20 18:46:37+08:00",
+    "note": "",
+    "firmware_id": 833,
+    "model": "Reolink Video Doorbell WiFi",
+    "hw_ver": "DB_566128M5MP_W",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "f1cd81db04fc71f7e3b71908b2d04529bec9b4b25c39bfe907c7f7d3ae60bc52",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.4662_2508071283",
+    "filename": "Reolink_Video_Doorbell_PoE_v30046622508071283_DB_566128M5MP_P",
+    "updated_at": "2025-08-20 18:45:59+08:00",
+    "note": "",
+    "firmware_id": 832,
+    "model": "Reolink Video Doorbell PoE",
+    "hw_ver": "DB_566128M5MP_P",
+    "changelog": [
+      "1.Fixed the image overexposure issue.",
+      "2.App two-way audio interrupt smart home two-way audio.",
+      "3.Updated the photosensitive model.",
+      "4.Supplemented and fixed some general bugs."
+    ],
+    "display_time": "2025-08-20 00:00:00+08:00",
+    "sha256_pak": "8a6a1c2732d4177ce6d301eeb9980146d8db9e7b2c3f5fa9c1c313ffd7ecba59",
+    "source": "live"
   }
 ]
