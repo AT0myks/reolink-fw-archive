@@ -6281,16 +6281,15 @@
   {
     "version": "v3.1.0.4731_2503212217",
     "filename": "RLC_840A_4731_2503212217",
-    "updated_at": "2025-05-26 17:25:50+08:00",
+    "updated_at": "2025-08-27 18:12:44+08:00",
     "note": "",
     "firmware_id": 749,
     "model": "RLC-840A",
     "hw_ver": "IPC_NT2NA48MP",
     "changelog": [
       "1. Two-way talk performance enhanced.",
-      "2. H.265/H.264 switching supported for both main and sub streams.",
-      "3. Web version updated.",
-      "4. Other known bugs resolved."
+      "2. Web version updated.",
+      "3. Other known bugs resolved."
     ],
     "display_time": "2025-05-26 00:00:00+08:00",
     "sha256_pak": "4099d71f373ad5963193e6ccf216f36ce166865a164de18806244200fa1f4d06",
@@ -6689,16 +6688,15 @@
   {
     "version": "v3.1.0.4731_2503212218",
     "filename": "P337_4731_2503212218",
-    "updated_at": "2025-06-13 15:15:50+08:00",
+    "updated_at": "2025-08-27 18:12:59+08:00",
     "note": "",
     "firmware_id": 770,
     "model": "P337",
     "hw_ver": "IPC_NT2NA48MP",
     "changelog": [
       "1. Two-way talk performance enhanced.",
-      "2. H.265/H.264 switching supported for both main and sub streams.",
-      "3. Web version updated.",
-      "4. Other known bugs resolved."
+      "2. Web version updated.",
+      "3. Other known bugs resolved."
     ],
     "display_time": "2025-06-13 00:00:00+08:00",
     "sha256_pak": "ee2dab3e81f966b2116a3726c445e5fadff67ed9169104d87fcc646eeb1afe52",
