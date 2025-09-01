@@ -7775,5 +7775,21 @@
     "display_time": "2025-08-20 00:00:00+08:00",
     "sha256_pak": "8a6a1c2732d4177ce6d301eeb9980146d8db9e7b2c3f5fa9c1c313ffd7ecba59",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.4579_2503143002",
+    "filename": "Reolint_Elite_WiFi_v32045792503143002_IPC_NT15NA58MPW",
+    "updated_at": "2025-09-01 09:53:12+08:00",
+    "note": "",
+    "firmware_id": 840,
+    "model": "Reolink Elite WiFi",
+    "hw_ver": "IPC_NT15NA58MPW",
+    "changelog": [
+      "Cloud storage supported (Actural service depends on the subscription plan).",
+      "Solve other known bugs."
+    ],
+    "display_time": "2025-08-21 00:00:00+08:00",
+    "sha256_pak": "93413085ae6b8e0c1e32164d256d69f0e378e64354a319f33f0286aab64ef9ec",
+    "source": "live"
   }
 ]

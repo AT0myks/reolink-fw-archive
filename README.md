@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 730
+Total: 731
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -3039,6 +3039,21 @@ Version | Date | Changes | Notes
 [v3.0.0.1388_22100601](https://home-cdn.reolink.us/wp-content/uploads/2022/10/110159161665453556.8234.zip?download_name=Reolink_Duo_WiFi_221006.zip) | 2022‑10‑06 | <ol><li>Update the web version</li><li>Optimize the AI detection function<ol type="a"><li>Upgrade AI model to support pets</li><li>Improve the recognition accuracy of people, cars, and pets, and optimize static AI false positives</li><li>Increase the AI delay alarm function, which can reduce the dynamic misjudgment caused by flying insects, rain and other reasons by adjusting the delay gear</li><li>Optimize the problem of false alarms caused by day and night switching and lighting changes, and solve the problem that white lights are repeatedly turned on and off in some scenes</li></ol></li><li>Optimize night vision images</li><li>Increase the AI detection type of intelligent white light</li><li>Add gop setting function</li><li>Add night vision frame drop function</li><li>Optimized related network protocols and some known bugs</li></ol> | Recommendation for upgrade: Because there are many updates in this version, it is recommended to check the Reset Configuration option when upgrading.
 [v3.0.0.1171_22073001](https://drive.google.com/uc?id=1LESBv5_TQwMZWM8KRvDHXa1fjmA-Ekhq&confirm=t) | 2022‑07‑30 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
 [v3.0.0.684_21110101](https://drive.google.com/uc?id=11QQZYhNyTaNtXKoIYlcA9qUj0oK3F5Ts&confirm=t) | 2021‑11‑01 |  | [Source 1](https://www.reddit.com/r/reolinkcam/comments/zhktis/comment/izoohjp)<br />[Source 2](https://drive.google.com/drive/folders/1ik8oU1CjskF_V-blh7-dub0K70LSBgqi)
+
+</details>
+
+<details>
+  <summary>Reolink Elite WiFi</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Elite+WiFi/product.png" width="150">
+
+  ### IPC_NT15NA58MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4579_2503143002](https://home-cdn.reolink.us/wp-content/uploads/2025/08/210352531755748373.7663.zip?download_name=Reolint_Elite_WiFi_v32045792503143002_IPC_NT15NA58MPW.zip) | 2025‑03‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Solve other known bugs.</li></ol> | 
 
 </details>
 
