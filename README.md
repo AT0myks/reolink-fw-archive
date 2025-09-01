@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 731
+Total: 732
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1007,6 +1007,21 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.2.0.5026_2507101419](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220306051753153565.9173.zip?download_name=Elite_Floodlight_WiFI_v32050262507101419_IPC_NT15NA68MPW.zip) | 2025‑07‑10 | <ol><li>Add AI Video Search function.</li><li>Solve other known bugs.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Elite Series W740</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Elite%20Series%20W740/product.png" width="150">
+
+  ### IPC_NT15NA58MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4558_2503142026](https://home-cdn.reolink.us/wp-content/uploads/2025/09/010743291756712609.2162.zip?download_name=Elite_Series_W740_v32045582503142026_IPC_NT15NA58MPW.zip) | 2025‑03‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Solve other known bugs.</li></ol> | 
 
 </details>
 

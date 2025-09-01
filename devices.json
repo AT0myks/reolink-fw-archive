@@ -2465,5 +2465,20 @@
         "title": "IPC_NT15NA58MPW"
       }
     ]
+  },
+  {
+    "id": 264,
+    "title": "Elite Series W740",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Elite%20Series%20W740/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 414,
+        "title": "IPC_NT15NA58MPW"
+      }
+    ]
   }
 ]
