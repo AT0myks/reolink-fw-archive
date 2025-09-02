@@ -7103,9 +7103,9 @@
     "source": "live"
   },
   {
-    "version": "v3.1.0.4450_2505301748",
-    "filename": "E_Series_E320_4450_2505301748",
-    "updated_at": "2025-07-14 15:21:06+08:00",
+    "version": "v3.1.0.4450_2509013596",
+    "filename": "E_Series_E320_4450_2509013596",
+    "updated_at": "2025-09-02 19:18:32+08:00",
     "note": "",
     "firmware_id": 798,
     "model": "E Series E320",
@@ -7113,7 +7113,7 @@
     "changelog": [
       "1.Fixed some known bugs."
     ],
-    "display_time": "2025-07-14 00:00:00+08:00",
+    "display_time": "2025-09-02 00:00:00+08:00",
     "file": "https://home-cdn.reolink.us/wp-content/uploads/2025/07/140720351752477635.404.zip",
     "error": "Unknown algo 11",
     "source": "live",
@@ -7121,9 +7121,9 @@
     "hw_ver_id": 390
   },
   {
-    "version": "v3.1.0.4450_2505301505",
-    "filename": "E1_4450_2505301505",
-    "updated_at": "2025-07-14 15:17:19+08:00",
+    "version": "v3.1.0.4450_2509011489",
+    "filename": "E1_4450_2509011489",
+    "updated_at": "2025-09-02 19:17:14+08:00",
     "note": "",
     "firmware_id": 797,
     "model": "E1",
@@ -7131,7 +7131,7 @@
     "changelog": [
       "1.Fixed some known bugs."
     ],
-    "display_time": "2025-07-14 00:00:00+08:00",
+    "display_time": "2025-09-02 00:00:00+08:00",
     "file": "https://home-cdn.reolink.us/wp-content/uploads/2025/07/140716551752477415.5486.zip",
     "error": "Unknown algo 11",
     "source": "live",
