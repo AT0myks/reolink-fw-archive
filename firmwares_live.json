@@ -7103,9 +7103,9 @@
     "source": "live"
   },
   {
-    "version": "v3.1.0.4450_2509013596",
-    "filename": "E_Series_E320_4450_2509013596",
-    "updated_at": "2025-09-02 19:18:32+08:00",
+    "version": "v3.1.0.4450_2509017621",
+    "filename": "E_Series_E320_4450_2509017621",
+    "updated_at": "2025-09-03 14:25:37+08:00",
     "note": "",
     "firmware_id": 798,
     "model": "E Series E320",
@@ -7806,6 +7806,93 @@
     ],
     "display_time": "2025-09-01 00:00:00+08:00",
     "sha256_pak": "70323e1b6a834523a3aee69249eb6acc8dfd6b291261935a1b47f66e1898a51e",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5223_2508072085",
+    "filename": "E1_Outdoor_SE_PoE_5223_2508072085",
+    "updated_at": "2025-09-03 14:21:51+08:00",
+    "note": "",
+    "firmware_id": 848,
+    "model": "E1 Outdoor SE PoE",
+    "hw_ver": "IPC_NT2NA48MPSD8V3",
+    "changelog": [
+      "1. Day/night mode switching enhanced.",
+      "2.Cloud storage supported (Actural service depends on the subscription plan).",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-09-03 00:00:00+08:00",
+    "sha256_pak": "e1e70189e06afe1858126bc55db1b4d6f3f850c2a60546a4e754cbf77c5c02e3",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5223_2508072082",
+    "filename": "E_Series_E560P_5223_2508072082",
+    "updated_at": "2025-09-03 14:22:57+08:00",
+    "note": "",
+    "firmware_id": 846,
+    "model": "E Series E560P",
+    "hw_ver": "IPC_560SD88MP",
+    "changelog": [
+      "1.  H.265/H.264 switching supported.",
+      "2. Day/night mode switching enhanced.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-09-03 00:00:00+08:00",
+    "sha256_pak": "c9bd0f6c3f225bb3eab6064a4f7f0f8d858d4009f19df94f24dae0c4909cb70d",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5223_2508072084",
+    "filename": "P334_5223_2508072084",
+    "updated_at": "2025-09-03 14:24:02+08:00",
+    "note": "",
+    "firmware_id": 844,
+    "model": "P334",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "1. Perimeter Protection and Smart Event Detection feature added.",
+      "2. Cloud storage supported (Actural service depends on the subscription plan).",
+      "3.Day/night mode switching enhanced.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-09-03 00:00:00+08:00",
+    "sha256_pak": "94fa3811e6062dc604d4040d8b947d1c293b279134e5ff07e9bebcaef5149af7",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5223_2508072081",
+    "filename": "E1_Outdoor_PoE_5223_2508072081",
+    "updated_at": "2025-09-03 14:22:32+08:00",
+    "note": "",
+    "firmware_id": 847,
+    "model": "E1 Outdoor PoE",
+    "hw_ver": "IPC_560SD88MP",
+    "changelog": [
+      "1.  H.265/H.264 switching supported.",
+      "2. Day/night mode switching enhanced.",
+      "3. Other known bugs resolved."
+    ],
+    "display_time": "2025-09-03 00:00:00+08:00",
+    "sha256_pak": "7049d54b4a8d12db4871129f6bf1ff985095052e00670c9c7b35dafef1f08f92",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5223_2508072063",
+    "filename": "RLC_820A_5223_2508072063",
+    "updated_at": "2025-09-03 14:23:42+08:00",
+    "note": "",
+    "firmware_id": 845,
+    "model": "RLC-820A",
+    "hw_ver": "IPC_56064M8MP",
+    "changelog": [
+      "1. Perimeter Protection and Smart Event Detection feature added.",
+      "2. Cloud storage supported (Actural service depends on the subscription plan).",
+      "3.Day/night mode switching enhanced.",
+      "4. Other known bugs resolved."
+    ],
+    "display_time": "2025-09-03 00:00:00+08:00",
+    "sha256_pak": "afc52fa6b52be7368bd81535bd80ac73768e6c9affaa3b49c7f1ae1b9fa685d8",
     "source": "live"
   }
 ]

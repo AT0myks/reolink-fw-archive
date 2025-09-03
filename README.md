@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 732
+Total: 737
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -745,10 +745,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560SD88MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5223_2508072082](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030425161756873516.3642.zip?download_name=E_Series_E560P_5223_2508072082.zip) | 2025‑08‑07 | <ol><li>H.265/H.264 switching supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4020_2409116881](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130414411749788081.5807.zip?download_name=E_Series_E560P_4020_2409116881.zip) | 2024‑09‑11 | Other known bugs resolved. | 
 
 </details>
@@ -845,10 +846,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560SD88MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5223_2508072081](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030426111756873571.0465.zip?download_name=E1_Outdoor_PoE_5223_2508072081.zip) | 2025‑08‑07 | <ol><li>H.265/H.264 switching supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4020_2409116832](https://home-cdn.reolink.us/wp-content/uploads/2025/07/040956221751622982.9644.zip?download_name=E1_Outdoor_PoE_240911.zip) | 2024‑09‑11 | <ol><li>Abnormal AI detection issues fixed.</li><li>Image processing optimized.</li><li>Two-way talk issues resolved.</li><li>ONVIF compatibility improved.</li><li>Other known bugs fixed.</li></ol> | 
 [v3.1.0.3872_2407262057](https://home-cdn.reolink.us/wp-content/uploads/2024/08/120859341723453174.6233.zip?download_name=E1_Outdoor_PoE_240726.zip) | 2024‑07‑26 | <ol><li>Optimize tracking effect;</li><li>Optimize autofocus effect;</li><li>Optimize image effect;</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2448_23071200](https://home-cdn.reolink.us/wp-content/uploads/2023/11/300742551701330175.9865.zip?download_name=E1_Outdoor_PoE_2448_23071200.zip) | 2023‑07‑12 | <ol><li>Opitmize Auto Focus</li><li>Optimize Smart Detetion and Auto Tracking</li><li>Fix some known bugs</li></ol> | 
@@ -872,6 +874,19 @@ Version | Date | Changes | Notes
 [v3.1.0.3872_2407304781](https://home-cdn.reolink.us/wp-content/uploads/2024/08/120901271723453287.4817.zip?download_name=E1_Outdoor_Pro_240730.zip) | 2024‑07‑30 | <ol><li>Optimize tracking effect;</li><li>Optimize autofocus effect;</li><li>Optimize image effect;</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2838_23102510](https://home-cdn.reolink.us/wp-content/uploads/2023/11/151140371700048437.7588.zip?download_name=E1_Outdoor_Pro_2838_23102510.zip) | 2023‑10‑25 | <ol><li>Optimize smart detection</li><li>Optimize Auto Focus and Auto Tracking</li><li>Optimize night vision</li><li>Optimize switch between day and night mode</li><li>Fix some bugs related to the FTP feature</li><li>Optimize Audio</li><li>Fix some other known bugs</li></ol> | 
 [v3.1.0.2515_23072809](https://home-cdn.reolink.us/wp-content/uploads/2023/08/291037231693305443.7283.zip?download_name=E1_Outdoor_Pro_2515_23072809.zip) | 2023‑07‑28 |  | 1. Optimize and solve some known bugs of the WiFi connection<br />2. Optimize Auto-tracking <br />3. Optimize Auto-focus<br />4. Optimzie Email Alert<br />5. Solve other known bugs
+
+</details>
+
+<details>
+  <summary>E1 Outdoor SE PoE</summary>
+
+  ### IPC_NT2NA48MPSD8V3
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5223_2508072085](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030430011756873801.9014.zip?download_name=E1_Outdoor_SE_PoE_5223_2508072085.zip) | 2025‑08‑07 | <ol><li>Day/night mode switching enhanced.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -1253,10 +1268,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5223_2508072084](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030413151756872795.6556.zip?download_name=P334_5223_2508072084.zip) | 2025‑08‑07 | <ol><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4666_2503071925](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130300161749783616.2797.zip?download_name=P334_4666_2503071925.zip) | 2025‑03‑07 | Other known bugs resolved. | 
 
 </details>
@@ -2330,10 +2346,11 @@ Version | Date | Changes | Notes
 
   ### IPC_56064M8MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5223_2508072063](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030416571756873017.2274.zip?download_name=RLC_820A_5223_2508072063.zip) | 2025‑08‑07 | <ol><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4695_2503141937](https://home-cdn.reolink.us/wp-content/uploads/2025/05/200256051747709765.0649.zip?download_name=RLC_820A_250314.zip) | 2025‑03‑14 | Other known bugs resolved. | 
 [v3.1.0.4054_2409131254](https://home-cdn.reolink.us/wp-content/uploads/2024/09/200233471726799627.6589.zip?download_name=RLC_820A_4054_2409131254.zip) | 2024‑09‑13 | <ol><li>Optimize encoding and image parameter configuration</li><li>Add webhook function</li><li>Optimize image effect</li></ol> | 
 [v3.1.0.2368_23062508](https://home-cdn.reolink.us/wp-content/uploads/2023/08/110430021691728202.6612.zip?download_name=RLC_820A_2368_23062508.zip) | 2023‑06‑25 | <ol><li>Optimize IPC HDR function for adapting Reolink Client</li><li>Optimize the accuracy of email alarm</li><li>Optimize the image stability of day&amp;night mode switching</li><li>Optimize the stability of logging and previewing via the Web Client.</li><li>Solve other known bugs</li></ol> | 

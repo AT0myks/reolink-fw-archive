@@ -2480,5 +2480,20 @@
         "title": "IPC_NT15NA58MPW"
       }
     ]
+  },
+  {
+    "id": 265,
+    "title": "E1 Outdoor SE PoE",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 415,
+        "title": "IPC_NT2NA48MPSD8V3"
+      }
+    ]
   }
 ]
