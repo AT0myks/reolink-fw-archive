@@ -7329,9 +7329,9 @@
     "source": "live"
   },
   {
-    "version": "v3.1.0.5036_2506276719",
-    "filename": "1212A_5036_2506276719",
-    "updated_at": "2025-07-25 10:10:43+08:00",
+    "version": "v3.1.0.5036_2509040629",
+    "filename": "RLC_1212A_5036_2509040629",
+    "updated_at": "2025-09-04 18:31:04+08:00",
     "note": "",
     "firmware_id": 812,
     "model": "RLC-1212A",
@@ -7343,7 +7343,7 @@
       "4. Day/night mode switching enhanced.",
       "5. Other known bugs resolved."
     ],
-    "display_time": "2025-07-22 00:00:00+08:00",
+    "display_time": "2025-09-04 00:00:00+08:00",
     "sha256_pak": "a738d8b5afa26cf61caa7897fc2542bf775e4e78a3af48b8d8095d8df0edd532",
     "source": "live"
   },
