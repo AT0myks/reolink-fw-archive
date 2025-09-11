@@ -7894,5 +7894,41 @@
     "display_time": "2025-09-03 00:00:00+08:00",
     "sha256_pak": "afc52fa6b52be7368bd81535bd80ac73768e6c9affaa3b49c7f1ae1b9fa685d8",
     "source": "live"
+  },
+  {
+    "version": "v3.3.0.369_25090459",
+    "filename": "Reolink_Home_Hub_Pro_v33036925090459_BASE_WENNT3NA5",
+    "updated_at": "2025-09-11 17:00:30+08:00",
+    "note": "",
+    "firmware_id": 849,
+    "model": "Reolink Home Hub Pro",
+    "hw_ver": "BASE_WENNT3NA5",
+    "changelog": [
+      "1. Supports TF cards.",
+      "2. Supports privacy mode.",
+      "3. Integrated hub and IPC linkage function.",
+      "4. Supports doorbell holiday audio and doorbell volume settings."
+    ],
+    "display_time": "2025-09-11 00:00:00+08:00",
+    "sha256_pak": "3be4bb58b8c883ffb9a2fc3db28ba86fd052a3f3f16e8f852d0f06bb78d99662",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.369_25090486",
+    "filename": "Reolink_Home_Hub_Pro_v33036925090486_BASE_WUNNT3NA5",
+    "updated_at": "2025-09-11 17:03:46+08:00",
+    "note": "",
+    "firmware_id": 850,
+    "model": "Reolink Home Hub Pro",
+    "hw_ver": "BASE_WUNNT3NA5",
+    "changelog": [
+      "1. Supports TF cards.",
+      "2. Supports privacy mode.",
+      "3. Integrated hub and IPC linkage function.",
+      "4. Supports doorbell holiday audio and doorbell volume settings."
+    ],
+    "display_time": "2025-09-11 00:00:00+08:00",
+    "sha256_pak": "d9f94b08b4b7eddeac60f3ff66cea4304132b3c0b95f0f3af27ae7100160a7fa",
+    "source": "live"
   }
 ]

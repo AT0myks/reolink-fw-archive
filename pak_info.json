@@ -25620,5 +25620,77 @@
     ],
     "model_id": 18,
     "hw_ver_id": 310
+  },
+  "3be4bb58b8c883ffb9a2fc3db28ba86fd052a3f3f16e8f852d0f06bb78d99662": {
+    "info": {
+      "firmware_version_prefix": "v3.3.0",
+      "board_type": "BASE_WENNT3NA5",
+      "board_name": "BASE_WENNT3NA5",
+      "build_date": "250904",
+      "display_type_info": "Reolink Home Hub Pro",
+      "detail_machine_type": "Reolink_Home_Hub_Pro",
+      "type": "HOMEHUB",
+      "version_file": "369_25090459",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (May 15 2025 - 15:46:57 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/09/110859591757581199.2932.zip"
+    ],
+    "model_id": 206,
+    "hw_ver_id": 345
+  },
+  "d9f94b08b4b7eddeac60f3ff66cea4304132b3c0b95f0f3af27ae7100160a7fa": {
+    "info": {
+      "firmware_version_prefix": "v3.3.0",
+      "board_type": "BASE_WUNNT3NA5",
+      "board_name": "BASE_WUNNT3NA5",
+      "build_date": "250904",
+      "display_type_info": "Reolink Home Hub Pro",
+      "detail_machine_type": "Reolink_Home_Hub_Pro",
+      "type": "HOMEHUB",
+      "version_file": "369_25090486",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (May 15 2025 - 15:46:57 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/09/110903191757581399.6035.zip"
+    ],
+    "model_id": 206,
+    "hw_ver_id": 344
   }
 }
