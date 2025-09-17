@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 739
+Total: 741
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1049,11 +1049,25 @@ Version | Date | Changes | Notes
 
   ### FE_529128M6MP_P
 
+Firmwares for this hardware version: 2
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.5336_2509021915](https://home-cdn.reolink.us/wp-content/uploads/2025/09/170945241758102324.9906.zip?download_name=FE_P_v30053362509021915_FE_529128M6MP_P.zip) | 2025‑09‑02 | 1. Dual Panoramic View supported. | 
+[v3.0.0.1901_23032202](https://drive.google.com/uc?id=1Z82fGjHO9l_yy9f5iH1jdLzjXZFy8s4x&confirm=t) | 2023‑03‑22 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
+
+</details>
+
+<details>
+  <summary>FE-W</summary>
+
+  ### FE_529128M6MP_W
+
 Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.0.0.1901_23032202](https://drive.google.com/uc?id=1Z82fGjHO9l_yy9f5iH1jdLzjXZFy8s4x&confirm=t) | 2023‑03‑22 |  | :warning: The only available links for this firmware are hosted by users and not Reolink themselves<br />[Source 1](https://github.com/AT0myks/reolink-fw-archive/discussions/30#discussioncomment-7450897)<br />[Source 2](https://drive.google.com/drive/folders/1TGwHlBxXzNY4sZTvGtSuIutPVnL9brCw)
+[v3.0.0.5336_2509021913](https://home-cdn.reolink.us/wp-content/uploads/2025/09/170946271758102387.7608.zip?download_name=FE_W_v30053362509021913_FE_529128M6MP_W.zip) | 2025‑09‑02 | 1.Dual Panoramic View supported. | 
 
 </details>
 

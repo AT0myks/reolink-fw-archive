@@ -1351,7 +1351,7 @@
     ]
   },
   {
-    "id": 100063,
+    "id": 267,
     "title": "FE-P",
     "type": "IPC",
     "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2023/03/010407401677643660.6613.png",
@@ -1360,7 +1360,7 @@
     "contains": [],
     "hardwareVersions": [
       {
-        "id": 100064,
+        "id": 416,
         "title": "FE_529128M6MP_P"
       }
     ]
@@ -2493,6 +2493,21 @@
       {
         "id": 415,
         "title": "IPC_NT2NA48MPSD8V3"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "title": "FE-W",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 417,
+        "title": "FE_529128M6MP_W"
       }
     ]
   }

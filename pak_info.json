@@ -16662,8 +16662,8 @@
     "download": [
       "https://drive.google.com/uc?id=1Z82fGjHO9l_yy9f5iH1jdLzjXZFy8s4x&confirm=t"
     ],
-    "model_id": 100063,
-    "hw_ver_id": 100064,
+    "model_id": 267,
+    "hw_ver_id": 416,
     "user_hosted_only": true
   },
   "cb9d8c3857131322a455ed5b48771c024ffe5f1480a51523987a63cbfb7d4334": {
@@ -25692,5 +25692,77 @@
     ],
     "model_id": 206,
     "hw_ver_id": 344
+  },
+  "bb10e956f3597918a467d12b4b4be0b44750a59af4720a7b7894333708772190": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "FE_529128M6MP_P",
+      "board_name": "FE_529128M6MP_P",
+      "build_date": "250902",
+      "display_type_info": "FE-P",
+      "detail_machine_type": "FE_529128M6MP_P",
+      "type": "IPC",
+      "version_file": "5336_2509021915",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 25 2025 - 18:08:20 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Fri Nov 4 09:27:54 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/09/170945241758102324.9906.zip"
+    ],
+    "model_id": 267,
+    "hw_ver_id": 416
+  },
+  "429cc81cb529d4964a2f0327d9b2f96f48f9dc524fbc1eaaf983f6ae0618b26e": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "FE_529128M6MP_W",
+      "board_name": "FE_529128M6MP_W",
+      "build_date": "250902",
+      "display_type_info": "FE-W",
+      "detail_machine_type": "FE_529128M6MP_W",
+      "type": "IPC",
+      "version_file": "5336_2509021913",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 25 2025 - 18:08:20 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Fri Nov 4 09:27:54 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/09/170946271758102387.7608.zip"
+    ],
+    "model_id": 266,
+    "hw_ver_id": 417
   }
 }
