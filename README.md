@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 741
+Total: 747
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -678,6 +678,14 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.4867_2505072125](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130727261749799646.0323.zip?download_name=P750_4867_2505072125.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
+  ### IPC_NT17NA616MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4989_2509111448](https://home-cdn.reolink.us/wp-content/uploads/2025/09/2902292773780350bd82fb46.zip?download_name=Duo_Series_P750_2509111448.zip) | 2025‑09‑11 | System Bugs Fixed | 
+
 </details>
 
 <details>
@@ -690,6 +698,32 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.4428_2412183419](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130643561749797036.1692.zip?download_name=W730_4428_2412183419.zip) | 2024‑12‑18 | <ol><li>Added support for Reolink Cloud Service.</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Duo Series W750</summary>
+
+  ### IPC_NT17NA616MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4989_2509111450](https://home-cdn.reolink.us/wp-content/uploads/2025/09/29023011b584f6cb47c2e4b7.zip?download_name=Duo_Series_W750_2509111450.zip) | 2025‑09‑11 | System Bugs Fixed | 
+
+</details>
+
+<details>
+  <summary>Duo Series P757</summary>
+
+  ### IPC_NT17NA616MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5119_2509111476](https://home-cdn.reolink.us/wp-content/uploads/2025/09/29023102dcdac60d77e0ea4b.zip?download_name=Duo_Series_P757_2509111476.zip) | 2025‑09‑11 | System Bugs Fixed | 
 
 </details>
 
@@ -2965,6 +2999,14 @@ Version | Date | Changes | Notes
 [v3.0.0.4867_2505072124](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100319361749525576.1062.zip?download_name=Reolink_Duo_3_PoE_2505072124.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101442](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211031041745231464.2044.zip?download_name=Reolink_Duo_3_PoE_4669_2503101442.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 
+  ### IPC_NT17NA616MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4989_2509111447](https://home-cdn.reolink.us/wp-content/uploads/2025/09/29022700d6ae05199ca5c669.zip?download_name=Reolink_Duo_3_PoE_2509111447.zip) | 2025‑09‑11 | System Bugs Fixed | 
+
 </details>
 
 <details>
@@ -2979,6 +3021,14 @@ Version | Date | Changes | Notes
 [v3.0.0.4867_2505072126](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100321021749525662.2492.zip?download_name=Reolink_Duo_3_WiFi_2505072126.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101444](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211029231745231363.3509.zip?download_name=Reolink_Duo_3_WiFi_4669_2503101444.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4518_2501071706](https://home-cdn.reolink.us/wp-content/uploads/2025/01/140339231736825963.0423.zip?download_name=Reolink_Duo_3_WiFi_4518_2501071706.zip) | 2025‑01‑07 | <ol><li>Wi-Fi performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
+
+  ### IPC_NT17NA616MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4989_2509111449](https://home-cdn.reolink.us/wp-content/uploads/2025/09/290227561d7e1a4503ccde53.zip?download_name=Reolink_Duo_3_WiFi_2509111449.zip) | 2025‑09‑11 | System Bugs Fixed | 
 
 </details>
 
@@ -2995,6 +3045,14 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.4867_2505072123](https://home-cdn.reolink.us/wp-content/uploads/2025/06/100322061749525726.2417.zip?download_name=Reolink_Duo_3V_PoE_2505072123.zip) | 2025‑05‑07 | <ol><li>Perimeter Protection Added.</li><li>Smart Event Detection Added.</li><li>Connection with third-party platforms enhanced.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.4669_2503101441](https://home-cdn.reolink.us/wp-content/uploads/2025/04/211027261745231246.8398.zip?download_name=Reolink_Duo_3V_PoE_4669_2503101441.zip) | 2025‑03‑10 | <ol><li>Smart AI feature added.</li><li>AI alarm performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
+
+  ### IPC_NT17NA616MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5119_2509111475](https://home-cdn.reolink.us/wp-content/uploads/2025/09/29022842725f4ef50bdd5fad.zip?download_name=Reolink_Duo_3V_PoE_2509111475.zip) | 2025‑09‑11 | System Bugs Fixed | 
 
 </details>
 

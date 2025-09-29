@@ -1441,6 +1441,10 @@
       {
         "id": 369,
         "title": "IPC_NT15NA416MP"
+      },
+      {
+        "id": 420,
+        "title": "IPC_NT17NA616MP"
       }
     ]
   },
@@ -1802,6 +1806,10 @@
       {
         "id": 362,
         "title": "IPC_NT15NA416MPW"
+      },
+      {
+        "id": 419,
+        "title": "IPC_NT17NA616MPW"
       }
     ]
   },
@@ -1892,6 +1900,10 @@
       {
         "id": 370,
         "title": "IPC_NT15NA416MP"
+      },
+      {
+        "id": 418,
+        "title": "IPC_NT17NA616MP"
       }
     ]
   },
@@ -2159,6 +2171,10 @@
       {
         "id": 408,
         "title": "IPC_NT13NA416MP"
+      },
+      {
+        "id": 422,
+        "title": "IPC_NT17NA616MP"
       }
     ]
   },
@@ -2508,6 +2524,36 @@
       {
         "id": 417,
         "title": "FE_529128M6MP_W"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "title": "Duo\u00a0Series\u00a0P757",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 423,
+        "title": "IPC_NT17NA616MP"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "title": "Duo Series W750",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 421,
+        "title": "IPC_NT17NA616MPW"
       }
     ]
   }
