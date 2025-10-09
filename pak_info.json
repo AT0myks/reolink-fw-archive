@@ -25980,5 +25980,329 @@
     ],
     "model_id": 200,
     "hw_ver_id": 420
+  },
+  "f3b42b1caa1578a89d533c0cd73f5a1c80fe5cf814e23acae7a7058590929d42": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "NVR_NNT4NA716P",
+      "board_name": "NVR_NNT4NA716P",
+      "build_date": "250902",
+      "display_type_info": "NVS16-S",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "422_25090203",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:02:16 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/090818571883c518ab0d5ba0.zip"
+    ],
+    "model_id": 272,
+    "hw_ver_id": 428
+  },
+  "1cb4458f0b8912c88ec8ef58a4a29724acc7fe3d2275daea06843287301a36fd": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "NVR_NNT3NA78P",
+      "board_name": "NVR_NNT3NA78P",
+      "build_date": "250902",
+      "display_type_info": "RP-PN8",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "422_25090247",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:14:08 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/09081349d94deb0453f25f11.zip"
+    ],
+    "model_id": 271,
+    "hw_ver_id": 426
+  },
+  "6c0772d4d76cc62f331c3229665a0c30071659cf0a87853aace1b0db0e95cc82": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "NVR_NNT4NA716P",
+      "board_name": "NVR_NNT4NA716P",
+      "build_date": "250902",
+      "display_type_info": "RP-PN16",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "422_25090201",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:02:16 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/09081107788a2778adc6bab4.zip"
+    ],
+    "model_id": 270,
+    "hw_ver_id": 425
+  },
+  "085364ac3e337bf1d7e4d6840c138f49730ce51955275a788748d5bfafbd61f4": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "N6MB01",
+      "board_name": "N6MB01",
+      "build_date": "250829",
+      "display_type_info": "NVS16",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "422_25082953",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:02:16 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/09075528a06f9826acef4071.zip"
+    ],
+    "model_id": 193,
+    "hw_ver_id": 329
+  },
+  "da5290458b8c5694bdbfa550ae51b03c9bfcfdbdf0bc48d8abbd0fd4560cb38a": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "N7MB01",
+      "board_name": "N7MB01",
+      "build_date": "250829",
+      "display_type_info": "NVS8",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "422_25082949",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:14:08 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/09075219f8d626380e61ac5e.zip"
+    ],
+    "model_id": 192,
+    "hw_ver_id": 328
+  },
+  "23e705f7972e6e2aa3d4ab7a94c049784effaba4450a4312a5ed8c7574311dd5": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "N6MB01",
+      "board_name": "N6MB01",
+      "build_date": "250829",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "422_25082952",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:02:16 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/09075439efc06c854f39cf17.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 285
+  },
+  "c3b15a07db6e3fbdc34b2d6f55dc3ebd900134a28017b669a127b8498cf7c3d7": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "NVR_NNT4NA716P",
+      "board_name": "NVR_NNT4NA716P",
+      "build_date": "250902",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "422_25090202",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:02:16 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/0908082029c583d1033d8385.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 424
+  },
+  "48e94d2569c2b1be4a0b53d1788d6121d670eb49595f97a6031dd202d22346d4": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "N7MB01",
+      "board_name": "N7MB01",
+      "build_date": "250829",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "422_25082947",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:14:08 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/09075132f6ac63f3ed30009f.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 292
+  },
+  "a9c58c95f80082504c01406a52179ff4ca14ac06aedce0a73cdd156f2024fbeb": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "NVR_NNT3NA78P",
+      "board_name": "NVR_NNT3NA78P",
+      "build_date": "250902",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "422_25090248",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:14:08 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/10/090815509f5f82389ed0378c.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 401
   }
 }

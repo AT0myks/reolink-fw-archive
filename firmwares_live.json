@@ -8050,5 +8050,197 @@
     "display_time": "2025-09-29 00:00:00+08:00",
     "sha256_pak": "d872789f19a896670bcc5832f7b07d014ab56f7d9a07282bbf7e11dd6a707a12",
     "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25090203",
+    "filename": "NVS16_v363422_25090203_NVR_NNT4NA716P",
+    "updated_at": "2025-10-09 16:20:06+08:00",
+    "note": "",
+    "firmware_id": 867,
+    "model": "NVS16-S",
+    "hw_ver": "NVR_NNT4NA716P",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.AI Video Search interaction improved: category selection removed, keyword suggestions added, and keyframe areas displayed on playback page.",
+      "3.Top bar added for quick switching between main features.",
+      "4. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "5. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "6.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "f3b42b1caa1578a89d533c0cd73f5a1c80fe5cf814e23acae7a7058590929d42",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25090247",
+    "filename": "RP_PN8_v363422_25090247_NVR_NNT3NA78P",
+    "updated_at": "2025-10-09 16:15:16+08:00",
+    "note": "",
+    "firmware_id": 865,
+    "model": "RP-PN8",
+    "hw_ver": "NVR_NNT3NA78P",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.AI Video Search interaction improved: category selection removed, keyword suggestions added, and keyframe areas displayed on playback page.",
+      "3.Top bar added for quick switching between main features.",
+      "4. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "5. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "6.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "1cb4458f0b8912c88ec8ef58a4a29724acc7fe3d2275daea06843287301a36fd",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25090201",
+    "filename": "RP_PN16_v36342225090201_NVR_NNT4NA716P",
+    "updated_at": "2025-10-09 16:13:00+08:00",
+    "note": "",
+    "firmware_id": 864,
+    "model": "RP-PN16",
+    "hw_ver": "NVR_NNT4NA716P",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.AI Video Search interaction improved: category selection removed, keyword suggestions added, and keyframe areas displayed on playback page.",
+      "3.Top bar added for quick switching between main features.",
+      "4. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "5. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "6.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "6c0772d4d76cc62f331c3229665a0c30071659cf0a87853aace1b0db0e95cc82",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25082953",
+    "filename": "NVS16_v363422_25082953_N6MB01",
+    "updated_at": "2025-10-09 15:55:43+08:00",
+    "note": "",
+    "firmware_id": 862,
+    "model": "NVS16",
+    "hw_ver": "N6MB01",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.Heatmap feature added.",
+      "3.Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), and Object Removal (Beta).",
+      "4.The NVR supports New Surveillance Rule. Note: This update is only supported on specific IPC models.",
+      "5.Alarm I/O supported on select models.",
+      "6. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "7. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "8.AI features optimized by adjusting configurations to improve interaction experience.",
+      "9.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "085364ac3e337bf1d7e4d6840c138f49730ce51955275a788748d5bfafbd61f4",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25082949",
+    "filename": "NVS8_v363422_25082949_N7MB01",
+    "updated_at": "2025-10-09 15:53:29+08:00",
+    "note": "",
+    "firmware_id": 860,
+    "model": "NVS8",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.Heatmap feature added.",
+      "3.Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), and Object Removal (Beta).",
+      "4.The NVR supports New Surveillance Rule. Note: This update is only supported on specific IPC models.",
+      "5.Alarm I/O supported on select models.",
+      "6. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "7. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "8.AI features optimized by adjusting configurations to improve interaction experience.",
+      "9.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "da5290458b8c5694bdbfa550ae51b03c9bfcfdbdf0bc48d8abbd0fd4560cb38a",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25082952",
+    "filename": "RLN16410_v363422_25082952_N6MB01",
+    "updated_at": "2025-10-09 15:54:55+08:00",
+    "note": "",
+    "firmware_id": 861,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "N6MB01",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.Heatmap feature added.",
+      "3.Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), and Object Removal (Beta).",
+      "4.The NVR supports New Surveillance Rule. Note: This update is only supported on specific IPC models.",
+      "5.Alarm I/O supported on select models.",
+      "6. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "7. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "8.AI features optimized by adjusting configurations to improve interaction experience.",
+      "9.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "23e705f7972e6e2aa3d4ab7a94c049784effaba4450a4312a5ed8c7574311dd5",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25090202",
+    "filename": "RLN16_v363422_25090202_NVR_NNT4NA716P",
+    "updated_at": "2025-10-09 16:10:04+08:00",
+    "note": "",
+    "firmware_id": 863,
+    "model": "RLN16-410 (NVR)",
+    "hw_ver": "NVR_NNT4NA716P",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.AI Video Search interaction improved: category selection removed, keyword suggestions added, and keyframe areas displayed on playback page.",
+      "3.Top bar added for quick switching between main features.",
+      "4. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "5. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "6.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "c3b15a07db6e3fbdc34b2d6f55dc3ebd900134a28017b669a127b8498cf7c3d7",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25082947",
+    "filename": "RLN8410_v363422_25082947_N7MB01",
+    "updated_at": "2025-10-09 15:53:18+08:00",
+    "note": "",
+    "firmware_id": 859,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.Heatmap feature added.",
+      "3.Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), and Object Removal (Beta).",
+      "4.The NVR supports New Surveillance Rule. Note: This update is only supported on specific IPC models.",
+      "5.Alarm I/O supported on select models.",
+      "6. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "7. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "8.AI features optimized by adjusting configurations to improve interaction experience.",
+      "9.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "48e94d2569c2b1be4a0b53d1788d6121d670eb49595f97a6031dd202d22346d4",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.3.422_25090248",
+    "filename": "RLN8_v363422_25090248_NVR_NNT3NA78P",
+    "updated_at": "2025-10-09 16:18:14+08:00",
+    "note": "",
+    "firmware_id": 866,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "NVR_NNT3NA78P",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.AI Video Search interaction improved: category selection removed, keyword suggestions added, and keyframe areas displayed on playback page.",
+      "3.Top bar added for quick switching between main features.",
+      "4. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "5. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "6.Other known bugs resolved."
+    ],
+    "display_time": "2025-10-09 00:00:00+08:00",
+    "sha256_pak": "a9c58c95f80082504c01406a52179ff4ca14ac06aedce0a73cdd156f2024fbeb",
+    "source": "live"
   }
 ]
