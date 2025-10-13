@@ -1414,7 +1414,7 @@ Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4885_25051309](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150644511755240291.8912.zip?download_name=P850_4885_25051309.zip) | 2025‑05‑13 | <ol><li>H.264/H.265 switching supported.</li><li>Tracking performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4885_25051309](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150644511755240291.8912.zip?download_name=P850_4885_25051309.zip) | 2025‑05‑13 | <ol><li>H.264/H.265 switching supported.</li><li>Tracking performance optimized.</li><li>Web version updated.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4366_24121219](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130240311749782431.0823.zip?download_name=P850_4366_24121219.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 
 </details>
@@ -2539,7 +2539,7 @@ Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.4885_25051308](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150643571755240237.2774.zip?download_name=RLC_823S2_4885_25051308.zip) | 2025‑05‑13 | <ol><li>H.264/H.265 switching supported.</li><li>Tracking performance optimized.</li><li>Web version updated.</li><li>Other known bugs resolved.</li></ol> | 
+[v3.1.0.4885_25051308](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150643571755240237.2774.zip?download_name=RLC_823S2_4885_25051308.zip) | 2025‑05‑13 | <ol><li>H.264/H.265 switching supported.</li><li>Tracking performance optimized.</li><li>Web version updated.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4366_24121218](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030202061735869726.9768.zip?download_name=RLC_823S2_v310436624121218_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3795_24081508](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190719511724051991.4724.zip?download_name=RLC_823S2_3795_24081508.zip) | 2024‑08‑15 | <ol><li>Optimize smart detection</li><li>Improve image effect</li><li>Enhance Auto Focus</li><li>Optimize network performance</li><li>Fix other known bugs</li></ol> | 
 

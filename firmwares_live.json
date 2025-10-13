@@ -7518,7 +7518,7 @@
   {
     "version": "v3.1.0.4885_25051309_v1.0.0.146",
     "filename": "P850_4885_25051309",
-    "updated_at": "2025-08-15 14:45:10+08:00",
+    "updated_at": "2025-10-13 11:23:59+08:00",
     "note": "",
     "firmware_id": 826,
     "model": "P850",
@@ -7527,7 +7527,8 @@
       "1. H.264/H.265 switching supported.",
       "2. Tracking performance optimized.",
       "3. Web version updated.",
-      "4. Other known bugs resolved."
+      "4.Cloud storage supported (Actural service depends on the subscription plan).",
+      "5. Other known bugs resolved."
     ],
     "display_time": "2025-08-15 00:00:00+08:00",
     "sha256_pak": "68bda1cd204da3343d21533fd905e60df87226d8b3af26dec5e223e6882c6002",
@@ -7553,7 +7554,7 @@
   {
     "version": "v3.1.0.4885_25051308_v1.0.0.146",
     "filename": "RLC_823S2_4885_25051308",
-    "updated_at": "2025-08-15 14:44:09+08:00",
+    "updated_at": "2025-10-13 11:23:38+08:00",
     "note": "",
     "firmware_id": 825,
     "model": "RLC-823S2",
@@ -7562,7 +7563,8 @@
       "1. H.264/H.265 switching supported.",
       "2. Tracking performance optimized.",
       "3. Web version updated.",
-      "4. Other known bugs resolved."
+      "4.Cloud storage supported (Actural service depends on the subscription plan).",
+      "5. Other known bugs resolved."
     ],
     "display_time": "2025-08-15 00:00:00+08:00",
     "sha256_pak": "7c48d6c28ac1137d39cb58feede201f894a1d0488b5ef74b00d7af7a1c29612a",
