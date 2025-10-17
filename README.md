@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 756
+Total: 758
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -443,6 +443,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>CX820</summary>
+
+  ### IPC_NT16NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5375_2509162386](https://home-cdn.reolink.us/wp-content/uploads/2025/10/17042223336e3706e07f1572.zip?download_name=CX820_5375_2509162386.zip) | 2025‑09‑16 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Two-way talk performance enhanced.</li><li>Security patches optimized.</li><li>Local AI video search experience improved.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
   <summary>ColorX Series P330X</summary>
 
   ### IPC_NT2NA48MPB28
@@ -452,6 +465,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.5129_2507172223](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150647231755240443.3133.zip?download_name=ColorX_Series_P330X_5129_2507172223.zip) | 2025‑07‑17 | <ol><li>Perimeter Protection added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>ColorX Series P335X</summary>
+
+  ### IPC_NT16NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5375_2509162348](https://home-cdn.reolink.us/wp-content/uploads/2025/10/170421259b34dfe75c04fe97.zip?download_name=ColorX_Series_P335X_5375_2509162348.zip) | 2025‑09‑16 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Two-way talk performance enhanced.</li><li>Security patches optimized.</li><li>Local AI video search experience improved.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 

@@ -2605,5 +2605,35 @@
         "title": "NVR_NNT4NA716P"
       }
     ]
+  },
+  {
+    "id": 274,
+    "title": "ColorX Series P335X",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 429,
+        "title": "IPC_NT16NA48MP"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "title": "CX820",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 430,
+        "title": "IPC_NT16NA48MP"
+      }
+    ]
   }
 ]
