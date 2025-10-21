@@ -2635,5 +2635,65 @@
         "title": "IPC_NT16NA48MP"
       }
     ]
+  },
+  {
+    "id": 278,
+    "title": "RP-PCB8MX",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 433,
+        "title": "IPC_NT17EM118MPB60B"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "title": "RP-PCV8MZ",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 434,
+        "title": "IPC_NT17EM118MPVD60B"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "title": "RP-WCB8MZ",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 435,
+        "title": "IPC_NT17EM118MPB60WB"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "title": "RP-PCB8MZ",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 436,
+        "title": "IPC_NT17EM118MPB60B"
+      }
+    ]
   }
 ]
