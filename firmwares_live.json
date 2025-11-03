@@ -8358,7 +8358,7 @@
   {
     "version": "v3.0.0.5428_2509171975",
     "filename": "Trackmix_Series_W760_v30054282509171975_IPC_529SD78MP",
-    "updated_at": "2025-10-31 17:43:08+08:00",
+    "updated_at": "2025-11-03 10:47:31+08:00",
     "note": "",
     "firmware_id": 878,
     "model": "TrackMix Series W760",
@@ -8377,7 +8377,7 @@
   {
     "version": "v3.0.0.5428_2509171973",
     "filename": "TrackMix_Series_P760_v30054282509171973_IPC_529SD78MP",
-    "updated_at": "2025-10-31 17:41:49+08:00",
+    "updated_at": "2025-11-03 10:48:31+08:00",
     "note": "",
     "firmware_id": 879,
     "model": "TrackMix Series P760",
@@ -8389,14 +8389,14 @@
       "4. Other known bugs resolved.",
       "5. Security protection updated."
     ],
-    "display_time": "2025-10-30 00:00:00+08:00",
+    "display_time": "2025-11-03 00:00:00+08:00",
     "sha256_pak": "1e8c0d3e2290c5e7c2dcbc8aa86741a443f2b063d9fc54c449ed64ae2afa9eae",
     "source": "live"
   },
   {
     "version": "v3.0.0.5428_2509171974",
     "filename": "Reolink_TrackMix_WiFi_v30054282509171974_IPC_529SD78MP",
-    "updated_at": "2025-10-31 17:43:31+08:00",
+    "updated_at": "2025-11-03 10:48:57+08:00",
     "note": "",
     "firmware_id": 877,
     "model": "Reolink TrackMix WiFi",
@@ -8415,7 +8415,7 @@
   {
     "version": "v3.0.0.5428_2509171972",
     "filename": "Reolink_TrackMix_PoE_v30054282509171972_IPC_529SD78MP",
-    "updated_at": "2025-10-31 17:40:05+08:00",
+    "updated_at": "2025-11-03 10:48:03+08:00",
     "note": "",
     "firmware_id": 880,
     "model": "Reolink TrackMix PoE",
@@ -8427,7 +8427,7 @@
       "4. Other known bugs resolved.",
       "5. Security protection updated."
     ],
-    "display_time": "2025-10-30 00:00:00+08:00",
+    "display_time": "2025-11-03 00:00:00+08:00",
     "sha256_pak": "53923e8cbb4723f9278bcfa9bcd6485baa7a3b680b3642fa671eef3db69c992f",
     "source": "live"
   }
