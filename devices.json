@@ -41,6 +41,10 @@
       {
         "id": 288,
         "title": "IPC_529B17B8MP"
+      },
+      {
+        "id": 441,
+        "title": "IPC_NT18NA68MP"
       }
     ]
   },
@@ -56,6 +60,10 @@
       {
         "id": 287,
         "title": "IPC_529B17B8MP"
+      },
+      {
+        "id": 437,
+        "title": "IPC_NT18NA68MP"
       }
     ]
   },
@@ -2273,6 +2281,10 @@
       {
         "id": 381,
         "title": "IPC_529B17B8MP"
+      },
+      {
+        "id": 442,
+        "title": "IPC_NT18NA68MP"
       }
     ]
   },
@@ -2288,6 +2300,10 @@
       {
         "id": 382,
         "title": "IPC_529B17B8MP"
+      },
+      {
+        "id": 438,
+        "title": "IPC_NT18NA68MP"
       }
     ]
   },
@@ -2693,6 +2709,36 @@
       {
         "id": 436,
         "title": "IPC_NT17EM118MPB60B"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "title": "Duo Series P737",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 440,
+        "title": "IPC_NT18NA68MP"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "title": "Reolink Duo 2V PoE",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 439,
+        "title": "IPC_NT18NA68MP"
       }
     ]
   }

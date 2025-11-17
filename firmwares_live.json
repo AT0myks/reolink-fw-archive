@@ -8430,5 +8430,112 @@
     "display_time": "2025-11-03 00:00:00+08:00",
     "sha256_pak": "53923e8cbb4723f9278bcfa9bcd6485baa7a3b680b3642fa671eef3db69c992f",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.5467_2510141200",
+    "filename": "Duo_Series_P737_5467_2510141200",
+    "updated_at": "2025-11-17 11:40:35+08:00",
+    "note": "",
+    "firmware_id": 885,
+    "model": "Duo Series P737",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2025-11-17 00:00:00+08:00",
+    "sha256_pak": "badf8bbf677e61fea7e27c5b375d54a38534698e03b2a4de0aaf0ff8d0dfe69f",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5467_2510141199",
+    "filename": "Reolink_Duo_2V_PoE_5467_2510141199",
+    "updated_at": "2025-11-17 11:42:15+08:00",
+    "note": "",
+    "firmware_id": 886,
+    "model": "Reolink Duo 2V PoE",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2025-11-17 00:00:00+08:00",
+    "sha256_pak": "281365e1f91f378af364d8d134debd2be8daa525282d2aa2cdd22c54688c9baa",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5607_2511041996",
+    "filename": "Elite_Floodlight_WiFi_v32056072511041996_IPC_NT15NA68MPW",
+    "updated_at": "2025-11-17 10:35:31+08:00",
+    "note": "",
+    "firmware_id": 881,
+    "model": "Elite Floodlight WiFi",
+    "hw_ver": "IPC_NT15NA68MPW",
+    "changelog": [
+      "1. Added video deletion feature.",
+      "2. Optimized light activation speed.",
+      "3.Improved the timing for turning on lights at dusk."
+    ],
+    "display_time": "2025-11-17 00:00:00+08:00",
+    "sha256_pak": "b00c745fb804d6a93dd2c264eaa68732cf0a2bad7d6def4c373f80dbe9561a5c",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5467_2510141214",
+    "filename": "Duo_Series_W730_5467_2510141214",
+    "updated_at": "2025-11-17 11:35:40+08:00",
+    "note": "",
+    "firmware_id": 883,
+    "model": "Duo Series W730",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2025-11-17 00:00:00+08:00",
+    "sha256_pak": "9f7fb9e478117773ff970243cff0c6d9f05d6764d8ad150b22ee761cf2c4be7a",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5467_2510141198",
+    "filename": "Duo_Series_P730_5467_2510141198",
+    "updated_at": "2025-11-17 11:44:32+08:00",
+    "note": "",
+    "firmware_id": 887,
+    "model": "Duo Series P730",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2025-11-17 00:00:00+08:00",
+    "sha256_pak": "eb7313465f52cb95744101acabfcfd932bbfd4883d0bd06a6be4a6077a295d51",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5467_2510141213",
+    "filename": "Reolink_Duo_2_WiFi_5467_2510141213",
+    "updated_at": "2025-11-17 11:38:07+08:00",
+    "note": "",
+    "firmware_id": 884,
+    "model": "Reolink Duo 2 WiFi",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2025-11-17 00:00:00+08:00",
+    "sha256_pak": "d0d5ed1c13cc87e99df5a968558d065e5c6c8945122d89a48a1bc61898ce544f",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5467_2510141197",
+    "filename": "Reolink_Duo_2_PoE_5467_2510141197",
+    "updated_at": "2025-11-17 11:34:06+08:00",
+    "note": "",
+    "firmware_id": 882,
+    "model": "Reolink Duo 2 POE",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2025-11-17 00:00:00+08:00",
+    "sha256_pak": "4377e961d3198d395e1e0ed157a7b336b3739c794003cecaa84a5d41d44e4490",
+    "source": "live"
   }
 ]

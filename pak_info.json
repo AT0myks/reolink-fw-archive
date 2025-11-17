@@ -26520,5 +26520,257 @@
     ],
     "model_id": 173,
     "hw_ver_id": 294
+  },
+  "badf8bbf677e61fea7e27c5b375d54a38534698e03b2a4de0aaf0ff8d0dfe69f": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MP",
+      "board_name": "IPC_NT18NA68MP",
+      "build_date": "251014",
+      "display_type_info": "Duo Series P737",
+      "detail_machine_type": "IPC_NT18NA68MP",
+      "type": "IPC",
+      "version_file": "5467_2510141200",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jun 20 2025 - 15:50:20 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (hy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Mar 7 10:56:27 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/170339381167331165518d02.zip"
+    ],
+    "model_id": 280,
+    "hw_ver_id": 440
+  },
+  "281365e1f91f378af364d8d134debd2be8daa525282d2aa2cdd22c54688c9baa": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MP",
+      "board_name": "IPC_NT18NA68MP",
+      "build_date": "251014",
+      "display_type_info": "Reolink Duo 2V PoE",
+      "detail_machine_type": "IPC_NT18NA68MP",
+      "type": "IPC",
+      "version_file": "5467_2510141199",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jun 20 2025 - 15:50:20 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (hy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Mar 7 10:56:27 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/1703414191d33328b4e0aabf.zip"
+    ],
+    "model_id": 279,
+    "hw_ver_id": 439
+  },
+  "b00c745fb804d6a93dd2c264eaa68732cf0a2bad7d6def4c373f80dbe9561a5c": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT15NA68MPW",
+      "board_name": "IPC_NT15NA68MPW",
+      "build_date": "251104",
+      "display_type_info": "Elite Floodlight WiFi",
+      "detail_machine_type": "IPC_NT15NA68MPW",
+      "type": "IPC",
+      "version_file": "5607_2511041996",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Oct 17 2025 - 16:25:30 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #2 SMP PREEMPT Fri Oct 17 16:41:59 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/17023504b42f425a5fe6278f.zip"
+    ],
+    "model_id": 256,
+    "hw_ver_id": 405
+  },
+  "9f7fb9e478117773ff970243cff0c6d9f05d6764d8ad150b22ee761cf2c4be7a": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MPW",
+      "board_name": "IPC_NT18NA68MPW",
+      "build_date": "251014",
+      "display_type_info": "Duo Series W730",
+      "detail_machine_type": "IPC_NT18NA68MPW",
+      "type": "IPC",
+      "version_file": "5467_2510141214",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jun 20 2025 - 15:50:20 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (hy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Mar 7 10:56:27 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033449c792bf3391a596c0.zip"
+    ],
+    "model_id": 237,
+    "hw_ver_id": 442
+  },
+  "eb7313465f52cb95744101acabfcfd932bbfd4883d0bd06a6be4a6077a295d51": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MP",
+      "board_name": "IPC_NT18NA68MP",
+      "build_date": "251014",
+      "display_type_info": "Duo Series P730",
+      "detail_machine_type": "IPC_NT18NA68MP",
+      "type": "IPC",
+      "version_file": "5467_2510141198",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jun 20 2025 - 15:50:20 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (hy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Mar 7 10:56:27 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/170344023a589bd0103460f1.zip"
+    ],
+    "model_id": 236,
+    "hw_ver_id": 438
+  },
+  "d0d5ed1c13cc87e99df5a968558d065e5c6c8945122d89a48a1bc61898ce544f": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MPW",
+      "board_name": "IPC_NT18NA68MPW",
+      "build_date": "251014",
+      "display_type_info": "Reolink Duo 2 WiFi",
+      "detail_machine_type": "IPC_NT18NA68MPW",
+      "type": "IPC",
+      "version_file": "5467_2510141213",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jun 20 2025 - 15:50:20 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (hy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Mar 7 10:56:27 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033712fa67c1555cc96c71.zip"
+    ],
+    "model_id": 169,
+    "hw_ver_id": 441
+  },
+  "4377e961d3198d395e1e0ed157a7b336b3739c794003cecaa84a5d41d44e4490": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MP",
+      "board_name": "IPC_NT18NA68MP",
+      "build_date": "251014",
+      "display_type_info": "Reolink Duo 2 PoE",
+      "detail_machine_type": "IPC_NT18NA68MP",
+      "type": "IPC",
+      "version_file": "5467_2510141197",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jun 20 2025 - 15:50:20 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (hy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Fri Mar 7 10:56:27 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033311fe0f1e8ba6793716.zip"
+    ],
+    "model_id": 168,
+    "hw_ver_id": 437
   }
 }
