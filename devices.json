@@ -592,6 +592,10 @@
       {
         "id": 361,
         "title": "IPC_561SD53MP"
+      },
+      {
+        "id": 444,
+        "title": "IPC_MS4NO24MPW"
       }
     ]
   },
@@ -2739,6 +2743,21 @@
       {
         "id": 439,
         "title": "IPC_NT18NA68MP"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "title": "E Series E321",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/E+Series+E321/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 443,
+        "title": "IPC_MS4NO23MPW"
       }
     ]
   }

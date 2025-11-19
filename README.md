@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 769
+Total: 771
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -783,6 +783,21 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>E Series E321</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/E+Series+E321/product.png" width="150">
+
+  ### IPC_MS4NO23MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4858_2508273415](https://home-cdn.reolink.us/wp-content/uploads/2025/11/19014159b6c8b9753deddd80.zip?download_name=E_Series_E321_v32048582508273415_IPC_MS4NO23MPW.zip) | 2025‑08‑27 | 1.Fixed some known bugs. | 
+
+</details>
+
+<details>
   <summary>E Series E330</summary>
 
   ### IPC_566SD54MP
@@ -869,6 +884,14 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.3126_2401022459](https://home-cdn.reolink.us/wp-content/uploads/2024/01/110925111704965111.8398.zip?download_name=E1_v3103126_2401022459.zip) | 2024‑01‑02 | <ol><li>Optimize smart detection.</li><li>Enhance firmware upgrade speed.</li><li>Improve recording audio and two-way audio effects.</li><li>Optimize PT (Pan-Tilt), addressing inaccuracies in PT positioning in certain scenarios.</li></ol> | 
 [v3.1.0.2647_23083100](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090413121696824792.4352.zip?download_name=E1_v3102647_23083100.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
+
+  ### IPC_MS4NO24MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.4858_2508273531](https://home-cdn.reolink.us/wp-content/uploads/2025/11/190143077057c428b4d0017c.zip?download_name=E1_v32048582508273531_IPC_MS4NO24MPW.zip) | 2025‑08‑27 | 1.Fixed some known bugs. | 
 
 </details>
 

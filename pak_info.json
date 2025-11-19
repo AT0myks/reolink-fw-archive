@@ -26772,5 +26772,69 @@
     ],
     "model_id": 168,
     "hw_ver_id": 437
+  },
+  "38bde23e2b7ed34934cd711a7b4c3f07b52a9718123e0600b54b218cd552f7a4": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_MS4NO23MPW",
+      "board_name": "IPC_MS4NO23MPW",
+      "build_date": "250827",
+      "display_type_info": "E Series E321",
+      "detail_machine_type": "IPC_MS4NO23MPW",
+      "type": "IPC",
+      "version_file": "4858_2508273415",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I###g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2021.10 (May 15 2025 - 14:31:02 +0800)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.117 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #404 PREEMPT Tue Jul 22 14:17:15 CST 2025",
+      "board": "IFADO SSC032B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/19014159b6c8b9753deddd80.zip"
+    ],
+    "model_id": 281,
+    "hw_ver_id": 443
+  },
+  "5e287aa48cf55a99876fab524d2f9323cf824f85ca41806b3351a9aeb2dc87b0": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_MS4NO24MPW",
+      "board_name": "IPC_MS4NO24MPW",
+      "build_date": "250827",
+      "display_type_info": "E1",
+      "detail_machine_type": "IPC_MS4NO24MPW",
+      "type": "IPC",
+      "version_file": "4858_2508273531",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I###g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2021.10 (May 15 2025 - 14:28:05 +0800)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.117 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #404 PREEMPT Tue Jul 22 14:17:15 CST 2025",
+      "board": "IFADO SSC032B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/190143077057c428b4d0017c.zip"
+    ],
+    "model_id": 76,
+    "hw_ver_id": 444
   }
 }

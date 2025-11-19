@@ -8537,5 +8537,35 @@
     "display_time": "2025-11-17 00:00:00+08:00",
     "sha256_pak": "4377e961d3198d395e1e0ed157a7b336b3739c794003cecaa84a5d41d44e4490",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.4858_2508273415",
+    "filename": "E_Series_E321_v32048582508273415_IPC_MS4NO23MPW",
+    "updated_at": "2025-11-19 09:42:11+08:00",
+    "note": "",
+    "firmware_id": 888,
+    "model": "E Series E321",
+    "hw_ver": "IPC_MS4NO23MPW",
+    "changelog": [
+      "1.Fixed some known bugs."
+    ],
+    "display_time": "2025-11-19 00:00:00+08:00",
+    "sha256_pak": "38bde23e2b7ed34934cd711a7b4c3f07b52a9718123e0600b54b218cd552f7a4",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.4858_2508273531",
+    "filename": "E1_v32048582508273531_IPC_MS4NO24MPW",
+    "updated_at": "2025-11-19 09:44:02+08:00",
+    "note": "",
+    "firmware_id": 889,
+    "model": "E1",
+    "hw_ver": "IPC_MS4NO24MPW",
+    "changelog": [
+      "1.Fixed some known bugs."
+    ],
+    "display_time": "2025-11-19 00:00:00+08:00",
+    "sha256_pak": "5e287aa48cf55a99876fab524d2f9323cf824f85ca41806b3351a9aeb2dc87b0",
+    "source": "live"
   }
 ]
