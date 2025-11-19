@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 771
+Total: 774
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -958,10 +958,11 @@ Version | Date | Changes | Notes
 
   ### IPC_560SD88MP
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5223_2510172100](https://home-cdn.reolink.us/wp-content/uploads/2025/11/190708373a65d33d2f8bea2f.zip?download_name=E1_Outdoor_PoE_5223_2510172100.zip) | 2025‑10‑17 | White light alarm setting issues fixed | 
 [v3.1.0.5223_2508072081](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030426111756873571.0465.zip?download_name=E1_Outdoor_PoE_5223_2508072081.zip) | 2025‑08‑07 | <ol><li>H.265/H.264 switching supported.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4020_2409116832](https://home-cdn.reolink.us/wp-content/uploads/2025/07/040956221751622982.9644.zip?download_name=E1_Outdoor_PoE_240911.zip) | 2024‑09‑11 | <ol><li>Abnormal AI detection issues fixed.</li><li>Image processing optimized.</li><li>Two-way talk issues resolved.</li><li>ONVIF compatibility improved.</li><li>Other known bugs fixed.</li></ol> | 
 [v3.1.0.3872_2407262057](https://home-cdn.reolink.us/wp-content/uploads/2024/08/120859341723453174.6233.zip?download_name=E1_Outdoor_PoE_240726.zip) | 2024‑07‑26 | <ol><li>Optimize tracking effect;</li><li>Optimize autofocus effect;</li><li>Optimize image effect;</li><li>Solve other known bugs</li></ol> | 
@@ -994,10 +995,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD8V3
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5223_2510172104](https://home-cdn.reolink.us/wp-content/uploads/2025/11/190711534ef2bd9e096f3128.zip?download_name=E1_Outdoor_SE_PoE_5223_2510172104.zip) | 2025‑10‑17 | White light alarm setting issues fixed | 
 [v3.1.0.5223_2508072085](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030430011756873801.9014.zip?download_name=E1_Outdoor_SE_PoE_5223_2508072085.zip) | 2025‑08‑07 | <ol><li>Day/night mode switching enhanced.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
@@ -1410,10 +1412,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5223_2510172103](https://home-cdn.reolink.us/wp-content/uploads/2025/11/190709439200dea927f902b6.zip?download_name=P334_5223_2510172103.zip) | 2025‑10‑17 | White light alarm setting issues fixed. | 
 [v3.1.0.5223_2508072084](https://home-cdn.reolink.us/wp-content/uploads/2025/09/030413151756872795.6556.zip?download_name=P334_5223_2508072084.zip) | 2025‑08‑07 | <ol><li>Perimeter Protection and Smart Event Detection feature added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4666_2503071925](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130300161749783616.2797.zip?download_name=P334_4666_2503071925.zip) | 2025‑03‑07 | Other known bugs resolved. | 
 
