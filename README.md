@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 774
+Total: 776
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -841,6 +841,27 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4366_2412021483](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130828551749803335.1628.zip?download_name=E540_4366_2412021483.zip) | 2024‑12‑02 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>E Series E560</summary>
+
+  ### IPC_560SD88MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4020_2409116797](https://home-cdn.reolink.us/wp-content/uploads/2025/11/2512504250ad28286bce28fa.zip?download_name=E560_4020_2409116797.zip) | 2024‑09‑11 | Known Bugs Fixed | 
+
+  ### IPC_560SD88MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4523_2502123390](https://home-cdn.reolink.us/wp-content/uploads/2025/11/2512480729cc00c9c7ed24b3.zip?download_name=E560_4523_2502123390.zip) | 2025‑02‑12 | Known Bugs Fixed | 
 
 </details>
 

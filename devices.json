@@ -2760,5 +2760,24 @@
         "title": "IPC_MS4NO23MPW"
       }
     ]
+  },
+  {
+    "id": 282,
+    "title": "E Series E560",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 446,
+        "title": "IPC_560SD88MP"
+      },
+      {
+        "id": 445,
+        "title": "IPC_560SD88MPW"
+      }
+    ]
   }
 ]
