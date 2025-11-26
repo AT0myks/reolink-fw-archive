@@ -8668,5 +8668,172 @@
     "display_time": "2025-11-26 00:00:00+08:00",
     "sha256_pak": "a0dbaf019cf75b0e43a5a8cc9da195acc880c6a60b8c95d338a14a7c10bd1a57",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.3281_2403061749",
+    "filename": "E_Series_E530X3281_2403061749IPC_MS1NA44MP",
+    "updated_at": "2025-11-26 16:54:07+08:00",
+    "note": "",
+    "firmware_id": 907,
+    "model": "E Series E530X",
+    "hw_ver": "IPC_MS1NA44MP",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "f5844cebfaa874819af0a7615e22f99bf8c472d22b1b77f46144231ac3a4142d",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.1783_23121201",
+    "filename": "P330M_1783_23121201",
+    "updated_at": "2025-11-26 14:46:42+08:00",
+    "note": "",
+    "firmware_id": 897,
+    "model": "P330M",
+    "hw_ver": "IPC_560B218MP_P",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "791fe210669d88ace7705259fe65f9552dd98f51b8485f418446b8ca0b3eea73",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2557_2312132953",
+    "filename": "P330P_2557_2312132953",
+    "updated_at": "2025-11-26 14:43:45+08:00",
+    "note": "",
+    "firmware_id": 896,
+    "model": "P330P",
+    "hw_ver": "IPC_56064M8MP",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "dbd9b3f920d6b8823d0f0144427024bdf48782b30ad82835d56bd8848fb53ff0",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5607_2511041997",
+    "filename": "Floodlight_Series_F751W_5607_2511041997IPC_NT15NA68MPW",
+    "updated_at": "2025-11-26 15:34:55+08:00",
+    "note": "",
+    "firmware_id": 900,
+    "model": "Floodlight Series F751W",
+    "hw_ver": "IPC_NT15NA68MPW",
+    "changelog": [
+      "1. Added video deletion feature.",
+      "2. Optimized light activation speed.",
+      "3.Improved the timing for turning on lights at dusk."
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "bc52f999c6c5ea22aeb4375300cd49bc998e772df37091651686e364ab86014f",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5336_2509021916",
+    "filename": "Fisheye_Series_P520_v30053362509021916_FE_529128M6MP_P",
+    "updated_at": "2025-11-26 14:48:24+08:00",
+    "note": "",
+    "firmware_id": 898,
+    "model": "Fisheye Series P520",
+    "hw_ver": "FE_529128M6MP_P",
+    "changelog": [
+      "1. Dual Panoramic View supported."
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "c716428ab23c6b58669a9b0fe83eef8e6f85c91a7620907adf10d54116421f27",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5336_2509021914",
+    "filename": "Fisheye_Series_W520_v30053362509021914_FE_529128M6MP_W",
+    "updated_at": "2025-11-26 14:49:21+08:00",
+    "note": "",
+    "firmware_id": 899,
+    "model": "Fisheye Series W520",
+    "hw_ver": "FE_529128M6MP_W",
+    "changelog": [
+      "1. Dual Panoramic View supported."
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "2e191a973073f3cfda7cc7b53d4f0e22fdf3f1c7556fd4c31518951ad07f89d4",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.3078_2405089137",
+    "filename": "W320C_3078_2405089137",
+    "updated_at": "2025-11-26 16:01:45+08:00",
+    "note": "",
+    "firmware_id": 905,
+    "model": "W320C",
+    "hw_ver": "IPC_MS1NO25MP",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "570b02b1417e6d530e65e992ca1523b8da62448b4d8aee6d90e3c8b46c510b6a",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.4366_2412021480",
+    "filename": "ColorX_Series_W320X_4366_2412021480",
+    "updated_at": "2025-11-26 15:53:02+08:00",
+    "note": "",
+    "firmware_id": 904,
+    "model": "ColorX Series W320X",
+    "hw_ver": "IPC_NT1NA44MP",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "e88f64ffcd940c614683eb5aa26c1471f91fdbd2bcce61d155d7dc4a6d1e48bf",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.2925_23112486",
+    "filename": "W337_2925_23112486",
+    "updated_at": "2025-11-26 15:46:27+08:00",
+    "note": "",
+    "firmware_id": 903,
+    "model": "W337",
+    "hw_ver": "IPC_NT2NA48MP",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "e5686bad3ef6c7a8832ccd246f81a3093eed0a2b4d195e853f8a828c83fd900f",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5502_2510231295",
+    "filename": "E550_5502_2510231295",
+    "updated_at": "2025-11-26 15:40:06+08:00",
+    "note": "",
+    "firmware_id": 902,
+    "model": "E Series E550",
+    "hw_ver": "IPC_NT2NA48MPSD8V3",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "1a2eda1d0959c3e5ffe8f55a45f454b707bd6da1c9dd825ead81b1e83eadca59",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5352_2509051695",
+    "filename": "E331_5352_2509051695",
+    "updated_at": "2025-11-26 15:32:23+08:00",
+    "note": "",
+    "firmware_id": 901,
+    "model": "E Series E331",
+    "hw_ver": "IPC_NT1NA45MPSD18V2",
+    "changelog": [
+      "Known Bugs Fixed"
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "8e44bd1d25073179a38d51c2092357ac5950bdd27d71f7b38c4cffd25e4a607c",
+    "source": "live"
   }
 ]

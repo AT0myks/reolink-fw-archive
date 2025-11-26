@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 777
+Total: 788
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -478,6 +478,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.2.0.5375_2509162348](https://home-cdn.reolink.us/wp-content/uploads/2025/10/170421259b34dfe75c04fe97.zip?download_name=ColorX_Series_P335X_5375_2509162348.zip) | 2025‑09‑16 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Two-way talk performance enhanced.</li><li>Security patches optimized.</li><li>Local AI video search experience improved.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>ColorX Series W320X</summary>
+
+  ### IPC_NT1NA44MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4366_2412021480](https://home-cdn.reolink.us/wp-content/uploads/2025/11/2607523290c1ec6d0ad1f007.zip?download_name=ColorX_Series_W320X_4366_2412021480.zip) | 2024‑12‑02 | Known Bugs Fixed | 
 
 </details>
 
@@ -811,6 +824,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>E Series E331</summary>
+
+  ### IPC_NT1NA45MPSD18V2
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5352_2509051695](https://home-cdn.reolink.us/wp-content/uploads/2025/11/260731421d0115701ffdeb4c.zip?download_name=E331_5352_2509051695.zip) | 2025‑09‑05 | Known Bugs Fixed | 
+
+</details>
+
+<details>
   <summary>E Series E340</summary>
 
   ### IPC_566SD664M5MP
@@ -832,6 +858,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>E Series E530X</summary>
+
+  ### IPC_MS1NA44MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.3281_2403061749](https://home-cdn.reolink.us/wp-content/uploads/2025/11/260853412b90672f6de19fe1.zip?download_name=E_Series_E530X3281_2403061749IPC_MS1NA44MP.zip) | 2024‑03‑06 | Known Bugs Fixed | 
+
+</details>
+
+<details>
   <summary>E Series E540</summary>
 
   ### IPC_566SD85MP
@@ -841,6 +880,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4366_2412021483](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130828551749803335.1628.zip?download_name=E540_4366_2412021483.zip) | 2024‑12‑02 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>E Series E550</summary>
+
+  ### IPC_NT2NA48MPSD8V3
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5502_2510231295](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26073938c077cf3d0166b3e4.zip?download_name=E550_5502_2510231295.zip) | 2025‑10‑23 | Known Bugs Fixed | 
 
 </details>
 
@@ -1148,6 +1200,8 @@ Version | Date | Changes | Notes
 <details>
   <summary>Elite Floodlight WiFi</summary>
 
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Floodlight%20Series%20F751W/product.png" width="150">
+
 [Product page](https://reolink.com/product/elite-floodlight-wifi/)
 
   ### IPC_NT15NA68MPW
@@ -1208,6 +1262,36 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>Fisheye Series P520</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Fisheye%20Series%20P520/product.png" width="150">
+
+  ### FE_529128M6MP_P
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.5336_2509021916](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26064651e73b66795ced7772.zip?download_name=Fisheye_Series_P520_v30053362509021916_FE_529128M6MP_P.zip) | 2025‑09‑02 | 1. Dual Panoramic View supported. | 
+
+</details>
+
+<details>
+  <summary>Fisheye Series W520</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Fisheye+Series+W520/product.png" width="150">
+
+  ### FE_529128M6MP_W
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.5336_2509021914](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26064903da021b849193ceda.zip?download_name=Fisheye_Series_W520_v30053362509021914_FE_529128M6MP_W.zip) | 2025‑09‑02 | 1. Dual Panoramic View supported. | 
+
+</details>
+
+<details>
   <summary>Floodlight Series F750W</summary>
 
   ### IPC_529B17B8MP
@@ -1217,6 +1301,21 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.4428_2412183532](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130651001749797460.8496.zip?download_name=F750W_4428_2412183532.zip) | 2024‑12‑18 | <ol><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Optimized the image stitching performance.</li><li>Fixed some known bugs.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Floodlight Series F751W</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Floodlight%20Series%20F751W/product.png" width="150">
+
+  ### IPC_NT15NA68MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5607_2511041997](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26073426a63f40163686eda8.zip?download_name=Floodlight_Series_F751W_5607_2511041997IPC_NT15NA68MPW.zip) | 2025‑11‑04 | <ol><li>Added video deletion feature.</li><li>Optimized light activation speed.</li><li>Improved the timing for turning on lights at dusk.</li></ol> | 
 
 </details>
 
@@ -1373,6 +1472,8 @@ Version | Date | Changes | Notes
 <details>
   <summary>NVS4 (NVR)</summary>
 
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/NVS4/product.png" width="150">
+
   ### NVR_NNT3NA54P
 
 Firmwares for this hardware version: 1
@@ -1438,6 +1539,36 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.4972_2506051567](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220259051753153145.0653.zip?download_name=P330_4972_2506051567.zip) | 2025‑06‑05 | <ol><li>H.265/H.264 switching supported for both main and sub-streams.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4054_2409141128](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130257191749783439.2648.zip?download_name=P330_4054_2409141128.zip) | 2024‑09‑14 | Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>P330M</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/P330M/product.png" width="150">
+
+  ### IPC_560B218MP_P
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.1783_23121201](https://home-cdn.reolink.us/wp-content/uploads/2025/11/2606460759f6e4677efa2e79.zip?download_name=P330M_1783_23121201.zip) | 2023‑12‑12 | Known Bugs Fixed | 
+
+</details>
+
+<details>
+  <summary>P330P</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/P330P/product.png" width="150">
+
+  ### IPC_56064M8MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2557_2312132953](https://home-cdn.reolink.us/wp-content/uploads/2025/11/2606431617269dad7758ccbd.zip?download_name=P330P_2557_2312132953.zip) | 2023‑12‑13 | Known Bugs Fixed | 
 
 </details>
 
@@ -3655,6 +3786,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>W320C</summary>
+
+  ### IPC_MS1NO25MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.3078_2405089137](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26080028805709cad7019f91.zip?download_name=W320C_3078_2405089137.zip) | 2024‑05‑08 | Known Bugs Fixed | 
+
+</details>
+
+<details>
   <summary>W330</summary>
 
   ### IPC_MS2NA48MP
@@ -3678,6 +3822,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.5031_2506270556](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220308361753153716.1139.zip?download_name=W330C_5031_2506270556.zip) | 2025‑06‑27 | <ol><li>Image quality optimized.</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>W337</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.2925_23112486](https://home-cdn.reolink.us/wp-content/uploads/2025/11/260746120517a4c7f8746910.zip?download_name=W337_2925_23112486.zip) | 2023‑11‑24 | Known Bugs Fixed | 
 
 </details>
 

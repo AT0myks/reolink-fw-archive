@@ -2420,7 +2420,7 @@
     "id": 256,
     "title": "Elite Floodlight WiFi",
     "type": "IPC",
-    "productImg": "",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Floodlight%20Series%20F751W/product.png",
     "productUrl": "https://reolink.com/product/elite-floodlight-wifi/",
     "variations": [],
     "contains": [],
@@ -2784,7 +2784,7 @@
     "id": 283,
     "title": "NVS4",
     "type": "NVR",
-    "productImg": "",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/NVS4/product.png",
     "productUrl": "",
     "variations": [],
     "contains": [],
@@ -2792,6 +2792,171 @@
       {
         "id": 447,
         "title": "NVR_NNT3NA54P"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "title": "E Series E530X",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 459,
+        "title": "IPC_MS1NA44MP"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "title": "P330M",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/P330M/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 449,
+        "title": "IPC_560B218MP_P"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "title": "P330P",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/P330P/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 448,
+        "title": "IPC_56064M8MP"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "title": "Floodlight Series F751W",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Floodlight%20Series%20F751W/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 452,
+        "title": "IPC_NT15NA68MPW"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "title": "Fisheye Series P520",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Fisheye%20Series%20P520/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 450,
+        "title": "FE_529128M6MP_P"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "title": "Fisheye Series W520",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Fisheye+Series+W520/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 451,
+        "title": "FE_529128M6MP_W"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "title": "W320C",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 457,
+        "title": "IPC_MS1NO25MP"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "title": "ColorX Series W320X",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 456,
+        "title": "IPC_NT1NA44MP"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "title": "W337",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 455,
+        "title": "IPC_NT2NA48MP"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "title": "E Series E550",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 454,
+        "title": "IPC_NT2NA48MPSD8V3"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "title": "E Series E331",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 453,
+        "title": "IPC_NT1NA45MPSD18V2"
       }
     ]
   }
