@@ -2779,5 +2779,20 @@
         "title": "IPC_560SD88MPW"
       }
     ]
+  },
+  {
+    "id": 283,
+    "title": "NVS4",
+    "type": "NVR",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 447,
+        "title": "NVR_NNT3NA54P"
+      }
+    ]
   }
 ]

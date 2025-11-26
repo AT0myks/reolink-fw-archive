@@ -27016,5 +27016,41 @@
     ],
     "model_id": 282,
     "hw_ver_id": 445
+  },
+  "a0dbaf019cf75b0e43a5a8cc9da195acc880c6a60b8c95d338a14a7c10bd1a57": {
+    "info": {
+      "firmware_version_prefix": "v3.6.3",
+      "board_type": "NVR_NNT3NA54P",
+      "board_name": "NVR_NNT3NA54P",
+      "build_date": "250920",
+      "display_type_info": "NVS4",
+      "detail_machine_type": "NVR6604",
+      "type": "NVR",
+      "version_file": "437_25092006",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.148",
+      "uboot_version": "U-Boot 2019.04 (Mar 24 2025 - 11:14:08 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-19-g5259632) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": null,
+      "board": "Novatek NA51103",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/11/26040530fc8f075eac0801f7.zip"
+    ],
+    "model_id": 283,
+    "hw_ver_id": 447
   }
 }

@@ -8642,5 +8642,31 @@
     "display_time": "2025-11-25 00:00:00+08:00",
     "sha256_pak": "f243d47bd1e29d1e7b5ed4b8b4a400cda0207670a00b3dff4bdcc856f6ec821a",
     "source": "live"
+  },
+  {
+    "version": "v3.6.3.437_25092006",
+    "filename": "NVS4_v363437_25092006_NVR_NNT3NA54P",
+    "updated_at": "2025-11-26 12:08:00+08:00",
+    "note": "",
+    "firmware_id": 895,
+    "model": "NVS4",
+    "hw_ver": "NVR_NNT3NA54P",
+    "changelog": [
+      "1. Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2. Added new features including Heatmap, Event History, HyBridge Mode, Pattern Unlock, HDMI Screen Resolution Recommendation (monitor support required), Safe Ejection for USB Drives, Network Topology Page, Video Encryption, Landing Page Settings, 6-Screen Live View, Password Recovery via Recovery Email,  Independent USB Flash Drive Management Page,  Devices List Page, Long-press to Clear in Soft Keyboard, Device Offline Status.",
+      "3. Supported features include physical keyboard input (English and numbers only), Corridor Mode for certain IPC models (requires latest firmware and model support), Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE, Wireless chime pairing added for battery doorbell, Dual mouse support, and Crying Sound Detection supported for certain IPC models.",
+      "4. Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), Object Removal (Beta). Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.",
+      "5. NVR supports New Surveillance Rule (select IPC models only).",
+      "6. Alarm I/O supported on select models.",
+      "7. Light Alarm feature enabled for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "8. Out-of-View Detection supported on TrackFlex Floodlight WiFi\u3001Floodlight Series F850W\u3001TrackFlex Floodlight PoE\u3001Floodlight Series F850P.",
+      "9. Startup wizard, live view interface, network settings interface, email interface, and related interactions optimized.",
+      "10. APP features supported: Device sharing, Chime mute for doorbells, Battery Mode supported for battery-powered doorbells, Privacy Mode supported for some IPC models, AI features supported for some IPC models, and Patrol surveillance supported for SD12 series.",
+      "11. Configurations retained by default during version upgrade (option to retain UID).",
+      "12. Other known bugs resolved."
+    ],
+    "display_time": "2025-11-26 00:00:00+08:00",
+    "sha256_pak": "a0dbaf019cf75b0e43a5a8cc9da195acc880c6a60b8c95d338a14a7c10bd1a57",
+    "source": "live"
   }
 ]

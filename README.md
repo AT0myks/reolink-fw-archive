@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 776
+Total: 777
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1367,6 +1367,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.5.1.368_24120239](https://home-cdn.reolink.us/wp-content/uploads/2024/12/160203291734314609.0972.zip?download_name=NVS36_v351368_24120239_N5MB01.zip) | 2024‑12‑02 | <ol><li>User interactions optimized and upgraded.</li><li>Compatible with battery-powered WiFi cameras (the camera also needs to be upgraded to a firmware version that supports NVR)</li><li>Event History feature added.</li><li>Pattern Unlock feature added.</li><li>Screen resolution recommendation added for HDMI display (monitor support required).</li><li>Safe Ejection feature for USB drives added.</li><li>Network Topology page added.</li><li>Configurations retained by default during version upgrade (option to retain UID).</li><li>Physical keyboard support added (limited to English and numeric input).</li><li>Corridor Mode supported for some IPC models (IPC must be updated and compatible with this mode).</li><li>Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE</li><li>Wireless chime pairing added for battery doorbell.</li><li>Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.</li><li>Setup wizard optimized.</li><li>Live view interface optimized.</li><li>Network settings interface optimized.</li><li>Email feature interface and interactions optimized.</li><li>Video loss push notification disabled.</li><li>Fixed issue with camera name changes not applying reliably in Reolink App.</li><li>Web client updated.</li><li>Other known bugs fixed.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>NVS4 (NVR)</summary>
+
+  ### NVR_NNT3NA54P
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.6.3.437_25092006](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26040530fc8f075eac0801f7.zip?download_name=NVS4_v363437_25092006_NVR_NNT3NA54P.zip) | 2025‑09‑20 | <ol><li>Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.</li><li>Added new features including Heatmap, Event History, HyBridge Mode, Pattern Unlock, HDMI Screen Resolution Recommendation (monitor support required), Safe Ejection for USB Drives, Network Topology Page, Video Encryption, Landing Page Settings, 6-Screen Live View, Password Recovery via Recovery Email,  Independent USB Flash Drive Management Page,  Devices List Page, Long-press to Clear in Soft Keyboard, Device Offline Status.</li><li>Supported features include physical keyboard input (English and numbers only), Corridor Mode for certain IPC models (requires latest firmware and model support), Motion track image sending available on Reolink Duo 3 PoE and Reolink Duo 3V PoE, Wireless chime pairing added for battery doorbell, Dual mouse support, and Crying Sound Detection supported for certain IPC models.</li><li>Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), Object Removal (Beta). Continuous recording schedule for battery-powered camera model Reolink Altas PT Ultra supported.</li><li>NVR supports New Surveillance Rule (select IPC models only).</li><li>Alarm I/O supported on select models.</li><li>Light Alarm feature enabled for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.</li><li>Out-of-View Detection supported on TrackFlex Floodlight WiFi&#12289;Floodlight Series F850W&#12289;TrackFlex Floodlight PoE&#12289;Floodlight Series F850P.</li><li>Startup wizard, live view interface, network settings interface, email interface, and related interactions optimized.</li><li>APP features supported: Device sharing, Chime mute for doorbells, Battery Mode supported for battery-powered doorbells, Privacy Mode supported for some IPC models, AI features supported for some IPC models, and Patrol surveillance supported for SD12 series.</li><li>Configurations retained by default during version upgrade (option to retain UID).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
