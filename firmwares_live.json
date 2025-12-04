@@ -8835,5 +8835,52 @@
     "display_time": "2025-11-26 00:00:00+08:00",
     "sha256_pak": "8e44bd1d25073179a38d51c2092357ac5950bdd27d71f7b38c4cffd25e4a607c",
     "source": "live"
+  },
+  {
+    "version": "v3.6.3.437_25110428",
+    "filename": "NVS36_v363437_25110428_N5MB01",
+    "updated_at": "2025-12-04 10:34:25+08:00",
+    "note": "",
+    "firmware_id": 910,
+    "model": "NVS36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1. Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2. Added new features including Heatmap,Video Encryption, Landing Page Settings, 6-Screen Live View, Password Recovery via Recovery Email,  Independent USB Flash Drive Management Page,  Devices List Page, Long-press to Clear in Soft Keyboard, Device Offline Status.",
+      "3. Supported features include Dual mouse support, and Crying Sound Detection supported for certain IPC models.",
+      "4. Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), Object Removal (Beta).",
+      "5. NVR supports New Surveillance Rule (select IPC models only).",
+      "6. Alarm I/O supported on select models.",
+      "7. Light Alarm feature enabled for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "8. Out-of-View Detection supported on TrackFlex Floodlight WiFi\u3001Floodlight Series F850W\u3001TrackFlex Floodlight PoE\u3001Floodlight Series F850P.",
+      "9. APP features supported: Device sharing, Chime mute for doorbells, Battery Mode supported for battery-powered doorbells, Privacy Mode supported for some IPC models, AI features supported for some IPC models, and Patrol surveillance supported for SD12 series.",
+      "10.  Other known bugs resolved."
+    ],
+    "display_time": "2025-12-04 00:00:00+08:00",
+    "sha256_pak": "f7a21a50fc2bb4037b24ec05f507a9a874e538af518faed84125551738b2c8e1",
+    "source": "live"
+  },
+  {
+    "version": "3.6.3.437_25110427",
+    "filename": "RLN36_v363437_25110427_N5MB01",
+    "updated_at": "2025-12-04 10:33:00+08:00",
+    "note": "",
+    "firmware_id": 909,
+    "model": "RLN36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1.Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.",
+      "2.Heatmap feature added.",
+      "3.Select models support Line Crossing, Zone Intrusion, Zone Loitering, Forgotten Object (Beta), and Object Removal (Beta).",
+      "4.The NVR supports New Surveillance Rule. Note: This update is only supported on specific IPC models.",
+      "5.Alarm I/O supported on select models.",
+      "6. Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.",
+      "7. Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.",
+      "8.AI features optimized by adjusting configurations to improve interaction experience.",
+      "9.Other known bugs resolved."
+    ],
+    "display_time": "2025-12-04 00:00:00+08:00",
+    "sha256_pak": "d86e3a7c2b3659f9dce45ed2869c69517132f0862b72e1e9a5a3876773b0faa2",
+    "source": "live"
   }
 ]
