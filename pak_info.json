@@ -27516,5 +27516,41 @@
     ],
     "model_id": 167,
     "hw_ver_id": 286
+  },
+  "dfbdbba110d0ab2fa4bca89365a619417e2f838399c7a793a5b8f9a58b4d65f3": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_NT2NA48MPSD8V3",
+      "board_name": "IPC_NT2NA48MPSD8V3",
+      "build_date": "251023",
+      "display_type_info": "E1 Outdoor S",
+      "detail_machine_type": "IPC_NT2NA48MPSD8V3",
+      "type": "IPC",
+      "version_file": "5502_2510231294",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jan 18 2024 - 17:23:15 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Sat Sep 20 14:25:41 CST 2025",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/12/170201293939dc7f572434b8.zip"
+    ],
+    "model_id": 296,
+    "hw_ver_id": 460
   }
 }

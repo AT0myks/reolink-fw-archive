@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 790
+Total: 791
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1060,6 +1060,19 @@ Version | Date | Changes | Notes
 [v3.1.0.3872_2407304781](https://home-cdn.reolink.us/wp-content/uploads/2024/08/120901271723453287.4817.zip?download_name=E1_Outdoor_Pro_240730.zip) | 2024‑07‑30 | <ol><li>Optimize tracking effect;</li><li>Optimize autofocus effect;</li><li>Optimize image effect;</li><li>Solve other known bugs</li></ol> | 
 [v3.1.0.2838_23102510](https://home-cdn.reolink.us/wp-content/uploads/2023/11/151140371700048437.7588.zip?download_name=E1_Outdoor_Pro_2838_23102510.zip) | 2023‑10‑25 | <ol><li>Optimize smart detection</li><li>Optimize Auto Focus and Auto Tracking</li><li>Optimize night vision</li><li>Optimize switch between day and night mode</li><li>Fix some bugs related to the FTP feature</li><li>Optimize Audio</li><li>Fix some other known bugs</li></ol> | 
 [v3.1.0.2515_23072809](https://home-cdn.reolink.us/wp-content/uploads/2023/08/291037231693305443.7283.zip?download_name=E1_Outdoor_Pro_2515_23072809.zip) | 2023‑07‑28 |  | 1. Optimize and solve some known bugs of the WiFi connection<br />2. Optimize Auto-tracking <br />3. Optimize Auto-focus<br />4. Optimzie Email Alert<br />5. Solve other known bugs
+
+</details>
+
+<details>
+  <summary>E1 Outdoor S</summary>
+
+  ### IPC_NT2NA48MPSD8V3
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5502_2510231294](https://home-cdn.reolink.us/wp-content/uploads/2025/12/170201293939dc7f572434b8.zip?download_name=E1_Outdoor_S_5502_2510231294.zip) | 2025‑10‑23 | Known Bugs Fixed | 
 
 </details>
 

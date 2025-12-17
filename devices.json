@@ -2959,5 +2959,20 @@
         "title": "IPC_NT1NA45MPSD18V2"
       }
     ]
+  },
+  {
+    "id": 296,
+    "title": "E1 Outdoor S",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 460,
+        "title": "IPC_NT2NA48MPSD8V3"
+      }
+    ]
   }
 ]
