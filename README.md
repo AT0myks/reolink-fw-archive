@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 791
+Total: 793
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1641,6 +1641,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>P434</summary>
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4972_2510232688](https://home-cdn.reolink.us/wp-content/uploads/2025/12/19034442dad2bc3c56c15553.zip?download_name=P434_4972_2510232688IPC_NT2NA48MP.zip) | 2025‑10‑23 | White light alarm setting issues fixed | 
+
+</details>
+
+<details>
   <summary>P437</summary>
 
   ### IPC_NT2NA48MP
@@ -2856,6 +2869,14 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.3016_2312052457](https://home-cdn.reolink.us/wp-content/uploads/2023/12/180151301702864290.4141.zip?download_name=RLC_833A_3016_2312052457.zip) | 2023‑12‑05 | <ol><li>Optimize Smart Detection</li><li>Optimize the image</li><li>Optimize CGI service</li><li>Fix some known bugs</li></ol> | 
+
+  ### IPC_NT2NA48MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4972_2510232468](https://home-cdn.reolink.us/wp-content/uploads/2025/12/190345575cf8ae4e384fee07.zip?download_name=833A_4972_2510232468IPC_NT2NA48MP.zip) | 2025‑10‑23 | White light alarm setting issues fixed | 
 
 </details>
 

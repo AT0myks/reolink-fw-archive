@@ -1408,6 +1408,10 @@
       {
         "id": 327,
         "title": "IPC_523D88MP"
+      },
+      {
+        "id": 461,
+        "title": "IPC_NT2NA48MP"
       }
     ]
   },
@@ -2972,6 +2976,21 @@
       {
         "id": 460,
         "title": "IPC_NT2NA48MPSD8V3"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "title": "P434",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 462,
+        "title": "IPC_NT2NA48MP"
       }
     ]
   }
