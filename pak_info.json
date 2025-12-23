@@ -27624,5 +27624,77 @@
     ],
     "model_id": 191,
     "hw_ver_id": 461
+  },
+  "5b17b80e141d83a41e4cc1cf499bd14430d3cddfd8bdba93c0bc03d6a3980c7b": {
+    "info": {
+      "firmware_version_prefix": "v3.3.0",
+      "board_type": "BASE_WUNNT6NA5",
+      "board_name": "BASE_WUNNT6NA5",
+      "build_date": "251222",
+      "display_type_info": "Reolink Home Hub",
+      "detail_machine_type": "Reolink_Home_Hub",
+      "type": "HOMEHUB",
+      "version_file": "456_25122248",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jun 06 2024 - 18:15:13 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #2 PREEMPT Tue Mar 12 15:01:38 CST 2024",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/12/23102704112372f00ea9757a.zip"
+    ],
+    "model_id": 205,
+    "hw_ver_id": 343
+  },
+  "a702713016309ed34e9d62fa060f8a908c1933594c44f83f2cd0274902153741": {
+    "info": {
+      "firmware_version_prefix": "v3.3.0",
+      "board_type": "BASE_WENNT6NA5",
+      "board_name": "BASE_WENNT6NA5",
+      "build_date": "251222",
+      "display_type_info": "Reolink Home Hub",
+      "detail_machine_type": "Reolink_Home_Hub",
+      "type": "HOMEHUB",
+      "version_file": "456_25122258",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jun 06 2024 - 18:15:13 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #2 PREEMPT Tue Mar 12 15:01:38 CST 2024",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2025/12/23102736cc0fe76a70b30f0a.zip"
+    ],
+    "model_id": 205,
+    "hw_ver_id": 342
   }
 }

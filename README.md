@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 793
+Total: 795
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -3534,20 +3534,22 @@ Version | Date | Changes | Notes
 
   ### BASE_WENNT6NA5
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.456_25122258](https://home-cdn.reolink.us/wp-content/uploads/2025/12/23102736cc0fe76a70b30f0a.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK456_25122258Epak.zip) | 2025‑12‑22 | <ol><li>Rich Notification support added for IPC models and Home Hub.</li><li>Floodlight series supported.</li><li>Video Deletion feature supported.</li><li>Battery modes supported for battery-powered doorbells via app.</li></ol> | 
 [v3.3.0.387_25040149](https://home-cdn.reolink.us/wp-content/uploads/2025/04/180147281744940848.8613.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK387_25040149E.zip) | 2025‑04‑01 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.3.0.352_24092630](https://home-cdn.reolink.us/wp-content/uploads/2024/10/080942181728380538.4702.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK352_24092630E.zip) | 2024‑09‑26 | <ol><li>Playing back recordings stored on the IPC's microSD card supported (requires updated app release).</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.</li><li>IPC initialization process via Reolink Home Hub streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
 [v3.3.0.333_24071210](https://home-cdn.reolink.us/wp-content/uploads/2024/07/160653271721112807.1899.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK333_24071210E.zip) | 2024‑07‑12 | <ol><li>Resolves battery camera disconnection issues</li><li>Addresses audio issues</li><li>Allows WiFi to be turned off on the Hub</li><li>Optimizes WiFi performance</li><li>Improves event log functionality</li></ol> | 
 
   ### BASE_WUNNT6NA5
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.456_25122248](https://home-cdn.reolink.us/wp-content/uploads/2025/12/23102704112372f00ea9757a.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK456_25122248Upak.zip) | 2025‑12‑22 | <ol><li>Rich Notification support added for IPC models and Home Hub.</li><li>Floodlight series supported.</li><li>Video Deletion feature supported.</li><li>Battery modes supported for battery-powered doorbells via app.</li></ol> | 
 [v3.3.0.387_25040148](https://home-cdn.reolink.us/wp-content/uploads/2025/04/180145451744940745.4274.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK387_25040148U.zip) | 2025‑04‑01 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.3.0.352_24092629](https://home-cdn.reolink.us/wp-content/uploads/2024/10/080940341728380434.6068.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK352_24092629U.zip) | 2024‑09‑26 | <ol><li>Playing back recordings stored on the IPC's microSD card supported (requires updated app release).</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.</li><li>IPC initialization process via Reolink Home Hub streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
 [v3.3.0.333_24071209](https://home-cdn.reolink.us/wp-content/uploads/2024/07/160652011721112721.3328.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK333_24071209U.zip) | 2024‑07‑12 | <ol><li>Resolves battery camera disconnection issues</li><li>Addresses audio issues</li><li>Allows WiFi to be turned off on the Hub</li><li>Optimizes WiFi performance</li><li>Improves event log functionality</li></ol> | 
