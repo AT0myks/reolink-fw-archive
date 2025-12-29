@@ -8963,5 +8963,103 @@
     "display_time": "2025-12-23 00:00:00+08:00",
     "sha256_pak": "a702713016309ed34e9d62fa060f8a908c1933594c44f83f2cd0274902153741",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.5754_2512041464",
+    "filename": "RP_PCV8MZ_5754_2512041464",
+    "updated_at": "2025-12-29 14:40:33+08:00",
+    "note": "",
+    "firmware_id": 925,
+    "model": "RP-PCV8MZ",
+    "hw_ver": "IPC_NT17EM118MPVD60B",
+    "changelog": [
+      "1. People and Area Counting supported (configurable in VMS Client).",
+      "2. Intelligent H.265 supported.",
+      "3. Video Deletion feature supported.",
+      "4. Arming rules via web interface supported.",
+      "5. Image quality optimized."
+    ],
+    "display_time": "2025-12-29 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2025/12/290637539153f42b1bd6e318.zip",
+    "error": "Buffer size too small (0 instead of at least 88 bytes)",
+    "source": "live",
+    "model_id": 277,
+    "hw_ver_id": 434
+  },
+  {
+    "version": "v3.2.0.5754_2512041461",
+    "filename": "RP_WCB8MZ_5754_2512041461",
+    "updated_at": "2025-12-29 14:36:53+08:00",
+    "note": "",
+    "firmware_id": 924,
+    "model": "RP-WCB8MZ",
+    "hw_ver": "IPC_NT17EM118MPB60WB",
+    "changelog": [
+      "1. People and Area Counting supported (configurable in VMS Client).",
+      "2. Intelligent H.265 supported.",
+      "3. Video Deletion feature supported.",
+      "4. Arming rules via web interface supported.",
+      "5. Image quality optimized."
+    ],
+    "display_time": "2025-12-29 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2025/12/29063432c6d81695b716e084.zip",
+    "error": "Buffer size too small (0 instead of at least 88 bytes)",
+    "source": "live",
+    "model_id": 276,
+    "hw_ver_id": 435
+  },
+  {
+    "version": "v3.2.0.5754_2512041460",
+    "filename": "RP_PCB8MZ_5754_2512041460",
+    "updated_at": "2025-12-29 14:33:50+08:00",
+    "note": "",
+    "firmware_id": 923,
+    "model": "RP-PCB8MZ",
+    "hw_ver": "IPC_NT17EM118MPB60B",
+    "changelog": [
+      "1. People and Area Counting supported (configurable in VMS Client).",
+      "2. Intelligent H.265 supported.",
+      "3. Video Deletion feature supported.",
+      "4. Arming rules via web interface supported.",
+      "5. Image quality optimized."
+    ],
+    "display_time": "2025-12-29 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2025/12/2906312986c4c7d9002faf1a.zip",
+    "error": "Buffer size too small (0 instead of at least 88 bytes)",
+    "source": "live",
+    "model_id": 275,
+    "hw_ver_id": 436
+  },
+  {
+    "version": "v3.0.0.5586_2510291786",
+    "filename": "Duo_Series_P730_5586_2510291786",
+    "updated_at": "2025-12-29 15:12:25+08:00",
+    "note": "",
+    "firmware_id": 927,
+    "model": "Duo Series P730",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Connection with third-party platforms enhanced.",
+      "2.Other known bugs resolved."
+    ],
+    "display_time": "2025-12-29 00:00:00+08:00",
+    "sha256_pak": "44c892f66e09d8839039db353910663e59f77dfc98d0f9251b80276ad4f4bfb0",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5586_2510291785",
+    "filename": "Reolink_Duo_2_PoE_5586_2510291785",
+    "updated_at": "2025-12-29 15:11:08+08:00",
+    "note": "",
+    "firmware_id": 926,
+    "model": "Reolink Duo 2 POE",
+    "hw_ver": "IPC_529B17B8MP",
+    "changelog": [
+      "1.Connection with third-party platforms enhanced.",
+      "2.Other known bugs resolved."
+    ],
+    "display_time": "2025-12-29 00:00:00+08:00",
+    "sha256_pak": "097e13d91f0a5d57a4210f8fd49c09a834a31ab8c1ee5b82cae39d75278b11cb",
+    "source": "live"
   }
 ]

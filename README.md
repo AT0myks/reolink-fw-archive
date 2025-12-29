@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 795
+Total: 797
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -690,10 +690,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5586_2510291786](https://home-cdn.reolink.us/wp-content/uploads/2025/12/290711387664ec210e667ea8.zip?download_name=Duo_Series_P730_5586_2510291786.zip) | 2025‑10‑29 | <ol><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.3471_2406115760](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130640271749796827.481.zip?download_name=P730_3471_2406115760.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 
   ### IPC_NT18NA68MP
@@ -3278,10 +3279,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529B17B8MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5586_2510291785](https://home-cdn.reolink.us/wp-content/uploads/2025/12/2907090751be0835040cc322.zip?download_name=Reolink_Duo_2_PoE_5586_2510291785.zip) | 2025‑10‑29 | <ol><li>Connection with third-party platforms enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.0.0.3471_2406115691](https://home-cdn.reolink.us/wp-content/uploads/2024/06/120913361718183616.5288.zip?download_name=Reolink_Duo_2_PoE_3471_2406115691.zip) | 2024‑06‑11 | <ol><li>Add Bitrate Mode function</li><li>Optimize smart detection</li><li>The https function is disabled by default</li><li>Support webhook function on web browser</li><li>Optimize day and night switching effect</li><li>Add audio noise reduction function</li><li>Solve other known bugs</li></ol> | 
 [v3.0.0.1889_23031700](https://home-cdn.reolink.us/wp-content/uploads/2023/03/241045311679654731.5333.zip?download_name=Reolink_Duo_2_PoE_23031700.zip) | 2023‑03‑17 | <ol><li>Optimize stitching effect</li><li>Optimize related network services</li><li>Optimize image effect</li><li>Fix other known bugs</li></ol> | 
 [v3.0.0.1337_22091900](https://home-cdn.reolink.us/wp-content/uploads/2022/09/221016131663841773.7559.zip?download_name=Reolink_Duo_2_POE_220919.zip) | 2022‑09‑19 | <ol><li>Solved the problem of AI probabilistic failure under night vision</li><li>Solved the problem of failure to capture picture by alert email in complex scenarios</li><li>Optimized the search strategy for playback</li><li>Optimized the MD sensitivity under night vision</li><li>Solved the problem that the number of WiFi signals cannot display on Reolink Client when the camera is connected by WiFi</li><li>Solved the problem that there is no pet mark in playback after enabling pet detection</li><li>Optimized the lighting speed of the spotlight under night vision</li></ol> | Note: This firmware will not work with your Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, if you need new firmware of  Reolink Duo Floodlight PoE or Reolink Duo Floodlight WiFi, please contact Reolink support to help.
