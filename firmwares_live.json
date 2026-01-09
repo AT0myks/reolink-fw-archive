@@ -8967,15 +8967,15 @@
   {
     "version": "v3.2.0.5754_2512041464",
     "filename": "RP_PCV8MZ_5754_2512041464",
-    "updated_at": "2025-12-29 14:40:33+08:00",
+    "updated_at": "2026-01-09 17:24:55+08:00",
     "note": "",
     "firmware_id": 925,
     "model": "RP-PCV8MZ",
     "hw_ver": "IPC_NT17EM118MPVD60B",
     "changelog": [
-      "1. People and Area Counting supported (configurable in VMS Client).",
-      "2. Intelligent H.265 supported.",
-      "3. Video Deletion feature supported.",
+      "1. People and Area Counting supported  (configurable in VMS Client - Settings - Smart Applications - People Counting Analysis).",
+      "2. Intelligent H.265+ encoding supported (via NVR).",
+      "3. Video deletion supported (via Reolink App).",
       "4. Arming rules via web interface supported.",
       "5. Image quality optimized."
     ],
@@ -8989,15 +8989,15 @@
   {
     "version": "v3.2.0.5754_2512041461",
     "filename": "RP_WCB8MZ_5754_2512041461",
-    "updated_at": "2025-12-29 14:36:53+08:00",
+    "updated_at": "2026-01-09 17:25:15+08:00",
     "note": "",
     "firmware_id": 924,
     "model": "RP-WCB8MZ",
     "hw_ver": "IPC_NT17EM118MPB60WB",
     "changelog": [
-      "1. People and Area Counting supported (configurable in VMS Client).",
-      "2. Intelligent H.265 supported.",
-      "3. Video Deletion feature supported.",
+      "1. People and Area Counting supported  (configurable in VMS Client - Settings - Smart Applications - People Counting Analysis).",
+      "2. Intelligent H.265+ encoding supported (via NVR).",
+      "3. Video deletion supported (via Reolink App).",
       "4. Arming rules via web interface supported.",
       "5. Image quality optimized."
     ],
@@ -9011,15 +9011,15 @@
   {
     "version": "v3.2.0.5754_2512041460",
     "filename": "RP_PCB8MZ_5754_2512041460",
-    "updated_at": "2025-12-29 14:33:50+08:00",
+    "updated_at": "2026-01-09 17:25:27+08:00",
     "note": "",
     "firmware_id": 923,
     "model": "RP-PCB8MZ",
     "hw_ver": "IPC_NT17EM118MPB60B",
     "changelog": [
-      "1. People and Area Counting supported (configurable in VMS Client).",
-      "2. Intelligent H.265 supported.",
-      "3. Video Deletion feature supported.",
+      "1. People and Area Counting supported  (configurable in VMS Client - Settings - Smart Applications - People Counting Analysis).",
+      "2. Intelligent H.265+ encoding supported (via NVR).",
+      "3. Video deletion supported (via Reolink App).",
       "4. Arming rules via web interface supported.",
       "5. Image quality optimized."
     ],
