@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 797
+Total: 803
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -829,10 +829,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT1NA45MPSD18V2
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5714_2511271356](https://home-cdn.reolink.us/wp-content/uploads/2026/01/120238047eb79cad89c792ad.zip?download_name=E_Series_E331_5714_2511271356.zip) | 2025‑11‑27 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.5352_2509051695](https://home-cdn.reolink.us/wp-content/uploads/2025/11/260731421d0115701ffdeb4c.zip?download_name=E331_5352_2509051695.zip) | 2025‑09‑05 | Known Bugs Fixed | 
 
 </details>
@@ -893,7 +894,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5502_2510231295](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26073938c077cf3d0166b3e4.zip?download_name=E550_5502_2510231295.zip) | 2025‑10‑23 | Known Bugs Fixed | 
+[v3.1.0.5502_2510231295](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26073938c077cf3d0166b3e4.zip?download_name=E550_5502_2510231295.zip)<br />[v3.1.0.5502_2510231295](https://home-cdn.reolink.us/wp-content/uploads/2026/01/12021859c1b9fa25cd8f9cbd.zip?download_name=E550_5502_2510231295.zip) | 2025‑10‑23 | Known Bugs Fixed | 
 
 </details>
 
@@ -995,13 +996,22 @@ Version | Date | Changes | Notes
 
   ### IPC_566SD85MP
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5714_2511271358](https://home-cdn.reolink.us/wp-content/uploads/2026/01/120236214f3867a22f4acb68.zip?download_name=E1_Outdoor_5714_2511271358.zip) | 2025‑11‑27 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4366_2412021482](https://home-cdn.reolink.us/wp-content/uploads/2024/12/250152441735091564.2546.zip?download_name=E1_Outdoor_4366_2412021482.zip) | 2024‑12‑02 | <ol><li>Pan &amp; Tilt performance optimized.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3429_2404181319](https://home-cdn.reolink.us/wp-content/uploads/2024/05/100708301715324910.3385.zip?download_name=E1Outdoor_3429_24041813.zip) | 2024‑04‑18 | 1.Improve version compatibility between cameras | 
 [v3.1.0.2649_23083102](https://home-cdn.reolink.us/wp-content/uploads/2023/10/090316201696821380.1856.zip?download_name=E1Outdoor_v3102649_23083102.zip) | 2023‑08‑31 | <ol><li>Optimize smart detection</li><li>Optimize auto-tracking</li><li>Optimize the network module</li><li>Optimize calibration</li><li>Optimize recording</li><li>Fix some known bugs</li></ol> | 
+
+  ### IPC_NT1NA45MPSD8W
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.5714_2511271352](https://home-cdn.reolink.us/wp-content/uploads/2026/01/12023503db236f052e5cf5e1.zip?download_name=E1_Outdoor_5714_2511271352.zip) | 2025‑11‑27 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -1073,7 +1083,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.1.0.5502_2510231294](https://home-cdn.reolink.us/wp-content/uploads/2025/12/170201293939dc7f572434b8.zip?download_name=E1_Outdoor_S_5502_2510231294.zip) | 2025‑10‑23 | Known Bugs Fixed | 
+[v3.1.0.5502_2510231294](https://home-cdn.reolink.us/wp-content/uploads/2025/12/170201293939dc7f572434b8.zip?download_name=E1_Outdoor_S_5502_2510231294.zip)<br />[v3.1.0.5502_2510231294](https://home-cdn.reolink.us/wp-content/uploads/2026/01/120217120ff00ba756411d2e.zip?download_name=E1_Outdoor_S_5502_2510231294.zip) | 2025‑10‑23 | Known Bugs Fixed | 
 
 </details>
 
@@ -2772,10 +2782,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5714_25112708](https://home-cdn.reolink.us/wp-content/uploads/2026/01/12022728b4c00b1bcece7ba0.zip?download_name=RLC_823S1_5714_25112708.zip) | 2025‑11‑27 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4885_25051904](https://home-cdn.reolink.us/wp-content/uploads/2025/06/170657421750143462.9397.zip?download_name=RLC_823S1_4885_25051904.zip) | 2025‑05‑19 | <ol><li>Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.</li><li>H.265/H.264 switching supported.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li></ol> | 
 [v3.1.0.4366_24121214](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030157501735869470.483.zip?download_name=RLC_823S1_v310436624121214_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3688_24081510](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235531723811753.4232.zip?download_name=RLC_823S1_3688_24081510.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
@@ -2791,10 +2802,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5714_25112710](https://home-cdn.reolink.us/wp-content/uploads/2026/01/12023050b71856bd5ce0e6c3.zip?download_name=RLC_823S1W_5714_25112710.zip) | 2025‑11‑27 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4885_25051906](https://home-cdn.reolink.us/wp-content/uploads/2025/06/170700511750143651.9977.zip?download_name=RLC_823S1W_4885_25051906.zip) | 2025‑05‑19 | <ol><li>Tracking performance optimized by resolving occasional over-tracking and tracking failure during patrol pauses.</li><li>H.265/H.264 switching supported.</li><li>Cloud storage supported (Actural service provided depends on the subscription plan).</li></ol> | 
 [v3.1.0.4366_24121216](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030159161735869556.2615.zip?download_name=RLC_823S1W_v310436624121216_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3688_24081512](https://home-cdn.reolink.us/wp-content/uploads/2024/08/161235191723811719.669.zip?download_name=RLC_823S1W_3688_24081512.zip) | 2024‑08‑15 | <ol><li>Resolve hidden OSD time, adjust device name to middle-upper, and restore default settings to fix OSD time not displaying issue.</li><li>Regular users do not have permission to modify system configurations or change WiFi settings.</li><li>Address abnormality in clip function.</li><li>Default support for authenticated device private keys.</li><li>Resolve issue of encoding frame rate reduction.</li><li>Modify default image orientation.</li><li>Resolve ineffectiveness of anti-flicker settings.</li><li>Fix issue of plaintext password printing when adding users.</li></ol> | 
@@ -2810,10 +2822,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPSD12
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5714_25112712](https://home-cdn.reolink.us/wp-content/uploads/2026/01/1202324455aaf795c845e112.zip?download_name=RLC_823S2_5714_25112712.zip) | 2025‑11‑27 | <ol><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4885_25051308](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150643571755240237.2774.zip?download_name=RLC_823S2_4885_25051308.zip) | 2025‑05‑13 | <ol><li>H.264/H.265 switching supported.</li><li>Tracking performance optimized.</li><li>Web version updated.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4366_24121218](https://home-cdn.reolink.us/wp-content/uploads/2025/01/030202061735869726.9768.zip?download_name=RLC_823S2_v310436624121218_IPC_NT2NA48MPSD12.zip) | 2024‑12‑12 | <ol><li>Tracking added in patrol mode.</li><li>Surveillance settings added in patrol mode.</li><li>Audio noise reduction configuration enabled.</li><li>Focusing speed improved.</li><li>RED certification integrated.</li></ol> | 
 [v3.1.0.3795_24081508](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190719511724051991.4724.zip?download_name=RLC_823S2_3795_24081508.zip) | 2024‑08‑15 | <ol><li>Optimize smart detection</li><li>Improve image effect</li><li>Enhance Auto Focus</li><li>Optimize network performance</li><li>Fix other known bugs</li></ol> | 

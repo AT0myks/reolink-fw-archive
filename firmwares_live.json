@@ -9061,5 +9061,131 @@
     "display_time": "2025-12-29 00:00:00+08:00",
     "sha256_pak": "097e13d91f0a5d57a4210f8fd49c09a834a31ab8c1ee5b82cae39d75278b11cb",
     "source": "live"
+  },
+  {
+    "version": "v3.1.0.5502_2510231294",
+    "filename": "E1_Outdoor_S_5502_2510231294",
+    "updated_at": "2026-01-12 10:18:16+08:00",
+    "note": "",
+    "firmware_id": 931,
+    "model": "E1 Outdoor S",
+    "hw_ver": "IPC_NT2NA48MPSD8V3",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "dfbdbba110d0ab2fa4bca89365a619417e2f838399c7a793a5b8f9a58b4d65f3",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5502_2510231295",
+    "filename": "E_Series_E550_5502_2510231295",
+    "updated_at": "2026-01-12 10:19:37+08:00",
+    "note": "",
+    "firmware_id": 932,
+    "model": "E Series E550",
+    "hw_ver": "IPC_NT2NA48MPSD8V3",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "1a2eda1d0959c3e5ffe8f55a45f454b707bd6da1c9dd825ead81b1e83eadca59",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5714_2511271356",
+    "filename": "E_Series_E331_5714_2511271356",
+    "updated_at": "2026-01-12 10:38:43+08:00",
+    "note": "",
+    "firmware_id": 938,
+    "model": "E Series E331",
+    "hw_ver": "IPC_NT1NA45MPSD18V2",
+    "changelog": [
+      "1.  Cloud storage supported (actual service provided depends on the subscription plan).",
+      "2.  Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "15fad055e40efc1274e32250ba9c1b1ee127c1f2329e815590d5b5a8e5a5cf09",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5714_25112710_v1.0.0.159",
+    "filename": "RLC_823S1W_5714_25112710",
+    "updated_at": "2026-01-12 10:31:25+08:00",
+    "note": "",
+    "firmware_id": 934,
+    "model": "RLC-823S1W",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1.  Cloud storage supported (actual service provided depends on the subscription plan).",
+      "2.  Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "82432ea27aa08c6c4452c5c8d7974b7754302318c5d81f9c1531e9298120b383",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5714_25112708_v1.0.0.159",
+    "filename": "RLC_823S1_5714_25112708",
+    "updated_at": "2026-01-12 10:30:01+08:00",
+    "note": "",
+    "firmware_id": 933,
+    "model": "RLC-823S1",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1.  Cloud storage supported (actual service provided depends on the subscription plan).",
+      "2.  Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "95f92e8232bc52783f88076e5f629e7d006835eaac39c3236e0d2b085d0fc3a2",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5714_25112712_v1.0.0.159",
+    "filename": "RLC_823S2_5714_25112712",
+    "updated_at": "2026-01-12 10:33:27+08:00",
+    "note": "",
+    "firmware_id": 935,
+    "model": "RLC-823S2",
+    "hw_ver": "IPC_NT2NA48MPSD12",
+    "changelog": [
+      "1.  Cloud storage supported (actual service provided depends on the subscription plan).",
+      "2.  Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "af05fc397470f7627b5348dcfa2250ed2671e88862e20d453c1bead3a79a9fdd",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5714_2511271352",
+    "filename": "E1_Outdoor_5714_2511271352",
+    "updated_at": "2026-01-12 10:35:41+08:00",
+    "note": "",
+    "firmware_id": 936,
+    "model": "E1 Outdoor",
+    "hw_ver": "IPC_NT1NA45MPSD8W",
+    "changelog": [
+      "1.  Cloud storage supported (actual service provided depends on the subscription plan).",
+      "2.  Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "28ee43be2b864dde7b235e7743cea753e55e4ff6685765467772bcced3e9d9fe",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5714_2511271358",
+    "filename": "E1_Outdoor_5714_2511271358",
+    "updated_at": "2026-01-12 10:36:57+08:00",
+    "note": "",
+    "firmware_id": 937,
+    "model": "E1 Outdoor",
+    "hw_ver": "IPC_566SD85MP",
+    "changelog": [
+      "1.  Cloud storage supported (actual service provided depends on the subscription plan).",
+      "2.  Other known bugs resolved."
+    ],
+    "display_time": "2026-01-12 00:00:00+08:00",
+    "sha256_pak": "4e1bd5476705f7727574cb074367cb541cfa4b226aabb7f11f0b7b3ec4cde712",
+    "source": "live"
   }
 ]
