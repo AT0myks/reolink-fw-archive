@@ -2997,5 +2997,35 @@
         "title": "IPC_NT2NA48MP"
       }
     ]
+  },
+  {
+    "id": 299,
+    "title": "RP-PCT8M",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 464,
+        "title": "IPC_NT2NA48MPB"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "title": "RP-PCB8M",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 465,
+        "title": "IPC_NT2NA48MPB"
+      }
+    ]
   }
 ]

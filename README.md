@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 803
+Total: 807
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -432,10 +432,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPB28
 
-Firmwares for this hardware version: 3
+Firmwares for this hardware version: 4
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5129_2510222154](https://home-cdn.reolink.us/wp-content/uploads/2026/01/16100040c2d9ac0abccad9e6.zip?download_name=CX810_5129_2510222154.zip) | 2025‑10‑22 | 1. White light alarm setting issues fixed. | 
 [v3.1.0.5129_2507172222](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150645501755240350.6254.zip?download_name=CX810_5129_2507172222.zip) | 2025‑07‑17 | <ol><li>Perimeter Protection added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.4666_2503072060](https://home-cdn.reolink.us/wp-content/uploads/2025/04/180157251744941445.7933.zip?download_name=CX810_4666_2503072060.zip) | 2025‑03‑07 | <ol><li>HDR feature toggle added.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.1.0.3909_2408064516](https://home-cdn.reolink.us/wp-content/uploads/2024/08/071205031723032303.9511.zip?download_name=CX810_3909_2408064516.zip) | 2024‑08‑06 | <ol><li>Add audio noise reduction function</li><li>Add binning mode function</li><li>Optimize image effects</li><li>Solve other known BUGs</li></ol> | 
@@ -460,10 +461,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPB28
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5129_2510222155](https://home-cdn.reolink.us/wp-content/uploads/2026/01/1610014153732e8102144657.zip?download_name=ColorX_Series_P330X_5129_2510222155.zip) | 2025‑10‑22 | 1. White light alarm setting issues fixed. | 
 [v3.1.0.5129_2507172223](https://home-cdn.reolink.us/wp-content/uploads/2025/08/150647231755240443.3133.zip?download_name=ColorX_Series_P330X_5129_2507172223.zip) | 2025‑07‑17 | <ol><li>Perimeter Protection added.</li><li>Cloud storage supported (Actural service depends on the subscription plan).</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
@@ -3254,6 +3256,32 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.6.3.422_25090248](https://home-cdn.reolink.us/wp-content/uploads/2025/10/090815509f5f82389ed0378c.zip?download_name=RLN8_v363422_25090248_NVR_NNT3NA78P.zip) | 2025‑09‑02 | <ol><li>Added language support for Turkish, Ukrainian, Croatian, Czech, Romanian, Slovenian, Bulgarian, Lithuanian, Norwegian, Finnish, Swedish, and Arabic.</li><li>AI Video Search interaction improved: category selection removed, keyword suggestions added, and keyframe areas displayed on playback page.</li><li>Top bar added for quick switching between main features.</li><li>Light Alarm feature added for Elite Floodlight WiFi, Floodlight Series F751W, Elite Pro Floodlight PoE, and Floodlight Series F760P.</li><li>Out-of-View Detection feature added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, and Floodlight Series F850P.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.6.2.385_25061848](https://home-cdn.reolink.us/wp-content/uploads/2025/06/250253521750820032.6279.zip?download_name=RLN8_410_v362385_25061848_NVR_NNT3NA78P.zip) | 2025‑06‑18 | <ol><li>Parameter settings for smart features adjusted.</li><li>New AI categories added for push notifications.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>RP-PCB8M</summary>
+
+  ### IPC_NT2NA48MPB
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4943_2510232913](https://home-cdn.reolink.us/wp-content/uploads/2026/01/1610045533b3efb05454e6f3.zip?download_name=RP_PCB8M_4943_2510232913.zip) | 2025‑10‑23 | 1. White light alarm setting issues fixed. | 
+
+</details>
+
+<details>
+  <summary>RP-PCT8M</summary>
+
+  ### IPC_NT2NA48MPB
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.1.0.4943_2510233027](https://home-cdn.reolink.us/wp-content/uploads/2026/01/161004065b7abb69c7dd81bd.zip?download_name=RP_PCT8M_4943_2510233027.zip) | 2025‑10‑23 | 1. White light alarm setting issues fixed. | 
 
 </details>
 
