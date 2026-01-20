@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 807
+Total: 813
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -743,11 +743,25 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA616MP
 
+Firmwares for this hardware version: 2
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5770_2512231307](https://home-cdn.reolink.us/wp-content/uploads/2026/01/20040825f49f5119f6427244.zip?download_name=Duo_Series_P750_5770_2512231307.zip) | 2025‑12‑23 | <ol><li>Image stitching effect optimized</li><li>Other known bugs resolved.</li></ol> | 
+[v3.2.0.4989_2509111448](https://home-cdn.reolink.us/wp-content/uploads/2025/09/2902292773780350bd82fb46.zip?download_name=Duo_Series_P750_2509111448.zip) | 2025‑09‑11 | System Bugs Fixed | 
+
+</details>
+
+<details>
+  <summary>Duo Series P757</summary>
+
+  ### IPC_NT17NA616MP
+
 Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.4989_2509111448](https://home-cdn.reolink.us/wp-content/uploads/2025/09/2902292773780350bd82fb46.zip?download_name=Duo_Series_P750_2509111448.zip) | 2025‑09‑11 | System Bugs Fixed | 
+[v3.2.0.5770_2512231311](https://home-cdn.reolink.us/wp-content/uploads/2026/01/200415294b373dd916095b8d.zip?download_name=Duo_Series_P757_5770_2512231311.zip) | 2025‑12‑23 | <ol><li>Image stitching effect optimized</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -777,10 +791,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA616MPW
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.5770_2512231309](https://home-cdn.reolink.us/wp-content/uploads/2026/01/2004112297881bfe2c9d7c1d.zip?download_name=Duo_Series_W750_5770_2512231309.zip) | 2025‑12‑23 | <ol><li>Image stitching effect optimized</li><li>Other known bugs resolved.</li></ol> | 
 [v3.2.0.4989_2509111450](https://home-cdn.reolink.us/wp-content/uploads/2025/09/29023011b584f6cb47c2e4b7.zip?download_name=Duo_Series_W750_2509111450.zip) | 2025‑09‑11 | System Bugs Fixed | 
 
 </details>
@@ -3408,10 +3423,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA616MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.5770_2512231306](https://home-cdn.reolink.us/wp-content/uploads/2026/01/20035809b08b39fc296eab7c.zip?download_name=Reolink_Duo_3_PoE_5770_2512231306.zip) | 2025‑12‑23 | <ol><li>Image stitching effect optimized</li><li>Other known bugs resolved.</li></ol> | 
 [v3.2.0.4989_2509111447](https://home-cdn.reolink.us/wp-content/uploads/2025/09/29022700d6ae05199ca5c669.zip?download_name=Reolink_Duo_3_PoE_2509111447.zip) | 2025‑09‑11 | System Bugs Fixed | 
 
 </details>
@@ -3431,10 +3447,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA616MPW
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.5770_2512231308](https://home-cdn.reolink.us/wp-content/uploads/2026/01/200402483671e7c5a1a362a5.zip?download_name=Reolink_Duo_3_WiFi_5770_2512231308.zip) | 2025‑12‑23 | <ol><li>Image stitching effect optimized</li><li>Other known bugs resolved.</li></ol> | 
 [v3.2.0.4989_2509111449](https://home-cdn.reolink.us/wp-content/uploads/2025/09/290227561d7e1a4503ccde53.zip?download_name=Reolink_Duo_3_WiFi_2509111449.zip) | 2025‑09‑11 | System Bugs Fixed | 
 
 </details>
@@ -3455,10 +3472,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA616MP
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.5770_2512231310](https://home-cdn.reolink.us/wp-content/uploads/2026/01/20040528a81296b9d4cc056c.zip?download_name=Reolink_Duo_3V_PoE_5770_2512231310.zip) | 2025‑12‑23 | <ol><li>Image stitching effect optimized</li><li>Other known bugs resolved.</li></ol> | 
 [v3.2.0.5119_2509111475](https://home-cdn.reolink.us/wp-content/uploads/2025/09/29022842725f4ef50bdd5fad.zip?download_name=Reolink_Duo_3V_PoE_2509111475.zip) | 2025‑09‑11 | System Bugs Fixed | 
 
 </details>
