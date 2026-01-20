@@ -3042,5 +3042,35 @@
         "title": "IPC_NT17NA616MP"
       }
     ]
+  },
+  {
+    "id": 302,
+    "title": "P347",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 467,
+        "title": "IPC_NT18NA612MPD11"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "title": "RLC-1240A",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 468,
+        "title": "IPC_NT18NA612MPD11"
+      }
+    ]
   }
 ]

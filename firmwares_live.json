@@ -9343,5 +9343,56 @@
     "display_time": "2026-01-20 00:00:00+08:00",
     "sha256_pak": "20286c8d06e898d3d80759d0af09002875bf1151a204f01d4b721386d4c7a46e",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.5758_2512031765",
+    "filename": "P347_5758_2512031765",
+    "updated_at": "2026-01-20 18:08:34+08:00",
+    "note": "",
+    "firmware_id": 949,
+    "model": "P347",
+    "hw_ver": "IPC_NT18NA612MPD11",
+    "changelog": [
+      "1. Video deletion supported (via Reolink App).",
+      "2.Other known bugs resolved."
+    ],
+    "display_time": "2026-01-20 00:00:00+08:00",
+    "sha256_pak": "8580f98c9929cb6153bd24c2b0983c234a89188ec0e3a923fab5a5247332848f",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5758_2512031764",
+    "filename": "RLC_1240A_5758_2512031764",
+    "updated_at": "2026-01-20 18:11:21+08:00",
+    "note": "",
+    "firmware_id": 950,
+    "model": "RLC-1240A",
+    "hw_ver": "IPC_NT18NA612MPD11",
+    "changelog": [
+      "1. Video deletion supported (via Reolink App).",
+      "2.Other known bugs resolved."
+    ],
+    "display_time": "2026-01-20 00:00:00+08:00",
+    "sha256_pak": "64e4c757aca573d320253ad95e8961312cd15423076c4cc621c4d6e1698a8e07",
+    "source": "live"
+  },
+  {
+    "version": "v3.1.0.5764_2512171966",
+    "filename": "RLC_810A_5764_2512171966",
+    "updated_at": "2026-01-20 18:15:34+08:00",
+    "note": "",
+    "firmware_id": 951,
+    "model": "RLC-810A",
+    "hw_ver": "IPC_56064M8MP",
+    "changelog": [
+      "1. Smart Event Detection and Perimeter Protection supported.",
+      "2.Video Deletion supported.",
+      "3.Rich Notifications supported.",
+      "4.File Encryption feature added.",
+      "5.Other known bugs resolved."
+    ],
+    "display_time": "2026-01-20 00:00:00+08:00",
+    "sha256_pak": "3cec7dbb1e654e14c5e9977985c022b1bc1a901e783492f2c07e523fb21f0687",
+    "source": "live"
   }
 ]

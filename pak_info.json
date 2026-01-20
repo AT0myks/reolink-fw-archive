@@ -28346,5 +28346,113 @@
     ],
     "model_id": 200,
     "hw_ver_id": 420
+  },
+  "8580f98c9929cb6153bd24c2b0983c234a89188ec0e3a923fab5a5247332848f": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA612MPD11",
+      "board_name": "IPC_NT18NA612MPD11",
+      "build_date": "251203",
+      "display_type_info": "P347",
+      "detail_machine_type": "IPC_NT18NA612MPD11",
+      "type": "IPC",
+      "version_file": "5758_2512031765",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Oct 22 2025 - 13:01:56 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (loumy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Tue Oct 21 11:12:05 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/01/201006553666af9706a6fafe.zip"
+    ],
+    "model_id": 302,
+    "hw_ver_id": 467
+  },
+  "64e4c757aca573d320253ad95e8961312cd15423076c4cc621c4d6e1698a8e07": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA612MPD11",
+      "board_name": "IPC_NT18NA612MPD11",
+      "build_date": "251203",
+      "display_type_info": "RLC-1240A",
+      "detail_machine_type": "IPC_NT18NA612MPD11",
+      "type": "IPC",
+      "version_file": "5758_2512031764",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Oct 22 2025 - 13:01:56 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (loumy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Tue Oct 21 11:12:05 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/01/20100859700b270b5f2fde76.zip"
+    ],
+    "model_id": 301,
+    "hw_ver_id": 468
+  },
+  "3cec7dbb1e654e14c5e9977985c022b1bc1a901e783492f2c07e523fb21f0687": {
+    "info": {
+      "firmware_version_prefix": "v3.1.0",
+      "board_type": "IPC_56064M8MP",
+      "board_name": "IPC_56064M8MP",
+      "build_date": "251217",
+      "display_type_info": "RLC-810A",
+      "detail_machine_type": "IPC_56064M8MP",
+      "type": "IPC",
+      "version_file": "5764_2512171966",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 12 2025 - 11:59:05 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Tue Feb 11 21:49:09 CST 2025",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/01/20101346606991b3a8d8bf90.zip"
+    ],
+    "model_id": 9,
+    "hw_ver_id": 309
   }
 }
