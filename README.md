@@ -705,7 +705,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.5467_2510141198](https://home-cdn.reolink.us/wp-content/uploads/2025/11/170344023a589bd0103460f1.zip?download_name=Duo_Series_P730_5467_2510141198.zip) | 2025‑10‑14 | 1. Other known bugs resolved. | 
+[v3.2.0.5467_2510141198](https://home-cdn.reolink.us/wp-content/uploads/2025/11/170344023a589bd0103460f1.zip?download_name=Duo_Series_P730_5467_2510141198.zip) | 2025‑10‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -718,7 +718,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.5467_2510141200](https://home-cdn.reolink.us/wp-content/uploads/2025/11/170339381167331165518d02.zip?download_name=Duo_Series_P737_5467_2510141200.zip) | 2025‑10‑14 | 1. Other known bugs resolved. | 
+[v3.2.0.5467_2510141200](https://home-cdn.reolink.us/wp-content/uploads/2025/11/170339381167331165518d02.zip?download_name=Duo_Series_P737_5467_2510141200.zip) | 2025‑10‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -782,7 +782,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.5467_2510141214](https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033449c792bf3391a596c0.zip?download_name=Duo_Series_W730_5467_2510141214.zip) | 2025‑10‑14 | 1. Other known bugs resolved. | 
+[v3.2.0.5467_2510141214](https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033449c792bf3391a596c0.zip?download_name=Duo_Series_W730_5467_2510141214.zip) | 2025‑10‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -3377,7 +3377,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.5467_2510141197](https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033311fe0f1e8ba6793716.zip?download_name=Reolink_Duo_2_PoE_5467_2510141197.zip) | 2025‑10‑14 | 1. Other known bugs resolved. | 
+[v3.2.0.5467_2510141197](https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033311fe0f1e8ba6793716.zip?download_name=Reolink_Duo_2_PoE_5467_2510141197.zip) | 2025‑10‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -3406,7 +3406,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.5467_2510141213](https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033712fa67c1555cc96c71.zip?download_name=Reolink_Duo_2_WiFi_5467_2510141213.zip) | 2025‑10‑14 | 1. Other known bugs resolved. | 
+[v3.2.0.5467_2510141213](https://home-cdn.reolink.us/wp-content/uploads/2025/11/17033712fa67c1555cc96c71.zip?download_name=Reolink_Duo_2_WiFi_5467_2510141213.zip) | 2025‑10‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -3419,7 +3419,7 @@ Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.5467_2510141199](https://home-cdn.reolink.us/wp-content/uploads/2025/11/1703414191d33328b4e0aabf.zip?download_name=Reolink_Duo_2V_PoE_5467_2510141199.zip) | 2025‑10‑14 | 1. Other known bugs resolved. | 
+[v3.2.0.5467_2510141199](https://home-cdn.reolink.us/wp-content/uploads/2025/11/1703414191d33328b4e0aabf.zip?download_name=Reolink_Duo_2V_PoE_5467_2510141199.zip) | 2025‑10‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
