@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 817
+Total: 819
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -3314,10 +3314,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPB
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5994_2601301345](https://home-cdn.reolink.us/wp-content/uploads/2026/02/2508413169ee9a7a089f60be.zip?download_name=RP_PCB8M_5994_2601301345.zip) | 2026‑01‑30 | 1.Image quality optimized. | 
 [v3.1.0.4943_2510232913](https://home-cdn.reolink.us/wp-content/uploads/2026/01/1610045533b3efb05454e6f3.zip?download_name=RP_PCB8M_4943_2510232913.zip) | 2025‑10‑23 | 1. White light alarm setting issues fixed. | 
 
 </details>
@@ -3327,10 +3328,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT2NA48MPB
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.1.0.5994_2601301346](https://home-cdn.reolink.us/wp-content/uploads/2026/02/25084242d12e607e43df4251.zip?download_name=RP_PCT8M_5994_2601301346.zip) | 2026‑01‑30 | 1.Image quality optimized. | 
 [v3.1.0.4943_2510233027](https://home-cdn.reolink.us/wp-content/uploads/2026/01/161004065b7abb69c7dd81bd.zip?download_name=RP_PCT8M_4943_2510233027.zip) | 2025‑10‑23 | 1. White light alarm setting issues fixed. | 
 
 </details>
