@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 819
+Total: 821
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -3324,6 +3324,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>RP-PCT16MD</summary>
+
+  ### IPC_NT17NA616MPB
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5770_2512231313](https://home-cdn.reolink.us/wp-content/uploads/2026/02/280227023563f67a03eb5d73.zip?download_name=RP_PCT16MD_5770_2512231313.zip) | 2025‑12‑23 | <ol><li>Intelligent H.265+ encoding supported (via NVR).</li><li>Video deletion supported (via Reolink App).</li></ol> | 
+
+</details>
+
+<details>
   <summary>RP-PCT8M</summary>
 
   ### IPC_NT2NA48MPB
@@ -3334,6 +3347,19 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.1.0.5994_2601301346](https://home-cdn.reolink.us/wp-content/uploads/2026/02/25084242d12e607e43df4251.zip?download_name=RP_PCT8M_5994_2601301346.zip) | 2026‑01‑30 | 1.Image quality optimized. | 
 [v3.1.0.4943_2510233027](https://home-cdn.reolink.us/wp-content/uploads/2026/01/161004065b7abb69c7dd81bd.zip?download_name=RP_PCT8M_4943_2510233027.zip) | 2025‑10‑23 | 1. White light alarm setting issues fixed. | 
+
+</details>
+
+<details>
+  <summary>RP-PCT8MD</summary>
+
+  ### IPC_NT17NA68MPB
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5770_2512231312](https://home-cdn.reolink.us/wp-content/uploads/2026/02/28022504fa015a88e84c8c46.zip?download_name=RP_PCT8MD_5770_2512231312.zip) | 2025‑12‑23 | <ol><li>Intelligent H.265+ encoding supported (via NVR).</li><li>Video deletion supported (via Reolink App).</li></ol> | 
 
 </details>
 

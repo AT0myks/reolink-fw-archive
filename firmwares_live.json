@@ -9446,5 +9446,37 @@
     "display_time": "2026-02-25 00:00:00+08:00",
     "sha256_pak": "a35cbce36b8d4ad79875a658ebe45b546e7a568f24695bd3d94e4249e115f8ab",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.5770_2512231313",
+    "filename": "RP_PCT16MD_5770_2512231313",
+    "updated_at": "2026-02-28 10:29:39+08:00",
+    "note": "",
+    "firmware_id": 965,
+    "model": "RP-PCT16MD",
+    "hw_ver": "IPC_NT17NA616MPB",
+    "changelog": [
+      "1. Intelligent H.265+ encoding supported (via NVR).",
+      "2. Video deletion supported (via Reolink App)."
+    ],
+    "display_time": "2026-02-28 00:00:00+08:00",
+    "sha256_pak": "7f0f4a928e4528d7d722b253f438245edf1894641d06411b37d44d3e3aec63bc",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5770_2512231312",
+    "filename": "RP_PCT8MD_5770_2512231312",
+    "updated_at": "2026-02-28 10:26:33+08:00",
+    "note": "",
+    "firmware_id": 964,
+    "model": "RP-PCT8MD",
+    "hw_ver": "IPC_NT17NA68MPB",
+    "changelog": [
+      "1. Intelligent H.265+ encoding supported (via NVR).",
+      "2. Video deletion supported (via Reolink App)."
+    ],
+    "display_time": "2026-02-28 00:00:00+08:00",
+    "sha256_pak": "b83585941a39fa86f39768614ab78b60d53f4397631d50e77449d16e49b20040",
+    "source": "live"
   }
 ]

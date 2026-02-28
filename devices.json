@@ -3076,5 +3076,35 @@
         "title": "IPC_NT18NA612MPD11"
       }
     ]
+  },
+  {
+    "id": 304,
+    "title": "RP-PCT16MD",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 471,
+        "title": "IPC_NT17NA616MPB"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "title": "RP-PCT8MD",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 470,
+        "title": "IPC_NT17NA68MPB"
+      }
+    ]
   }
 ]
