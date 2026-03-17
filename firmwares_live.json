@@ -9478,5 +9478,34 @@
     "display_time": "2026-02-28 00:00:00+08:00",
     "sha256_pak": "b83585941a39fa86f39768614ab78b60d53f4397631d50e77449d16e49b20040",
     "source": "live"
+  },
+  {
+    "version": "v3.3.0.441_26022722",
+    "filename": "Hub_1_LiteBASE_FH3NA4441_26022722",
+    "updated_at": "2026-03-17 10:09:51+08:00",
+    "note": "",
+    "firmware_id": 967,
+    "model": "Hub 1 Lite",
+    "hw_ver": "BASE_FH3NA4",
+    "changelog": [],
+    "display_time": "2026-03-17 00:00:00+08:00",
+    "sha256_pak": "d7422c83192f48eb2397b397325d798c411a6787e60cfa6aab6713e6dd727b51",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.441_26022721",
+    "filename": "FH6326_HBBASE_FH3NA48IPREOLINK441_26022721",
+    "updated_at": "2026-03-17 09:56:55+08:00",
+    "note": "",
+    "firmware_id": 966,
+    "model": "Reolink Home Hub Mini",
+    "hw_ver": "BASE_FH3NA4",
+    "changelog": [],
+    "display_time": "2026-03-17 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2026/03/170156268a9d0874871e218e.zip",
+    "error": "HTTP error 504",
+    "source": "live",
+    "model_id": 305,
+    "hw_ver_id": 472
   }
 ]

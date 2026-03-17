@@ -28634,5 +28634,41 @@
     ],
     "model_id": 303,
     "hw_ver_id": 470
+  },
+  "d7422c83192f48eb2397b397325d798c411a6787e60cfa6aab6713e6dd727b51": {
+    "info": {
+      "firmware_version_prefix": "v3.3.0",
+      "board_type": "BASE_FH3NA4",
+      "board_name": "BASE_FH3NA4",
+      "build_date": "260227",
+      "display_type_info": "Hub 1 Lite",
+      "detail_machine_type": "Reolink_Home_Hub_Mini",
+      "type": "HOMEHUB",
+      "version_file": "441_26022722",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.9.129",
+      "uboot_version": "U-Boot 2016.11 (Jan 12 2026 - 12:14:15 +0800)",
+      "uboot_compiler": "arm-fhv512c-linux-uclibcgnueabihf-gcc (arm_fhv512c-uclibc-ng_20240819) 6.5.0",
+      "uboot_linker": "GNU ld (arm_fhv512c-uclibc-ng_20240819) 2.40",
+      "linux_banner": "Linux version 4.9.129 (xyy@ubuntu) (gcc version 6.5.0 (arm_fhv512c-uclibc-ng_20240819) ) #1 Sat Sep 20 18:35:36 CST 2025",
+      "board": null,
+      "board_vendor": null,
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/03/170157218132752ee136db77.zip"
+    ],
+    "model_id": 306,
+    "hw_ver_id": 473
   }
 }

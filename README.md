@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 821
+Total: 822
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1386,6 +1386,21 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.3.0.387_25041745](https://home-cdn.reolink.us/wp-content/uploads/2025/04/280945431745833543.8374.zip?download_name=Hub_1BASE_WUNNT6NA5387_25041745U.zip) | 2025‑04‑17 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Hub 1 Lite (NVR)</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Home+Hub+Mini/product.png" width="150">
+
+  ### BASE_FH3NA4
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.3.0.441_26022722](https://home-cdn.reolink.us/wp-content/uploads/2026/03/170157218132752ee136db77.zip?download_name=Hub_1_LiteBASE_FH3NA4441_26022722.zip) | 2026‑02‑27 |  | 
 
 </details>
 

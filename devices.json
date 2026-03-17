@@ -3106,5 +3106,35 @@
         "title": "IPC_NT17NA68MPB"
       }
     ]
+  },
+  {
+    "id": 306,
+    "title": "Hub 1 Lite",
+    "type": "NVR",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Home+Hub+Mini/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 473,
+        "title": "BASE_FH3NA4"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "title": "Reolink Home Hub Mini",
+    "type": "NVR",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Home+Hub+Mini/product.png",
+    "productUrl": "https://reolink.com/product/reolink-video-doorell-battery-hub-mini-kit/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 472,
+        "title": "BASE_FH3NA4"
+      }
+    ]
   }
 ]
