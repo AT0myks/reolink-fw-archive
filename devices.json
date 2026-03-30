@@ -3144,5 +3144,20 @@
         "title": "BASE_FH3NA4"
       }
     ]
+  },
+  {
+    "id": 307,
+    "title": "TrackFlex Floodlight WiFi",
+    "type": "IPC",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/TrackFlex+Floodlight+WiFi/product.png",
+    "productUrl": "https://reolink.com/product/trackflex-floodlight-wifi/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 476,
+        "title": "IPC_NT18NA68MPW"
+      }
+    ]
   }
 ]

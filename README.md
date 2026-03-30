@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 833
+Total: 834
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -3930,6 +3930,23 @@ Version | Date | Changes | Notes
 [v3.0.0.4662_2503122283](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240402331742788953.4429.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30046622503122283_DB_566128M5MP_W_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111127](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181044141729248254.7736.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30041102410111127_DB_566128M5MP_W_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
 [v3.0.0.3308_2408051175](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190848211724057301.9162.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30033082408051175_DB_566128M5MP_W_W.zip) | 2024‑08‑05 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Fix other known bugs</li><li>Without Halloween festival reply audio.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>TrackFlex Floodlight WiFi</summary>
+
+<img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/TrackFlex+Floodlight+WiFi/product.png" width="150">
+
+[Product page](https://reolink.com/product/trackflex-floodlight-wifi/)
+
+  ### IPC_NT18NA68MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5946_2601301195](https://home-cdn.reolink.us/wp-content/uploads/2026/03/30040948b5c72e44ca63efcf.zip?download_name=TrackFlex_Floodlight_WiFi_5946_2601301195.zip) | 2026‑01‑30 | <ol><li>Optimized image clarity in specific scenarios.</li><li>Solve other known bugs</li></ol> | 
 
 </details>
 
