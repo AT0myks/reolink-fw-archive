@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 834
+Total: 837
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1365,6 +1365,32 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.2.0.5607_2511041997](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26073426a63f40163686eda8.zip?download_name=Floodlight_Series_F751W_5607_2511041997IPC_NT15NA68MPW.zip) | 2025‑11‑04 | <ol><li>Added video deletion feature.</li><li>Optimized light activation speed.</li><li>Improved the timing for turning on lights at dusk.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Floodlight-Series-F850P</summary>
+
+  ### IPC_NT18NA68MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5943_2601303291](https://home-cdn.reolink.us/wp-content/uploads/2026/03/301127286abbac3d296b9d3c.zip?download_name=Floodlight_Series_F850P_5943_2601303291.zip) | 2026‑01‑30 | <ol><li>Optimized image clarity in specific scenarios.</li><li>Solve other known bugs</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Floodlight-Series-F850W</summary>
+
+  ### IPC_NT18NA68MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5946_2601302019](https://home-cdn.reolink.us/wp-content/uploads/2026/03/30112007c921039049f485a7.zip?download_name=Floodlight_Series_F850W_5946_2601302019.zip) | 2026‑01‑30 | <ol><li>Optimized image clarity in specific scenarios.</li><li>Solve other known bugs</li></ol> | 
 
 </details>
 
@@ -3930,6 +3956,19 @@ Version | Date | Changes | Notes
 [v3.0.0.4662_2503122283](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240402331742788953.4429.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30046622503122283_DB_566128M5MP_W_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111127](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181044141729248254.7736.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30041102410111127_DB_566128M5MP_W_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
 [v3.0.0.3308_2408051175](https://home-cdn.reolink.us/wp-content/uploads/2024/08/190848211724057301.9162.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30033082408051175_DB_566128M5MP_W_W.zip) | 2024‑08‑05 | <ol><li>Add support for ONVIF audio-related commands.</li><li>Improve compatibility with Chime and Doorbell cameras.</li><li>Fix other known bugs</li><li>Without Halloween festival reply audio.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>TrackFlex Floodlight PoE</summary>
+
+  ### IPC_NT18NA68MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5943_2601303240](https://home-cdn.reolink.us/wp-content/uploads/2026/03/301115477a992468595b0428.zip?download_name=TrackFlex_Floodlight_PoE_5943_2601303240.zip) | 2026‑01‑30 | <ol><li>Optimized image clarity in specific scenarios.</li><li>Solve other known bugs</li></ol> | 
 
 </details>
 

@@ -29102,5 +29102,113 @@
     ],
     "model_id": 307,
     "hw_ver_id": 476
+  },
+  "33f152182e582cbf4cc108b284d8e2e87c242c1bd43c0c3189a5a4908a1e875a": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MP",
+      "board_name": "IPC_NT18NA68MP",
+      "build_date": "260130",
+      "display_type_info": "Floodlight Series F850P",
+      "detail_machine_type": "IPC_NT18NA68MP",
+      "type": "IPC",
+      "version_file": "5943_2601303291",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jan 28 2026 - 14:43:33 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (loumy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #2 SMP PREEMPT Fri Jan 9 17:27:33 CST 2026",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/03/301127286abbac3d296b9d3c.zip"
+    ],
+    "model_id": 310,
+    "hw_ver_id": 479
+  },
+  "fde6d18d5fe60df3f14878a8c82f80907967ada1c8736045c23371ad3d84e48c": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MPW",
+      "board_name": "IPC_NT18NA68MPW",
+      "build_date": "260130",
+      "display_type_info": "Floodlight Series F850W",
+      "detail_machine_type": "IPC_NT18NA68MPW",
+      "type": "IPC",
+      "version_file": "5946_2601302019",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Nov 12 2025 - 09:40:20 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (loumy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #2 SMP PREEMPT Fri Jan 9 17:27:33 CST 2026",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/03/30112007c921039049f485a7.zip"
+    ],
+    "model_id": 309,
+    "hw_ver_id": 478
+  },
+  "05a4e2d8910f28f5d4893f1d66909a1043615926779c9126f653f3126b32e58d": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT18NA68MP",
+      "board_name": "IPC_NT18NA68MP",
+      "build_date": "260130",
+      "display_type_info": "TrackFlex Floodlight PoE",
+      "detail_machine_type": "IPC_NT18NA68MP",
+      "type": "IPC",
+      "version_file": "5943_2601303240",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jan 28 2026 - 14:43:33 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (loumy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #2 SMP PREEMPT Fri Jan 9 17:27:33 CST 2026",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/03/301115477a992468595b0428.zip"
+    ],
+    "model_id": 308,
+    "hw_ver_id": 477
   }
 }

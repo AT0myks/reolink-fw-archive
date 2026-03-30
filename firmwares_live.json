@@ -9833,5 +9833,53 @@
     "display_time": "2026-03-30 00:00:00+08:00",
     "sha256_pak": "ac451e6dd01c15dc0136ee7b04ded6dca180f4d61dcc95293b20d7213f0b36ca",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.5943_2601303291",
+    "filename": "Floodlight_Series_F850P_5943_2601303291",
+    "updated_at": "2026-03-30 19:28:58+08:00",
+    "note": "",
+    "firmware_id": 986,
+    "model": "Floodlight-Series-F850P",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "Optimized image clarity in specific scenarios.",
+      "Solve other known bugs"
+    ],
+    "display_time": "2026-03-30 00:00:00+08:00",
+    "sha256_pak": "33f152182e582cbf4cc108b284d8e2e87c242c1bd43c0c3189a5a4908a1e875a",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5946_2601302019",
+    "filename": "Floodlight_Series_F850W_5946_2601302019",
+    "updated_at": "2026-03-30 19:22:15+08:00",
+    "note": "",
+    "firmware_id": 985,
+    "model": "Floodlight-Series-F850W",
+    "hw_ver": "IPC_NT18NA68MPW",
+    "changelog": [
+      "Optimized image clarity in specific scenarios.",
+      "Solve other known bugs"
+    ],
+    "display_time": "2026-03-30 00:00:00+08:00",
+    "sha256_pak": "fde6d18d5fe60df3f14878a8c82f80907967ada1c8736045c23371ad3d84e48c",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5943_2601303240",
+    "filename": "TrackFlex_Floodlight_PoE_5943_2601303240",
+    "updated_at": "2026-03-30 19:17:51+08:00",
+    "note": "",
+    "firmware_id": 984,
+    "model": "TrackFlex Floodlight PoE",
+    "hw_ver": "IPC_NT18NA68MP",
+    "changelog": [
+      "Optimized image clarity in specific scenarios.",
+      "Solve other known bugs"
+    ],
+    "display_time": "2026-03-30 00:00:00+08:00",
+    "sha256_pak": "05a4e2d8910f28f5d4893f1d66909a1043615926779c9126f653f3126b32e58d",
+    "source": "live"
   }
 ]
