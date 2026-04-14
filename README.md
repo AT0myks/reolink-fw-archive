@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 837
+Total: 841
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1399,18 +1399,20 @@ Version | Date | Changes | Notes
 
   ### BASE_WENNT6NA5
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.456_26031913](https://home-cdn.reolink.us/wp-content/uploads/2026/04/14095105e1030686d5f3ee13.zip?download_name=Hub_1BASE_WENNT6NA5456_26031913E.zip) | 2026‑03‑19 | <ol><li>Battery-powered video doorbells supported</li><li>Added support for AI-based adaptive floodlight mode on Reolink Solar Floodlight Cam</li><li>Power-on mode supported</li><li>Security patches improved</li></ol> | 
 [v3.3.0.387_25041772](https://home-cdn.reolink.us/wp-content/uploads/2025/04/280959311745834371.438.zip?download_name=Hub_1BASE_WENNT6NA5387_25041772E.zip) | 2025‑04‑17 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
 
   ### BASE_WUNNT6NA5
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.456_26031912](https://home-cdn.reolink.us/wp-content/uploads/2026/04/14094948883164b1d871fc17.zip?download_name=Hub_1BASE_WUNNT6NA5456_26031912U.zip) | 2026‑03‑19 | <ol><li>Battery-powered video doorbells supported</li><li>Added support for AI-based adaptive floodlight mode on Reolink Solar Floodlight Cam</li><li>Power-on mode supported</li><li>Security patches improved</li></ol> | 
 [v3.3.0.387_25041745](https://home-cdn.reolink.us/wp-content/uploads/2025/04/280945431745833543.8374.zip?download_name=Hub_1BASE_WUNNT6NA5387_25041745U.zip) | 2025‑04‑17 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
@@ -3724,10 +3726,11 @@ Version | Date | Changes | Notes
 
   ### BASE_WENNT6NA5
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.456_26031911](https://home-cdn.reolink.us/wp-content/uploads/2026/04/140948442037f1053d43501e.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK456_26031911E.zip) | 2026‑03‑19 | <ol><li>Battery-powered video doorbells supported</li><li>Added support for AI-based adaptive floodlight mode on Reolink Solar Floodlight Cam</li><li>Power-on mode supported</li><li>Security patches improved</li></ol> | 
 [v3.3.0.456_25122258](https://home-cdn.reolink.us/wp-content/uploads/2025/12/23102736cc0fe76a70b30f0a.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK456_25122258Epak.zip) | 2025‑12‑22 | <ol><li>Rich Notification support added for IPC models and Home Hub.</li><li>Floodlight series supported.</li><li>Video Deletion feature supported.</li><li>Battery modes supported for battery-powered doorbells via app.</li></ol> | 
 [v3.3.0.387_25040149](https://home-cdn.reolink.us/wp-content/uploads/2025/04/180147281744940848.8613.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK387_25040149E.zip) | 2025‑04‑01 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.3.0.352_24092630](https://home-cdn.reolink.us/wp-content/uploads/2024/10/080942181728380538.4702.zip?download_name=NT98560_HBBASE_WENNT6NA58IPREOLINK352_24092630E.zip) | 2024‑09‑26 | <ol><li>Playing back recordings stored on the IPC's microSD card supported (requires updated app release).</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.</li><li>IPC initialization process via Reolink Home Hub streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
@@ -3735,10 +3738,11 @@ Version | Date | Changes | Notes
 
   ### BASE_WUNNT6NA5
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.456_26031910](https://home-cdn.reolink.us/wp-content/uploads/2026/04/140947193c99d68fe9aebbf9.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK456_26031910U.zip) | 2026‑03‑19 | <ol><li>Battery-powered video doorbells supported</li><li>Added support for AI-based adaptive floodlight mode on Reolink Solar Floodlight Cam</li><li>Power-on mode supported</li><li>Security patches improved</li></ol> | 
 [v3.3.0.456_25122248](https://home-cdn.reolink.us/wp-content/uploads/2025/12/23102704112372f00ea9757a.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK456_25122248Upak.zip) | 2025‑12‑22 | <ol><li>Rich Notification support added for IPC models and Home Hub.</li><li>Floodlight series supported.</li><li>Video Deletion feature supported.</li><li>Battery modes supported for battery-powered doorbells via app.</li></ol> | 
 [v3.3.0.387_25040148](https://home-cdn.reolink.us/wp-content/uploads/2025/04/180145451744940745.4274.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK387_25040148U.zip) | 2025‑04‑01 | <ol><li>Doorbell and Chime connection supported.</li><li>Time-lapse recording for Altas PT Ultra supported.</li><li>Repeater connection supported.</li><li>Other known bugs resolved.</li></ol> | 
 [v3.3.0.352_24092629](https://home-cdn.reolink.us/wp-content/uploads/2024/10/080940341728380434.6068.zip?download_name=NT98560_HBBASE_WUNNT6NA58IPREOLINK352_24092629U.zip) | 2024‑09‑26 | <ol><li>Playing back recordings stored on the IPC's microSD card supported (requires updated app release).</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub.</li><li>IPC initialization process via Reolink Home Hub streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
