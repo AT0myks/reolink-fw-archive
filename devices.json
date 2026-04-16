@@ -3204,5 +3204,35 @@
         "title": "IPC_NT18NA68MP"
       }
     ]
+  },
+  {
+    "id": 310,
+    "title": "Floodlight Series F850P",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 479,
+        "title": "IPC_NT18NA68MP"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "title": "Floodlight Series F850W",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 478,
+        "title": "IPC_NT18NA68MPW"
+      }
+    ]
   }
 ]

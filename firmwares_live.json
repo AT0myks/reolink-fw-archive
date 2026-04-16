@@ -9840,7 +9840,7 @@
     "updated_at": "2026-03-30 19:28:58+08:00",
     "note": "",
     "firmware_id": 986,
-    "model": "Floodlight-Series-F850P",
+    "model": "Floodlight Series F850P",
     "hw_ver": "IPC_NT18NA68MP",
     "changelog": [
       "Optimized image clarity in specific scenarios.",
@@ -9856,7 +9856,7 @@
     "updated_at": "2026-03-30 19:22:15+08:00",
     "note": "",
     "firmware_id": 985,
-    "model": "Floodlight-Series-F850W",
+    "model": "Floodlight Series F850W",
     "hw_ver": "IPC_NT18NA68MPW",
     "changelog": [
       "Optimized image clarity in specific scenarios.",
