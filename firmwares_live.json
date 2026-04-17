@@ -9953,5 +9953,63 @@
     "display_time": "2026-04-14 00:00:00+08:00",
     "sha256_pak": "9063f3c95684e28cdc329566b7dc5de12532afbdcdeed6726a1de10443a3a178",
     "source": "live"
+  },
+  {
+    "version": "v3.6.4.484_26032519",
+    "filename": "NVS36_v364484_26032519_N5MB01",
+    "updated_at": "2026-04-17 14:32:40+08:00",
+    "note": "",
+    "firmware_id": 991,
+    "model": "NVS36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1. Dark Mode and Light Mode color themes added.",
+      "2. Smart home integration with Alexa and Google Home supported on NVR.",
+      "3. Detection Angle settings for Out-of-View Detection added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, Floodlight Series F850P.",
+      "4. Screen Resolution up to 2560\u00d71440 supported.",
+      "5. Dual preview (top and bottom display) added.",
+      "6. H.265+ support for RP-PCV8MZ, RP-PCB8MZ, RP-WCB8MZ.",
+      "7. 36-screen live view supported on screens below 4K resolution.",
+      "8. Doorbell calls, answering/unanswered calls, and holiday audio configurable in App.",
+      "9. Battery Mode for Reolink Atlas PT Ultra and Reolink Atlas added in App.",
+      "10. Heatmap interface updated.",
+      "11. Special characters added to on-screen keyboard.",
+      "12. Initialization interface updated.",
+      "13. Performance for select components optimized.",
+      "14. Latest NVR push notifications supported via App.",
+      "15. Other known bugs resolved."
+    ],
+    "display_time": "2026-04-17 00:00:00+08:00",
+    "sha256_pak": "c370a307204c25c809d1429ea479d976605215432d7a930c0751c13a18f1ceda",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.4.484_26032518",
+    "filename": "RLN36_v364484_26032518_N5MB01",
+    "updated_at": "2026-04-17 14:34:38+08:00",
+    "note": "",
+    "firmware_id": 992,
+    "model": "RLN36",
+    "hw_ver": "N5MB01",
+    "changelog": [
+      "1. Dark Mode and Light Mode color themes added.",
+      "2. Smart home integration with Alexa and Google Home supported on NVR.",
+      "3. Detection Angle settings for Out-of-View Detection added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, Floodlight Series F850P.",
+      "4. Screen Resolution up to 2560\u00d71440 supported.",
+      "5. Dual preview (top and bottom display) added.",
+      "6. H.265+ support for RP-PCV8MZ, RP-PCB8MZ, RP-WCB8MZ.",
+      "7. 36-screen live view supported on screens below 4K resolution.",
+      "8. Doorbell calls, answering/unanswered calls, and holiday audio configurable in App.",
+      "9. Battery Mode for Reolink Atlas PT Ultra and Reolink Atlas added in App.",
+      "10. Heatmap interface updated.",
+      "11. Special characters added to on-screen keyboard.",
+      "12. Initialization interface updated.",
+      "13. Performance for select components optimized.",
+      "14. Latest NVR push notifications supported via App.",
+      "15. Other known bugs resolved."
+    ],
+    "display_time": "2026-04-17 00:00:00+08:00",
+    "sha256_pak": "768185afca05b25f62581c542de78088112e920507a71e5efd955662b3199096",
+    "source": "live"
   }
 ]
