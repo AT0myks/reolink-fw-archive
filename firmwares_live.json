@@ -10123,5 +10123,65 @@
     "display_time": "2026-04-25 00:00:00+08:00",
     "sha256_pak": "b1bfdc705e5045ebc08236db2b0ba80006e5c051fa26c0f75f2149d4c5f68ae2",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.6011_2604291091",
+    "filename": "RP_PCT12M_6011_2604291091",
+    "updated_at": "2026-05-06 18:30:12+08:00",
+    "note": "",
+    "firmware_id": 1001,
+    "model": "RP-PCT12M",
+    "hw_ver": "IPC_NT18NA612MPB",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2026-05-06 00:00:00+08:00",
+    "sha256_pak": "5f59002d2dd552076c0ec9758e1321c66398a9f65b5d19f950734df544bfc61d",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.6011_2604021123",
+    "filename": "RP_PCB12M_6011_2604021123",
+    "updated_at": "2026-05-06 18:27:41+08:00",
+    "note": "",
+    "firmware_id": 1000,
+    "model": "RP-PCB12M",
+    "hw_ver": "IPC_NT18NA612MPB",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2026-05-06 00:00:00+08:00",
+    "sha256_pak": "29246b46fba8041bbd8d9a61bf9c9336411e6d85156c0e92c65defc063b0c549",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5770_2604252147",
+    "filename": "RP_PCT16MD_5770_2604252147",
+    "updated_at": "2026-05-06 18:21:38+08:00",
+    "note": "",
+    "firmware_id": 998,
+    "model": "RP-PCT16MD",
+    "hw_ver": "IPC_NT17NA616MPB",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2026-05-06 00:00:00+08:00",
+    "sha256_pak": "7ea290c9a94fcd3735973aacf09de0c866f54f38c91578153e70351642ef844b",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.5770_2604252146",
+    "filename": "RP_PCT8MD_5770_2604252146",
+    "updated_at": "2026-05-06 18:12:45+08:00",
+    "note": "",
+    "firmware_id": 997,
+    "model": "RP-PCT8MD",
+    "hw_ver": "IPC_NT17NA68MPB",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2026-05-06 00:00:00+08:00",
+    "sha256_pak": "9718299ab026f1d0d52e9f707abfceb835725b817189ca2720d34caa09288c37",
+    "source": "live"
   }
 ]

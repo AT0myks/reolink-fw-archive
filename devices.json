@@ -3234,5 +3234,35 @@
         "title": "IPC_NT18NA68MPW"
       }
     ]
+  },
+  {
+    "id": 311,
+    "title": "RP-PCT12M",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 481,
+        "title": "IPC_NT18NA612MPB"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "title": "RP-PCB12M",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 480,
+        "title": "IPC_NT18NA612MPB"
+      }
+    ]
   }
 ]

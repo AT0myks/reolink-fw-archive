@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 847
+Total: 851
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -3382,6 +3382,19 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>RP-PCB12M</summary>
+
+  ### IPC_NT18NA612MPB
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.6011_2604021123](https://home-cdn.reolink.us/wp-content/uploads/2026/05/06102528332695e58d9d1cac.zip?download_name=RP_PCB12M_6011_2604021123.zip) | 2026‑04‑02 | 1. Other known bugs resolved. | 
+
+</details>
+
+<details>
   <summary>RP-PCB8M</summary>
 
   ### IPC_NT2NA48MPB
@@ -3396,14 +3409,28 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
-  <summary>RP-PCT16MD</summary>
+  <summary>RP-PCT12M</summary>
 
-  ### IPC_NT17NA616MPB
+  ### IPC_NT18NA612MPB
 
 Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.6011_2604291091](https://home-cdn.reolink.us/wp-content/uploads/2026/05/06102948024f5ac10957158e.zip?download_name=RP_PCT12M_6011_2604291091.zip) | 2026‑04‑29 | 1. Other known bugs resolved. | 
+
+</details>
+
+<details>
+  <summary>RP-PCT16MD</summary>
+
+  ### IPC_NT17NA616MPB
+
+Firmwares for this hardware version: 2
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5770_2604252147](https://home-cdn.reolink.us/wp-content/uploads/2026/05/061013288237eb8fd240dc39.zip?download_name=RP_PCT16MD_5770_2604252147.zip) | 2026‑04‑25 | 1. Other known bugs resolved. | 
 [v3.2.0.5770_2512231313](https://home-cdn.reolink.us/wp-content/uploads/2026/02/280227023563f67a03eb5d73.zip?download_name=RP_PCT16MD_5770_2512231313.zip) | 2025‑12‑23 | <ol><li>Intelligent H.265+ encoding supported (via NVR).</li><li>Video deletion supported (via Reolink App).</li></ol> | 
 
 </details>
@@ -3427,10 +3454,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA68MPB
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.5770_2604252146](https://home-cdn.reolink.us/wp-content/uploads/2026/05/061010508c61d662fe931efe.zip?download_name=RP_PCT8MD_5770_2604252146.zip) | 2026‑04‑25 | 1. Other known bugs resolved. | 
 [v3.2.0.5770_2512231312](https://home-cdn.reolink.us/wp-content/uploads/2026/02/28022504fa015a88e84c8c46.zip?download_name=RP_PCT8MD_5770_2512231312.zip) | 2025‑12‑23 | <ol><li>Intelligent H.265+ encoding supported (via NVR).</li><li>Video deletion supported (via Reolink App).</li></ol> | 
 
 </details>
