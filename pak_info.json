@@ -29714,5 +29714,41 @@
     ],
     "model_id": 303,
     "hw_ver_id": 470
+  },
+  "119e6eb2f79ea4920d6f9872cdc02416f73b2ab8d35fd9fc9f8df7a3bacacd08": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_NT7NA58MP",
+      "board_name": "IPC_NT7NA58MP",
+      "build_date": "250620",
+      "display_type_info": "Reolink Duo 2V PoE",
+      "detail_machine_type": "IPC_NT7NA58MP",
+      "type": "IPC",
+      "version_file": "4308_2506201230",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (May 18 2022 - 20:27:52 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Wed Jan 17 10:37:48 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/05/110218349a037af22bec1c15.zip"
+    ],
+    "model_id": 279,
+    "hw_ver_id": 482
   }
 }

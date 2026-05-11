@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 851
+Total: 852
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -3558,6 +3558,14 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.2.0.5467_2510141199](https://home-cdn.reolink.us/wp-content/uploads/2025/11/1703414191d33328b4e0aabf.zip?download_name=Reolink_Duo_2V_PoE_5467_2510141199.zip) | 2025‑10‑14 | <ol><li>Cloud storage supported (Actural service depends on the subscription plan)</li><li>Other known bugs resolved.</li></ol> | 
+
+  ### IPC_NT7NA58MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.0.0.4308_2506201230](https://home-cdn.reolink.us/wp-content/uploads/2026/05/110218349a037af22bec1c15.zip?download_name=Reolink_Duo_2V_PoE_4308_2506201230.zip) | 2025‑06‑20 | 1. Other known bugs resolved. | 
 
 </details>
 

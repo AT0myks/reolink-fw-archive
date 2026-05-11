@@ -10183,5 +10183,20 @@
     "display_time": "2026-05-06 00:00:00+08:00",
     "sha256_pak": "9718299ab026f1d0d52e9f707abfceb835725b817189ca2720d34caa09288c37",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.4308_2506201230",
+    "filename": "Reolink_Duo_2V_PoE_4308_2506201230",
+    "updated_at": "2026-05-11 10:18:59+08:00",
+    "note": "",
+    "firmware_id": 1002,
+    "model": "Reolink Duo 2V PoE",
+    "hw_ver": "IPC_NT7NA58MP",
+    "changelog": [
+      "1. Other known bugs resolved."
+    ],
+    "display_time": "2026-05-11 00:00:00+08:00",
+    "sha256_pak": "119e6eb2f79ea4920d6f9872cdc02416f73b2ab8d35fd9fc9f8df7a3bacacd08",
+    "source": "live"
   }
 ]
