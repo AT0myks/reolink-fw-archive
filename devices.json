@@ -3268,5 +3268,20 @@
         "title": "IPC_NT18NA612MPB"
       }
     ]
+  },
+  {
+    "id": 313,
+    "title": "OMVI 3i PoE",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 483,
+        "title": "IPC_NT17NA610MP"
+      }
+    ]
   }
 ]

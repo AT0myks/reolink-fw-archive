@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 852
+Total: 853
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1613,6 +1613,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.6.4.473_26021060](https://home-cdn.reolink.us/wp-content/uploads/2026/03/27064941bad3ea8cd83d585a.zip?download_name=NVS8_v364473_26021060_NVR_NNT3NA78P.zip) | 2026‑02‑10 | <ol><li>OMVI 3i WiFi and OMVI 3i PoE supported.</li><li>Dark Mode and Light Mode color themes added.</li><li>Smart home integration with Alexa and Google Home supported on NVR.</li><li>, Detection Angle settings for Out-of-View Detection added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, Floodlight Series F850P.</li><li>Screen Resolution up to 2560&#215;1440 supported.</li><li>Dual preview (top and bottom display) added.</li><li>H.265+ support for RP-PCV8MZ, RP-PCB8MZ, RP-WCB8MZ.</li><li>Doorbell calls, answering/unanswered calls, and holiday audio configurable in App.</li><li>Battery Mode for Reolink Atlas PT Ultra and Reolink Atlas added in App.</li><li>Heatmap interface updated.</li><li>Special characters added to on-screen keyboard.</li><li>Initialization interface updated.</li><li>Performance for select components optimized.</li><li>Latest NVR push notifications supported via App.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>OMVI 3i PoE</summary>
+
+  ### IPC_NT17NA610MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.6443_2605092168](https://home-cdn.reolink.us/wp-content/uploads/2026/05/1902345141e950d9b38ee1fb.zip?download_name=OMVI_3i_PoE_6443_2605092168.zip) | 2026‑05‑09 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 
 </details>
 

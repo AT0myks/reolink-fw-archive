@@ -29750,5 +29750,41 @@
     ],
     "model_id": 279,
     "hw_ver_id": 482
+  },
+  "83856955dee02f827d1550106898da77602639997315b87b7c02da91d0b81464": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA610MP",
+      "board_name": "IPC_NT17NA610MP",
+      "build_date": "260509",
+      "display_type_info": "OMVI 3i PoE",
+      "detail_machine_type": "IPC_NT17NA610MP",
+      "type": "IPC",
+      "version_file": "6443_2605092168",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Mar 10 2026 - 16:45:22 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #25 SMP PREEMPT Fri Aug 15 17:27:04 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/05/1902345141e950d9b38ee1fb.zip"
+    ],
+    "model_id": 313,
+    "hw_ver_id": 483
   }
 }
