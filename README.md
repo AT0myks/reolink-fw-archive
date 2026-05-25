@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 853
+Total: 856
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1619,13 +1619,35 @@ Version | Date | Changes | Notes
 <details>
   <summary>OMVI 3i PoE</summary>
 
-  ### IPC_NT17NA610MP
+  ### IPC_NT17NA510MP
 
 Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.6443_2605220882](https://home-cdn.reolink.us/wp-content/uploads/2026/05/2507135041039010f1b4362c.zip?download_name=OMVI_3i_PoE_6443_2605220882.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
+
+  ### IPC_NT17NA610MP
+
+Firmwares for this hardware version: 2
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.6443_2605229559](https://home-cdn.reolink.us/wp-content/uploads/2026/05/2507102570945453445ceb20.zip?download_name=OMVI_3i_PoE_6443_2605229559.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 [v3.2.0.6443_2605092168](https://home-cdn.reolink.us/wp-content/uploads/2026/05/1902345141e950d9b38ee1fb.zip?download_name=OMVI_3i_PoE_6443_2605092168.zip) | 2026‑05‑09 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>OMVI Series P931</summary>
+
+  ### IPC_NT17NA510MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.6443_2605220956](https://home-cdn.reolink.us/wp-content/uploads/2026/05/250717258bb71dcca01f369b.zip?download_name=OMVI_Series_P931_6443_2605220956.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 
 </details>
 
