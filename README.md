@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 856
+Total: 860
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1437,18 +1437,20 @@ Version | Date | Changes | Notes
 
   ### BASE_WENNT3NA5
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.466_26040852](https://home-cdn.reolink.us/wp-content/uploads/2026/05/270934202c117b9ff5774670.zip?download_name=Hub_P1BASE_WENNT3NA5466_26040852_LM01E.zip) | 2026‑04‑08 | <ol><li>Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.</li><li>Added support for battery mode on Argus MagiCam.</li><li>Added support for the Pinpoint feature on OMVI 3i PoE.</li><li>Added support for Rich Notification on the cameras connected to a Hub.</li></ol> | 
 [v3.3.0.369_24120281](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130723271749799407.3691.zip?download_name=Hub_P1_BASE_WENNT3NA5369_24120281E.zip) | 2024‑12‑02 | The first version | 
 
   ### BASE_WUNNT3NA5
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.466_26040851](https://home-cdn.reolink.us/wp-content/uploads/2026/05/27093231591ae32382f0d935.zip?download_name=Hub_P1BASE_WUNNT3NA5466_26040851_LM01U.zip) | 2026‑04‑08 | <ol><li>Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.</li><li>Added support for battery mode on Argus MagiCam.</li><li>Added support for the Pinpoint feature on OMVI 3i PoE.</li><li>Added support for Rich Notification on the cameras connected to a Hub.</li></ol> | 
 [v3.3.0.369_24120256](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130721391749799299.3215.zip?download_name=Hub_P1_BASE_WUNNT3NA5369_24120256U.zip) | 2024‑12‑02 | The first version | 
 
 </details>
@@ -3836,19 +3838,21 @@ Version | Date | Changes | Notes
 
   ### BASE_WENNT3NA5
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.466_26040850](https://home-cdn.reolink.us/wp-content/uploads/2026/05/270930159ec214c0fce452ab.zip?download_name=NT98331_HBBASE_WENNT3NA516IPREOLINK466_26040850_LM01E.zip) | 2026‑04‑08 | <ol><li>Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.</li><li>Added support for battery mode on Argus MagiCam.</li><li>Added support for the Pinpoint feature on OMVI 3i PoE.</li><li>Added support for Rich Notification on the cameras connected to a Hub.</li></ol> | 
 [v3.3.0.369_25090459](https://home-cdn.reolink.us/wp-content/uploads/2025/09/110859591757581199.2932.zip?download_name=Reolink_Home_Hub_Pro_v33036925090459_BASE_WENNT3NA5.zip) | 2025‑09‑04 | <ol><li>Supports TF cards.</li><li>Supports privacy mode.</li><li>Integrated hub and IPC linkage function.</li><li>Supports doorbell holiday audio and doorbell volume settings.</li></ol> | 
 [v3.3.0.369_24112932](https://home-cdn.reolink.us/wp-content/uploads/2024/12/040758301733299110.6268.zip?download_name=NT98331_HBBASE_WENNT3NA516IPREOLINK369_24112932E.zip) | 2024‑11‑29 | <ol><li>Playing back recordings stored on the IPC's microSD card supported .</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub Pro.</li><li>IPC initialization process via Reolink Home Hub Pro streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
 
   ### BASE_WUNNT3NA5
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.3.0.466_26040849](https://home-cdn.reolink.us/wp-content/uploads/2026/05/270928158924839865111905.zip?download_name=NT98331_HBBASE_WUNNT3NA516IPREOLINK466_26040849_LM01U.zip) | 2026‑04‑08 | <ol><li>Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.</li><li>Added support for battery mode on Argus MagiCam.</li><li>Added support for the Pinpoint feature on OMVI 3i PoE.</li><li>Added support for Rich Notification on the cameras connected to a Hub.</li></ol> | 
 [v3.3.0.369_25090486](https://home-cdn.reolink.us/wp-content/uploads/2025/09/110903191757581399.6035.zip?download_name=Reolink_Home_Hub_Pro_v33036925090486_BASE_WUNNT3NA5.zip) | 2025‑09‑04 | <ol><li>Supports TF cards.</li><li>Supports privacy mode.</li><li>Integrated hub and IPC linkage function.</li><li>Supports doorbell holiday audio and doorbell volume settings.</li></ol> | 
 [v3.3.0.369_24112931](https://home-cdn.reolink.us/wp-content/uploads/2024/12/040759141733299154.2608.zip?download_name=NT98331_HBBASE_WUNNT3NA516IPREOLINK369_24112931U.zip) | 2024‑11‑29 | <ol><li>Playing back recordings stored on the IPC's microSD card supported .</li><li>Live viewing in H.265 and playing back encrypted recordings supported on the web interface.</li><li>Wi-Fi performance improved with the addition of channel selection, DFS switch, DFS channel selection, and Wi-Fi diagnostic information.</li><li>Pre-recording mode and smart battery mode of Altas PT Ultra now compatible with Reolink Home Hub Pro.</li><li>IPC initialization process via Reolink Home Hub Pro streamlined.</li><li>Known Bugs Fixed.</li></ol> | 
 
