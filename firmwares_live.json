@@ -10351,14 +10351,13 @@
   {
     "version": "v3.2.0.6491_2605181764",
     "filename": "RP_PCB8MZ_6491_2605181764",
-    "updated_at": "2026-06-02 14:53:24+08:00",
+    "updated_at": "2026-06-03 12:07:14+08:00",
     "note": "",
     "firmware_id": 1013,
     "model": "RP-PCB8MZ",
     "hw_ver": "IPC_NT17EM118MPB60B",
     "changelog": [
-      "1. Added License Plate Optimization for clearer license plate capture in low-light and nighttime environments.",
-      "2. Improved AI detection performance and accuracy. Enhanced classification of people, vehicles, and animals, including more detailed animal categories."
+      "1. Added License Plate Optimization for clearer license plate capture in low-light and nighttime environments."
     ],
     "display_time": "2026-06-02 00:00:00+08:00",
     "file": "https://home-cdn.reolink.us/wp-content/uploads/2026/06/020650228f4b7e6b0b2388ce.zip",
