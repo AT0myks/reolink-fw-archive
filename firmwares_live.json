@@ -10403,5 +10403,157 @@
     "display_time": "2026-06-08 00:00:00+08:00",
     "sha256_pak": "07ebd6d74ef05ffef67475e2d2a14df0b2211b6af8ea20c8c50e433a71a3c44b",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605271717",
+    "filename": "D340P_White_6460_2605271717",
+    "updated_at": "2026-06-08 19:28:27+08:00",
+    "note": "",
+    "firmware_id": 1025,
+    "model": "D340P-White",
+    "hw_ver": "DB_566128M5MP_P_W",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "8cd63eef5ae4df9c9e24ac8739863d895cc64b957e48ac0b56c1b07e4ca15f68",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605271719",
+    "filename": "D340W_White_6460_2605271719",
+    "updated_at": "2026-06-08 19:28:11+08:00",
+    "note": "",
+    "firmware_id": 1024,
+    "model": "D340W-White",
+    "hw_ver": "DB_566128M5MP_W_W",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "e887b1294304b7a83387ba2bf96e6d66a92b917f465f4999ef10dc8746129061",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605271708",
+    "filename": "D340W_6460_2605271708",
+    "updated_at": "2026-06-08 19:13:19+08:00",
+    "note": "",
+    "firmware_id": 1022,
+    "model": "D340W",
+    "hw_ver": "DB_566128M5MP_W",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "937b85ff2bc1a02762f7354425bc9637f30f055366b67a9470f5f7163c05a1c3",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605271496",
+    "filename": "D340P_6460_2605271496",
+    "updated_at": "2026-06-08 19:15:29+08:00",
+    "note": "",
+    "firmware_id": 1023,
+    "model": "D340P",
+    "hw_ver": "DB_566128M5MP_P",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "d0d84659f426adfce1f0cf627a8887b03f1ac2ac7ccef6825230cbaa79e98ff8",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605211913",
+    "filename": "Reolink_Video_Doorbell_PoE_W6460_2605211913",
+    "updated_at": "2026-06-08 19:23:20+08:00",
+    "note": "",
+    "firmware_id": 1027,
+    "model": "Reolink Video Doorbell PoE-W\uff08White POE\uff09",
+    "hw_ver": "DB_566128M5MP_P_W",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "e084169c451a0711ed2d0646a030da2a009b5473c5f29a6873fb85b6e588790d",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605211912",
+    "filename": "Reolink_Video_Doorbell_WiFi_W6460_2605211912",
+    "updated_at": "2026-06-08 19:21:56+08:00",
+    "note": "",
+    "firmware_id": 1026,
+    "model": "Reolink Video Doorbell WiFi-W\uff08White WiFi\uff09",
+    "hw_ver": "DB_566128M5MP_W_W",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "5f47d75c1495314bbf8f8125c5830d9eab9578d2949968cf70e3052a58dc85b0",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605211897",
+    "filename": "Reolink_Video_Doorbell_WiFi_6460_2605211897",
+    "updated_at": "2026-06-08 19:24:29+08:00",
+    "note": "",
+    "firmware_id": 1028,
+    "model": "Reolink Video Doorbell WiFi",
+    "hw_ver": "DB_566128M5MP_W",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "d36ab17073a86db0c3779d435991551463fac48169a2ef41e02195b057d3af8e",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.6460_2605211898",
+    "filename": "Reolink_Video_Doorbell_PoE_6460_2605211898",
+    "updated_at": "2026-06-08 19:25:38+08:00",
+    "note": "",
+    "firmware_id": 1029,
+    "model": "Reolink Video Doorbell PoE",
+    "hw_ver": "DB_566128M5MP_P",
+    "changelog": [
+      "1. Updated World Cup element reply kit, including button audio.",
+      "2. Added animated GIF push notification function (cloud plan required).",
+      "3. Added video recording encryption function.",
+      "4. Fixed some known bugs.",
+      "5. Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated."
+    ],
+    "display_time": "2026-06-08 00:00:00+08:00",
+    "sha256_pak": "14f4df20dc2a9d5b4acd38eb6e67772145cda786148d8178ae3cb58828c41e7a",
+    "source": "live"
   }
 ]

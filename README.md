@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 862
+Total: 870
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -519,10 +519,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.6460_2605271496](https://home-cdn.reolink.us/wp-content/uploads/2026/06/0811151636b86e27a7e61b24.zip?download_name=D340P_6460_2605271496.zip) | 2026‑05‑27 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508131283](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201059171755687557.0638.zip?download_name=D340P_v30046622508131283_DB_566128M5MP_P.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503182271](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240409591742789399.9338.zip?download_name=D340P_v30046622503182271_DB_566128M5MP_P.zip) | 2025‑03‑18 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
@@ -535,10 +536,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P_W
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.6460_2605271717](https://home-cdn.reolink.us/wp-content/uploads/2026/06/0811173978213a1cd05d012f.zip?download_name=D340P_White_6460_2605271717.zip) | 2026‑05‑27 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508131302](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201103461755687826.8543.zip?download_name=D340P_White_v30046622508131302_DB_566128M5MP_P_W.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503202284](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240415121742789712.4222.zip?download_name=D340P_White_v30046622503202284_DB_566128M5MP_P_W.zip) | 2025‑03‑20 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
@@ -551,10 +553,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.6460_2605271708](https://home-cdn.reolink.us/wp-content/uploads/2026/06/081112549362728ff4617877.zip?download_name=D340W_6460_2605271708.zip) | 2026‑05‑27 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508131282](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201102491755687769.7386.zip?download_name=D340W_v30046622508131282_DB_566128M5MP_W.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503182270](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240423021742790182.6454.zip?download_name=D340W_v30046622503182270_DB_566128M5MP_W.zip) | 2025‑03‑18 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
@@ -567,10 +570,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W_W
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.6460_2605271719](https://home-cdn.reolink.us/wp-content/uploads/2026/06/08111630b865a64a21e0f27e.zip?download_name=D340W_White_6460_2605271719.zip) | 2026‑05‑27 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508131301](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201104591755687899.9223.zip?download_name=D340W_White_v30046622508131301_DB_566128M5MP_W_W.zip) | 2025‑08‑13 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503202283](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240415511742789751.8914.zip?download_name=D340W_White_v30046622503202283_DB_566128M5MP_W_W.zip) | 2025‑03‑20 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 
@@ -3961,11 +3965,12 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P
 
-Firmwares for this hardware version: 11
+Firmwares for this hardware version: 12
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.6460_2605211898](https://home-cdn.reolink.us/wp-content/uploads/2026/06/080757179ead1743881de90e.zip?download_name=Reolink_Video_Doorbell_PoE_6460_2605211898.zip) | 2026‑05‑21 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
+[v3.0.0.6460_2605211898](https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112524dbdce0eb6676c27c.zip?download_name=Reolink_Video_Doorbell_PoE_6460_2605211898.zip) | 2026‑05‑21 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508071283](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201045301755686730.5046.zip?download_name=Reolink_Video_Doorbell_PoE_v30046622508071283_DB_566128M5MP_P.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122271](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240357421742788662.3377.zip?download_name=Reolink_Video_Doorbell_PoE_v30046622503122271_DB_566128M5MP_P.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111120](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181040331729248033.5364.zip?download_name=Reolink_Video_Doorbell_PoE_v30041102410111120_DB_566128M5MP_P.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
@@ -3988,10 +3993,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_P_W
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.6460_2605211913](https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112307ac37019f092ed2b2.zip?download_name=Reolink_Video_Doorbell_PoE_W6460_2605211913.zip) | 2026‑05‑21 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508071302](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201047041755686824.7013.zip?download_name=Reolink_Video_Doorbell_PoE_W_v30046622508071302_DB_566128M5MP_P_W.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122284](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240401331742788893.7466.zip?download_name=Reolink_Video_Doorbell_PoE_W_v30046622503122284_DB_566128M5MP_P_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111128](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181043081729248188.5317.zip?download_name=Reolink_Video_Doorbell_PoE_W_v30041102410111128_DB_566128M5MP_P_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
@@ -4008,11 +4014,12 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W
 
-Firmwares for this hardware version: 11
+Firmwares for this hardware version: 12
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.0.0.6460_2605211897](https://home-cdn.reolink.us/wp-content/uploads/2026/06/080732033f23f90aed6f701a.zip?download_name=Reolink_Video_Doorbell_WiFi_6460_2605211897.zip) | 2026‑05‑21 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
+[v3.0.0.6460_2605211897](https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112414daea045aef504db2.zip?download_name=Reolink_Video_Doorbell_WiFi_6460_2605211897.zip) | 2026‑05‑21 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508071282](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201046281755686788.162.zip?download_name=Reolink_Video_Doorbell_WiFi_v30046622508071282_DB_566128M5MP_W.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122270](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240400161742788816.8163.zip?download_name=Reolink_Video_Doorbell_WiFi_v30046622503122270_DB_566128M5MP_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111119](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181041501729248110.7924.zip?download_name=Reolink_Video_Doorbell_WiFi_v30041102410111119_DB_566128M5MP_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 
@@ -4035,10 +4042,11 @@ Version | Date | Changes | Notes
 
   ### DB_566128M5MP_W_W
 
-Firmwares for this hardware version: 4
+Firmwares for this hardware version: 5
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.6460_2605211912](https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112134a78ff9f74b81e365.zip?download_name=Reolink_Video_Doorbell_WiFi_W6460_2605211912.zip) | 2026‑05‑21 | <ol><li>Updated World Cup element reply kit, including button audio.</li><li>Added animated GIF push notification function (cloud plan required).</li><li>Added video recording encryption function.</li><li>Fixed some known bugs.</li><li>Please update the app to the latest version. If the doorbell is connected to a HUB or NVR, the HUB or NVR firmware also needs to be updated.</li></ol> | 
 [v3.0.0.4662_2508071301](https://home-cdn.reolink.us/wp-content/uploads/2025/08/201048121755686892.2854.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30046622508071301_DB_566128M5MP_W_W.zip) | 2025‑08‑07 | <ol><li>Fixed the image overexposure issue.</li><li>App two-way audio interrupt smart home two-way audio.</li><li>Updated the photosensitive model.</li><li>Supplemented and fixed some general bugs.</li></ol> | 
 [v3.0.0.4662_2503122283](https://home-cdn.reolink.us/wp-content/uploads/2025/03/240402331742788953.4429.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30046622503122283_DB_566128M5MP_W_W.zip) | 2025‑03‑12 | <ol><li>Support HDR function optimized image parameters.</li><li>Support conversation recording and video deletion function.</li><li>Support AI-animals.</li><li>Recommend upgrade the app version to 4.52 or above.</li></ol> | 
 [v3.0.0.4110_2410111127](https://home-cdn.reolink.us/wp-content/uploads/2024/10/181044141729248254.7736.zip?download_name=Reolink_Video_Doorbell_WiFi_W_v30041102410111127_DB_566128M5MP_W_W.zip) | 2024‑10‑11 | <ol><li>Integrate Halloween festival reply audio. (This feature is only available on standalone cameras, not available through Hub/NVR.)</li><li>Integrate Reolink Chime silent mode.</li><li>Integrate device-sharing feature.</li><li>Add AI vehicle detection.</li></ol> | 

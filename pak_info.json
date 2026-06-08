@@ -30110,5 +30110,293 @@
     ],
     "model_id": 180,
     "hw_ver_id": 302
+  },
+  "8cd63eef5ae4df9c9e24ac8739863d895cc64b957e48ac0b56c1b07e4ca15f68": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_P_W",
+      "board_name": "DB_566128M5MP_P_W",
+      "build_date": "260527",
+      "display_type_info": "D340P-White",
+      "detail_machine_type": "DB_566128M5MP_P_W",
+      "type": "IPC",
+      "version_file": "6460_2605271717",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 18 2025 - 11:11:24 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Thu Aug 7 09:31:52 CST 2025",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/0811173978213a1cd05d012f.zip"
+    ],
+    "model_id": 224,
+    "hw_ver_id": 367
+  },
+  "e887b1294304b7a83387ba2bf96e6d66a92b917f465f4999ef10dc8746129061": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_W_W",
+      "board_name": "DB_566128M5MP_W_W",
+      "build_date": "260527",
+      "display_type_info": "D340W-White",
+      "detail_machine_type": "DB_566128M5MP_W_W",
+      "type": "IPC",
+      "version_file": "6460_2605271719",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 18 2025 - 11:11:24 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Thu Aug 7 09:31:52 CST 2025",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/08111630b865a64a21e0f27e.zip"
+    ],
+    "model_id": 225,
+    "hw_ver_id": 366
+  },
+  "937b85ff2bc1a02762f7354425bc9637f30f055366b67a9470f5f7163c05a1c3": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_W",
+      "board_name": "DB_566128M5MP_W",
+      "build_date": "260527",
+      "display_type_info": "D340W",
+      "detail_machine_type": "DB_566128M5MP_W",
+      "type": "IPC",
+      "version_file": "6460_2605271708",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jan 05 2026 - 16:14:36 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Mon Jan 5 16:13:34 CST 2026",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/081112549362728ff4617877.zip"
+    ],
+    "model_id": 223,
+    "hw_ver_id": 365
+  },
+  "d0d84659f426adfce1f0cf627a8887b03f1ac2ac7ccef6825230cbaa79e98ff8": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_P",
+      "board_name": "DB_566128M5MP_P",
+      "build_date": "260527",
+      "display_type_info": "D340P",
+      "detail_machine_type": "DB_566128M5MP_P",
+      "type": "IPC",
+      "version_file": "6460_2605271496",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jan 05 2026 - 16:14:36 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Mon Jan 5 16:13:34 CST 2026",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/0811151636b86e27a7e61b24.zip"
+    ],
+    "model_id": 222,
+    "hw_ver_id": 364
+  },
+  "e084169c451a0711ed2d0646a030da2a009b5473c5f29a6873fb85b6e588790d": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_P_W",
+      "board_name": "DB_566128M5MP_P_W",
+      "build_date": "260521",
+      "display_type_info": "Reolink Video Doorbell PoE-W",
+      "detail_machine_type": "DB_566128M5MP_P_W",
+      "type": "IPC",
+      "version_file": "6460_2605211913",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 18 2025 - 11:11:24 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Thu Aug 7 09:31:52 CST 2025",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112307ac37019f092ed2b2.zip"
+    ],
+    "model_id": 213,
+    "hw_ver_id": 353
+  },
+  "5f47d75c1495314bbf8f8125c5830d9eab9578d2949968cf70e3052a58dc85b0": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_W_W",
+      "board_name": "DB_566128M5MP_W_W",
+      "build_date": "260521",
+      "display_type_info": "Reolink Video Doorbell WiFi-W",
+      "detail_machine_type": "DB_566128M5MP_W_W",
+      "type": "IPC",
+      "version_file": "6460_2605211912",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 18 2025 - 11:11:24 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Thu Aug 7 09:31:52 CST 2025",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112134a78ff9f74b81e365.zip"
+    ],
+    "model_id": 214,
+    "hw_ver_id": 352
+  },
+  "d36ab17073a86db0c3779d435991551463fac48169a2ef41e02195b057d3af8e": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_W",
+      "board_name": "DB_566128M5MP_W",
+      "build_date": "260521",
+      "display_type_info": "Reolink Video Doorbell WiFi",
+      "detail_machine_type": "DB_566128M5MP_W",
+      "type": "IPC",
+      "version_file": "6460_2605211897",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jan 05 2026 - 16:14:36 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Mon Jan 5 16:13:34 CST 2026",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112414daea045aef504db2.zip"
+    ],
+    "model_id": 181,
+    "hw_ver_id": 301
+  },
+  "14f4df20dc2a9d5b4acd38eb6e67772145cda786148d8178ae3cb58828c41e7a": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "DB_566128M5MP_P",
+      "board_name": "DB_566128M5MP_P",
+      "build_date": "260521",
+      "display_type_info": "Reolink Video Doorbell PoE",
+      "detail_machine_type": "DB_566128M5MP_P",
+      "type": "IPC",
+      "version_file": "6460_2605211898",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Jan 05 2026 - 16:14:36 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Mon Jan 5 16:13:34 CST 2026",
+      "board": "Novatek NA51089",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/06/08112524dbdce0eb6676c27c.zip"
+    ],
+    "model_id": 180,
+    "hw_ver_id": 302
   }
 }
