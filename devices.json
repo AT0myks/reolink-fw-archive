@@ -3302,5 +3302,20 @@
         "title": "IPC_NT17NA510MP"
       }
     ]
+  },
+  {
+    "id": 315,
+    "title": "OMVI 3i WiFi",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 486,
+        "title": "IPC_NT17NA510MPW"
+      }
+    ]
   }
 ]

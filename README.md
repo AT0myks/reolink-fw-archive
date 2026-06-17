@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 870
+Total: 871
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1641,6 +1641,19 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.2.0.6443_2605229559](https://home-cdn.reolink.us/wp-content/uploads/2026/05/2507102570945453445ceb20.zip?download_name=OMVI_3i_PoE_6443_2605229559.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 [v3.2.0.6443_2605092168](https://home-cdn.reolink.us/wp-content/uploads/2026/05/1902345141e950d9b38ee1fb.zip?download_name=OMVI_3i_PoE_6443_2605092168.zip) | 2026‑05‑09 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>OMVI 3i WiFi</summary>
+
+  ### IPC_NT17NA510MPW
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.6596_2606162257](https://home-cdn.reolink.us/wp-content/uploads/2026/06/17114229a12f7ea674716260.zip?download_name=OMVI_3i_WiFi_6596_2606162257.zip) | 2026‑06‑16 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 
 </details>
 
