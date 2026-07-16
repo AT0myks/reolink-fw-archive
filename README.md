@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 871
+Total: 872
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1259,10 +1259,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT15NA68MPW
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.6530_2606232191](https://home-cdn.reolink.us/wp-content/uploads/2026/07/161138135872460fae4c736e.zip?download_name=Elite_Floodlight_WiFi_6530_2606232191.zip) | 2026‑06‑23 | <ol><li>Direct deletion supported for videos on the microSD card.</li><li>Dynamic image exposure available: See in Display -&gt; Image Settings.</li></ol> | 
 [v3.2.0.5607_2511041996](https://home-cdn.reolink.us/wp-content/uploads/2025/11/17023504b42f425a5fe6278f.zip?download_name=Elite_Floodlight_WiFi_v32056072511041996_IPC_NT15NA68MPW.zip) | 2025‑11‑04 | <ol><li>Added video deletion feature.</li><li>Optimized light activation speed.</li><li>Improved the timing for turning on lights at dusk.</li></ol> | 
 [v3.2.0.5026_2507101419](https://home-cdn.reolink.us/wp-content/uploads/2025/07/220306051753153565.9173.zip?download_name=Elite_Floodlight_WiFI_v32050262507101419_IPC_NT15NA68MPW.zip) | 2025‑07‑10 | <ol><li>Add AI Video Search function.</li><li>Solve other known bugs.</li></ol> | 
 
