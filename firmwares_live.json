@@ -10747,5 +10747,165 @@
     "display_time": "2026-07-21 00:00:00+08:00",
     "sha256_pak": "f72b82b32820b2e01f57ee20e47524c4dcb413d39d3fee2b7be8e16871f1e11f",
     "source": "live"
+  },
+  {
+    "version": "v3.6.5.557_26062249",
+    "filename": "RLN4E_v365557_26062249_NVR_SSR1NA54P_C",
+    "updated_at": "2026-07-21 14:49:10+08:00",
+    "note": "",
+    "firmware_id": 1049,
+    "model": "RLN4E",
+    "hw_ver": "NVR_SSR1NA54P_C",
+    "changelog": [
+      "The first version"
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "52cc415071a387823286e39d4f37b3d2a8971a8b2ce1ead55af612f4ebe97b49",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.5.560_26062646",
+    "filename": "RP_PN8_v365560_26062646_NVR_NNT3NA78P",
+    "updated_at": "2026-07-21 14:47:00+08:00",
+    "note": "",
+    "firmware_id": 1047,
+    "model": "RP-PN8",
+    "hw_ver": "NVR_NNT3NA78P",
+    "changelog": [
+      "1. Tamper Alert and Visitor Message added, available on Reolink Video Doorbell, Reolink Doorbell PoE, and Reolink Video Doorbell WiFi.",
+      "2. Auto Framing feature added on OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "3. Pinpoint added, applicable to the OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "4. Theme settings added (including customized lighting, doorbell ringtone, and quick response), applicable to doorbells connected to an NVR, configurable in the Reolink App.",
+      "5. Battery Mode and Wired Power Mode added, applicable to Reolink Video Doorbell, Argus MagiCam, and Argus Series B210, configurable in the Reolink App (via NVR connection).",
+      "6. Lighting modes added, applicable to Reolink Solar Floodlight Cam, Floodlight Series F310B, configurable in the Reolink App (via NVR connection).",
+      "7. Notification switch added in the Reolink App to manage NVR push notifications overall."
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "e47ed54960cc4465ddaf42ff671ea16243513dd7a262bccc13975281b979b794",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.5.565_26070106",
+    "filename": "RP_PN8_v365565_26070106_NVR_NNT3NA68P",
+    "updated_at": "2026-07-21 14:52:56+08:00",
+    "note": "",
+    "firmware_id": 1050,
+    "model": "RP-PN8",
+    "hw_ver": "NVR_NNT3NA68P",
+    "changelog": [
+      "1. Tamper Alert and Visitor Message added, available on Reolink Video Doorbell, Reolink Doorbell PoE, and Reolink Video Doorbell WiFi.",
+      "2. Auto Framing feature added on OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "3. Pinpoint added, applicable to the OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "4. Theme settings added (including customized lighting, doorbell ringtone, and quick response), applicable to doorbells connected to an NVR, configurable in the Reolink App.",
+      "5. Battery Mode and Wired Power Mode added, applicable to Reolink Video Doorbell, Argus MagiCam, and Argus Series B210, configurable in the Reolink App (via NVR connection).",
+      "6. Lighting modes added, applicable to Reolink Solar Floodlight Cam, Floodlight Series F310B, configurable in the Reolink App (via NVR connection).",
+      "7. Notification switch added in the Reolink App to manage NVR push notifications overall."
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "e3d124490c841cc42379e3bed6d3ef61dd7c9833f3fee4a9e440da589c8d22af",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.4.513 26032730",
+    "filename": "RP_PN8_v364513_26032730_NVR_NNT3NA68P",
+    "updated_at": "2026-07-21 14:52:46+08:00",
+    "note": "",
+    "firmware_id": 1051,
+    "model": "RP-PN8",
+    "hw_ver": "NVR_NNT3NA68P",
+    "changelog": [
+      "The first version"
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "eb777442cf0a4178b1f258add70dd4f258eab6af99b46d3bda76809e784cbfce",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.5.562_26062956",
+    "filename": "NVS8_v365562_26062956_NVR_NNT3NA78P",
+    "updated_at": "2026-07-21 14:47:18+08:00",
+    "note": "",
+    "firmware_id": 1046,
+    "model": "NVS8",
+    "hw_ver": "NVR_NNT3NA78P",
+    "changelog": [
+      "1. Tamper Alert and Visitor Message added, available on Reolink Video Doorbell, Reolink Doorbell PoE, and Reolink Video Doorbell WiFi.",
+      "2. Auto Framing feature added on OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "3. Pinpoint added, applicable to the OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "4. Theme settings added (including customized lighting, doorbell ringtone, and quick response), applicable to doorbells connected to an NVR, configurable in the Reolink App.",
+      "5. Battery Mode and Wired Power Mode added, applicable to Reolink Video Doorbell, Argus MagiCam, and Argus Series B210, configurable in the Reolink App (via NVR connection).",
+      "6. Lighting modes added, applicable to Reolink Solar Floodlight Cam, Floodlight Series F310B, configurable in the Reolink App (via NVR connection).",
+      "7. Notification switch added in the Reolink App to manage NVR push notifications overall."
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "9f10fc9b3e77348d169fb5890a1dba5b01a8b52277f5c7ac606b0e6fa8230ec6",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.5.562_26062935",
+    "filename": "NVS8_v365562_26062935_N7MB01",
+    "updated_at": "2026-07-21 14:54:25+08:00",
+    "note": "",
+    "firmware_id": 1053,
+    "model": "NVS8",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1. Top Bar added for an improved NVR GUI user experience.",
+      "2. AI Video Search added, available when the cameras support AI Video Search. Download the model before using it.",
+      "3. Tamper Alert and Visitor Message added, available on Reolink Video Doorbell, Reolink Doorbell PoE, and Reolink Video Doorbell WiFi.",
+      "4. Auto Framing feature added on OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "5. Pinpoint added, applicable to the OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "6. Theme settings added (including customized lighting, doorbell ringtone, and quick response), applicable to doorbells connected to an NVR, configurable in the Reolink App.",
+      "7. Battery Mode and Wired Power Mode added, applicable to Reolink Video Doorbell, Argus MagiCam, and Argus Series B210, configurable in the Reolink App (via NVR connection).",
+      "8. Lighting modes added, applicable to Reolink Solar Floodlight Cam, Floodlight Series F310B, configurable in the Reolink App (via NVR connection).",
+      "9. Notification switch added in the Reolink App to manage NVR push notifications overall."
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "bb7d06b6aaa29f72b6872fe6230501cb07eddb5f083865b597fc4c1c1814d655",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.5.562_26062955",
+    "filename": "RLN8_410_v365562_26062955_NVR_NNT3NA78P",
+    "updated_at": "2026-07-21 14:48:17+08:00",
+    "note": "",
+    "firmware_id": 1048,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "NVR_NNT3NA78P",
+    "changelog": [
+      "1. Tamper Alert and Visitor Message added, available on Reolink Video Doorbell, Reolink Doorbell PoE, and Reolink Video Doorbell WiFi.",
+      "2. Auto Framing feature added on OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "3. Pinpoint added, applicable to the OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "4. Theme settings added (including customized lighting, doorbell ringtone, and quick response), applicable to doorbells connected to an NVR, configurable in the Reolink App.",
+      "5. Battery Mode and Wired Power Mode added, applicable to Reolink Video Doorbell, Argus MagiCam, and Argus Series B210, configurable in the Reolink App (via NVR connection).",
+      "6. Lighting modes added, applicable to Reolink Solar Floodlight Cam, Floodlight Series F310B, configurable in the Reolink App (via NVR connection).",
+      "7. Notification switch added in the Reolink App to manage NVR push notifications overall."
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "63d37f99e68afb7a79596a835ef7b5b5ad31e10f3058576bcc6f29d0154ab1e7",
+    "source": "live"
+  },
+  {
+    "version": "v3.6.5.562_26062933",
+    "filename": "RLN8_410_v365562_26062933_N7MB01",
+    "updated_at": "2026-07-21 14:53:40+08:00",
+    "note": "",
+    "firmware_id": 1052,
+    "model": "RLN8-410 (NVR)",
+    "hw_ver": "N7MB01",
+    "changelog": [
+      "1. Top Bar added for an improved NVR GUI user experience.",
+      "2. AI Video Search added, available when the cameras support AI Video Search. Download the model before using it.",
+      "3. Tamper Alert and Visitor Message added, available on Reolink Video Doorbell, Reolink Doorbell PoE, and Reolink Video Doorbell WiFi.",
+      "4. Auto Framing feature added on OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "5. Pinpoint added, applicable to the OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.",
+      "6. Theme settings added (including customized lighting, doorbell ringtone, and quick response), applicable to doorbells connected to an NVR, configurable in the Reolink App.",
+      "7. Battery Mode and Wired Power Mode added, applicable to Reolink Video Doorbell, Argus MagiCam, and Argus Series B210, configurable in the Reolink App (via NVR connection).",
+      "8. Lighting modes added, applicable to Reolink Solar Floodlight Cam, Floodlight Series F310B, configurable in the Reolink App (via NVR connection).",
+      "9. Notification switch added in the Reolink App to manage NVR push notifications overall."
+    ],
+    "display_time": "2026-07-21 00:00:00+08:00",
+    "sha256_pak": "fda48ef2c668bf65d0144dc494e50e7724b9ee60e35382f1982ed3a3461993b9",
+    "source": "live"
   }
 ]
