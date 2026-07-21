@@ -2643,6 +2643,10 @@
       {
         "id": 425,
         "title": "NVR_NNT4NA716P"
+      },
+      {
+        "id": 488,
+        "title": "NVR_NNT4NA616P"
       }
     ]
   },
@@ -3315,6 +3319,21 @@
       {
         "id": 486,
         "title": "IPC_NT17NA510MPW"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "title": "NVS4E",
+    "type": "NVR",
+    "productImg": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/NVS4E/W/product.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 489,
+        "title": "NVR_SSR1NA54P_C"
       }
     ]
   }
