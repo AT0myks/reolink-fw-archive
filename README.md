@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 888
+Total: 889
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -4148,10 +4148,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT18NA68MPW
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.6597_2606175070](https://home-cdn.reolink.us/wp-content/uploads/2026/07/221120292834b5721e42c46c.zip?download_name=TrackFlex_Floodlight_WiFi_6597_2606175070.zip) | 2026‑06‑17 | <ol><li>Tracking effect optimized.</li><li>Tracking performance during Out-of-View Detection improved.</li><li>Other known bugs fixed.</li></ol> | 
 [v3.2.0.5946_2601301195](https://home-cdn.reolink.us/wp-content/uploads/2026/03/30040948b5c72e44ca63efcf.zip?download_name=TrackFlex_Floodlight_WiFi_5946_2601301195.zip) | 2026‑01‑30 | <ol><li>Optimized image clarity in specific scenarios.</li><li>Solve other known bugs</li></ol> | 
 
 </details>
