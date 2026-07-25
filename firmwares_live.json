@@ -8470,7 +8470,7 @@
     "note": "",
     "firmware_id": 881,
     "model": "Elite Floodlight WiFi",
-    "hw_ver": "IPC_NT15NA68MPW",
+    "hw_ver": "IPC_NT18NA68MPW",
     "changelog": [
       "1. Added video deletion feature.",
       "2. Optimized light activation speed.",
@@ -10579,7 +10579,7 @@
     "note": "",
     "firmware_id": 1037,
     "model": "Elite Floodlight WiFi",
-    "hw_ver": "IPC_NT15NA68MPW",
+    "hw_ver": "IPC_NT18NA68MPW",
     "changelog": [
       "1. Direct deletion supported for videos on the microSD card.",
       "2. Dynamic image exposure available: See in Display -> Image Settings."
