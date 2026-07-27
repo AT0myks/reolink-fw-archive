@@ -8470,7 +8470,7 @@
     "note": "",
     "firmware_id": 881,
     "model": "Elite Floodlight WiFi",
-    "hw_ver": "IPC_NT18NA68MPW",
+    "hw_ver": "IPC_NT15NA68MPW",
     "changelog": [
       "1. Added video deletion feature.",
       "2. Optimized light activation speed.",
@@ -10575,7 +10575,7 @@
   {
     "version": "v3.2.0.6530_2606232191",
     "filename": "Elite_Floodlight_WiFi_6530_2606232191",
-    "updated_at": "2026-07-16 19:38:49+08:00",
+    "updated_at": "2026-07-27 17:52:36+08:00",
     "note": "",
     "firmware_id": 1037,
     "model": "Elite Floodlight WiFi",
