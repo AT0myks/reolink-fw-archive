@@ -3359,5 +3359,35 @@
         "title": "NVR_SSR1NA54P_C"
       }
     ]
+  },
+  {
+    "id": 322,
+    "title": "Floodlight Series F760P",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2025/10/Elite-Pro-Floodlight-PoE@1x.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 497,
+        "title": "IPC_NT17NA616MP"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "title": "Elite Pro Floodlight PoE",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2025/10/Elite-Pro-Floodlight-PoE@1x.png",
+    "productUrl": "https://reolink.com/product/elite-pro-floodlight-poe/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 496,
+        "title": "IPC_NT17NA616MP"
+      }
+    ]
   }
 ]

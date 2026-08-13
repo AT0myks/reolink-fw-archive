@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 889
+Total: 894
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1270,6 +1270,23 @@ Version | Date | Changes | Notes
 </details>
 
 <details>
+  <summary>Elite Pro Floodlight PoE</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2025/10/Elite-Pro-Floodlight-PoE@1x.png" width="150">
+
+[Product page](https://reolink.com/product/elite-pro-floodlight-poe/)
+
+  ### IPC_NT17NA616MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5932_2601201959](https://home-cdn.reolink.us/wp-content/uploads/2026/08/130725047c00a1c13978a0f4.zip?download_name=Elite_Pro_Floodlight_PoE_5932_2601201959.zip) | 2026‑01‑20 | <ol><li>AI-triggered lighting alarm added.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
   <summary>Elite Series W740</summary>
 
 <img src="https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Elite%20Series%20W740/product.png" width="150">
@@ -1370,6 +1387,21 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.2.0.5607_2511041997](https://home-cdn.reolink.us/wp-content/uploads/2025/11/26073426a63f40163686eda8.zip?download_name=Floodlight_Series_F751W_5607_2511041997IPC_NT15NA68MPW.zip) | 2025‑11‑04 | <ol><li>Added video deletion feature.</li><li>Optimized light activation speed.</li><li>Improved the timing for turning on lights at dusk.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>Floodlight Series F760P</summary>
+
+<img src="https://home-cdn.reolink.us/wp-content/uploads/2025/10/Elite-Pro-Floodlight-PoE@1x.png" width="150">
+
+  ### IPC_NT17NA616MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.5932_2601201960](https://home-cdn.reolink.us/wp-content/uploads/2026/08/130735587d17eac11bfe72b9.zip?download_name=Floodlight_Series_F760P_5932_2601201960.zip) | 2026‑01‑20 | <ol><li>AI-triggered lighting alarm added.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>
 
@@ -1647,18 +1679,20 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA510MP
 
-Firmwares for this hardware version: 1
-
-Version | Date | Changes | Notes
---- | --- | --- | ---
-[v3.2.0.6443_2605220882](https://home-cdn.reolink.us/wp-content/uploads/2026/05/2507135041039010f1b4362c.zip?download_name=OMVI_3i_PoE_6443_2605220882.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
-
-  ### IPC_NT17NA610MP
-
 Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.6905_2607301172](https://home-cdn.reolink.us/wp-content/uploads/2026/08/13062321eaaa3859f766fef0.zip?download_name=OMVI_3i_PoE_6905_2607301172.zip) | 2026‑07‑30 | <ol><li>AI model updated to reduce false alarms.</li><li>Tracking performance optimized.</li><li>Image quality of tracking in night vision optimized.</li><li>Other known issues resolved.</li></ol> | 
+[v3.2.0.6443_2605220882](https://home-cdn.reolink.us/wp-content/uploads/2026/05/2507135041039010f1b4362c.zip?download_name=OMVI_3i_PoE_6443_2605220882.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
+
+  ### IPC_NT17NA610MP
+
+Firmwares for this hardware version: 3
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.6905_2607301162](https://home-cdn.reolink.us/wp-content/uploads/2026/08/13062605a06a3b7b0b538da0.zip?download_name=OMVI_3i_PoE_6905_2607301162.zip) | 2026‑07‑30 | <ol><li>AI model updated to reduce false alarms.</li><li>Tracking performance optimized.</li><li>Image quality of tracking in night vision optimized.</li><li>Other known issues resolved.</li></ol> | 
 [v3.2.0.6443_2605229559](https://home-cdn.reolink.us/wp-content/uploads/2026/05/2507102570945453445ceb20.zip?download_name=OMVI_3i_PoE_6443_2605229559.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 [v3.2.0.6443_2605092168](https://home-cdn.reolink.us/wp-content/uploads/2026/05/1902345141e950d9b38ee1fb.zip?download_name=OMVI_3i_PoE_6443_2605092168.zip) | 2026‑05‑09 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 
@@ -1669,10 +1703,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA510MPW
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.6905_2607301163](https://home-cdn.reolink.us/wp-content/uploads/2026/08/130620154bc434642284581d.zip?download_name=OMVI_3i_WiFi_6905_2607301163.zip) | 2026‑07‑30 | <ol><li>AI model updated to reduce false alarms.</li><li>Tracking performance optimized.</li><li>Image quality of tracking in night vision optimized.</li><li>Other known issues resolved.</li></ol> | 
 [v3.2.0.6596_2606162257](https://home-cdn.reolink.us/wp-content/uploads/2026/06/17114229a12f7ea674716260.zip?download_name=OMVI_3i_WiFi_6596_2606162257.zip) | 2026‑06‑16 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
 
 </details>

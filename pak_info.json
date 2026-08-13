@@ -31082,5 +31082,185 @@
     ],
     "model_id": 307,
     "hw_ver_id": 476
+  },
+  "d383e26652748d87902213d55547a73fd925f0c7b83b92fd5582c1333d9eb3df": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA616MP",
+      "board_name": "IPC_NT17NA616MP",
+      "build_date": "260120",
+      "display_type_info": "Floodlight Series F760P",
+      "detail_machine_type": "IPC_NT17NA616MP",
+      "type": "IPC",
+      "version_file": "5932_2601201960",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jan 09 2026 - 14:55:01 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (huangyu@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #2 SMP PREEMPT Fri Jan 9 15:09:56 CST 2026",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/130735587d17eac11bfe72b9.zip"
+    ],
+    "model_id": 322,
+    "hw_ver_id": 497
+  },
+  "e3476783cd7ef21dce4c00337f2d18c8c03296b5e3fd865484e4409ab03c6175": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA616MP",
+      "board_name": "IPC_NT17NA616MP",
+      "build_date": "260120",
+      "display_type_info": "Elite Pro Floodlight PoE",
+      "detail_machine_type": "IPC_NT17NA616MP",
+      "type": "IPC",
+      "version_file": "5932_2601201959",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jan 09 2026 - 14:55:01 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (huangyu@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #2 SMP PREEMPT Fri Jan 9 15:09:56 CST 2026",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/130725047c00a1c13978a0f4.zip"
+    ],
+    "model_id": 321,
+    "hw_ver_id": 496
+  },
+  "bff08c69df1e8553ae1501efa217c0d86f6e9e3aff5e839d36ef1dc6ee5784c4": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA510MPW",
+      "board_name": "IPC_NT17NA510MPW",
+      "build_date": "260730",
+      "display_type_info": "OMVI 3i WiFi",
+      "detail_machine_type": "IPC_NT17NA510MPW",
+      "type": "IPC",
+      "version_file": "6905_2607301163",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Mar 10 2026 - 16:45:22 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #25 SMP PREEMPT Fri Aug 15 17:27:04 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/130620154bc434642284581d.zip"
+    ],
+    "model_id": 315,
+    "hw_ver_id": 486
+  },
+  "d38635ec2e733b46a0a43a74232ff062c15004244a419077a6780b8603f521ef": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA510MP",
+      "board_name": "IPC_NT17NA510MP",
+      "build_date": "260730",
+      "display_type_info": "OMVI 3i PoE",
+      "detail_machine_type": "IPC_NT17NA510MP",
+      "type": "IPC",
+      "version_file": "6905_2607301172",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Mar 10 2026 - 16:45:22 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #25 SMP PREEMPT Fri Aug 15 17:27:04 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/13062321eaaa3859f766fef0.zip"
+    ],
+    "model_id": 313,
+    "hw_ver_id": 484
+  },
+  "bfd32ec34bb996e4e9292d71c267b00e2c2c20f1e0601969b6be72732acbd066": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA610MP",
+      "board_name": "IPC_NT17NA610MP",
+      "build_date": "260730",
+      "display_type_info": "OMVI 3i PoE",
+      "detail_machine_type": "IPC_NT17NA610MP",
+      "type": "IPC",
+      "version_file": "6905_2607301162",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Mar 10 2026 - 16:45:22 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #25 SMP PREEMPT Fri Aug 15 17:27:04 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/13062605a06a3b7b0b538da0.zip"
+    ],
+    "model_id": 313,
+    "hw_ver_id": 483
   }
 }
