@@ -31262,5 +31262,77 @@
     ],
     "model_id": 313,
     "hw_ver_id": 483
+  },
+  "cd9ef8a608a319eea1e604924cd2cab62929c14c5ff03295f4db7416460c50fc": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA510MPW",
+      "board_name": "IPC_NT17NA510MPW",
+      "build_date": "260730",
+      "display_type_info": "OMVI Series W931",
+      "detail_machine_type": "IPC_NT17NA510MPW",
+      "type": "IPC",
+      "version_file": "6905_2607301164",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Mar 10 2026 - 16:45:22 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #25 SMP PREEMPT Fri Aug 15 17:27:04 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/14031232c8fd8f22f42c5e66.zip"
+    ],
+    "model_id": 323,
+    "hw_ver_id": 498
+  },
+  "14b3947f5a2bd279cc74ea5b3240ad89e628f8e4735ab8eb05f7bddea73fe33d": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA510MP",
+      "board_name": "IPC_NT17NA510MP",
+      "build_date": "260730",
+      "display_type_info": "OMVI Series P931",
+      "detail_machine_type": "IPC_NT17NA510MP",
+      "type": "IPC",
+      "version_file": "6905_2607301173",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Mar 10 2026 - 16:45:22 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (lmy@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #25 SMP PREEMPT Fri Aug 15 17:27:04 CST 2025",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/1403150468ae115e01386e4b.zip"
+    ],
+    "model_id": 314,
+    "hw_ver_id": 485
   }
 }

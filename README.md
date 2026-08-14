@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 894
+Total: 896
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1717,11 +1717,25 @@ Version | Date | Changes | Notes
 
   ### IPC_NT17NA510MP
 
+Firmwares for this hardware version: 2
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.6905_2607301173](https://home-cdn.reolink.us/wp-content/uploads/2026/08/1403150468ae115e01386e4b.zip?download_name=OMVI_Series_P931_6905_2607301173.zip) | 2026‑07‑30 | <ol><li>AI model updated to reduce false alarms.</li><li>Tracking performance optimized.</li><li>Image quality of tracking in night vision optimized.</li><li>Other known issues resolved.</li></ol> | 
+[v3.2.0.6443_2605220956](https://home-cdn.reolink.us/wp-content/uploads/2026/05/250717258bb71dcca01f369b.zip?download_name=OMVI_Series_P931_6443_2605220956.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>OMVI Series W931</summary>
+
+  ### IPC_NT17NA510MPW
+
 Firmwares for this hardware version: 1
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
-[v3.2.0.6443_2605220956](https://home-cdn.reolink.us/wp-content/uploads/2026/05/250717258bb71dcca01f369b.zip?download_name=OMVI_Series_P931_6443_2605220956.zip) | 2026‑05‑22 | <ol><li>PT tracking performance optimized.</li><li>Auto Framing supported.</li></ol> | 
+[v3.2.0.6905_2607301164](https://home-cdn.reolink.us/wp-content/uploads/2026/08/14031232c8fd8f22f42c5e66.zip?download_name=OMVI_Series_W931_6905_2607301164.zip) | 2026‑07‑30 | <ol><li>AI model updated to reduce false alarms.</li><li>Tracking performance optimized.</li><li>Image quality of tracking in night vision optimized.</li><li>Other known issues resolved.</li></ol> | 
 
 </details>
 

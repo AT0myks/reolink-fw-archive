@@ -11010,5 +11010,41 @@
     "display_time": "2026-08-13 00:00:00+08:00",
     "sha256_pak": "bfd32ec34bb996e4e9292d71c267b00e2c2c20f1e0601969b6be72732acbd066",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.6905_2607301164",
+    "filename": "OMVI_Series_W931_6905_2607301164",
+    "updated_at": "2026-08-14 11:14:13+08:00",
+    "note": "",
+    "firmware_id": 1062,
+    "model": "OMVI Series W931",
+    "hw_ver": "IPC_NT17NA510MPW",
+    "changelog": [
+      "1. AI model updated to reduce false alarms.",
+      "2. Tracking performance optimized.",
+      "3. Image quality of tracking in night vision optimized.",
+      "4. Other known issues resolved."
+    ],
+    "display_time": "2026-08-14 00:00:00+08:00",
+    "sha256_pak": "cd9ef8a608a319eea1e604924cd2cab62929c14c5ff03295f4db7416460c50fc",
+    "source": "live"
+  },
+  {
+    "version": "v3.2.0.6905_2607301173",
+    "filename": "OMVI_Series_P931_6905_2607301173",
+    "updated_at": "2026-08-14 11:16:28+08:00",
+    "note": "",
+    "firmware_id": 1063,
+    "model": "OMVI Series P931",
+    "hw_ver": "IPC_NT17NA510MP",
+    "changelog": [
+      "1. AI model updated to reduce false alarms.",
+      "2. Tracking performance optimized.",
+      "3. Image quality of tracking in night vision optimized.",
+      "4. Other known issues resolved."
+    ],
+    "display_time": "2026-08-14 00:00:00+08:00",
+    "sha256_pak": "14b3947f5a2bd279cc74ea5b3240ad89e628f8e4735ab8eb05f7bddea73fe33d",
+    "source": "live"
   }
 ]
