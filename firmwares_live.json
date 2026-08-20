@@ -6752,7 +6752,7 @@
   {
     "version": "v3.0.0.4428_2412183419",
     "filename": "W730_4428_2412183419",
-    "updated_at": "2025-06-13 14:44:11+08:00",
+    "updated_at": "2026-08-20 11:24:05+08:00",
     "note": "",
     "firmware_id": 766,
     "model": "Duo Series W730",
@@ -6769,7 +6769,7 @@
   {
     "version": "v3.0.0.3471_2406115760",
     "filename": "P730_3471_2406115760",
-    "updated_at": "2025-06-13 14:40:48+08:00",
+    "updated_at": "2026-08-20 11:24:13+08:00",
     "note": "",
     "firmware_id": 765,
     "model": "Duo Series P730",
@@ -11045,6 +11045,71 @@
     ],
     "display_time": "2026-08-14 00:00:00+08:00",
     "sha256_pak": "14b3947f5a2bd279cc74ea5b3240ad89e628f8e4735ab8eb05f7bddea73fe33d",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5428_2604282153",
+    "filename": "Trackmix_Series_W7605428_2604282153IPC_529SD78MP",
+    "updated_at": "2026-08-20 11:19:30+08:00",
+    "note": "",
+    "firmware_id": 1066,
+    "model": "TrackMix Series W760",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Optimized Wi-Fi performance.",
+      "2. Improved the reliability of email alerts."
+    ],
+    "display_time": "2026-08-20 00:00:00+08:00",
+    "sha256_pak": "54d9e4756e7c841b878a3fbc1eb9f2f2e5687cfdcbb8d214a2e1da957792c49c",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5428_2604282151",
+    "filename": "TrackMix_Series_P7605428_2604282151IPC_529SD78MP",
+    "updated_at": "2026-08-20 11:20:33+08:00",
+    "note": "",
+    "firmware_id": 1067,
+    "model": "TrackMix Series P760",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Improved the reliability of email alerts."
+    ],
+    "display_time": "2026-08-20 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2026/08/20032007259dc11d03b2f72a.zip",
+    "error": "No PAKs found in ZIP file",
+    "source": "live",
+    "model_id": 245,
+    "hw_ver_id": 391
+  },
+  {
+    "version": "v3.0.0.5428_2604282152",
+    "filename": "Reolink_TrackMix_WiFi5428_2604282152IPC_529SD78MP",
+    "updated_at": "2026-08-20 11:17:36+08:00",
+    "note": "",
+    "firmware_id": 1064,
+    "model": "Reolink TrackMix WiFi",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Optimized Wi-Fi performance.",
+      "2. Improved the reliability of email alerts."
+    ],
+    "display_time": "2026-08-20 00:00:00+08:00",
+    "sha256_pak": "005cf2c9413f3c1dd4f035d2fbfbeddd550e54a414114f8201f54a214a6145c5",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5428_2604282150",
+    "filename": "Reolink_TrackMix_PoE5428_2604282150IPC_529SD78MP",
+    "updated_at": "2026-08-20 11:18:38+08:00",
+    "note": "",
+    "firmware_id": 1065,
+    "model": "Reolink TrackMix PoE",
+    "hw_ver": "IPC_529SD78MP",
+    "changelog": [
+      "1. Improved the reliability of email alerts."
+    ],
+    "display_time": "2026-08-20 00:00:00+08:00",
+    "sha256_pak": "bda98ea88766e8087d6e1f2454b6783a171305e0f7142e7df7d2f6aaee5b7131",
     "source": "live"
   }
 ]

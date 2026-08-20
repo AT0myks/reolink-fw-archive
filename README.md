@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 896
+Total: 899
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -4037,10 +4037,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529SD78MP
 
-Firmwares for this hardware version: 10
+Firmwares for this hardware version: 11
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5428_2604282150](https://home-cdn.reolink.us/wp-content/uploads/2026/08/20031819f0d4d7422f844939.zip?download_name=Reolink_TrackMix_PoE5428_2604282150IPC_529SD78MP.zip) | 2026‑04‑28 | 1. Improved the reliability of email alerts. | 
 [v3.0.0.5428_2509171972](https://home-cdn.reolink.us/wp-content/uploads/2025/10/30100248037a1f5f98b22d18.zip?download_name=Reolink_TrackMix_PoE_v30054282509171972_IPC_529SD78MP.zip) | 2025‑09‑17 | <ol><li>ONVIF connection service improved.</li><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li><li>Security protection updated.</li></ol> | 
 [v3.0.0.4255_2411271220](https://home-cdn.reolink.us/wp-content/uploads/2024/12/160408401734322120.3641.zip?download_name=Reolink_TrackMix_PoE_v30042552411271220_IPC_529SD78MP.zip) | 2024‑11‑27 | <ol><li>Optimize network services.</li><li>Minor bug fixes and improvements.</li></ol> | 
 [v3.0.0.3748_2408281835](https://home-cdn.reolink.us/wp-content/uploads/2024/09/061020581725618058.088.zip?download_name=Reolink_TrackMix_PoE_v30037482408281835_IPC_529SD78MP.zip) | 2024‑08‑28 | <ol><li>Optimize the recording function.</li><li>Optimize onvif service</li><li>Solve other known bugs</li></ol> | 
@@ -4063,10 +4064,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529SD78MP
 
-Firmwares for this hardware version: 7
+Firmwares for this hardware version: 8
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5428_2604282152](https://home-cdn.reolink.us/wp-content/uploads/2026/08/20031711a6bb4fb07b04010d.zip?download_name=Reolink_TrackMix_WiFi5428_2604282152IPC_529SD78MP.zip) | 2026‑04‑28 | <ol><li>Optimized Wi-Fi performance.</li><li>Improved the reliability of email alerts.</li></ol> | 
 [v3.0.0.5428_2509171974](https://home-cdn.reolink.us/wp-content/uploads/2025/10/300946048b6c7869858fbebe.zip?download_name=Reolink_TrackMix_WiFi_v30054282509171974_IPC_529SD78MP.zip) | 2025‑09‑17 | <ol><li>ONVIF connection service improved.</li><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li><li>Security protection updated.</li></ol> | 
 [v3.0.0.4255_2411271222](https://home-cdn.reolink.us/wp-content/uploads/2024/12/160407391734322059.7337.zip?download_name=Reolink_TrackMix_WiFi_v30042552411271222_IPC_529SD78MP.zip) | 2024‑11‑27 | <ol><li>Optimize network services.</li><li>Minor bug fixes and improvements.</li></ol> | 
 [v3.0.0.3748_2408281837](https://home-cdn.reolink.us/wp-content/uploads/2024/09/061022151725618135.7777.zip?download_name=Reolink_TrackMix_WiFi_v30037482408281837_IPC_529SD78MP.zip) | 2024‑08‑28 | <ol><li>Optimize the recording function.</li><li>Optimize onvif service</li><li>Solve other known bugs</li></ol> | 
@@ -4225,10 +4227,11 @@ Version | Date | Changes | Notes
 
   ### IPC_529SD78MP
 
-Firmwares for this hardware version: 2
+Firmwares for this hardware version: 3
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.0.0.5428_2604282153](https://home-cdn.reolink.us/wp-content/uploads/2026/08/20031911e9e313d163503c78.zip?download_name=Trackmix_Series_W7605428_2604282153IPC_529SD78MP.zip) | 2026‑04‑28 | <ol><li>Optimized Wi-Fi performance.</li><li>Improved the reliability of email alerts.</li></ol> | 
 [v3.0.0.5428_2509171975](https://home-cdn.reolink.us/wp-content/uploads/2025/10/30095311a4e2ca87bd825c6c.zip?download_name=Trackmix_Series_W760_v30054282509171975_IPC_529SD78MP.zip) | 2025‑09‑17 | <ol><li>ONVIF connection service improved.</li><li>Cloud storage supported (actual service provided depends on the subscription plan).</li><li>Wi-Fi performance improved.</li><li>Other known bugs resolved.</li><li>Security protection updated.</li></ol> | 
 [v3.0.0.4255_2411271223](https://home-cdn.reolink.us/wp-content/uploads/2025/06/130817241749802644.0352.zip?download_name=Trackmix_Series_W760_v3004255_2411271223_IPC_529SD78MP.zip) | 2024‑11‑27 | The first version | 
 

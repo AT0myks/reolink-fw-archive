@@ -31334,5 +31334,113 @@
     ],
     "model_id": 314,
     "hw_ver_id": 485
+  },
+  "54d9e4756e7c841b878a3fbc1eb9f2f2e5687cfdcbb8d214a2e1da957792c49c": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "260428",
+      "display_type_info": "Trackmix Series W760",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "5428_2604282153",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 25 2024 - 15:56:28 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Mon Nov 25 09:06:17 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/20031911e9e313d163503c78.zip"
+    ],
+    "model_id": 246,
+    "hw_ver_id": 392
+  },
+  "005cf2c9413f3c1dd4f035d2fbfbeddd550e54a414114f8201f54a214a6145c5": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "260428",
+      "display_type_info": "Reolink TrackMix WiFi",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "5428_2604282152",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 25 2024 - 15:56:28 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Mon Nov 25 09:06:17 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/20031711a6bb4fb07b04010d.zip"
+    ],
+    "model_id": 174,
+    "hw_ver_id": 295
+  },
+  "bda98ea88766e8087d6e1f2454b6783a171305e0f7142e7df7d2f6aaee5b7131": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "IPC_529SD78MP",
+      "board_name": "IPC_529SD78MP",
+      "build_date": "260428",
+      "display_type_info": "Reolink TrackMix PoE",
+      "detail_machine_type": "IPC_529SD78MP",
+      "type": "IPC",
+      "version_file": "5428_2604282150",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Nov 25 2024 - 15:56:28 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Mon Nov 25 09:06:17 CST 2024",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "ubifs"
+        },
+        {
+          "name": "app",
+          "type": "ubifs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/20031819f0d4d7422f844939.zip"
+    ],
+    "model_id": 173,
+    "hw_ver_id": 294
   }
 }
