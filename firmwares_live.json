@@ -7951,7 +7951,7 @@
   {
     "version": "v3.0.0.5336_2509021913",
     "filename": "FE_W_v30053362509021913_FE_529128M6MP_W",
-    "updated_at": "2025-09-17 17:47:14+08:00",
+    "updated_at": "2026-08-31 14:43:57+08:00",
     "note": "",
     "firmware_id": 852,
     "model": "FE-W",
@@ -8740,7 +8740,7 @@
   {
     "version": "v3.0.0.5336_2509021916",
     "filename": "Fisheye_Series_P520_v30053362509021916_FE_529128M6MP_P",
-    "updated_at": "2025-11-26 14:48:24+08:00",
+    "updated_at": "2026-08-31 14:48:41+08:00",
     "note": "",
     "firmware_id": 898,
     "model": "Fisheye Series P520",
@@ -8755,7 +8755,7 @@
   {
     "version": "v3.0.0.5336_2509021914",
     "filename": "Fisheye_Series_W520_v30053362509021914_FE_529128M6MP_W",
-    "updated_at": "2025-11-26 14:49:21+08:00",
+    "updated_at": "2026-08-31 14:48:32+08:00",
     "note": "",
     "firmware_id": 899,
     "model": "Fisheye Series W520",
@@ -11065,8 +11065,8 @@
   },
   {
     "version": "v3.0.0.5428_2604282151",
-    "filename": "TrackMix_Series_P7605428_2604282151IPC_529SD78MP",
-    "updated_at": "2026-08-20 11:20:33+08:00",
+    "filename": "TrackMix_Series_P760",
+    "updated_at": "2026-08-31 14:23:06+08:00",
     "note": "",
     "firmware_id": 1067,
     "model": "TrackMix Series P760",
@@ -11110,6 +11110,72 @@
     ],
     "display_time": "2026-08-20 00:00:00+08:00",
     "sha256_pak": "bda98ea88766e8087d6e1f2454b6783a171305e0f7142e7df7d2f6aaee5b7131",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5512_2604281823",
+    "filename": "Fisheye_Series_P520_v3005512_2604281823_FE_529128M6MP_P",
+    "updated_at": "2026-08-31 14:47:35+08:00",
+    "note": "",
+    "firmware_id": 1072,
+    "model": "Fisheye Series P520",
+    "hw_ver": "FE_529128M6MP_P",
+    "changelog": [
+      "1. P2P connectivity improved.",
+      "2. Faster video preview in the Reolink app."
+    ],
+    "display_time": "2026-08-31 00:00:00+08:00",
+    "sha256_pak": "4d55a639098db5692448a879bdd02c01ab3dd9b95a10857fb37901c0bc0d7764",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5512_2604281821",
+    "filename": "Fisheye_Series_W520_v3005512_2604281821_FE_529128M6MP_W",
+    "updated_at": "2026-08-31 14:47:13+08:00",
+    "note": "",
+    "firmware_id": 1073,
+    "model": "Fisheye Series W520",
+    "hw_ver": "FE_529128M6MP_W",
+    "changelog": [
+      "1. Wi-Fi performance optimized.",
+      "2. P2P connectivity improved.",
+      "3. Faster video preview in the Reolink app."
+    ],
+    "display_time": "2026-08-31 00:00:00+08:00",
+    "sha256_pak": "9813c109bca0673430090684ca78e5299e1bb0d7ed47a573511f329278b414d2",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5512_2604281822",
+    "filename": "FE_P_v3005512_2604281822_FE_529128M6MP_P",
+    "updated_at": "2026-08-31 14:43:16+08:00",
+    "note": "",
+    "firmware_id": 1070,
+    "model": "FE-P",
+    "hw_ver": "FE_529128M6MP_P",
+    "changelog": [
+      "1. P2P connectivity improved.",
+      "2. Faster video preview in the Reolink app."
+    ],
+    "display_time": "2026-08-31 00:00:00+08:00",
+    "sha256_pak": "fa8c1c1b56c6f608eeafb6b195bdce177c9f89a4b1ca50f77cbe518fded96a0b",
+    "source": "live"
+  },
+  {
+    "version": "v3.0.0.5512_2604281820",
+    "filename": "FE_W_v3005512_2604281820_FE_529128M6MP_W",
+    "updated_at": "2026-08-31 14:43:31+08:00",
+    "note": "",
+    "firmware_id": 1071,
+    "model": "FE-W",
+    "hw_ver": "FE_529128M6MP_W",
+    "changelog": [
+      "1. Wi-Fi performance optimized.",
+      "2. P2P connectivity improved.",
+      "3. Faster video preview in the Reolink app."
+    ],
+    "display_time": "2026-08-31 00:00:00+08:00",
+    "sha256_pak": "b630ce6d544d39c3237ca630f8529edf82952746da61aa4452272b3f1b4c59bc",
     "source": "live"
   }
 ]

@@ -31442,5 +31442,149 @@
     ],
     "model_id": 173,
     "hw_ver_id": 294
+  },
+  "4d55a639098db5692448a879bdd02c01ab3dd9b95a10857fb37901c0bc0d7764": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "FE_529128M6MP_P",
+      "board_name": "FE_529128M6MP_P",
+      "build_date": "260428",
+      "display_type_info": "Fisheye Series P520",
+      "detail_machine_type": "FE_529128M6MP_P",
+      "type": "IPC",
+      "version_file": "5512_2604281823",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 25 2025 - 18:08:20 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Fri Nov 4 09:27:54 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/31062638fbe7914f98979520.zip"
+    ],
+    "model_id": 287,
+    "hw_ver_id": 450
+  },
+  "9813c109bca0673430090684ca78e5299e1bb0d7ed47a573511f329278b414d2": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "FE_529128M6MP_W",
+      "board_name": "FE_529128M6MP_W",
+      "build_date": "260428",
+      "display_type_info": "Fisheye Series W520",
+      "detail_machine_type": "FE_529128M6MP_W",
+      "type": "IPC",
+      "version_file": "5512_2604281821",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 25 2025 - 18:08:20 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Fri Nov 4 09:27:54 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/31062713e3c2a6a58e826e77.zip"
+    ],
+    "model_id": 286,
+    "hw_ver_id": 451
+  },
+  "fa8c1c1b56c6f608eeafb6b195bdce177c9f89a4b1ca50f77cbe518fded96a0b": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "FE_529128M6MP_P",
+      "board_name": "FE_529128M6MP_P",
+      "build_date": "260428",
+      "display_type_info": "FE-P",
+      "detail_machine_type": "FE_529128M6MP_P",
+      "type": "IPC",
+      "version_file": "5512_2604281822",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 25 2025 - 18:08:20 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Fri Nov 4 09:27:54 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/31062508385c16c99ce1e1f0.zip"
+    ],
+    "model_id": 267,
+    "hw_ver_id": 416
+  },
+  "b630ce6d544d39c3237ca630f8529edf82952746da61aa4452272b3f1b4c59bc": {
+    "info": {
+      "firmware_version_prefix": "v3.0.0",
+      "board_type": "FE_529128M6MP_W",
+      "board_name": "FE_529128M6MP_W",
+      "build_date": "260428",
+      "display_type_info": "FE-W",
+      "detail_machine_type": "FE_529128M6MP_W",
+      "type": "IPC",
+      "version_file": "5512_2604281820",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.19.91",
+      "uboot_version": "U-Boot 2019.04 (Feb 25 2025 - 18:08:20 +0800)",
+      "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+      "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Fri Nov 4 09:27:54 CST 2022",
+      "board": "Novatek NA51055",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/08/3106254729cb1d39512d9e72.zip"
+    ],
+    "model_id": 266,
+    "hw_ver_id": 417
   }
 }
