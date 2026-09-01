@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 903
+Total: 904
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1242,10 +1242,11 @@ Version | Date | Changes | Notes
 
   ### IPC_NT14NA48MPSD6
 
-Firmwares for this hardware version: 1
+Firmwares for this hardware version: 2
 
 Version | Date | Changes | Notes
 --- | --- | --- | ---
+[v3.2.0.6932_2608111908](https://home-cdn.reolink.us/wp-content/uploads/2026/09/011027169930db805d27ffca.zip?download_name=E1_Zoom_6932_2608111908.zip) | 2026‑08‑11 | <ol><li>Polygonal privacy masks supported.</li><li>Rich notifications supported.</li><li>Other known issues resolved.</li></ol> | 
 [v3.2.0.4741_2503281992](https://home-cdn.reolink.us/wp-content/uploads/2025/07/040243151751596995.9938.zip?download_name=E1_Zoom_4741_2503281992.zip) | 2025‑03‑28 | <ol><li>Tracking performance optimized.</li><li>Wi-Fi connection improved.</li><li>Day/night mode switching enhanced.</li><li>Other known bugs resolved.</li></ol> | 
 
 </details>

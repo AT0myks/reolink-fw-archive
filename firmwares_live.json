@@ -11177,5 +11177,22 @@
     "display_time": "2026-08-31 00:00:00+08:00",
     "sha256_pak": "b630ce6d544d39c3237ca630f8529edf82952746da61aa4452272b3f1b4c59bc",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.6932_2608111908",
+    "filename": "E1_Zoom_6932_2608111908",
+    "updated_at": "2026-09-01 18:40:13+08:00",
+    "note": "",
+    "firmware_id": 1074,
+    "model": "E1 Zoom",
+    "hw_ver": "IPC_NT14NA48MPSD6",
+    "changelog": [
+      "1.Polygonal privacy masks supported.",
+      "2.Rich notifications supported.",
+      "3.Other known issues resolved."
+    ],
+    "display_time": "2026-09-01 00:00:00+08:00",
+    "sha256_pak": "cecc95ef095d2852d3740b489c3d1166d586392b7c25fc463db3a956d4c14c75",
+    "source": "live"
   }
 ]

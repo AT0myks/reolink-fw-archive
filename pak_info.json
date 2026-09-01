@@ -31586,5 +31586,41 @@
     ],
     "model_id": 266,
     "hw_ver_id": 417
+  },
+  "cecc95ef095d2852d3740b489c3d1166d586392b7c25fc463db3a956d4c14c75": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT14NA48MPSD6",
+      "board_name": "IPC_NT14NA48MPSD6",
+      "build_date": "260811",
+      "display_type_info": "E1 Zoom",
+      "detail_machine_type": "IPC_NT14NA48MPSD6",
+      "type": "IPC",
+      "version_file": "6932_2608111908",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Aug 05 2026 - 16:13:42 +0800)",
+      "uboot_compiler": "arm-ca7-linux-gnueabihf-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.38",
+      "linux_banner": "Linux version 5.10.168 (chenys@ubuntu) (arm-ca7-linux-gnueabihf-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Wed Apr 15 15:13:32 CST 2026",
+      "board": "Novatek NS02301",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/09/011027169930db805d27ffca.zip"
+    ],
+    "model_id": 91,
+    "hw_ver_id": 402
   }
 }
