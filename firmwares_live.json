@@ -11194,5 +11194,77 @@
     "display_time": "2026-09-01 00:00:00+08:00",
     "sha256_pak": "cecc95ef095d2852d3740b489c3d1166d586392b7c25fc463db3a956d4c14c75",
     "source": "live"
+  },
+  {
+    "version": "v3.3.0.601_26082943",
+    "filename": "Hub_1BASE_WUNNT6NA5601_26082943Upak",
+    "updated_at": "2026-09-08 18:48:01+08:00",
+    "note": "",
+    "firmware_id": 1077,
+    "model": "Hub 1",
+    "hw_ver": "BASE_WUNNT6NA5",
+    "changelog": [
+      "1.Adaptation for power/battery-powered bullet and PTZ cameras.",
+      "2.Adaptation for Argus MagiCams.",
+      "3.Adaptation for the Reolink Video Doorbell's anti-tamper alarm and power/battery modes.",
+      "4.Adaptation for the doorbell button sound."
+    ],
+    "display_time": "2026-09-08 00:00:00+08:00",
+    "sha256_pak": "174a83014079059e004e69cf75795364ec841c5922e3f234f5b0eeb8638fa442",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.601_26082944",
+    "filename": "Hub_1BASE_WENNT6NA5601_26082944Epak",
+    "updated_at": "2026-09-08 18:47:28+08:00",
+    "note": "",
+    "firmware_id": 1078,
+    "model": "Hub 1",
+    "hw_ver": "BASE_WENNT6NA5",
+    "changelog": [
+      "1.Adaptation for power/battery-powered bullet and PTZ cameras.",
+      "2.Adaptation for Argus MagiCams.",
+      "3.Adaptation for the Reolink Video Doorbell's anti-tamper alarm and power/battery modes.",
+      "4.Adaptation for the doorbell button sound."
+    ],
+    "display_time": "2026-09-08 00:00:00+08:00",
+    "sha256_pak": "4d1f780e246a6dad4e430568b522d87172dd1916d5e09632f37f13006ba8bad0",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.601_26082941",
+    "filename": "NT98560_HBBASE_WUNNT6NA58IPREOLINK601_26082941Upak",
+    "updated_at": "2026-09-08 18:44:08+08:00",
+    "note": "",
+    "firmware_id": 1075,
+    "model": "Reolink Home Hub",
+    "hw_ver": "BASE_WUNNT6NA5",
+    "changelog": [
+      "1.Adaptation for power/battery-powered bullet and PTZ cameras.",
+      "2.Adaptation for Argus MagiCams.",
+      "3.Adaptation for the Reolink Video Doorbell's anti-tamper alarm and power/battery modes.",
+      "4.Adaptation for the doorbell button sound."
+    ],
+    "display_time": "2026-09-08 00:00:00+08:00",
+    "sha256_pak": "48217762e0c38be52cba677bb5a6d70427277fc7f2b7975328be4b23223d3f8b",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.601_26082942",
+    "filename": "NT98560_HBBASE_WENNT6NA58IPREOLINK601_26082942Epak",
+    "updated_at": "2026-09-08 18:45:22+08:00",
+    "note": "",
+    "firmware_id": 1076,
+    "model": "Reolink Home Hub",
+    "hw_ver": "BASE_WENNT6NA5",
+    "changelog": [
+      "1.Adaptation for power/battery-powered bullet and PTZ cameras.",
+      "2.Adaptation for Argus MagiCams.",
+      "3.Adaptation for the Reolink Video Doorbell's anti-tamper alarm and power/battery modes.",
+      "4.Adaptation for the doorbell button sound."
+    ],
+    "display_time": "2026-09-08 00:00:00+08:00",
+    "sha256_pak": "12a821e9d9aa5d6c8b7aa0c7277f8aadd9b0f38213a8f1380b9864e3d8f21d20",
+    "source": "live"
   }
 ]
