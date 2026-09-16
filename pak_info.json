@@ -31766,5 +31766,37 @@
     ],
     "model_id": 205,
     "hw_ver_id": 342
+  },
+  "9b4259c4439095eb2821c16805db43e7716baa44d833da2b58d2715c5f6b5fc9": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_MS5NO35MP",
+      "board_name": "IPC_MS5NO35MP",
+      "build_date": "260908",
+      "display_type_info": "OMVI 2i PoE",
+      "detail_machine_type": "IPC_MS5NO35MP",
+      "type": "IPC",
+      "version_file": "7034_2609081961",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "MVX4##I6C#g#######KL_LX510##[BR:",
+      "uboot_version": "U-Boot 2015.01 (Aug 06 2026 - 09:27:21)",
+      "uboot_compiler": "arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0",
+      "uboot_linker": "GNU ld (crosstool-NG 1.24.0) 2.32",
+      "linux_banner": "Linux version 5.10.61 (xyy@ubuntu) (arm-sigmastar-linux-uclibcgnueabihf-9.1.0-gcc (crosstool-NG 1.24.0) 9.1.0, GNU ld (crosstool-NG 1.24.0) 2.32) #73 PREEMPT Fri Jul 24 12:14:11 CST 2026",
+      "board": "INFINITY6C SSC027B-S01A",
+      "board_vendor": "MStar/SigmaStar",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/09/1608073460d1e649c9cfa601.zip"
+    ],
+    "model_id": 324,
+    "hw_ver_id": 499
   }
 }

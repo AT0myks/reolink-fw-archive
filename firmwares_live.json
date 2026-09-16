@@ -11266,5 +11266,21 @@
     "display_time": "2026-09-08 00:00:00+08:00",
     "sha256_pak": "12a821e9d9aa5d6c8b7aa0c7277f8aadd9b0f38213a8f1380b9864e3d8f21d20",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.7034_2609081961",
+    "filename": "OMVI_2i_PoE_7034_2609081961",
+    "updated_at": "2026-09-16 16:11:28+08:00",
+    "note": "",
+    "firmware_id": 1079,
+    "model": "OMVI 2i PoE",
+    "hw_ver": "IPC_MS5NO35MP",
+    "changelog": [
+      "1. Fixed image overexposure issues reported by users and tuned image parameters.",
+      "2. Resolved a tracking boundary issue to prevent camera over-rotation."
+    ],
+    "display_time": "2026-09-16 00:00:00+08:00",
+    "sha256_pak": "9b4259c4439095eb2821c16805db43e7716baa44d833da2b58d2715c5f6b5fc9",
+    "source": "live"
   }
 ]

@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 908
+Total: 909
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1678,6 +1678,19 @@ Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.6.5.562_26062956](https://home-cdn.reolink.us/wp-content/uploads/2026/07/210642474977354facfe6bf6.zip?download_name=NVS8_v365562_26062956_NVR_NNT3NA78P.zip) | 2026‑06‑29 | <ol><li>Tamper Alert and Visitor Message added, available on Reolink Video Doorbell, Reolink Doorbell PoE, and Reolink Video Doorbell WiFi.</li><li>Auto Framing feature added on OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.</li><li>Pinpoint added, applicable to the OMVI Series W931, OMVl Series P931, OMVI 3i PoE, and OMVI 3i WiFi.</li><li>Theme settings added (including customized lighting, doorbell ringtone, and quick response), applicable to doorbells connected to an NVR, configurable in the Reolink App.</li><li>Battery Mode and Wired Power Mode added, applicable to Reolink Video Doorbell, Argus MagiCam, and Argus Series B210, configurable in the Reolink App (via NVR connection).</li><li>Lighting modes added, applicable to Reolink Solar Floodlight Cam, Floodlight Series F310B, configurable in the Reolink App (via NVR connection).</li><li>Notification switch added in the Reolink App to manage NVR push notifications overall.</li></ol> | 
 [v3.6.4.473_26021060](https://home-cdn.reolink.us/wp-content/uploads/2026/03/27064941bad3ea8cd83d585a.zip?download_name=NVS8_v364473_26021060_NVR_NNT3NA78P.zip) | 2026‑02‑10 | <ol><li>OMVI 3i WiFi and OMVI 3i PoE supported.</li><li>Dark Mode and Light Mode color themes added.</li><li>Smart home integration with Alexa and Google Home supported on NVR.</li><li>, Detection Angle settings for Out-of-View Detection added for TrackFlex Floodlight WiFi, Floodlight Series F850W, TrackFlex Floodlight PoE, Floodlight Series F850P.</li><li>Screen Resolution up to 2560&#215;1440 supported.</li><li>Dual preview (top and bottom display) added.</li><li>H.265+ support for RP-PCV8MZ, RP-PCB8MZ, RP-WCB8MZ.</li><li>Doorbell calls, answering/unanswered calls, and holiday audio configurable in App.</li><li>Battery Mode for Reolink Atlas PT Ultra and Reolink Atlas added in App.</li><li>Heatmap interface updated.</li><li>Special characters added to on-screen keyboard.</li><li>Initialization interface updated.</li><li>Performance for select components optimized.</li><li>Latest NVR push notifications supported via App.</li><li>Other known bugs resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>OMVI 2i PoE</summary>
+
+  ### IPC_MS5NO35MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.7034_2609081961](https://home-cdn.reolink.us/wp-content/uploads/2026/09/1608073460d1e649c9cfa601.zip?download_name=OMVI_2i_PoE_7034_2609081961.zip) | 2026‑09‑08 | <ol><li>Fixed image overexposure issues reported by users and tuned image parameters.</li><li>Resolved a tracking boundary issue to prevent camera over-rotation.</li></ol> | 
 
 </details>
 
