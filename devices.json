@@ -3419,5 +3419,35 @@
         "title": "IPC_MS5NO35MP"
       }
     ]
+  },
+  {
+    "id": 326,
+    "title": "D340B",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2026/07/Reolink-Video-Doorbell-2nd-Gen-1.png",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 501,
+        "title": "DBB_NT19DNO34MPW6DBB3"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "title": "Reolink Video Doorbell(2nd Gen)",
+    "type": "IPC",
+    "productImg": "https://home-cdn.reolink.us/wp-content/uploads/2026/07/Reolink-Video-Doorbell-2nd-Gen-1.png",
+    "productUrl": "https://reolink.com/product/reolink-video-doorbell-2nd-gen/",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 500,
+        "title": "DBB_NT19DNO34MPW6DBB3"
+      }
+    ]
   }
 ]

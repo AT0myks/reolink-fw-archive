@@ -11469,5 +11469,49 @@
     "display_time": "2026-10-08 00:00:00+08:00",
     "sha256_pak": "27fc2375385431fc3034ef9c5d452f10b371e9d3707b2416cc6e62b7635130d3",
     "source": "live"
+  },
+  {
+    "version": "v3.0.0.7261_26092205",
+    "filename": "D340B_7261_26092204",
+    "updated_at": "2026-10-13 12:34:38+08:00",
+    "note": "",
+    "firmware_id": 1090,
+    "model": "D340B",
+    "hw_ver": "DBB_NT19DNO34MPW6DBB3",
+    "changelog": [
+      "1. Supports Home Assistant.",
+      "2. RTSP and ONVIF (Wired Mode).",
+      "3. Supports dynamic bitrate.",
+      "4. Fixed some bugs.",
+      "5. Please update the app to the latest version."
+    ],
+    "display_time": "2026-10-13 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2026/10/1304334494e25524f1c9a8ff.zip",
+    "error": "U-Boot section not found",
+    "source": "live",
+    "model_id": 326,
+    "hw_ver_id": 501
+  },
+  {
+    "version": "v3.0.0.7261_26092204",
+    "filename": "Reolink_Video_Doorbell_7261_26092204",
+    "updated_at": "2026-10-13 12:20:00+08:00",
+    "note": "",
+    "firmware_id": 1089,
+    "model": "Reolink Video Doorbell(2nd Gen)",
+    "hw_ver": "DBB_NT19DNO34MPW6DBB3",
+    "changelog": [
+      "1. Supports Home Assistant.",
+      "2. RTSP and ONVIF (Wired Mode).",
+      "3. Supports dynamic bitrate.",
+      "4. Fixed some bugs.",
+      "5. Please update the app to the latest version."
+    ],
+    "display_time": "2026-10-13 00:00:00+08:00",
+    "file": "https://home-cdn.reolink.us/wp-content/uploads/2026/10/13041914ffeb1c66fb795ba0.zip",
+    "error": "U-Boot section not found",
+    "source": "live",
+    "model_id": 325,
+    "hw_ver_id": 500
   }
 ]
