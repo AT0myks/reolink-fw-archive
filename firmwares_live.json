@@ -11513,5 +11513,73 @@
     "source": "live",
     "model_id": 325,
     "hw_ver_id": 500
+  },
+  {
+    "version": "v3.3.0.605_26090344",
+    "filename": "Hub_P1_BASE_WUNNT3NA5605_26090344_LM01U",
+    "updated_at": "2026-10-14 10:32:05+08:00",
+    "note": "",
+    "firmware_id": 1093,
+    "model": "Hub P1",
+    "hw_ver": "BASE_WUNNT3NA5",
+    "changelog": [
+      "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
+      "2. Hub now supports Auto Framing for OMVI Series cameras.",
+      "3. Bug fixes and performance improvements."
+    ],
+    "display_time": "2026-10-14 00:00:00+08:00",
+    "sha256_pak": "b7d36fe90167f01a4f340862ef17084599d40f865000f08d0ca90015155489f3",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.605_26090345",
+    "filename": "Hub_P1_BASE_WENNT3NA5605_26090345_LM01E",
+    "updated_at": "2026-10-14 10:33:02+08:00",
+    "note": "",
+    "firmware_id": 1094,
+    "model": "Hub P1",
+    "hw_ver": "BASE_WENNT3NA5",
+    "changelog": [
+      "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
+      "2. Hub now supports Auto Framing for OMVI Series cameras.",
+      "3. Bug fixes and performance improvements."
+    ],
+    "display_time": "2026-10-14 00:00:00+08:00",
+    "sha256_pak": "e52e7aed1ff27f4df094d7eb29ae01ed7faf01eeead5bcc4e9506abb854a7ffc",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.605_26090343",
+    "filename": "NT98331_HBBASE_WENNT3NA516IPREOLINK605_26090343_LM01E",
+    "updated_at": "2026-10-14 10:29:49+08:00",
+    "note": "",
+    "firmware_id": 1091,
+    "model": "Reolink Home Hub Pro",
+    "hw_ver": "BASE_WENNT3NA5",
+    "changelog": [
+      "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
+      "2. Hub now supports Auto Framing for OMVI Series cameras.",
+      "3. Bug fixes and performance improvements."
+    ],
+    "display_time": "2026-10-14 00:00:00+08:00",
+    "sha256_pak": "d8c4024af1d34071418e7928e2648a7779451b05ba184272963475bc93418b37",
+    "source": "live"
+  },
+  {
+    "version": "v3.3.0.605_26090342",
+    "filename": "NT98331_HBBASE_WUNNT3NA516IPREOLINK605_26090342_LM01U",
+    "updated_at": "2026-10-14 10:30:39+08:00",
+    "note": "",
+    "firmware_id": 1092,
+    "model": "Reolink Home Hub Pro",
+    "hw_ver": "BASE_WUNNT3NA5",
+    "changelog": [
+      "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
+      "2. Hub now supports Auto Framing for OMVI Series cameras.",
+      "3. Bug fixes and performance improvements."
+    ],
+    "display_time": "2026-10-14 00:00:00+08:00",
+    "sha256_pak": "31cee73bf55762a4ac4f434b498fe4b3add762fb4469369111ee0410d6acb1a1",
+    "source": "live"
   }
 ]
