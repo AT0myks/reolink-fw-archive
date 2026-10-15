@@ -32266,5 +32266,77 @@
     ],
     "model_id": 206,
     "hw_ver_id": 344
+  },
+  "3e848e2f11c1a49d1e1dc18e74627ca5db5f36e66cfc1e0292c084adb50b129c": {
+    "info": {
+      "firmware_version_prefix": "v3.6.5",
+      "board_type": "H3MB18",
+      "board_name": "H3MB18",
+      "build_date": "260819",
+      "display_type_info": "RLN16-410",
+      "detail_machine_type": "NVR6616",
+      "type": "NVR",
+      "version_file": "571_26081920",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.9.44",
+      "uboot_version": "U-Boot 2016.07 (Jul 21 2026 - 14:37:07 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2017.11.2) 6.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.29.1",
+      "linux_banner": "Linux version 4.9.44 (xyy@ubuntu) (gcc version 6.4.0 (Buildroot 2017.11.2) ) #3 SMP Fri May 29 19:09:54 CST 2026",
+      "board": "NOVATEK NA51039 series",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "cramfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/10/1511160532ffe85877d637e8.zip"
+    ],
+    "model_id": 51,
+    "hw_ver_id": 196
+  },
+  "3bc6a30ac84f85587ae04d5de4bf6418c55d8bff5e981625a258647bd78744ba": {
+    "info": {
+      "firmware_version_prefix": "v3.6.5",
+      "board_type": "N2MB02",
+      "board_name": "N2MB02",
+      "build_date": "260819",
+      "display_type_info": "RLN8-410",
+      "detail_machine_type": "NVR6608",
+      "type": "NVR",
+      "version_file": "571_26081914",
+      "os": "Linux",
+      "architecture": "ARM",
+      "kernel_image_name": "Linux-4.9.44",
+      "uboot_version": "U-Boot 2016.07 (Jul 21 2026 - 14:51:39 +0800)",
+      "uboot_compiler": "arm-ca53-linux-gnueabihf-gcc.br_real (Buildroot 2017.11.2) 6.4.0",
+      "uboot_linker": "GNU ld (GNU Binutils) 2.29.1",
+      "linux_banner": "Linux version 4.9.44 (xyy@ubuntu) (gcc version 6.4.0 (Buildroot 2017.11.2) ) #4 SMP Fri May 29 18:43:48 CST 2026",
+      "board": "NOVATEK NA51039 series",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "fs",
+          "type": "cramfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/10/15111743c9d77032407836d3.zip"
+    ],
+    "model_id": 33,
+    "hw_ver_id": 503
   }
 }
