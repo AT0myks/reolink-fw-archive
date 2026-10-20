@@ -10283,7 +10283,7 @@
     "note": "",
     "firmware_id": 1011,
     "model": "Hub P1",
-    "hw_ver": "BASE_WUNNT3NA5",
+    "hw_ver": "BASE_WUNNT3NA5 BASE_WUNNT3NA512C",
     "changelog": [
       "1. Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.",
       "2. Added support for battery mode on Argus MagiCam.",
@@ -10301,7 +10301,7 @@
     "note": "",
     "firmware_id": 1012,
     "model": "Hub P1",
-    "hw_ver": "BASE_WENNT3NA5",
+    "hw_ver": "BASE_WENNT3NA5 BASE_WENNT3NA512C",
     "changelog": [
       "1. Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.",
       "2. Added support for battery mode on Argus MagiCam.",
@@ -10319,7 +10319,7 @@
     "note": "",
     "firmware_id": 1009,
     "model": "Reolink Home Hub Pro",
-    "hw_ver": "BASE_WUNNT3NA5",
+    "hw_ver": "BASE_WUNNT3NA5 BASE_WUNNT3NA512C",
     "changelog": [
       "1. Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.",
       "2. Added support for battery mode on Argus MagiCam.",
@@ -10337,7 +10337,7 @@
     "note": "",
     "firmware_id": 1010,
     "model": "Reolink Home Hub Pro",
-    "hw_ver": "BASE_WENNT3NA5",
+    "hw_ver": "BASE_WENNT3NA5 BASE_WENNT3NA512C",
     "changelog": [
       "1. Added support for the Out-of-View Detection feature on TrackFlex Floodlight PoE, TrackFlex Floodlight WiFi.",
       "2. Added support for battery mode on Argus MagiCam.",
@@ -11521,7 +11521,7 @@
     "note": "",
     "firmware_id": 1093,
     "model": "Hub P1",
-    "hw_ver": "BASE_WUNNT3NA5",
+    "hw_ver": "BASE_WUNNT3NA5 BASE_WUNNT3NA512C",
     "changelog": [
       "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
       "2. Hub now supports Auto Framing for OMVI Series cameras.",
@@ -11538,7 +11538,7 @@
     "note": "",
     "firmware_id": 1094,
     "model": "Hub P1",
-    "hw_ver": "BASE_WENNT3NA5",
+    "hw_ver": "BASE_WENNT3NA5 BASE_WENNT3NA512C",
     "changelog": [
       "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
       "2. Hub now supports Auto Framing for OMVI Series cameras.",
@@ -11555,7 +11555,7 @@
     "note": "",
     "firmware_id": 1091,
     "model": "Reolink Home Hub Pro",
-    "hw_ver": "BASE_WENNT3NA5",
+    "hw_ver": "BASE_WENNT3NA5 BASE_WENNT3NA512C",
     "changelog": [
       "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
       "2. Hub now supports Auto Framing for OMVI Series cameras.",
@@ -11572,7 +11572,7 @@
     "note": "",
     "firmware_id": 1092,
     "model": "Reolink Home Hub Pro",
-    "hw_ver": "BASE_WUNNT3NA5",
+    "hw_ver": "BASE_WUNNT3NA5 BASE_WUNNT3NA512C",
     "changelog": [
       "1. Hub now supports AI-Powered Extended Recording for Altas Series battery cameras.",
       "2. Hub now supports Auto Framing for OMVI Series cameras.",
