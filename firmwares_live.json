@@ -11725,5 +11725,23 @@
     "display_time": "2026-10-26 00:00:00+08:00",
     "sha256_pak": "c1b3bac9427959a4ec407775d7eca1297440a1168bbda7b068536258510da996",
     "source": "live"
+  },
+  {
+    "version": "v3.2.0.7318_2610311810",
+    "filename": "OMVI_X16_PoE_7318_2610311810",
+    "updated_at": "2026-11-04 14:10:53+08:00",
+    "note": "",
+    "firmware_id": 1107,
+    "model": "OMVI X16 POE",
+    "hw_ver": "IPC_NT17NA616MP",
+    "changelog": [
+      "1.Added autofocus after pan and tilt movements.",
+      "2.Added automatic refocusing for the PTZ camera at night.",
+      "3.Improved tracking for a smoother experience.",
+      "4.Optimized automatic and manual calibration."
+    ],
+    "display_time": "2026-11-04 00:00:00+08:00",
+    "sha256_pak": "8d134f63196f9ca50aaac04c4db9101e59bfb6af2de8368c3cc869f1649cee0c",
+    "source": "live"
   }
 ]

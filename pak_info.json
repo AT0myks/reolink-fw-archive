@@ -32482,5 +32482,41 @@
     ],
     "model_id": 180,
     "hw_ver_id": 302
+  },
+  "8d134f63196f9ca50aaac04c4db9101e59bfb6af2de8368c3cc869f1649cee0c": {
+    "info": {
+      "firmware_version_prefix": "v3.2.0",
+      "board_type": "IPC_NT17NA616MP",
+      "board_name": "IPC_NT17NA616MP",
+      "build_date": "261031",
+      "display_type_info": "OMVI X16 PoE",
+      "detail_machine_type": "IPC_NT17NA616MP",
+      "type": "IPC",
+      "version_file": "7318_2610311810",
+      "os": "Linux",
+      "architecture": "AArch64",
+      "kernel_image_name": "Linux-5.10.168",
+      "uboot_version": "U-Boot 2021.10 (Jul 01 2026 - 18:08:01 +0800)",
+      "uboot_compiler": null,
+      "uboot_linker": null,
+      "linux_banner": "Linux version 5.10.168 (zhouyc@ubuntu) (aarch64-ca53-linux10.4-gnu-gcc.br_real (Buildroot 2022.08.3-9-g4ba9647) 10.4.0, GNU ld (GNU Binutils) 2.38) #1 SMP PREEMPT Mon Oct 26 15:44:36 CST 2026",
+      "board": "Novatek NS02302",
+      "board_vendor": "Novatek",
+      "filesystems": [
+        {
+          "name": "rootfs",
+          "type": "squashfs"
+        },
+        {
+          "name": "app",
+          "type": "squashfs"
+        }
+      ]
+    },
+    "download": [
+      "https://home-cdn.reolink.us/wp-content/uploads/2026/11/04061001a3d2dec914ffbc4a.zip"
+    ],
+    "model_id": 327,
+    "hw_ver_id": 504
   }
 }

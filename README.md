@@ -167,7 +167,7 @@ See [here](https://github.com/AT0myks/reolink-fw-archive/wiki).
 
 \* means the device is discontinued.
 
-Total: 928
+Total: 929
 
 <details>
   <summary>B1200 (Add-ons)</summary>
@@ -1763,6 +1763,19 @@ Firmwares for this hardware version: 1
 Version | Date | Changes | Notes
 --- | --- | --- | ---
 [v3.2.0.6905_2607301164](https://home-cdn.reolink.us/wp-content/uploads/2026/08/14031232c8fd8f22f42c5e66.zip?download_name=OMVI_Series_W931_6905_2607301164.zip) | 2026‑07‑30 | <ol><li>AI model updated to reduce false alarms.</li><li>Tracking performance optimized.</li><li>Image quality of tracking in night vision optimized.</li><li>Other known issues resolved.</li></ol> | 
+
+</details>
+
+<details>
+  <summary>OMVI X16 POE</summary>
+
+  ### IPC_NT17NA616MP
+
+Firmwares for this hardware version: 1
+
+Version | Date | Changes | Notes
+--- | --- | --- | ---
+[v3.2.0.7318_2610311810](https://home-cdn.reolink.us/wp-content/uploads/2026/11/04061001a3d2dec914ffbc4a.zip?download_name=OMVI_X16_PoE_7318_2610311810.zip) | 2026‑10‑31 | <ol><li>Added autofocus after pan and tilt movements.</li><li>Added automatic refocusing for the PTZ camera at night.</li><li>Improved tracking for a smoother experience.</li><li>Optimized automatic and manual calibration.</li></ol> | 
 
 </details>
 

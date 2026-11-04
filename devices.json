@@ -3469,5 +3469,20 @@
         "title": "DBB_NT19DNO34MPW6DBB3"
       }
     ]
+  },
+  {
+    "id": 327,
+    "title": "OMVI X16 POE",
+    "type": "IPC",
+    "productImg": "",
+    "productUrl": "",
+    "variations": [],
+    "contains": [],
+    "hardwareVersions": [
+      {
+        "id": 504,
+        "title": "IPC_NT17NA616MP"
+      }
+    ]
   }
 ]
